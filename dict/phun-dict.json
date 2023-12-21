@@ -3332,8 +3332,8 @@
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "用",
+        "explanation": "完全に切断することを指す。"
       }
     ],
     "pron": "na1",
@@ -16621,7 +16621,11 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "たて。縦方向。頭頂から足への方向。"
+        "explanation": "たて。縦方向。垂直方向。頭頂から足への方向。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "（表の）列。文字が連なる方向と垂直な領域。"
       }
     ],
     "append": [
@@ -16638,13 +16642,17 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "よこ。横方向。縦方向と直交する、右手と左手をつなぐ方向。"
+        "explanation": "よこ。横方向。水平方向。縦方向と直交する、右手と左手をつなぐ方向。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "（文章や表の）行。文字が連なったもの。"
       }
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "世",
+        "explanation": "雰字の場合、縦書きと横書きで行の方向が変わることに注意する必要がある。但し「横方向」の意味で使われるときには方向は変化しない。"
       }
     ],
     "pron": "mao1",
@@ -16846,6 +16854,23 @@
     "num": "445"
   },
   {
+    "word": "恒天",
+    "mean": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "万歳。バンザイ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "世",
+        "explanation": "称えるときに相手に対して発する言葉。"
+      }
+    ],
+    "pron": "duang2 vas1",
+    "num": "-"
+  },
+  {
     "word": "汲",
     "mean": [
       {
@@ -16984,5 +17009,187 @@
     ],
     "pron": "jao2",
     "num": "448"
+  },
+  {
+    "word": "商",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "商売。取引。売り買い。商い。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "売る。販売する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "用",
+        "explanation": "名詞としては「売り買い」を指すが、動詞としては「売る」ことを指す。"
+      }
+    ],
+    "pron": "sang3",
+    "num": "449"
+  },
+  {
+    "word": "雪",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "雪。スノー。空から降る氷の結晶。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nan1",
+    "num": "450"
+  },
+  {
+    "word": "冷",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "冷たい。寒い。温度が低い。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pil1",
+    "num": "451"
+  },
+  {
+    "word": "老",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "老いた。年取った。年月の経過した。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "年老いた人。老人。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "go1",
+    "num": "452"
+  },
+  {
+    "word": "仙",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "永遠に年を取らないとされる、伝説上の存在。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "偉人。レジェンド。大家。卓越した存在や人物。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "taing3",
+    "num": "453"
+  },
+  {
+    "word": "古仙",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（歴史上の）偉人。歴史に名を残す人物。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "puon2 taing3",
+    "num": "-"
+  },
+  {
+    "word": "夏頂",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "夏至。北半球で最も昼が長くなる日。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "cis3 su3",
+    "num": "-"
+  },
+  {
+    "word": "冬頂",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "冬至。北半球で最も昼が短くなる日。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xon2 su3",
+    "num": "-"
+  },
+  {
+    "word": "春等",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "春分。恒星が春分点を通過する日。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "tao1 muos3",
+    "num": "-"
+  },
+  {
+    "word": "秋等",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "秋分。恒星が秋分点を通過する日。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mel1 muos3",
+    "num": "-"
   }
 ]

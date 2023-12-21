@@ -19262,5 +19262,220 @@
         ]
       }
     ]
+  },
+  {
+    "chara": "商",
+    "id": "449",
+    "data": [
+      {
+        "name": "転写",
+        "value": "商"
+      },
+      {
+        "name": "PhunID",
+        "value": "449"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sang3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=商"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "雪",
+    "id": "450",
+    "data": [
+      {
+        "name": "転写",
+        "value": "雪"
+      },
+      {
+        "name": "PhunID",
+        "value": "450"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nan1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=雪"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "冷",
+    "id": "451",
+    "data": [
+      {
+        "name": "転写",
+        "value": "冷"
+      },
+      {
+        "name": "PhunID",
+        "value": "451"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pil1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=冷"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "老",
+    "id": "452",
+    "data": [
+      {
+        "name": "転写",
+        "value": "老"
+      },
+      {
+        "name": "PhunID",
+        "value": "452"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "go1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=老"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "仙",
+    "id": "453",
+    "data": [
+      {
+        "name": "転写",
+        "value": "仙"
+      },
+      {
+        "name": "PhunID",
+        "value": "453"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "taing3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=仙"
+          }
+        ]
+      }
+    ]
   }
 ]
