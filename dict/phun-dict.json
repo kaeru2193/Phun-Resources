@@ -604,7 +604,7 @@
     "num": "-"
   },
   {
-    "word": "山天",
+    "word": "恒山天",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -617,11 +617,11 @@
         "explanation": ""
       }
     ],
-    "pron": "das1 vas1",
+    "pron": "duang2 das1 vas1",
     "num": "-"
   },
   {
-    "word": "雲天",
+    "word": "雲宇天",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -634,11 +634,11 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 vas1",
+    "pron": "pu2 duo1 vas1",
     "num": "-"
   },
   {
-    "word": "氷天",
+    "word": "銀雪天",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -651,11 +651,11 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 vas1",
+    "pron": "tuo3 nan1 vas1",
     "num": "-"
   },
   {
-    "word": "天思",
+    "word": "天心",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -668,7 +668,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 sao2",
+    "pron": "vas1 nes2",
     "num": "-"
   },
   {
@@ -2191,7 +2191,7 @@
     "word": "現",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "進行相。～している。"
       }
     ],
@@ -3267,7 +3267,7 @@
     "word": "欲",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "～したい。"
       }
     ],
@@ -3284,7 +3284,7 @@
     "word": "要",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "～すべき。～したほうがいい。"
       }
     ],
@@ -3377,7 +3377,7 @@
     "word": "制",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "～してはいけない。禁止表現。"
       }
     ],
@@ -3954,7 +3954,7 @@
         "explanation": "開く。通れなかった部分が通れるようになる。"
       },
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "～し始める。開始相。"
       }
     ],
@@ -4111,7 +4111,7 @@
     "word": "終",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "終止相。～し終える。"
       }
     ],
@@ -5069,7 +5069,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "狩る。（動物を）殺す。"
+        "explanation": "殺す。狩る。"
       }
     ],
     "append": [
@@ -5125,6 +5125,10 @@
       {
         "partOfSpeech": "名",
         "explanation": "筋。支え。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "線。ライン。細長く連続するもの。"
       }
     ],
     "append": [
@@ -5135,6 +5139,74 @@
     ],
     "pron": "las2",
     "num": "135"
+  },
+  {
+    "word": "三筋囲",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "三角形。三本の線分からなる多角形。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "gaol3 las2 dai3",
+    "num": "-"
+  },
+  {
+    "word": "等三筋囲",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "正三角形。三辺の長さが等しい三角形。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "muos3 gaol3 las2 dai3",
+    "num": "-"
+  },
+  {
+    "word": "四筋囲",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "四角形。四本の線分からなる多角形。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "fai1 las2 dai3",
+    "num": "-"
+  },
+  {
+    "word": "五筋囲",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "五角形。五本の線分からなる多角形。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "luong1 las2 dai3",
+    "num": "-"
   },
   {
     "word": "遠",
@@ -5560,6 +5632,23 @@
     "num": "149"
   },
   {
+    "word": "遊天",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "惑星。恒星の周りを回る天体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "dao1 vas1",
+    "num": "-"
+  },
+  {
     "word": "遊数",
     "mean": [
       {
@@ -5835,6 +5924,23 @@
     "num": "160"
   },
   {
+    "word": "珠盤",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "円盤。ディスク。円形の薄い物体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "juan2 xu1",
+    "num": "-"
+  },
+  {
     "word": "軍盤",
     "mean": [
       {
@@ -6072,11 +6178,11 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "早朝。朝。夜明け。日の出。明け方。"
+        "explanation": "早朝。朝。夜明け。明け方。"
       },
       {
         "partOfSpeech": "動",
-        "explanation": "太陽が出る。"
+        "explanation": "灼陽が出る。"
       }
     ],
     "append": [
@@ -6087,6 +6193,40 @@
     ],
     "pron": "ju1",
     "num": "168"
+  },
+  {
+    "word": "日旭",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "日の出。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kuang1 ju1",
+    "num": "-"
+  },
+  {
+    "word": "日落",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "日の入り。日没。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kuang1 jua3",
+    "num": "-"
   },
   {
     "word": "旭天",
@@ -6350,7 +6490,7 @@
     "word": "能",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "副",
         "explanation": "～できる。可能を表す。"
       }
     ],
@@ -6500,10 +6640,6 @@
       {
         "partOfSpeech": "名",
         "explanation": "相手に使う敬称。～さん。～様。"
-      },
-      {
-        "partOfSpeech": "形",
-        "explanation": "すごい。偉大な。偉い。"
       }
     ],
     "append": [
@@ -6672,7 +6808,7 @@
     "mean": [
       {
         "partOfSpeech": "形",
-        "explanation": "静かな。動かない。落ち着いた。"
+        "explanation": "動かない。静止した。固定された。"
       }
     ],
     "append": [
@@ -6685,11 +6821,28 @@
     "num": "186"
   },
   {
+    "word": "静天",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "恒星。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "fi3 vas1",
+    "num": "-"
+  },
+  {
     "word": "僻",
     "mean": [
       {
         "partOfSpeech": "形",
-        "explanation": "人が少ない。無人の。閑静な。"
+        "explanation": "人が少ない。無人の。閑静な。静かな。"
       }
     ],
     "append": [
@@ -6968,7 +7121,7 @@
     "word": "何",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "何。事物の疑問詞。"
       }
     ],
@@ -6985,7 +7138,7 @@
     "word": "何処",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "どこ。場所の疑問詞。"
       }
     ],
@@ -7002,7 +7155,7 @@
     "word": "何時",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "いつ。時間の疑問詞。"
       }
     ],
@@ -7019,7 +7172,7 @@
     "word": "何人",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "誰。人物の疑問詞。"
       }
     ],
@@ -7036,7 +7189,7 @@
     "word": "何由",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "なぜ。理由の疑問詞。"
       }
     ],
@@ -7053,7 +7206,7 @@
     "word": "何法",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "どうやって。方法の疑問詞。"
       }
     ],
@@ -7070,7 +7223,7 @@
     "word": "何態",
     "mean": [
       {
-        "partOfSpeech": "副",
+        "partOfSpeech": "代名",
         "explanation": "どんな。どのような。様子の疑問詞。"
       }
     ],
@@ -7751,6 +7904,108 @@
     ],
     "pron": "buos1",
     "num": "223"
+  },
+  {
+    "word": "四平包",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "四面体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "fai1 xem1 buos1",
+    "num": "-"
+  },
+  {
+    "word": "等四平包",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "正四面体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "muos3 fai1 xem1 buos1",
+    "num": "-"
+  },
+  {
+    "word": "等六平包",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "正六面体。立方体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "muos3 lis3 xem1 buos1",
+    "num": "-"
+  },
+  {
+    "word": "等八平包",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "正八面体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "muos3 li3 xem1 buos1",
+    "num": "-"
+  },
+  {
+    "word": "等十平包",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "正十二面体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "muos3 tail1 xem1 buos1",
+    "num": "-"
+  },
+  {
+    "word": "等十八平包",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "正二十面体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "muos3 tail1 li3 xem1 buos1",
+    "num": "-"
   },
   {
     "word": "包録",
@@ -9017,8 +9272,8 @@
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "用",
+        "explanation": "何らかの仕組みで動く道具。"
       }
     ],
     "pron": "ail2",
@@ -9266,7 +9521,7 @@
     "word": "求",
     "mean": [
       {
-        "partOfSpeech": "助動",
+        "partOfSpeech": "情",
         "explanation": "～してください。要請。"
       },
       {
@@ -9475,7 +9730,20 @@
       {
         "partOfSpeech": "名",
         "explanation": "風呂。体を洗い流し清潔に保つ場所。"
-      },
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xai1 yai1",
+    "num": "-"
+  },
+  {
+    "word": "浄体",
+    "mean": [
       {
         "partOfSpeech": "動",
         "explanation": "風呂に入る。"
@@ -9487,7 +9755,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xai1 yai1",
+    "pron": "xai1 vao3",
     "num": "-"
   },
   {
@@ -9896,6 +10164,23 @@
     ],
     "pron": "nel1",
     "num": "266"
+  },
+  {
+    "word": "衣天",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "彗星。ほうき星。箒星。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nel1 vas1",
+    "num": "-"
   },
   {
     "word": "脚衣",
@@ -11919,7 +12204,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "話。物語。文章。ストーリー。意味のあるまとまった文。"
+        "explanation": "文。話。物語。文章。ストーリー。意味のある纏まった言葉。"
       }
     ],
     "append": [
@@ -12995,6 +13280,40 @@
     "num": "359"
   },
   {
+    "word": "吐水",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "湧き水。地下などから湧く水。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ne2 so3",
+    "num": "-"
+  },
+  {
+    "word": "吐温",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "温泉。湧き出る熱水。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ne2 qain1",
+    "num": "-"
+  },
+  {
     "word": "嘔",
     "mean": [
       {
@@ -13581,7 +13900,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "パン。ブレッド。穀物で作ったふわふわの食品。"
+        "explanation": "パン。ケーキ。粉状にした穀物を固めた食品の総称。"
       }
     ],
     "append": [
@@ -13830,6 +14149,23 @@
     ],
     "pron": "fun3",
     "num": "377"
+  },
+  {
+    "word": "跳鏡",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "（光を）反射する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "go3 fun3",
+    "num": "-"
   },
   {
     "word": "鏡瑠",
@@ -14164,6 +14500,10 @@
       {
         "partOfSpeech": "形",
         "explanation": "平たい。平らな。起伏のない。平坦な。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "（幾何学での）面。"
       }
     ],
     "append": [
@@ -14749,6 +15089,23 @@
     "num": "393"
   },
   {
+    "word": "慶新年",
+    "mean": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "あけましておめでとうございます。新年を祝う挨拶。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nu3 val2 vais2",
+    "num": "-"
+  },
+  {
     "word": "敬",
     "mean": [
       {
@@ -14806,6 +15163,23 @@
     ],
     "pron": "pi1",
     "num": "396"
+  },
+  {
+    "word": "片数",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "分数。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pi1 mis1",
+    "num": "-"
   },
   {
     "word": "肉片",
@@ -15003,7 +15377,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "（インターネットで）検索する。"
+        "explanation": "（インターネットで）検索する。ググる。"
       }
     ],
     "append": [
@@ -15931,6 +16305,23 @@
     "num": "421"
   },
   {
+    "word": "賜善",
+    "mean": [
+      {
+        "partOfSpeech": "感",
+        "explanation": "ありがとうございます。ありがとう。感謝を伝える挨拶。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "jel2 uas1",
+    "num": "-"
+  },
+  {
     "word": "南",
     "mean": [
       {
@@ -15969,7 +16360,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "揺れる。周期的に振動する。"
+        "explanation": "揺れる。震える。振動する。周期的に動く。"
       }
     ],
     "append": [
@@ -16115,6 +16506,27 @@
       }
     ],
     "pron": "vas1 duo1",
+    "num": "-"
+  },
+  {
+    "word": "天巾",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "永球から見える天の川。永球銀河の中心部。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "永球が位置する銀河の名称。永球銀河。"
+      }
+    ],
+    "append": [
+      {
+        "type": "世",
+        "explanation": "地球から見える「天の川」とは異なることに注意。"
+      }
+    ],
+    "pron": "vas1 ye1",
     "num": "-"
   },
   {
@@ -16765,6 +17177,23 @@
     "num": "-"
   },
   {
+    "word": "後序",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "最後の。終わりの。ラストの。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "yuas3 bi1",
+    "num": "-"
+  },
+  {
     "word": "序日",
     "mean": [
       {
@@ -17094,6 +17523,10 @@
         "explanation": "永遠に年を取らないとされる、伝説上の存在。"
       },
       {
+        "partOfSpeech": "形",
+        "explanation": "偉大な。高名な。"
+      },
+      {
         "partOfSpeech": "名",
         "explanation": "偉人。レジェンド。大家。卓越した存在や人物。"
       }
@@ -17106,6 +17539,57 @@
     ],
     "pron": "taing3",
     "num": "453"
+  },
+  {
+    "word": "宗仙",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "宗仙。雰天国の東側に位置する地名。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mai1 taing3",
+    "num": "-"
+  },
+  {
+    "word": "宗国",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "宗仙にある国家。現代では宗仙共和国を指す。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mai1 nun2",
+    "num": "-"
+  },
+  {
+    "word": "宗言",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "宗仙語。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mai1 bun2",
+    "num": "-"
   },
   {
     "word": "古仙",
@@ -17122,6 +17606,23 @@
       }
     ],
     "pron": "puon2 taing3",
+    "num": "-"
+  },
+  {
+    "word": "奏仙",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（偉大な）音楽家。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "cail1 taing3",
     "num": "-"
   },
   {
@@ -17190,6 +17691,256 @@
       }
     ],
     "pron": "mel1 muos3",
+    "num": "-"
+  },
+  {
+    "word": "億",
+    "mean": [
+      {
+        "partOfSpeech": "数",
+        "explanation": "100000000[12]。1億。12^8。429981696[10]。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "tu3",
+    "num": "454"
+  },
+  {
+    "word": "魂",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "心。精神。意識。人間のこころ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "num2",
+    "num": "455"
+  },
+  {
+    "word": "言魂",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（語の）意味。言葉が持っている概念。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "bun2 num2",
+    "num": "-"
+  },
+  {
+    "word": "明",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "明るい。眩しい。照らされた。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nu1",
+    "num": "456"
+  },
+  {
+    "word": "軸",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "芯。軸。物事の中心部分。主要部分。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "主要な。主な。大事な。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "gao2",
+    "num": "457"
+  },
+  {
+    "word": "善",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "道徳的な行動。善い行い。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "親切な。道徳的な。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "uas1",
+    "num": "458"
+  },
+  {
+    "word": "善人",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "道徳的に優れている人。尊敬される人。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "uas1 ha1",
+    "num": "-"
+  },
+  {
+    "word": "囲",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "囲む。封じる。包囲する。ある領域を閉じる。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "dai3",
+    "num": "459"
+  },
+  {
+    "word": "憐",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "～ちゃん。～たん。語尾に付けて愛称を形成する。指小辞。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qo2",
+    "num": "460"
+  },
+  {
+    "word": "紋",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "しるし。印。マーク。ロゴ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "用",
+        "explanation": "何らかの意味を持つ記号や図形を指す。"
+      }
+    ],
+    "pron": "fu3",
+    "num": "461"
+  },
+  {
+    "word": "五天紋",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "五天紋。"
+      }
+    ],
+    "append": [
+      {
+        "type": "世",
+        "explanation": "雰天国の国旗の中心に描かれる、陽教の五元素を象徴したシンボル。"
+      }
+    ],
+    "pron": "luong1 vas1 fu3",
+    "num": "-"
+  },
+  {
+    "word": "砕",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "砕く。割る。粉砕する。分解する。物体を細かな破片に分ける。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "細かい。バラバラの。粉々の。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pao3",
+    "num": "462"
+  },
+  {
+    "word": "小砕天",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "小惑星。灼陽系に存在する小天体。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "yao1 pao3 vas1",
+    "num": "-"
+  },
+  {
+    "word": "砕天集",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "瀧星軌道と穀星軌道の中間に存在する、小惑星が多数集まった領域。太陽系の小惑星帯に相当する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pao3 vas1 naim2",
     "num": "-"
   }
 ]
