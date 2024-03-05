@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-02-07T02:49:12.452Z",
+  "date": "2024-03-05T05:17:43.852Z",
   "data": [
     {
       "word": "人",
@@ -1063,6 +1063,15 @@
           "explanation": [
             {
               "translate": "話す。会話する。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "接尾辞",
+          "explanation": [
+            {
+              "translate": "～語。",
               "tag": []
             }
           ]
@@ -2466,6 +2475,33 @@
       "append": [],
       "pron": "sao2",
       "num": "63"
+    },
+    {
+      "word": "思態",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "もしかすると。もしかしたら。ひょっとすると。もしや。あるいは。～かもしれない。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "可能性が低い仮定などの状態を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "sao2 xos2",
+      "num": "-"
     },
     {
       "word": "衆論",
@@ -3994,6 +4030,23 @@
       "num": "99"
     },
     {
+      "word": "制止",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "禁止する。禁ずる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "bom1 zua3",
+      "num": "-"
+    },
+    {
       "word": "雷",
       "mean": [
         {
@@ -4657,6 +4710,33 @@
       ]
     },
     {
+      "word": "和領",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "統一する。統べる。征服する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "複数の国や地域をまとめ上げることを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "om2 ba1",
+      "num": "-"
+    },
+    {
       "word": "領話",
       "mean": [
         {
@@ -4837,7 +4917,7 @@
       "num": "112"
     },
     {
-      "word": "網処",
+      "word": "蔓処",
       "mean": [
         {
           "type": "名詞",
@@ -4850,11 +4930,11 @@
         }
       ],
       "append": [],
-      "pron": "mua1 yai1",
+      "pron": "ton2 yai1",
       "num": "-"
     },
     {
-      "word": "網架",
+      "word": "蔓架",
       "mean": [
         {
           "type": "名詞",
@@ -4867,7 +4947,7 @@
         }
       ],
       "append": [],
-      "pron": "mua1 lim1",
+      "pron": "ton2 lim1",
       "num": "-"
     },
     {
@@ -4888,7 +4968,7 @@
       "num": "-"
     },
     {
-      "word": "雷網",
+      "word": "雷蔓",
       "mean": [
         {
           "type": "名詞",
@@ -4901,8 +4981,16 @@
         }
       ],
       "append": [],
-      "pron": "main2 mua1",
-      "num": "-"
+      "pron": "main2 ton2",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "蔓網"
+          ]
+        }
+      ]
     },
     {
       "word": "衆網",
@@ -4937,7 +5025,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "コピーする。転写する。",
+              "translate": "捺印する。印刷する。スタンプする。",
               "tag": []
             }
           ]
@@ -5130,13 +5218,23 @@
           "type": "前置詞",
           "explanation": [
             {
-              "translate": "～によって。～により。原因や主体を指す。",
+              "translate": "～によって。～により。",
               "tag": []
             }
           ]
         }
       ],
-      "append": [],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "前置詞としては、句を形成して主語の代わりとして用いることが出来る。主に受動文の主語として使われる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
       "pron": "hu3",
       "num": "117"
     },
@@ -5657,9 +5755,14 @@
             {
               "translate": "素材。材料。",
               "tag": []
-            },
+            }
+          ]
+        },
+        {
+          "type": "接尾辞",
+          "explanation": [
             {
-              "translate": "～素。",
+              "translate": "～素。元素名の接尾辞。",
               "tag": []
             }
           ]
@@ -6548,6 +6651,50 @@
       "append": [],
       "pron": "gon2",
       "num": "146"
+    },
+    {
+      "word": "恨憤",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "不満。クレーム。苦情。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "納得できないことや不公平なことに対しての怒り。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "gon2 gua1",
+      "num": "-"
+    },
+    {
+      "word": "恨憤人",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "クレーマー。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "gon2 gua1 ha1",
+      "num": "-"
     },
     {
       "word": "等",
@@ -7541,6 +7688,23 @@
       "num": "173"
     },
     {
+      "word": "做能",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "機能。技能。力量。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "hil3 ail1",
+      "num": "-"
+    },
+    {
       "word": "汝去做",
       "mean": [
         {
@@ -7862,10 +8026,10 @@
       "word": "仁",
       "mean": [
         {
-          "type": "名詞",
+          "type": "接尾辞",
           "explanation": [
             {
-              "translate": "相手に使う敬称。～さん。～様。",
+              "translate": "～さん。～様。相手に使う敬称。",
               "tag": []
             }
           ]
@@ -8250,6 +8414,33 @@
       "append": [],
       "pron": "ao1",
       "num": "189"
+    },
+    {
+      "word": "万定",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "絶対に。確実に。必ず。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "話し手が真であると確信している状態を表す。肯定文にも否定文にも使うことが出来る。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ao1 lua3",
+      "num": "-"
     },
     {
       "word": "七",
@@ -17587,6 +17778,69 @@
       "num": "402"
     },
     {
+      "word": "雷算機",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "電子計算機。電卓。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "主に比較的簡単な計算を行う小型計算機を指す。コンピュータは[雷脳]と呼んで区別される。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "main2 buo2 ail2",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "雷脳",
+            "則知雷算機"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "則知雷算機",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "関数電卓。高機能電卓。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "[雷算機]のうち、科学技術用途の計算に特化した複雑な計算機能を持つ物を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "cua2 qai2 main2 buo2 ail2",
+      "num": "-"
+    },
+    {
       "word": "集算",
       "mean": [
         {
@@ -17910,7 +18164,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "下っ端。平社員。組織の中で、立場の最も低い人のこと。",
+              "translate": "下っ端。平社員。組織の中で立場の低い人のこと。",
               "tag": []
             }
           ]
@@ -20321,6 +20575,23 @@
       "num": "457"
     },
     {
+      "word": "軸都",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "首都。首府。京。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "gao2 cel2",
+      "num": "-"
+    },
+    {
       "word": "善",
       "mean": [
         {
@@ -21072,6 +21343,33 @@
       "num": "-"
     },
     {
+      "word": "蔓行買",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "ネットショッピング。通販。EC。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "インターネットを用いて商品を売買するシステム。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ton2 yaom1 kaom2",
+      "num": "-"
+    },
+    {
       "word": "汚",
       "mean": [
         {
@@ -21548,6 +21846,402 @@
       ],
       "pron": "cen2 mo1",
       "num": "-"
+    },
+    {
+      "word": "深",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "深い。奥まった。長い。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "奥。深部。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "表面部分から入る方向に長く続いている様子。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "xai2",
+      "num": "479"
+    },
+    {
+      "word": "深宇",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "澄んだ夜空。快晴の夜空。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "雲ひとつ無い夜の空。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "xai2 duo1",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "青宇"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "青宇",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "青空。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "よく晴れた日中の空。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "qai3 duo1",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "深宇"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "深思",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "熟考する。考え込む。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "深く考えること。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "xai2 sao2",
+      "num": "-"
+    },
+    {
+      "word": "憶",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "覚える。記憶する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "物事や感情を心に留めておくことを指す。技能の習得などは指さない。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "mul2",
+      "num": "480"
+    },
+    {
+      "word": "以",
+      "mean": [
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～で。～によって。～を用いて。～から。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "動作の原因や手段を表す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "nao3",
+      "num": "481"
+    },
+    {
+      "word": "爾",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "お前。君。貴様。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "目下に対して使う二人称代名詞。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "si1",
+      "num": "482"
+    },
+    {
+      "word": "昆",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "仲間。類。グループ。",
+              "tag": []
+            },
+            {
+              "translate": "類。",
+              "tag": [
+                "生物"
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "近い関係にあるものの集まりを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "qi1",
+      "num": "483"
+    },
+    {
+      "word": "庵昆",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "家族。ファミリー。親族。親戚。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "xing1 qi1",
+      "num": "-"
+    },
+    {
+      "word": "蔓",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "つる。蔓。",
+              "tag": []
+            },
+            {
+              "translate": "インターネット。ネット。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "細長く伸びて他の物に巻き付く植物。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "[雷蔓]の略としてインターネット関連の用語に使われる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ton2",
+      "num": "484"
+    },
+    {
+      "word": "蔓網",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "生い茂った蔓。",
+              "tag": []
+            },
+            {
+              "translate": "複雑に絡み合ったシステム。ネットワーク。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "ton2 mua1",
+      "num": "-"
+    },
+    {
+      "word": "貝",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "貝。貝殻。シェル。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "固い貝殻を持つ軟体動物の総称。殻を指す場合もある。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "jao1",
+      "num": "485"
+    },
+    {
+      "word": "貝材",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "二酸化炭素。炭酸ガス。CO2。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "二酸化炭素は元素でないが、歴史的に元素だと考えられていた時期があるため[材]を用いる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "jao1 jaim3",
+      "num": "-"
+    },
+    {
+      "word": "和",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "合わせる。合う。一緒になる。くっつく。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "om2",
+      "num": "486"
     }
   ]
 }
