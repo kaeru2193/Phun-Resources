@@ -23138,5 +23138,91 @@
         ]
       }
     ]
+  },
+  {
+    "chara": "纏",
+    "id": "487",
+    "data": [
+      {
+        "name": "転写",
+        "value": "纏"
+      },
+      {
+        "name": "PhunID",
+        "value": "487"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "dim3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=纏"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "炸",
+    "id": "488",
+    "data": [
+      {
+        "name": "転写",
+        "value": "炸"
+      },
+      {
+        "name": "PhunID",
+        "value": "488"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "fo2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=炸"
+          }
+        ]
+      }
+    ]
   }
 ]
