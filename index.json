@@ -1,0 +1,248 @@
+[
+  {
+    "path": "dict/phun-chara.json",
+    "pathList": [
+      "dict",
+      "phun-chara.json"
+    ],
+    "title": "phun-chara.json",
+    "desc": ""
+  },
+  {
+    "path": "dict/phun-dict.json",
+    "pathList": [
+      "dict",
+      "phun-dict.json"
+    ],
+    "title": "phun-dict.json",
+    "desc": ""
+  },
+  {
+    "path": "font/Blophabet.woff",
+    "pathList": [
+      "font",
+      "Blophabet.woff"
+    ],
+    "title": "Blophabet.woff",
+    "desc": ""
+  },
+  {
+    "path": "font/Cagit-regular-latest.woff",
+    "pathList": [
+      "font",
+      "Cagit-regular-latest.woff"
+    ],
+    "title": "Cagit-regular-latest.woff",
+    "desc": ""
+  },
+  {
+    "path": "font/PhunWrite-Regular-latest.ttf",
+    "pathList": [
+      "font",
+      "PhunWrite-Regular-latest.ttf"
+    ],
+    "title": "PhunWrite-Regular-latest.ttf",
+    "desc": ""
+  },
+  {
+    "path": "font/PhunWrite-Regular-latest.woff",
+    "pathList": [
+      "font",
+      "PhunWrite-Regular-latest.woff"
+    ],
+    "title": "PhunWrite-Regular-latest.woff",
+    "desc": ""
+  },
+  {
+    "path": "font/WeQoGothic.ttf",
+    "pathList": [
+      "font",
+      "WeQoGothic.ttf"
+    ],
+    "title": "WeQoGothic.ttf",
+    "desc": ""
+  },
+  {
+    "path": "font/WeQoGothic.woff",
+    "pathList": [
+      "font",
+      "WeQoGothic.woff"
+    ],
+    "title": "WeQoGothic.woff",
+    "desc": ""
+  },
+  {
+    "path": "font-publish/Blophabet-latest.zip",
+    "pathList": [
+      "font-publish",
+      "Blophabet-latest.zip"
+    ],
+    "title": "Blophabet-latest.zip",
+    "desc": ""
+  },
+  {
+    "path": "font-publish/Cagit-latest.zip",
+    "pathList": [
+      "font-publish",
+      "Cagit-latest.zip"
+    ],
+    "title": "Cagit-latest.zip",
+    "desc": ""
+  },
+  {
+    "path": "font-publish/PhunSans-latest.zip",
+    "pathList": [
+      "font-publish",
+      "PhunSans-latest.zip"
+    ],
+    "title": "PhunSans-latest.zip",
+    "desc": ""
+  },
+  {
+    "path": "font-publish/PhunWrite-latest.zip",
+    "pathList": [
+      "font-publish",
+      "PhunWrite-latest.zip"
+    ],
+    "title": "PhunWrite-latest.zip",
+    "desc": ""
+  },
+  {
+    "path": "img/Cai.png",
+    "pathList": [
+      "img",
+      "Cai.png"
+    ],
+    "title": "雰絵文字 (草)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/FesQai.png",
+    "pathList": [
+      "img",
+      "FesQai.png"
+    ],
+    "title": "雰絵文字 (去知)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/HaiJu.png",
+    "pathList": [
+      "img",
+      "HaiJu.png"
+    ],
+    "title": "雰絵文字 (喜旭)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/HaiKus.png",
+    "pathList": [
+      "img",
+      "HaiKus.png"
+    ],
+    "title": "雰絵文字 (喜汝)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/HaiNuoNu.png",
+    "pathList": [
+      "img",
+      "HaiNuoNu.png"
+    ],
+    "title": "雰絵文字 (喜伴慶)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/MuosSao.png",
+    "pathList": [
+      "img",
+      "MuosSao.png"
+    ],
+    "title": "雰絵文字 (等思)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/NuoBunTuo.png",
+    "pathList": [
+      "img",
+      "NuoBunTuo.png"
+    ],
+    "title": "雰絵文字 (伴言倫)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/phun-heart.png",
+    "pathList": [
+      "img",
+      "phun-heart.png"
+    ],
+    "title": "雰ハート絵文字",
+    "desc": "雰字「心」の略体から派生した、ハートのように使う絵文字。"
+  },
+  {
+    "path": "img/Qon.png",
+    "pathList": [
+      "img",
+      "Qon.png"
+    ],
+    "title": "雰絵文字 (悪)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/Tuo.png",
+    "pathList": [
+      "img",
+      "Tuo.png"
+    ],
+    "title": "雰絵文字 (倫)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/WaiLo.png",
+    "pathList": [
+      "img",
+      "WaiLo.png"
+    ],
+    "title": "雰絵文字 (穏眠)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/XelNim.png",
+    "pathList": [
+      "img",
+      "XelNim.png"
+    ],
+    "title": "雰絵文字 (是真)",
+    "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "font/Phun-Sans/Phun-Sans-Rounded-Bold.woff",
+    "pathList": [
+      "font",
+      "Phun-Sans",
+      "Phun-Sans-Rounded-Bold.woff"
+    ],
+    "title": "Phun-Sans-Rounded-Bold.woff",
+    "desc": ""
+  },
+  {
+    "path": "font/Phun-Sans/Phun-Sans-Rounded-Light.woff",
+    "pathList": [
+      "font",
+      "Phun-Sans",
+      "Phun-Sans-Rounded-Light.woff"
+    ],
+    "title": "Phun-Sans-Rounded-Light.woff",
+    "desc": ""
+  },
+  {
+    "path": "font/Phun-Sans/Phun-Sans-Rounded-Regular.woff",
+    "pathList": [
+      "font",
+      "Phun-Sans",
+      "Phun-Sans-Rounded-Regular.woff"
+    ],
+    "title": "Phun-Sans-Rounded-Regular.woff",
+    "desc": ""
+  }
+]
