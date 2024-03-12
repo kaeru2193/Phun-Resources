@@ -234,6 +234,15 @@
     "desc": "雰天国の国旗。"
   },
   {
+    "path": "img/phun_flag_emoji.png",
+    "pathList": [
+      "img",
+      "phun_flag_emoji.png"
+    ],
+    "title": "雰国旗 (絵文字)",
+    "desc": "絵文字用の雰国旗。角丸加工が施されている。"
+  },
+  {
     "path": "img/phun_flag_square.png",
     "pathList": [
       "img",
@@ -268,6 +277,15 @@
     ],
     "title": "雰絵文字 (倫)",
     "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/tuo_roll.gif",
+    "pathList": [
+      "img",
+      "tuo_roll.gif"
+    ],
+    "title": "ころが倫",
+    "desc": "無限に転がるTuoはんこのGIFアニメ。"
   },
   {
     "path": "img/vote_abstain.png",
