@@ -108,6 +108,15 @@
     "desc": ""
   },
   {
+    "path": "img/babel_index_logo.png",
+    "pathList": [
+      "img",
+      "babel_index_logo.png"
+    ],
+    "title": "Babel Index Viewerのロゴ",
+    "desc": "Babel Index Viewerのファビコンになっているロゴ。"
+  },
+  {
     "path": "img/Cai.png",
     "pathList": [
       "img",
@@ -153,6 +162,42 @@
     "desc": "雰字を図案化した絵文字。"
   },
   {
+    "path": "img/kaeru.png",
+    "pathList": [
+      "img",
+      "kaeru.png"
+    ],
+    "title": "かえるのロゴ",
+    "desc": "かえるのアイコン。"
+  },
+  {
+    "path": "img/kaeru_invert.png",
+    "pathList": [
+      "img",
+      "kaeru_invert.png"
+    ],
+    "title": "かえるのロゴ (反転)",
+    "desc": "色が反転したかえるのアイコン。"
+  },
+  {
+    "path": "img/kaeru_new_year.png",
+    "pathList": [
+      "img",
+      "kaeru_new_year.png"
+    ],
+    "title": "かえるのロゴ (正月)",
+    "desc": "2024年の年始に使用された、鏡餅をイメージしたかえるのアイコン。"
+  },
+  {
+    "path": "img/kaeru_su.png",
+    "pathList": [
+      "img",
+      "kaeru_su.png"
+    ],
+    "title": "かえるのロゴ (ス)",
+    "desc": "反転・90°回転したかえるのアイコン。「ス」に見える。"
+  },
+  {
     "path": "img/MuosSao.png",
     "pathList": [
       "img",
@@ -180,6 +225,33 @@
     "desc": "雰字「心」の略体から派生した、ハートのように使う絵文字。"
   },
   {
+    "path": "img/phun_flag.png",
+    "pathList": [
+      "img",
+      "phun_flag.png"
+    ],
+    "title": "雰国旗",
+    "desc": "雰天国の国旗。"
+  },
+  {
+    "path": "img/phun_flag_square.png",
+    "pathList": [
+      "img",
+      "phun_flag_square.png"
+    ],
+    "title": "雰国旗 (正方形)",
+    "desc": "正方形に加工された雰国旗。円形のアイコンに最適化されている。"
+  },
+  {
+    "path": "img/phun_stamp.png",
+    "pathList": [
+      "img",
+      "phun_stamp.png"
+    ],
+    "title": "雰天国璽",
+    "desc": "雰天国の国璽。"
+  },
+  {
     "path": "img/Qon.png",
     "pathList": [
       "img",
@@ -196,6 +268,87 @@
     ],
     "title": "雰絵文字 (倫)",
     "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/vote_abstain.png",
+    "pathList": [
+      "img",
+      "vote_abstain.png"
+    ],
+    "title": "投票 (棄権)",
+    "desc": "棄権を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_approve.png",
+    "pathList": [
+      "img",
+      "vote_approve.png"
+    ],
+    "title": "投票 (承認)",
+    "desc": "棄権を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_bad.png",
+    "pathList": [
+      "img",
+      "vote_bad.png"
+    ],
+    "title": "投票 (反対)",
+    "desc": "反対を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_bad_part.png",
+    "pathList": [
+      "img",
+      "vote_bad_part.png"
+    ],
+    "title": "投票 (部分的反対)",
+    "desc": "部分的な反対を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_good.png",
+    "pathList": [
+      "img",
+      "vote_good.png"
+    ],
+    "title": "投票 (賛成)",
+    "desc": "賛成を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_good_part.png",
+    "pathList": [
+      "img",
+      "vote_good_part.png"
+    ],
+    "title": "投票 (部分的賛成)",
+    "desc": "部分的な賛成を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_neutral.png",
+    "pathList": [
+      "img",
+      "vote_neutral.png"
+    ],
+    "title": "投票 (中立)",
+    "desc": "中立を表す投票用絵文字。"
+  },
+  {
+    "path": "img/vote_osushi.png",
+    "pathList": [
+      "img",
+      "vote_osushi.png"
+    ],
+    "title": "投票 (おすし)",
+    "desc": "おすしを表す投票用(?)絵文字。ネタ。"
+  },
+  {
+    "path": "img/vote_refuse.png",
+    "pathList": [
+      "img",
+      "vote_refuse.png"
+    ],
+    "title": "投票 (拒否)",
+    "desc": "拒否を表す投票用絵文字。"
   },
   {
     "path": "img/WaiLo.png",
