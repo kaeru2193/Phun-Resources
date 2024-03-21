@@ -23224,5 +23224,650 @@
         ]
       }
     ]
+  },
+  {
+    "chara": "到",
+    "id": "489",
+    "data": [
+      {
+        "name": "転写",
+        "value": "到"
+      },
+      {
+        "name": "PhunID",
+        "value": "489"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tel1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=到"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "唯",
+    "id": "490",
+    "data": [
+      {
+        "name": "転写",
+        "value": "唯"
+      },
+      {
+        "name": "PhunID",
+        "value": "490"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gua3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=唯"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "洞",
+    "id": "491",
+    "data": [
+      {
+        "name": "転写",
+        "value": "洞"
+      },
+      {
+        "name": "PhunID",
+        "value": "491"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zaos2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=洞"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "而",
+    "id": "492",
+    "data": [
+      {
+        "name": "転写",
+        "value": "而"
+      },
+      {
+        "name": "PhunID",
+        "value": "492"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "le3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=而"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "建",
+    "id": "493",
+    "data": [
+      {
+        "name": "転写",
+        "value": "建"
+      },
+      {
+        "name": "PhunID",
+        "value": "493"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "xes1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=建"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "恐",
+    "id": "494",
+    "data": [
+      {
+        "name": "転写",
+        "value": "恐"
+      },
+      {
+        "name": "PhunID",
+        "value": "494"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ci2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=恐"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "怪",
+    "id": "495",
+    "data": [
+      {
+        "name": "転写",
+        "value": "怪"
+      },
+      {
+        "name": "PhunID",
+        "value": "495"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "no3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=怪"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "祈",
+    "id": "496",
+    "data": [
+      {
+        "name": "転写",
+        "value": "祈"
+      },
+      {
+        "name": "PhunID",
+        "value": "496"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zuo1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=祈"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "赦",
+    "id": "497",
+    "data": [
+      {
+        "name": "転写",
+        "value": "赦"
+      },
+      {
+        "name": "PhunID",
+        "value": "497"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "qua2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=赦"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "成",
+    "id": "498",
+    "data": [
+      {
+        "name": "転写",
+        "value": "成"
+      },
+      {
+        "name": "PhunID",
+        "value": "498"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ba2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=成"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "弱",
+    "id": "499",
+    "data": [
+      {
+        "name": "転写",
+        "value": "弱"
+      },
+      {
+        "name": "PhunID",
+        "value": "499"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sul2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=弱"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "乏",
+    "id": "500",
+    "data": [
+      {
+        "name": "転写",
+        "value": "乏"
+      },
+      {
+        "name": "PhunID",
+        "value": "500"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pum3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=乏"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "外",
+    "id": "501",
+    "data": [
+      {
+        "name": "転写",
+        "value": "外"
+      },
+      {
+        "name": "PhunID",
+        "value": "501"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hin2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=外"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "拘",
+    "id": "502",
+    "data": [
+      {
+        "name": "転写",
+        "value": "拘"
+      },
+      {
+        "name": "PhunID",
+        "value": "502"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "huan3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=拘"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "函",
+    "id": "503",
+    "data": [
+      {
+        "name": "転写",
+        "value": "函"
+      },
+      {
+        "name": "PhunID",
+        "value": "503"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "yai3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=函"
+          }
+        ]
+      }
+    ]
   }
 ]

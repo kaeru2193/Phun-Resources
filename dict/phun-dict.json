@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-03-07T11:12:38.843Z",
+  "date": "2024-03-21T11:07:45.905Z",
   "data": [
     {
       "word": "人",
@@ -3552,7 +3552,7 @@
           "type": "前置詞",
           "explanation": [
             {
-              "translate": "～のために。",
+              "translate": "～のために。～に対して。～へ。～から。",
               "tag": []
             }
           ]
@@ -4708,6 +4708,33 @@
           ]
         }
       ]
+    },
+    {
+      "word": "領軸",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "管理する。管轄する。統制する。取り仕切る。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "団体や集団を監督すること。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ba1 gao2",
+      "num": "-"
     },
     {
       "word": "和領",
@@ -6977,10 +7004,6 @@
             {
               "translate": "ジャンプする。跳ぶ。跳躍する。",
               "tag": []
-            },
-            {
-              "translate": "立ち上がる。蜂起する。",
-              "tag": []
             }
           ]
         }
@@ -6988,6 +7011,23 @@
       "append": [],
       "pron": "go3",
       "num": "153"
+    },
+    {
+      "word": "立跳",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "立ち上がる。行動を起こす。蜂起する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "quo3 go3",
+      "num": "-"
     },
     {
       "word": "越",
@@ -8137,6 +8177,23 @@
       "append": [],
       "pron": "ho3",
       "num": "180"
+    },
+    {
+      "word": "地洞",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "洞窟。洞穴。地中に存在する空間。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "ho3 zaos2",
+      "num": "-"
     },
     {
       "word": "大地",
@@ -9635,6 +9692,33 @@
           ]
         }
       ]
+    },
+    {
+      "word": "包入",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "封じる。封入する。閉じ込める。封じ込める。封印する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "出入り口などを塞ぎ、対象をある場所から出られない状況にすることを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "buos1 juom1",
+      "num": "-"
     },
     {
       "word": "四平包",
@@ -12446,37 +12530,47 @@
       "num": "-"
     },
     {
-      "word": "貨衆",
+      "word": "商衆",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "企業。会社。営利的な団体。",
+              "translate": "企業。会社。営利法人。",
               "tag": []
             }
           ]
         }
       ],
       "append": [],
-      "pron": "ku1 mail2",
+      "pron": "sang3 mail2",
       "num": "-"
     },
     {
-      "word": "貨王",
+      "word": "貨立衆",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "社長。企業の責任者。",
+              "translate": "財団法人。財団。",
               "tag": []
             }
           ]
         }
       ],
-      "append": [],
-      "pron": "ku1 luam2",
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "基金を基盤にした機関を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ku1 quo3 mail2",
       "num": "-"
     },
     {
@@ -13342,6 +13436,23 @@
       "append": [],
       "pron": "pis3",
       "num": "293"
+    },
+    {
+      "word": "由其",
+      "mean": [
+        {
+          "type": "接続詞",
+          "explanation": [
+            {
+              "translate": "そのために。それによって。そのせいで。そのおかげで。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "pis3 cen1",
+      "num": "-"
     },
     {
       "word": "遍",
@@ -15751,6 +15862,15 @@
               "tag": []
             }
           ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "住む。居住する。生活する。",
+              "tag": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -15798,7 +15918,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "生きる。生き延びる。暮らす。",
+              "translate": "生きる。生き延びる。暮らす。過ごす。",
               "tag": []
             }
           ]
@@ -19742,6 +19862,50 @@
       ]
     },
     {
+      "word": "小論",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "概要。概説。大まかな説明。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "yao1 ca1",
+      "num": "-"
+    },
+    {
+      "word": "非論",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "理不尽な。不条理な。不合理な。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "道理や理屈に沿っていない、筋が通らない状態を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "vai1 ca1",
+      "num": "-"
+    },
+    {
       "word": "頂",
       "mean": [
         {
@@ -20610,6 +20774,23 @@
       "num": "456"
     },
     {
+      "word": "明目",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "はっきりした。くっきりした。明瞭な。わかりやすい。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "nu1 ke1",
+      "num": "-"
+    },
+    {
       "word": "軸",
       "mean": [
         {
@@ -20838,6 +21019,23 @@
       "num": "462"
     },
     {
+      "word": "砕目",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "注目する。凝視する。見つめる。隅々まで見る。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "pao3 ke1",
+      "num": "-"
+    },
+    {
       "word": "小砕天",
       "mean": [
         {
@@ -20924,7 +21122,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "～がある。～が存在する。～というものがある。",
+              "translate": "～がある。～が存在する。～というものがある。～を持つ。",
               "tag": []
             }
           ]
@@ -22508,6 +22706,565 @@
       "append": [],
       "pron": "fo2",
       "num": "488"
+    },
+    {
+      "word": "到",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "行き着く。たどり着く。到着する。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～まで。～へ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "前置詞としては、範囲の終点となる場所や時間を示す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "tel1",
+      "num": "489",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "行"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "唯",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "～だけ。～のみ。ただ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "限定を表す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "gua3",
+      "num": "490"
+    },
+    {
+      "word": "洞",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "穴。あな。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "物の表面に存在するくぼみ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "zaos2",
+      "num": "491"
+    },
+    {
+      "word": "而",
+      "mean": [
+        {
+          "type": "接続詞",
+          "explanation": [
+            {
+              "translate": "～して。～で。～て。～したら。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "順接か逆接かを問わない接続詞。[追]が単純な文の並列を表すのに対し、[而]は前後の文同士を因果関係に従って連結するために用いられる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "le3",
+      "num": "492"
+    },
+    {
+      "word": "建",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "組み立てる。組む。建てる。構築する。建築する。作る。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "複数の材料を物理的に組むことで何らかのものを作る作業を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "xes1",
+      "num": "493"
+    },
+    {
+      "word": "建家",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "建築する。（建物を）作る。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "xes1 be1",
+      "num": "-"
+    },
+    {
+      "word": "建火",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "焚き火。篝火。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "xes1 tang2",
+      "num": "-"
+    },
+    {
+      "word": "恐",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "怖がる。恐れる。恐怖する。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "怖い。恐ろしい。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "ci2",
+      "num": "494"
+    },
+    {
+      "word": "怪",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "奇妙な。理解の及ばない。おかしい。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "珍しいことではなく、理解が及ばない奇妙な状態を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "no3",
+      "num": "495"
+    },
+    {
+      "word": "怪恐",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "怪奇。ミステリー。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "不気味な。怪奇な。ミステリアスな。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "no3 ci2",
+      "num": "-"
+    },
+    {
+      "word": "祈",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "願う。祈る。祈祷する。希う。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "神格化された存在に対し、ある物事の実現を願うことを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "zuo1",
+      "num": "496"
+    },
+    {
+      "word": "赦",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "許す。赦す。容認する。見逃す。看過する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "過失や失敗を罰さないことを指す。「許可」のような意味は含まない。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "qua2",
+      "num": "497"
+    },
+    {
+      "word": "成",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "～になる。～に変わる。～に変化する。～となる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "状態が移り変わること。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "文法",
+          "explanation": [
+            {
+              "translate": "目的語に変化する先の状態を取る。[於]で間接目的語を置いた場合には他動詞的に振る舞い、間接目的語で表す対象を変化させることを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ba2",
+      "num": "498"
+    },
+    {
+      "word": "弱",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "弱い。もろい。貧弱な。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "sul2",
+      "num": "499"
+    },
+    {
+      "word": "乏",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "足りない。不足した。不十分な。不完全な。欠けた。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "必要な部分や要素が存在しない状態を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "pum3",
+      "num": "500"
+    },
+    {
+      "word": "不乏",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "完全な。完璧な。充足した。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "完全に。完璧に。一つ残らず。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "欠けた部分が全くない状態を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ki1 pum3",
+      "num": "-"
+    },
+    {
+      "word": "外",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "外。外側。ある範囲や集団以外の部分。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "他の。その他の。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～以外に。～以外の。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "hin2",
+      "num": "501"
+    },
+    {
+      "word": "外人",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "他人。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "自分以外の人。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "hin2 ha1",
+      "num": "-"
+    },
+    {
+      "word": "拘",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "捕まえる。捕らえる。捕獲する。拘束する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "対象を自由に動けない状況にすることを指す。[包入]は空間に閉じ込めることを指すが、[拘]は空間が閉じているかを含意しない。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "huan3",
+      "num": "502",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "包入"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "函",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "しまう。収納する。詰める。入れる。しまい込む。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "箱や袋などに物体を入れることを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "yai3",
+      "num": "503"
     }
   ]
 }
