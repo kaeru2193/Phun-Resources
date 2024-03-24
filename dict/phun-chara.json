@@ -41,6 +41,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhak ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -53,7 +62,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:jan"
           }
@@ -103,6 +112,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɛk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -115,7 +133,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:wawa"
           }
@@ -165,6 +183,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɔst ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -177,7 +204,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:luka"
           }
@@ -227,6 +254,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃet ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -239,7 +275,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mi"
           }
@@ -287,6 +323,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=木"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlɯŋ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -332,6 +377,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsot ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -344,7 +398,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:telo"
           }
@@ -394,6 +448,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ge˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -406,7 +469,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:uta"
           }
@@ -456,6 +519,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βə˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -468,7 +540,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:moku"
           }
@@ -518,6 +590,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɔn˩˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -530,7 +611,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kili"
           }
@@ -580,6 +661,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kɯst ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -592,7 +682,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sina"
           }
@@ -642,6 +732,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃimp ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -654,7 +753,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:suli"
           }
@@ -704,6 +803,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɔ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -716,7 +824,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lili"
           }
@@ -766,6 +874,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mɛlk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -778,7 +895,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kulupu"
           }
@@ -826,6 +943,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=国"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnɯn˨˨"
+          }
+        ]
       }
     ]
   },
@@ -867,6 +993,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=土"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɔt ̚˧˩"
           }
         ]
       }
@@ -914,6 +1049,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "taŋ˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -926,7 +1070,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:seli"
           }
@@ -976,6 +1120,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɛ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -988,7 +1141,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kasi"
           }
@@ -1038,6 +1191,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wʊs˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1050,7 +1212,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:loje"
           }
@@ -1100,6 +1262,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰəŋ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1112,7 +1283,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:suno"
           }
@@ -1160,6 +1331,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=天"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwas˥˥"
+          }
+        ]
       }
     ]
   },
@@ -1201,6 +1381,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=青"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɛt ̚˧˩"
           }
         ]
       }
@@ -1248,6 +1437,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸes˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1260,7 +1458,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pini"
           }
@@ -1308,6 +1506,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=正"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸəp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -1349,6 +1556,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=為"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃelt ̚˥˧"
           }
         ]
       }
@@ -1396,6 +1612,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwo˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1408,7 +1633,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mun"
           }
@@ -1458,6 +1683,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwik ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1470,7 +1704,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:wan"
           }
@@ -1520,6 +1754,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βənt ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1532,7 +1775,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:tu"
           }
@@ -1580,6 +1823,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=三"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɔlt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -1623,6 +1875,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=四"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸɛ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -1664,6 +1925,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=五"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lʊŋ˧˥"
           }
         ]
       }
@@ -1711,6 +1981,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bɯn˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -1723,7 +2002,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:toki"
           }
@@ -1771,6 +2050,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=晴"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zent ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -1812,6 +2100,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=海"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣən˧˥"
           }
         ]
       }
@@ -1857,6 +2154,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=皇"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒən˧˥"
+          }
+        ]
       }
     ]
   },
@@ -1900,6 +2206,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=王"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ləm˩˧"
+          }
+        ]
       }
     ]
   },
@@ -1941,6 +2256,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=上"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔliŋk ̚˥˧"
           }
         ]
       }
@@ -1988,6 +2312,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjat ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2000,7 +2333,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:anpa"
           }
@@ -2048,6 +2381,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=左"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wʊk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -2089,6 +2431,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=右"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwant ̚˥˧"
           }
         ]
       }
@@ -2134,6 +2485,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=広"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -2175,6 +2535,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=栄"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸɯn˥˥"
           }
         ]
       }
@@ -2222,6 +2591,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jəs˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2234,7 +2612,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:noka"
           }
@@ -2284,6 +2662,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɔm˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2296,7 +2683,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:tawa"
           }
@@ -2346,6 +2733,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kek ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2358,7 +2754,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lukin"
           }
@@ -2406,6 +2802,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=之"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -2451,6 +2856,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sʊ˩˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2463,7 +2877,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lon"
           }
@@ -2511,6 +2925,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=居"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɛmp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -2556,6 +2979,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "peŋk ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2568,7 +3000,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:jo"
           }
@@ -2616,6 +3048,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=内"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jʊk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -2661,6 +3102,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlom˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2673,7 +3123,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pi"
           }
@@ -2721,6 +3171,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=今"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɛŋ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -2766,6 +3225,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰək ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2778,7 +3246,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:tenpo"
           }
@@ -2828,6 +3296,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɔlp ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2840,7 +3317,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kama"
           }
@@ -2890,6 +3367,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃo˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -2902,7 +3388,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sewi"
           }
@@ -2950,6 +3436,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=雨"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hʊ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -2991,6 +3486,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=風"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "temp ̚˥˧"
           }
         ]
       }
@@ -3036,6 +3540,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=飛"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɛl˩˧"
+          }
+        ]
       }
     ]
   },
@@ -3077,6 +3590,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=処"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɛ˧˥"
           }
         ]
       }
@@ -3124,6 +3646,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sen˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3136,7 +3667,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ni"
           }
@@ -3184,6 +3715,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=彼"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔheŋk ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -3229,6 +3769,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "dask ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3241,7 +3790,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:nena"
           }
@@ -3291,6 +3840,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnes˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3303,7 +3861,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pilin"
           }
@@ -3351,6 +3909,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=思"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sɔ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -3394,6 +3961,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=油"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃɯ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -3435,6 +4011,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=燃"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlɯsp ̚˥˧"
           }
         ]
       }
@@ -3482,6 +4067,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bek ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3494,7 +4088,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:tomo"
           }
@@ -3542,6 +4136,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=現"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɛm˧˥"
+          }
+        ]
       }
     ]
   },
@@ -3583,6 +4186,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=光"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmamp ̚˥˧"
           }
         ]
       }
@@ -3630,6 +4242,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɛŋk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3642,7 +4263,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:walo"
           }
@@ -3690,6 +4311,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=昼"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒɛ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -3731,6 +4361,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=夜"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lɛ˧˥"
           }
         ]
       }
@@ -3778,6 +4417,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lʊŋk ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3790,7 +4438,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sike"
           }
@@ -3840,6 +4488,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsiŋ˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -3852,7 +4509,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kon"
           }
@@ -3900,6 +4557,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=世"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -3941,6 +4607,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=筆"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸa˨˨"
           }
         ]
       }
@@ -3986,6 +4661,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=書"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "səp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -4027,6 +4711,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=記"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰəŋk ̚˧"
           }
         ]
       }
@@ -4074,6 +4767,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zi˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -4086,7 +4788,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:meli"
           }
@@ -4136,6 +4838,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾʊk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -4148,7 +4859,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ona"
           }
@@ -4196,6 +4907,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=媛"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlɯnt ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -4237,6 +4957,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=然"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kem˥˥"
           }
         ]
       }
@@ -4282,6 +5011,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=歩"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɛ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -4323,6 +5061,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=整"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lɔ˧˥"
           }
         ]
       }
@@ -4370,6 +5117,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰʊk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -4382,7 +5138,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pona"
           }
@@ -4430,6 +5186,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=民"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zomp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -4475,6 +5240,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlot ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -4487,7 +5261,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lape"
           }
@@ -4537,6 +5311,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmɯm˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -4549,7 +5332,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lawa"
           }
@@ -4597,6 +5380,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=向"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwɯp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -4638,6 +5430,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=刈"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmoŋ˨˨"
           }
         ]
       }
@@ -4683,6 +5484,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=園"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰət ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -4724,6 +5534,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=都"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sel˨˨"
           }
         ]
       }
@@ -4769,6 +5588,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=京"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zap ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -4810,6 +5638,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=喜"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɛ˩˧"
           }
         ]
       }
@@ -4857,6 +5694,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "həst ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -4869,7 +5715,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:en"
           }
@@ -4917,6 +5763,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=字"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃop ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -4958,6 +5813,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=欲"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔit ̚˥˧"
           }
         ]
       }
@@ -5003,6 +5867,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=要"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "peŋk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -5044,6 +5917,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=刃"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnak ̚˥"
           }
         ]
       }
@@ -5089,6 +5971,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=制"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bom˥˥"
+          }
+        ]
       }
     ]
   },
@@ -5130,6 +6021,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=雷"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mɛn˩˧"
           }
         ]
       }
@@ -5175,6 +6075,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=生"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zɛt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -5218,6 +6127,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=脳"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhap ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -5259,6 +6177,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=臓"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɛs˩˧"
           }
         ]
       }
@@ -5306,6 +6233,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hə˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5318,7 +6254,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lete"
           }
@@ -5368,6 +6304,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pɯ˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5380,7 +6325,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pu"
           }
@@ -5430,6 +6375,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸʊnt ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5442,7 +6396,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lupa"
           }
@@ -5492,6 +6446,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwe˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5504,7 +6467,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:open"
           }
@@ -5552,6 +6515,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=領"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ba˥˥"
+          }
+        ]
       }
     ]
   },
@@ -5593,6 +6565,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=紙"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔje˨˨"
           }
         ]
       }
@@ -5640,6 +6621,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βʊp ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5652,7 +6642,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:linja"
           }
@@ -5700,6 +6690,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=終"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kit ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -5741,6 +6740,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=網"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mə˧˥"
           }
         ]
       }
@@ -5786,6 +6794,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=印"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -5827,6 +6844,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=政"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pe˨˨"
           }
         ]
       }
@@ -5874,6 +6900,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰʊk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5886,7 +6921,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pipi"
           }
@@ -5934,6 +6969,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=蛮"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɔ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -5979,6 +7023,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhɯp ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -5991,7 +7044,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kepeken"
           }
@@ -6039,6 +7092,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=不"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kik ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -6082,6 +7144,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=竹"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔa˨˨"
+          }
+        ]
       }
     ]
   },
@@ -6123,6 +7194,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=六"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlisp ̚˥˧"
           }
         ]
       }
@@ -6170,6 +7250,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔep ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6182,7 +7271,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:olin"
           }
@@ -6230,6 +7319,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=造"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhim˨˨"
+          }
+        ]
       }
     ]
   },
@@ -6271,6 +7369,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=道"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gim˥˥"
           }
         ]
       }
@@ -6318,6 +7425,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃot ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6330,7 +7446,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:tan"
           }
@@ -6380,6 +7496,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjolk ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6392,7 +7517,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:soweli"
           }
@@ -6440,6 +7565,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=肉"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnaŋ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -6481,6 +7615,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=周"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸʊn˩˧"
           }
         ]
       }
@@ -6528,6 +7671,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pel˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6540,7 +7692,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:taso"
           }
@@ -6588,6 +7740,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=年"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɛsk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -6633,6 +7794,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔi˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6645,7 +7815,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mije"
           }
@@ -6693,6 +7863,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=材"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒɛmp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -6738,6 +7917,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸe˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6750,7 +7938,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:alasa"
           }
@@ -6798,6 +7986,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=豚"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃe˥˥"
+          }
+        ]
       }
     ]
   },
@@ -6843,6 +8040,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsilt ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6855,7 +8061,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:moli"
           }
@@ -6903,6 +8109,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=筋"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlas˨˨"
+          }
+        ]
       }
     ]
   },
@@ -6948,6 +8163,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsal˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -6960,7 +8184,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:weka"
           }
@@ -7008,6 +8232,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=灰"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "dap ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -7049,6 +8282,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=炭"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsip ̚˥˧"
           }
         ]
       }
@@ -7094,6 +8336,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=塩"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ŋɔsk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -7135,6 +8386,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=稲"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃe˨˨"
           }
         ]
       }
@@ -7182,6 +8442,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɔt ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -7194,7 +8463,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pan"
           }
@@ -7244,6 +8513,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zo˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -7256,7 +8534,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ko"
           }
@@ -7304,6 +8582,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=粒"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾʊl˩˧"
+          }
+        ]
       }
     ]
   },
@@ -7345,6 +8632,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=立"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰʊt ̚˧˩"
           }
         ]
       }
@@ -7390,6 +8686,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=基"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlen˥˥"
+          }
+        ]
       }
     ]
   },
@@ -7431,6 +8736,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=恨"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gon˨˨"
           }
         ]
       }
@@ -7476,6 +8790,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=等"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mʊsp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -7517,6 +8840,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=伴"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nʊk ̚˧"
           }
         ]
       }
@@ -7564,6 +8896,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɔ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -7576,7 +8917,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:nasa"
           }
@@ -7624,6 +8965,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=長"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɛlt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -7665,6 +9015,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=脚"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋop ̚˥˧"
           }
         ]
       }
@@ -7710,6 +9069,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=走"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjem˨˨"
+          }
+        ]
       }
     ]
   },
@@ -7751,6 +9119,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=跳"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "got ̚˥˧"
           }
         ]
       }
@@ -7796,6 +9173,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=越"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -7837,6 +9223,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=乗"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃaŋk ̚˥˧"
           }
         ]
       }
@@ -7882,6 +9277,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=兵"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnalt ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -7923,6 +9327,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=軍"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃɯŋk ̚˥˧"
           }
         ]
       }
@@ -7970,6 +9383,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bas˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -7982,7 +9404,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:utala"
           }
@@ -8030,6 +9452,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=皿"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰəŋ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -8071,6 +9502,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=盤"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃɯ˥˥"
           }
         ]
       }
@@ -8118,6 +9558,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmis˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8130,7 +9579,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:nanpa"
           }
@@ -8180,6 +9629,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɔt ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8192,7 +9650,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sijelo"
           }
@@ -8240,6 +9698,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=熱"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sʊp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -8281,6 +9748,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=川"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hʊ˩˧"
           }
         ]
       }
@@ -8326,6 +9802,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=丘"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zot ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -8367,6 +9852,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=交"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋit ̚˥˧"
           }
         ]
       }
@@ -8414,6 +9908,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjek ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8426,7 +9929,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:len"
           }
@@ -8474,6 +9977,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=旭"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒɯ˥˥"
+          }
+        ]
       }
     ]
   },
@@ -8517,6 +10029,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=代"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɔt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -8558,6 +10079,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=姉"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣʊŋ˧˥"
           }
         ]
       }
@@ -8605,6 +10135,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmo˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8617,7 +10156,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:poka"
           }
@@ -8665,6 +10204,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=座"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmap ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -8710,6 +10258,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhilt ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8722,7 +10279,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pali"
           }
@@ -8772,6 +10329,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɔp ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8784,7 +10350,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sitelen"
           }
@@ -8834,6 +10400,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɛl˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8846,7 +10421,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ken"
           }
@@ -8896,6 +10471,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔli˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -8908,7 +10492,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:li"
           }
@@ -8956,6 +10540,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=暁"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmik ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -8999,6 +10592,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=拠"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡saŋ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -9040,6 +10642,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=仁"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɔk ̚˧"
           }
         ]
       }
@@ -9087,6 +10698,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhop ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -9099,7 +10719,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ma"
           }
@@ -9147,6 +10767,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=昇"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɛ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -9192,6 +10821,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jʊn˩˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -9204,7 +10842,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kin"
           }
@@ -9254,6 +10892,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmɯ˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -9266,7 +10913,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mu"
           }
@@ -9316,6 +10963,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔat ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -9328,7 +10984,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:a"
           }
@@ -9378,6 +11034,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔna˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -9390,7 +11055,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:insa"
           }
@@ -9438,6 +11103,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=静"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸit ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -9481,6 +11155,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=僻"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ŋɛŋ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -9522,6 +11205,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=森"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjon˥˥"
           }
         ]
       }
@@ -9569,6 +11261,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɔ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -9581,7 +11282,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ale"
           }
@@ -9629,6 +11330,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=七"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒɛm˧˥"
+          }
+        ]
       }
     ]
   },
@@ -9670,6 +11380,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=八"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlip ̚˥˧"
           }
         ]
       }
@@ -9715,6 +11434,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=九"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjan˥˥"
+          }
+        ]
       }
     ]
   },
@@ -9756,6 +11484,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=零"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɔ˧˥"
           }
         ]
       }
@@ -9801,6 +11538,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=十"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɛl˧˥"
+          }
+        ]
       }
     ]
   },
@@ -9842,6 +11588,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=百"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɛ˩˧"
           }
         ]
       }
@@ -9887,6 +11642,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=千"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰʊŋ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -9928,6 +11692,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=刻"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sim˥˥"
           }
         ]
       }
@@ -9973,6 +11746,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=分"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣəl˩˧"
+          }
+        ]
       }
     ]
   },
@@ -10014,6 +11796,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=秒"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlap ̚˥˧"
           }
         ]
       }
@@ -10059,6 +11850,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=田"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sin˨˨"
+          }
+        ]
       }
     ]
   },
@@ -10100,6 +11900,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=永"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhes˨˨"
           }
         ]
       }
@@ -10145,6 +11954,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=何"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɔlt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -10186,6 +12004,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=如"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlolk ̚˥"
           }
         ]
       }
@@ -10231,6 +12058,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=宗"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mɛ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -10272,6 +12108,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=清"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒɛ˧˥"
           }
         ]
       }
@@ -10317,6 +12162,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=尿"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɛp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -10358,6 +12212,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=石"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɛsp ̚˧˩"
           }
         ]
       }
@@ -10403,6 +12266,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=瑠"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒa˥˥"
+          }
+        ]
       }
     ]
   },
@@ -10444,6 +12316,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=泡"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔset ̚˥˧"
           }
         ]
       }
@@ -10489,6 +12370,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=箔"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gɯ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -10530,6 +12420,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=金"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwa˨˨"
           }
         ]
       }
@@ -10575,6 +12474,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=銀"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰʊt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -10616,6 +12524,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=銅"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɔk ̚˧"
           }
         ]
       }
@@ -10661,6 +12578,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=軽"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɔ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -10702,6 +12628,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=礬"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmin˥˥"
           }
         ]
       }
@@ -10749,6 +12684,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɔk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -10761,7 +12705,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:jelo"
           }
@@ -10809,6 +12753,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=硫"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɔmp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -10854,6 +12807,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɛl˩˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -10866,7 +12828,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kiwen"
           }
@@ -10914,6 +12876,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=鉄"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɔ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -10955,6 +12926,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=骨"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɛsk ̚˧"
           }
         ]
       }
@@ -11002,6 +12982,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sɯn˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -11014,7 +13003,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:jaki"
           }
@@ -11062,6 +13051,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=痛"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʊk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -11103,6 +13101,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=包"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βʊs˧˥"
           }
         ]
       }
@@ -11148,6 +13155,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=痘"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡za˨˨"
+          }
+        ]
       }
     ]
   },
@@ -11189,6 +13205,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=創"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlesp ̚˥˧"
           }
         ]
       }
@@ -11234,6 +13259,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=笑"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰəm˩˧"
+          }
+        ]
       }
     ]
   },
@@ -11275,6 +13309,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=穏"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ŋɛ˧˥"
           }
         ]
       }
@@ -11320,6 +13363,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=医"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɛs˩˧"
+          }
+        ]
       }
     ]
   },
@@ -11361,6 +13413,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=薬"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɛnt ̚˧˩"
           }
         ]
       }
@@ -11406,6 +13467,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=糞"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒat ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -11447,6 +13517,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=通"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸɔŋk ̚˧˩"
           }
         ]
       }
@@ -11492,6 +13571,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=尻"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɔm˧˥"
+          }
+        ]
       }
     ]
   },
@@ -11533,6 +13621,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=歯"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔilt ̚˥˧"
           }
         ]
       }
@@ -11580,6 +13677,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔli˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -11592,7 +13698,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:suwi"
           }
@@ -11640,6 +13746,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=子"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gɯm˨˨"
+          }
+        ]
       }
     ]
   },
@@ -11681,6 +13796,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=乳"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɛ˧˥"
           }
         ]
       }
@@ -11726,6 +13850,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=苦"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "do˥˥"
+          }
+        ]
       }
     ]
   },
@@ -11767,6 +13900,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=鼻"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "səm˧˥"
           }
         ]
       }
@@ -11812,6 +13954,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=香"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣʊl˧˥"
+          }
+        ]
       }
     ]
   },
@@ -11853,6 +14004,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=止"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zət ̚˧˩"
           }
         ]
       }
@@ -11898,6 +14058,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=重"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔant ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -11939,6 +14108,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=甲"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɔp ̚˧˩"
           }
         ]
       }
@@ -11984,6 +14162,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=乙"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwɯlk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -12025,6 +14212,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=美"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɔ˩˧"
           }
         ]
       }
@@ -12070,6 +14266,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=板"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lɛ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -12111,6 +14316,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=琥"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɛk ̚˧"
           }
         ]
       }
@@ -12156,6 +14370,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=粘"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋem˥˥"
+          }
+        ]
       }
     ]
   },
@@ -12197,6 +14420,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=瓶"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zə˩˧"
           }
         ]
       }
@@ -12242,6 +14474,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=高"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋiŋk ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -12283,6 +14524,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=車"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjet ̚˥˧"
           }
         ]
       }
@@ -12330,6 +14580,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɛl˩˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12342,7 +14601,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ilo"
           }
@@ -12392,6 +14651,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlast ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12404,7 +14672,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:supa"
           }
@@ -12452,6 +14720,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=椅"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lʊp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -12493,6 +14770,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=席"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔost ̚˥˧"
           }
         ]
       }
@@ -12540,6 +14826,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɔ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12552,7 +14847,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:wile"
           }
@@ -12602,6 +14897,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsɯst ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12614,7 +14918,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:lipu"
           }
@@ -12664,6 +14968,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɔk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12676,7 +14989,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:musi"
           }
@@ -12724,6 +15037,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=杯"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɔn˧˥"
+          }
+        ]
       }
     ]
   },
@@ -12769,6 +15091,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃok ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12781,7 +15112,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:palisa"
           }
@@ -12829,6 +15160,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=温"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɛn˧˥"
+          }
+        ]
       }
     ]
   },
@@ -12874,6 +15214,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒə˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12886,7 +15235,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kalama"
           }
@@ -12934,6 +15283,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=声"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋe˨˨"
+          }
+        ]
       }
     ]
   },
@@ -12979,6 +15337,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɛk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -12991,7 +15358,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sona"
           }
@@ -13039,6 +15406,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=報"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwɯlp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -13080,6 +15456,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=船"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰət ̚˧˩"
           }
         ]
       }
@@ -13125,6 +15510,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=衣"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnelk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -13166,6 +15560,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=団"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰʊp ̚˧˩"
           }
         ]
       }
@@ -13211,6 +15614,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=働"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɛŋ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -13252,6 +15664,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=技"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸek ̚˥"
           }
         ]
       }
@@ -13297,6 +15718,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=宝"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɔ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -13340,6 +15770,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=信"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣʊ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -13381,6 +15820,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=結"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒʊ˧˥"
           }
         ]
       }
@@ -13428,6 +15876,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃil˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -13440,7 +15897,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pana"
           }
@@ -13488,6 +15945,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=湛"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɔ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -13533,6 +15999,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒot ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -13545,7 +16020,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mute"
           }
@@ -13595,6 +16070,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kɯk ̚˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -13607,7 +16091,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mani"
           }
@@ -13655,6 +16139,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=奏"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɛl˧˥"
+          }
+        ]
       }
     ]
   },
@@ -13698,6 +16191,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=危"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɛsk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -13739,6 +16241,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=憤"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣə˧˥"
           }
         ]
       }
@@ -13786,6 +16297,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tɯ˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -13798,7 +16318,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:pimeja"
           }
@@ -13846,6 +16366,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=隠"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -13887,6 +16416,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=訓"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃalp ̚˥˧"
           }
         ]
       }
@@ -13932,6 +16470,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=守"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pat ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -13973,6 +16520,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=母"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βə˩˧"
           }
         ]
       }
@@ -14018,6 +16574,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=夫"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɔŋk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -14059,6 +16624,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=古"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰʊn˩˧"
           }
         ]
       }
@@ -14104,6 +16678,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=架"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlim˥˥"
+          }
+        ]
       }
     ]
   },
@@ -14147,6 +16730,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=壁"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "di˨˨"
+          }
+        ]
       }
     ]
   },
@@ -14188,6 +16780,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=帝"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lək ̚˧"
           }
         ]
       }
@@ -14235,6 +16836,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃos˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -14247,7 +16857,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sama"
           }
@@ -14295,6 +16905,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=事"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gep ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -14336,6 +16955,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=模"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mʊ˧˥"
           }
         ]
       }
@@ -14381,6 +17009,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=由"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pisp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -14422,6 +17059,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=遍"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰʊm˩˧"
           }
         ]
       }
@@ -14467,6 +17113,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=福"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɛ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -14508,6 +17163,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=被"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒek ̚˥"
           }
         ]
       }
@@ -14553,6 +17217,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=違"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhe˨˨"
+          }
+        ]
       }
     ]
   },
@@ -14594,6 +17267,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=消"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɔk ̚˧"
           }
         ]
       }
@@ -14641,6 +17323,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sop ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -14653,7 +17344,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:anu"
           }
@@ -14703,6 +17394,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋel˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -14715,7 +17415,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:nasin"
           }
@@ -14763,6 +17463,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=則"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰək ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -14804,6 +17513,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=歌"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋep ̚˥˧"
           }
         ]
       }
@@ -14849,6 +17567,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=陰"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰəm˧˥"
+          }
+        ]
       }
     ]
   },
@@ -14890,6 +17617,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=真"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnimp ̚˥˧"
           }
         ]
       }
@@ -14935,6 +17671,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=血"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sɯŋ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -14976,6 +17721,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=崩"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃes˨˨"
           }
         ]
       }
@@ -15021,6 +17775,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=奪"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mɛk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -15064,6 +17827,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=遣"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰʊ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -15105,6 +17877,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=後"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jəsp ̚˧˩"
           }
         ]
       }
@@ -15152,6 +17933,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwal˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -15164,7 +17954,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sin"
           }
@@ -15214,6 +18004,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸə˩˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -15226,7 +18025,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:selo"
           }
@@ -15276,6 +18075,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ka˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -15288,7 +18096,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:sinpin"
           }
@@ -15336,6 +18144,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=眉"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kal˨˨"
+          }
+        ]
       }
     ]
   },
@@ -15377,6 +18194,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=流"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɔs˧˥"
           }
         ]
       }
@@ -15422,6 +18248,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=落"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒəp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -15463,6 +18298,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=睫"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwep ̚˥˧"
           }
         ]
       }
@@ -15510,6 +18354,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔme˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -15522,7 +18375,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kute"
           }
@@ -15570,6 +18423,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=頬"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "do˨˨"
+          }
+        ]
       }
     ]
   },
@@ -15611,6 +18473,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=唇"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸɛl˧˥"
           }
         ]
       }
@@ -15656,6 +18527,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=舌"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -15697,6 +18577,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=話"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɛk ̚˧"
           }
         ]
       }
@@ -15742,6 +18631,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=頤"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒit ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -15783,6 +18681,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=顎"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸɔ˩˧"
           }
         ]
       }
@@ -15828,6 +18735,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=額"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰə˩˧"
+          }
+        ]
       }
     ]
   },
@@ -15869,6 +18785,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=喉"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsas˨˨"
           }
         ]
       }
@@ -15914,6 +18839,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=毛"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɛst ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -15955,6 +18889,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=髪"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ŋɔp ̚˧˩"
           }
         ]
       }
@@ -16000,6 +18943,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=髭"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɛl˧˥"
+          }
+        ]
       }
     ]
   },
@@ -16041,6 +18993,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=鬚"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsak ̚˥"
           }
         ]
       }
@@ -16086,6 +19047,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=根"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɛm˧˥"
+          }
+        ]
       }
     ]
   },
@@ -16127,6 +19097,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=茎"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjot ̚˥˧"
           }
         ]
       }
@@ -16172,6 +19151,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=首"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sɯm˨˨"
+          }
+        ]
       }
     ]
   },
@@ -16213,6 +19201,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=肩"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰʊl˧˥"
           }
         ]
       }
@@ -16258,6 +19255,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=胸"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hʊnt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -16301,6 +19307,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=奶"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃep ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -16342,6 +19357,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=腹"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰɛs˧˥"
           }
         ]
       }
@@ -16389,6 +19413,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɔt ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -16401,7 +19434,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:monsi"
           }
@@ -16449,6 +19482,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=腕"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnol˨˨"
+          }
+        ]
       }
     ]
   },
@@ -16490,6 +19532,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=並"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sʊlt ̚˧˩"
           }
         ]
       }
@@ -16535,6 +19586,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=脇"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣʊk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -16576,6 +19636,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=肘"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tim˨˨"
           }
         ]
       }
@@ -16621,6 +19690,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=掌"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhɯ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -16662,6 +19740,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=指"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jʊ˧˥"
           }
         ]
       }
@@ -16707,6 +19794,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=爪"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsin˥˥"
+          }
+        ]
       }
     ]
   },
@@ -16748,6 +19844,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=故"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "don˨˨"
           }
         ]
       }
@@ -16793,6 +19898,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=膝"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɛm˧˥"
+          }
+        ]
       }
     ]
   },
@@ -16834,6 +19948,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=踵"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lɔl˧˥"
           }
         ]
       }
@@ -16879,6 +20002,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=跂"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mət ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -16920,6 +20052,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=息"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃət ̚˧˩"
           }
         ]
       }
@@ -16965,6 +20106,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=涙"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ke˨˨"
+          }
+        ]
       }
     ]
   },
@@ -17006,6 +20156,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=餐"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "dolp ̚˥˧"
           }
         ]
       }
@@ -17051,6 +20210,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=夕"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "dom˨˨"
+          }
+        ]
       }
     ]
   },
@@ -17092,6 +20260,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=吹"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "paŋk ̚˥˧"
           }
         ]
       }
@@ -17139,6 +20316,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃon˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -17151,7 +20337,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ike"
           }
@@ -17199,6 +20385,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=魔"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɛŋ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -17240,6 +20435,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=鬼"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lɔk ̚˧"
           }
         ]
       }
@@ -17285,6 +20489,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=出"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "koŋk ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -17326,6 +20539,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=入"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒʊm˧˥"
           }
         ]
       }
@@ -17371,6 +20593,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=吐"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔne˨˨"
+          }
+        ]
       }
     ]
   },
@@ -17412,6 +20643,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=嘔"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɛ˩˧"
           }
         ]
       }
@@ -17457,6 +20697,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=吸"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔot ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -17498,6 +20747,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=絞"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɛt ̚˧˩"
           }
         ]
       }
@@ -17545,21 +20803,11 @@
         ]
       },
       {
-        "lang": "トキポナ",
+        "lang": "中古雰語",
         "data": [
           {
             "name": "発音",
-            "value": "la"
-          },
-          {
-            "name": "意味",
-            "value": "リンク先を参照。"
-          },
-          {
-            "name": "リンク",
-            "value": "lipu Linku",
-            "type": "link",
-            "url": "https://wikipesija.org/wiki/nimi:la"
+            "value": "ɾʊt ̚˧˩"
           }
         ]
       }
@@ -17607,6 +20855,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βʊm˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -17619,7 +20876,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:esun"
           }
@@ -17667,6 +20924,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=庵"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃiŋ˥˥"
+          }
+        ]
       }
     ]
   },
@@ -17708,6 +20974,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=活"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwɯ˨˨"
           }
         ]
       }
@@ -17753,6 +21028,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=妹"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ga˥˥"
+          }
+        ]
       }
     ]
   },
@@ -17796,6 +21080,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=弟"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔi˨˨"
+          }
+        ]
       }
     ]
   },
@@ -17837,6 +21130,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=兄"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋes˨˨"
           }
         ]
       }
@@ -17884,6 +21186,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɔst ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -17896,7 +21207,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:mama"
           }
@@ -17944,6 +21255,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=測"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɛk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -17985,6 +21305,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=巻"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔso˨˨"
           }
         ]
       }
@@ -18030,6 +21359,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=麺"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃəm˩˧"
+          }
+        ]
       }
     ]
   },
@@ -18071,6 +21409,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=餅"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ŋɛp ̚˧˩"
           }
         ]
       }
@@ -18116,6 +21463,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=焼"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃa˥˥"
+          }
+        ]
       }
     ]
   },
@@ -18157,6 +21513,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=汁"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰʊ˧˥"
           }
         ]
       }
@@ -18202,6 +21567,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=鏡"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸɯnt ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -18243,6 +21617,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=拡"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɔnt ̚˧˩"
           }
         ]
       }
@@ -18288,6 +21671,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=針"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwo˥˥"
+          }
+        ]
       }
     ]
   },
@@ -18329,6 +21721,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=卵"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mʊŋ˧˥"
           }
         ]
       }
@@ -18376,6 +21777,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɔk ̚˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -18388,7 +21798,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:waso"
           }
@@ -18436,6 +21846,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=犬"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bap ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -18477,6 +21896,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=猫"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰʊm˩˧"
           }
         ]
       }
@@ -18522,6 +21950,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=平"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃem˥˥"
+          }
+        ]
       }
     ]
   },
@@ -18563,6 +22000,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=浄"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɛ˧˥"
           }
         ]
       }
@@ -18608,6 +22054,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=乾"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsok ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -18649,6 +22104,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=玉"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰʊnt ̚˧˩"
           }
         ]
       }
@@ -18694,6 +22158,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=酒"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɛs˧˥"
+          }
+        ]
       }
     ]
   },
@@ -18735,6 +22208,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=握"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sʊmp ̚˧˩"
           }
         ]
       }
@@ -18780,6 +22262,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=掃"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾəp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -18821,6 +22312,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=味"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʊp ̚˧˩"
           }
         ]
       }
@@ -18866,6 +22366,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=集"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɛm˩˧"
+          }
+        ]
       }
     ]
   },
@@ -18909,6 +22418,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=慶"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnɯp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -18950,6 +22468,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=敬"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwɯŋk ̚˥˧"
           }
         ]
       }
@@ -18997,6 +22524,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "del˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -19009,7 +22545,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:o"
           }
@@ -19057,6 +22593,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=片"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pi˥˥"
+          }
+        ]
       }
     ]
   },
@@ -19098,6 +22643,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=動"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔŋek ̚˥"
           }
         ]
       }
@@ -19145,6 +22699,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾʊnt ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -19157,7 +22720,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:poki"
           }
@@ -19207,6 +22770,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɔ˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -19219,7 +22791,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ijo"
           }
@@ -19267,6 +22839,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=探"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɯŋk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -19308,6 +22889,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=花"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɔs˧˥"
           }
         ]
       }
@@ -19353,6 +22943,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=算"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βʊk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -19394,6 +22993,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=蒼"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡so˨˨"
           }
         ]
       }
@@ -19439,6 +23047,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=春"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɔ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -19480,6 +23097,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=豊"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nəp ̚˧˩"
           }
         ]
       }
@@ -19525,6 +23151,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=夏"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sisp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -19566,6 +23201,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=葉"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰət ̚˧˩"
           }
         ]
       }
@@ -19611,6 +23255,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=秋"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmel˥˥"
+          }
+        ]
       }
     ]
   },
@@ -19652,6 +23305,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=冬"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃon˨˨"
           }
         ]
       }
@@ -19699,6 +23361,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒəl˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -19711,7 +23382,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:nimi"
           }
@@ -19761,6 +23432,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾəl˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -19773,7 +23453,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:laso"
           }
@@ -19821,6 +23501,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=定"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lət ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -19862,6 +23551,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=弓"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjos˨˨"
           }
         ]
       }
@@ -19907,6 +23605,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=弩"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sɛp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -19950,6 +23657,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=据"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmo˥˥"
+          }
+        ]
       }
     ]
   },
@@ -19991,6 +23707,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=珠"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒən˩˧"
           }
         ]
       }
@@ -20038,6 +23763,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gan˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -20050,7 +23784,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:awen"
           }
@@ -20098,6 +23832,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=取"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒet ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -20139,6 +23882,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=東"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ka˨˨"
           }
         ]
       }
@@ -20184,6 +23936,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=西"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwɯk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -20227,6 +23988,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=賜"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒel˨˨"
+          }
+        ]
       }
     ]
   },
@@ -20268,6 +24038,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=南"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒiŋk ̚˥˧"
           }
         ]
       }
@@ -20315,6 +24094,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bi˨˨"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -20327,7 +24115,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kala"
           }
@@ -20375,6 +24163,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=揺"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰənt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -20418,6 +24215,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=宇"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾʊ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -20459,6 +24265,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=返"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wʊ˧˥"
           }
         ]
       }
@@ -20506,6 +24321,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɔm˧˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -20518,7 +24342,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ante"
           }
@@ -20568,6 +24392,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "keŋk ̚˥˧"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -20580,7 +24413,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:akesi"
           }
@@ -20628,6 +24461,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=蟾"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zə˧˥"
+          }
+        ]
       }
     ]
   },
@@ -20669,6 +24511,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=翠"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zɔk ̚˧"
           }
         ]
       }
@@ -20716,6 +24567,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣʊp ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -20728,7 +24588,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:kule"
           }
@@ -20776,6 +24636,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=季"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɛt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -20817,6 +24686,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=黒"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃə˩˧"
           }
         ]
       }
@@ -20862,6 +24740,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=旬"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɔs˧˥"
+          }
+        ]
       }
     ]
   },
@@ -20903,6 +24790,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=非"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wɛ˧˥"
           }
         ]
       }
@@ -20948,6 +24844,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=矢"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ket ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -20989,6 +24894,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=論"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sa˥˥"
           }
         ]
       }
@@ -21034,6 +24948,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=頂"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsɯp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -21075,6 +24998,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=茶"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒilk ̚˥"
           }
         ]
       }
@@ -21120,6 +25052,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=縦"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nən˧˥"
+          }
+        ]
       }
     ]
   },
@@ -21161,6 +25102,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=横"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "mɔ˧˥"
           }
         ]
       }
@@ -21206,6 +25156,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=序"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bi˥˥"
+          }
+        ]
       }
     ]
   },
@@ -21247,6 +25206,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=可"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɸɛ˩˧"
           }
         ]
       }
@@ -21294,6 +25262,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔe˥˥"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -21306,7 +25283,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:e"
           }
@@ -21354,6 +25331,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=恒"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾəŋ˩˧"
+          }
+        ]
       }
     ]
   },
@@ -21395,6 +25381,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=汲"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "bit ̚˥˧"
           }
         ]
       }
@@ -21440,6 +25435,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=注"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰʊŋk ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -21481,6 +25485,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=録"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒɔ˩˧"
           }
         ]
       }
@@ -21526,6 +25539,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=商"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsaŋk ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -21567,6 +25589,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=雪"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnan˥˥"
           }
         ]
       }
@@ -21612,6 +25643,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=冷"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pilk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -21653,6 +25693,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=老"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "gok ̚˥"
           }
         ]
       }
@@ -21698,6 +25747,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=仙"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰɛŋk ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -21739,6 +25797,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=億"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tɯp ̚˥˧"
           }
         ]
       }
@@ -21784,6 +25851,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=魂"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnɯm˨˨"
+          }
+        ]
       }
     ]
   },
@@ -21825,6 +25901,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=明"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnɯk ̚˥"
           }
         ]
       }
@@ -21870,6 +25955,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=軸"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɔk ̚˧"
+          }
+        ]
       }
     ]
   },
@@ -21911,6 +26005,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=善"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "əs˧˥"
           }
         ]
       }
@@ -21956,6 +26059,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=囲"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɾɛp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -21997,6 +26109,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=憐"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃo˨˨"
           }
         ]
       }
@@ -22042,6 +26163,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=紋"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸɯt ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -22083,6 +26213,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=砕"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pʰɔp ̚˧˩"
           }
         ]
       }
@@ -22128,6 +26267,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=酸"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tas˥˥"
+          }
+        ]
       }
     ]
   },
@@ -22169,6 +26317,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=有"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔno˨˨"
           }
         ]
       }
@@ -22216,6 +26373,15 @@
         ]
       },
       {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "əp ̚˧˩"
+          }
+        ]
+      },
+      {
         "lang": "トキポナ",
         "data": [
           {
@@ -22228,7 +26394,7 @@
           },
           {
             "name": "リンク",
-            "value": "lipu Linku",
+            "value": "Wikipesija",
             "type": "link",
             "url": "https://wikipesija.org/wiki/nimi:ala"
           }
@@ -22276,6 +26442,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=妻"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhaŋ˨˨"
+          }
+        ]
       }
     ]
   },
@@ -22317,6 +26492,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=跨"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔjɯm˥˥"
           }
         ]
       }
@@ -22362,6 +26546,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=或"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɛ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -22403,6 +26596,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=曰"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lə˧˥"
           }
         ]
       }
@@ -22448,6 +26650,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=買"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "kʰɔm˩˧"
+          }
+        ]
       }
     ]
   },
@@ -22489,6 +26700,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=汚"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣɛm˩˧"
           }
         ]
       }
@@ -22534,6 +26754,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=柑"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tɯl˥˥"
+          }
+        ]
       }
     ]
   },
@@ -22575,6 +26804,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=概"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tam˥˥"
           }
         ]
       }
@@ -22620,6 +26858,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=従"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sʰɛp ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -22661,6 +26908,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=徒"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "βɔ˩˧"
           }
         ]
       }
@@ -22706,6 +26962,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=傾"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔwa˥˥"
+          }
+        ]
       }
     ]
   },
@@ -22747,6 +27012,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=少"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hɛn˧˥"
           }
         ]
       }
@@ -22792,6 +27066,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=備"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡sen˨˨"
+          }
+        ]
       }
     ]
   },
@@ -22833,6 +27116,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=深"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃɛ˩˧"
           }
         ]
       }
@@ -22878,6 +27170,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=憶"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔmɯl˨˨"
+          }
+        ]
       }
     ]
   },
@@ -22919,6 +27220,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=以"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nɔp ̚˧˩"
           }
         ]
       }
@@ -22964,6 +27274,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=爾"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsi˥˥"
+          }
+        ]
       }
     ]
   },
@@ -23005,6 +27324,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=昆"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃi˥˥"
           }
         ]
       }
@@ -23050,6 +27378,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=蔓"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ton˨˨"
+          }
+        ]
       }
     ]
   },
@@ -23091,6 +27428,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=貝"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʒɔ˧˥"
           }
         ]
       }
@@ -23136,6 +27482,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=和"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔom˨˨"
+          }
+        ]
       }
     ]
   },
@@ -23177,6 +27532,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=纏"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "dimp ̚˥˧"
           }
         ]
       }
@@ -23222,6 +27586,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=炸"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔɸo˨˨"
+          }
+        ]
       }
     ]
   },
@@ -23263,6 +27636,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=到"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tel˥˥"
           }
         ]
       }
@@ -23308,6 +27690,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=唯"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ɣət ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -23349,6 +27740,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=洞"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zɔs˩˧"
           }
         ]
       }
@@ -23394,6 +27794,34 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=而"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔlet ̚˥˧"
+          }
+        ]
+      },
+      {
+        "lang": "トキポナ",
+        "data": [
+          {
+            "name": "発音",
+            "value": "la"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "Wikipesija",
+            "type": "link",
+            "url": "https://wikipesija.org/wiki/nimi:la"
+          }
+        ]
       }
     ]
   },
@@ -23435,6 +27863,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=建"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔʃes˥˥"
           }
         ]
       }
@@ -23480,6 +27917,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=恐"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡si˨˨"
+          }
+        ]
       }
     ]
   },
@@ -23521,6 +27967,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=怪"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔnot ̚˥˧"
           }
         ]
       }
@@ -23566,6 +28021,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=祈"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zʊ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -23607,6 +28071,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=赦"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "t͡ʃʰək ̚˧"
           }
         ]
       }
@@ -23652,6 +28125,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=成"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ba˨˨"
+          }
+        ]
       }
     ]
   },
@@ -23693,6 +28175,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=弱"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔsɯl˨˨"
           }
         ]
       }
@@ -23738,6 +28229,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=乏"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pɯmp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -23779,6 +28279,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=外"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʔhin˨˨"
           }
         ]
       }
@@ -23824,6 +28333,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=拘"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "hənt ̚˧˩"
+          }
+        ]
       }
     ]
   },
@@ -23865,6 +28383,67 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=函"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "jɛp ̚˧˩"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "掘",
+    "id": "504",
+    "data": [
+      {
+        "name": "転写",
+        "value": "掘"
+      },
+      {
+        "name": "PhunID",
+        "value": "504"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zel1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=掘"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zelk ̚˥"
           }
         ]
       }

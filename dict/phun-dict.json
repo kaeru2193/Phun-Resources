@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-03-21T11:07:45.905Z",
+  "date": "2024-03-24T08:19:54.138Z",
   "data": [
     {
       "word": "人",
@@ -17,6 +17,12 @@
       ],
       "append": [],
       "pron": "ha1",
+      "example": [
+        {
+          "pn": "十七億人活在之丸。",
+          "ja": "この星には81億の人が住む。"
+        }
+      ],
       "num": "1"
     },
     {
@@ -34,6 +40,7 @@
       ],
       "append": [],
       "pron": "nai2",
+      "example": [],
       "num": "2"
     },
     {
@@ -51,6 +58,7 @@
       ],
       "append": [],
       "pron": "taos3",
+      "example": [],
       "num": "3"
     },
     {
@@ -68,6 +76,7 @@
       ],
       "append": [],
       "pron": "ve1 taos3",
+      "example": [],
       "num": "-"
     },
     {
@@ -95,6 +104,12 @@
         }
       ],
       "pron": "xe3",
+      "example": [
+        {
+          "pn": "我為之機。",
+          "ja": "私はかえるです。"
+        }
+      ],
       "num": "4"
     },
     {
@@ -116,6 +131,7 @@
       ],
       "append": [],
       "pron": "lung2",
+      "example": [],
       "num": "5"
     },
     {
@@ -133,6 +149,7 @@
       ],
       "append": [],
       "pron": "lung2 me2",
+      "example": [],
       "num": "-"
     },
     {
@@ -158,6 +175,12 @@
       ],
       "append": [],
       "pron": "so3",
+      "example": [
+        {
+          "pn": "水杯居上机。",
+          "ja": "水入りのコップが机の上にある。"
+        }
+      ],
       "num": "6"
     },
     {
@@ -175,6 +198,7 @@
       ],
       "append": [],
       "pron": "so3 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -192,6 +216,7 @@
       ],
       "append": [],
       "pron": "ge2",
+      "example": [],
       "num": "7"
     },
     {
@@ -228,6 +253,7 @@
         }
       ],
       "pron": "bua1",
+      "example": [],
       "num": "8",
       "link": [
         {
@@ -263,6 +289,7 @@
         }
       ],
       "pron": "baon2",
+      "example": [],
       "num": "9"
     },
     {
@@ -294,6 +321,7 @@
         }
       ],
       "pron": "vuos1 baon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -311,6 +339,7 @@
       ],
       "append": [],
       "pron": "kus3",
+      "example": [],
       "num": "10"
     },
     {
@@ -337,6 +366,7 @@
       ],
       "append": [],
       "pron": "qim3",
+      "example": [],
       "num": "11"
     },
     {
@@ -354,6 +384,7 @@
       ],
       "append": [],
       "pron": "yao1",
+      "example": [],
       "num": "12"
     },
     {
@@ -384,6 +415,7 @@
       ],
       "append": [],
       "pron": "mail2",
+      "example": [],
       "num": "13"
     },
     {
@@ -401,6 +433,7 @@
       ],
       "append": [],
       "pron": "nun2",
+      "example": [],
       "num": "14"
     },
     {
@@ -422,6 +455,7 @@
       ],
       "append": [],
       "pron": "ao3",
+      "example": [],
       "num": "15"
     },
     {
@@ -447,6 +481,7 @@
       ],
       "append": [],
       "pron": "tang2",
+      "example": [],
       "num": "16"
     },
     {
@@ -474,6 +509,7 @@
         }
       ],
       "pron": "cai1",
+      "example": [],
       "num": "17"
     },
     {
@@ -500,6 +536,7 @@
       ],
       "append": [],
       "pron": "vuos1",
+      "example": [],
       "num": "18"
     },
     {
@@ -521,6 +558,7 @@
       ],
       "append": [],
       "pron": "kuang1",
+      "example": [],
       "num": "19"
     },
     {
@@ -556,6 +594,7 @@
         }
       ],
       "pron": "vas1",
+      "example": [],
       "num": "20"
     },
     {
@@ -573,6 +612,7 @@
       ],
       "append": [],
       "pron": "kuang1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -590,6 +630,7 @@
       ],
       "append": [],
       "pron": "vo2 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -607,6 +648,7 @@
       ],
       "append": [],
       "pron": "sing1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -624,6 +666,7 @@
       ],
       "append": [],
       "pron": "tang2 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -641,6 +684,7 @@
       ],
       "append": [],
       "pron": "qim3 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -658,6 +702,7 @@
       ],
       "append": [],
       "pron": "so3 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -675,6 +720,7 @@
       ],
       "append": [],
       "pron": "ao3 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -692,6 +738,7 @@
       ],
       "append": [],
       "pron": "lung2 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -709,6 +756,7 @@
       ],
       "append": [],
       "pron": "duang2 das1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -726,6 +774,7 @@
       ],
       "append": [],
       "pron": "pu2 duo1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -743,6 +792,7 @@
       ],
       "append": [],
       "pron": "tuo3 nan1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -760,6 +810,7 @@
       ],
       "append": [],
       "pron": "vas1 nes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -796,6 +847,7 @@
         }
       ],
       "pron": "ao1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -813,6 +865,7 @@
       ],
       "append": [],
       "pron": "vas1 cua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -839,6 +892,7 @@
       ],
       "append": [],
       "pron": "qai3",
+      "example": [],
       "num": "21"
     },
     {
@@ -865,6 +919,7 @@
       ],
       "append": [],
       "pron": "fes2",
+      "example": [],
       "num": "22"
     },
     {
@@ -882,6 +937,7 @@
       ],
       "append": [],
       "pron": "fes2 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -908,6 +964,7 @@
       ],
       "append": [],
       "pron": "fua3",
+      "example": [],
       "num": "23"
     },
     {
@@ -925,6 +982,7 @@
       ],
       "append": [],
       "pron": "ke1 fua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -942,6 +1000,7 @@
       ],
       "append": [],
       "pron": "xel3",
+      "example": [],
       "num": "24"
     },
     {
@@ -959,6 +1018,7 @@
       ],
       "append": [],
       "pron": "vo2",
+      "example": [],
       "num": "25"
     },
     {
@@ -976,6 +1036,7 @@
       ],
       "append": [],
       "pron": "vi1",
+      "example": [],
       "num": "26"
     },
     {
@@ -993,6 +1054,7 @@
       ],
       "append": [],
       "pron": "buan3",
+      "example": [],
       "num": "27"
     },
     {
@@ -1010,6 +1072,7 @@
       ],
       "append": [],
       "pron": "gaol3",
+      "example": [],
       "num": "28"
     },
     {
@@ -1027,6 +1090,7 @@
       ],
       "append": [],
       "pron": "fai1",
+      "example": [],
       "num": "29"
     },
     {
@@ -1044,6 +1108,7 @@
       ],
       "append": [],
       "pron": "luong1",
+      "example": [],
       "num": "30"
     },
     {
@@ -1089,6 +1154,7 @@
         }
       ],
       "pron": "bun2",
+      "example": [],
       "num": "31",
       "link": [
         {
@@ -1115,6 +1181,7 @@
       ],
       "append": [],
       "pron": "nuo2 bun2 tuo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1141,6 +1208,7 @@
       ],
       "append": [],
       "pron": "zen3",
+      "example": [],
       "num": "32"
     },
     {
@@ -1158,6 +1226,7 @@
       ],
       "append": [],
       "pron": "guan1",
+      "example": [],
       "num": "33"
     },
     {
@@ -1175,6 +1244,7 @@
       ],
       "append": [],
       "pron": "qim3 guan1",
+      "example": [],
       "num": "-"
     },
     {
@@ -1192,6 +1262,7 @@
       ],
       "append": [],
       "pron": "juan1",
+      "example": [],
       "num": "34"
     },
     {
@@ -1209,6 +1280,7 @@
       ],
       "append": [],
       "pron": "luam2",
+      "example": [],
       "num": "35"
     },
     {
@@ -1239,6 +1311,7 @@
       ],
       "append": [],
       "pron": "ling3",
+      "example": [],
       "num": "36"
     },
     {
@@ -1266,6 +1339,7 @@
         }
       ],
       "pron": "yaom1 ling3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1292,6 +1366,7 @@
       ],
       "append": [],
       "pron": "ya3",
+      "example": [],
       "num": "37"
     },
     {
@@ -1319,6 +1394,7 @@
         }
       ],
       "pron": "yaom1 ya3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1336,6 +1412,7 @@
       ],
       "append": [],
       "pron": "ya3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -1353,6 +1430,7 @@
       ],
       "append": [],
       "pron": "vuo2",
+      "example": [],
       "num": "38"
     },
     {
@@ -1370,6 +1448,7 @@
       ],
       "append": [],
       "pron": "van3",
+      "example": [],
       "num": "39"
     },
     {
@@ -1400,6 +1479,7 @@
       ],
       "append": [],
       "pron": "dua1",
+      "example": [],
       "num": "40"
     },
     {
@@ -1426,6 +1506,7 @@
       ],
       "append": [],
       "pron": "fun1",
+      "example": [],
       "num": "41"
     },
     {
@@ -1443,6 +1524,7 @@
       ],
       "append": [],
       "pron": "fun1 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1470,6 +1552,7 @@
         }
       ],
       "pron": "fun1 vas1 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1497,6 +1580,7 @@
         }
       ],
       "pron": "kuang1 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1524,6 +1608,7 @@
         }
       ],
       "pron": "kuang1 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1551,6 +1636,7 @@
         }
       ],
       "pron": "wing3 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1578,6 +1664,7 @@
         }
       ],
       "pron": "wing3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1605,6 +1692,7 @@
         }
       ],
       "pron": "lua3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1632,6 +1720,7 @@
         }
       ],
       "pron": "lua3 qo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1649,6 +1738,7 @@
       ],
       "append": [],
       "pron": "fun1 zom3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1666,6 +1756,7 @@
       ],
       "append": [],
       "pron": "yuas1",
+      "example": [],
       "num": "42"
     },
     {
@@ -1683,6 +1774,7 @@
       ],
       "append": [],
       "pron": "yuas1 ya3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1709,6 +1801,7 @@
       ],
       "append": [],
       "pron": "yaom1",
+      "example": [],
       "num": "43"
     },
     {
@@ -1726,6 +1819,7 @@
       ],
       "append": [],
       "pron": "yaom1 xo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1747,6 +1841,7 @@
       ],
       "append": [],
       "pron": "yaom1 yai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -1773,6 +1868,7 @@
       ],
       "append": [],
       "pron": "ke1",
+      "example": [],
       "num": "44"
     },
     {
@@ -1790,6 +1886,7 @@
       ],
       "append": [],
       "pron": "kua1",
+      "example": [],
       "num": "45"
     },
     {
@@ -1817,6 +1914,7 @@
         }
       ],
       "pron": "kua1 tua2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -1842,6 +1940,7 @@
       ],
       "append": [],
       "pron": "kua1 kuang1",
+      "example": [],
       "num": "-"
     },
     {
@@ -1859,6 +1958,7 @@
       ],
       "append": [],
       "pron": "kua1 lai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -1886,6 +1986,7 @@
         }
       ],
       "pron": "kua1 gaos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -1913,6 +2014,7 @@
         }
       ],
       "pron": "kua1 vai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -1930,6 +2032,7 @@
       ],
       "append": [],
       "pron": "kua1 vais2",
+      "example": [],
       "num": "-"
     },
     {
@@ -1966,6 +2069,7 @@
         }
       ],
       "pron": "suo2",
+      "example": [],
       "num": "46"
     },
     {
@@ -2002,6 +2106,7 @@
         }
       ],
       "pron": "baim3",
+      "example": [],
       "num": "47",
       "link": [
         {
@@ -2027,6 +2132,7 @@
       ],
       "append": [],
       "pron": "peng3",
+      "example": [],
       "num": "48"
     },
     {
@@ -2044,6 +2150,7 @@
       ],
       "append": [],
       "pron": "yuo2",
+      "example": [],
       "num": "49"
     },
     {
@@ -2061,6 +2168,7 @@
       ],
       "append": [],
       "pron": "lom2",
+      "example": [],
       "num": "50"
     },
     {
@@ -2087,6 +2195,7 @@
       ],
       "append": [],
       "pron": "gaing2",
+      "example": [],
       "num": "51"
     },
     {
@@ -2104,6 +2213,7 @@
       ],
       "append": [],
       "pron": "tua2",
+      "example": [],
       "num": "52"
     },
     {
@@ -2131,6 +2241,7 @@
         }
       ],
       "pron": "tua2 xu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2148,6 +2259,7 @@
       ],
       "append": [],
       "pron": "suom3 tua2 xu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2165,6 +2277,7 @@
       ],
       "append": [],
       "pron": "nol2 tua2 xu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2182,6 +2295,7 @@
       ],
       "append": [],
       "pron": "nol2 ha3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -2208,6 +2322,7 @@
       ],
       "append": [],
       "pron": "taol3",
+      "example": [],
       "num": "53"
     },
     {
@@ -2225,6 +2340,7 @@
       ],
       "append": [],
       "pron": "xo2",
+      "example": [],
       "num": "54"
     },
     {
@@ -2251,6 +2367,7 @@
       ],
       "append": [],
       "pron": "huo1",
+      "example": [],
       "num": "55"
     },
     {
@@ -2268,6 +2385,7 @@
       ],
       "append": [],
       "pron": "tem3",
+      "example": [],
       "num": "56"
     },
     {
@@ -2285,6 +2403,7 @@
       ],
       "append": [],
       "pron": "tem3 jua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2312,6 +2431,7 @@
         }
       ],
       "pron": "dail2",
+      "example": [],
       "num": "57",
       "link": [
         {
@@ -2341,6 +2461,7 @@
       ],
       "append": [],
       "pron": "yai1",
+      "example": [],
       "num": "58"
     },
     {
@@ -2358,6 +2479,7 @@
       ],
       "append": [],
       "pron": "cen1",
+      "example": [],
       "num": "59"
     },
     {
@@ -2375,6 +2497,7 @@
       ],
       "append": [],
       "pron": "heng3",
+      "example": [],
       "num": "60"
     },
     {
@@ -2402,6 +2525,7 @@
         }
       ],
       "pron": "das1",
+      "example": [],
       "num": "61",
       "link": [
         {
@@ -2431,6 +2555,7 @@
       ],
       "append": [],
       "pron": "nes2",
+      "example": [],
       "num": "62"
     },
     {
@@ -2448,6 +2573,7 @@
       ],
       "append": [],
       "pron": "we2 nes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -2474,6 +2600,7 @@
       ],
       "append": [],
       "pron": "sao2",
+      "example": [],
       "num": "63"
     },
     {
@@ -2501,6 +2628,7 @@
         }
       ],
       "pron": "sao2 xos2",
+      "example": [],
       "num": "-"
     },
     {
@@ -2527,6 +2655,7 @@
       ],
       "append": [],
       "pron": "mail2 ca1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2544,6 +2673,7 @@
       ],
       "append": [],
       "pron": "xu2",
+      "example": [],
       "num": "64"
     },
     {
@@ -2570,6 +2700,7 @@
       ],
       "append": [],
       "pron": "lus3",
+      "example": [],
       "num": "65"
     },
     {
@@ -2587,6 +2718,7 @@
       ],
       "append": [],
       "pron": "be1",
+      "example": [],
       "num": "66"
     },
     {
@@ -2604,6 +2736,7 @@
       ],
       "append": [],
       "pron": "be1 mua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2621,6 +2754,7 @@
       ],
       "append": [],
       "pron": "ha1 be1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2638,6 +2772,7 @@
       ],
       "append": [],
       "pron": "mail2 be1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2655,6 +2790,7 @@
       ],
       "append": [],
       "pron": "him2 be1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2672,6 +2808,7 @@
       ],
       "append": [],
       "pron": "xal3 be1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2689,6 +2826,7 @@
       ],
       "append": [],
       "pron": "xal3 kaing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2716,6 +2854,7 @@
         }
       ],
       "pron": "vaim1",
+      "example": [],
       "num": "67"
     },
     {
@@ -2742,6 +2881,7 @@
       ],
       "append": [],
       "pron": "mam3",
+      "example": [],
       "num": "68"
     },
     {
@@ -2759,6 +2899,7 @@
       ],
       "append": [],
       "pron": "mam3 qo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -2785,6 +2926,7 @@
       ],
       "append": [],
       "pron": "kaing2",
+      "example": [],
       "num": "69"
     },
     {
@@ -2802,6 +2944,7 @@
       ],
       "append": [],
       "pron": "jai2",
+      "example": [],
       "num": "70"
     },
     {
@@ -2819,6 +2962,7 @@
       ],
       "append": [],
       "pron": "lai1",
+      "example": [],
       "num": "71"
     },
     {
@@ -2836,6 +2980,7 @@
       ],
       "append": [],
       "pron": "luong3",
+      "example": [],
       "num": "72"
     },
     {
@@ -2853,6 +2998,7 @@
       ],
       "append": [],
       "pron": "gua1 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -2870,6 +3016,7 @@
       ],
       "append": [],
       "pron": "duol2 na2",
+      "example": [],
       "num": "-"
     },
     {
@@ -2887,6 +3034,7 @@
       ],
       "append": [],
       "pron": "yao1 duol2 gua1 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -2904,6 +3052,7 @@
       ],
       "append": [],
       "pron": "so3 jaim3 gua1 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -2929,6 +3078,7 @@
       ],
       "append": [],
       "pron": "sing1",
+      "example": [],
       "num": "73"
     },
     {
@@ -2946,6 +3096,7 @@
       ],
       "append": [],
       "pron": "sing1 sao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -2963,6 +3114,7 @@
       ],
       "append": [],
       "pron": "sing1 cua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -2980,6 +3132,7 @@
       ],
       "append": [],
       "pron": "sing1 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -2997,6 +3150,7 @@
       ],
       "append": [],
       "pron": "fua1",
+      "example": [],
       "num": "74"
     },
     {
@@ -3014,6 +3168,7 @@
       ],
       "append": [],
       "pron": "fua1 xao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3035,6 +3190,7 @@
       ],
       "append": [],
       "pron": "fa2",
+      "example": [],
       "num": "75"
     },
     {
@@ -3052,6 +3208,7 @@
       ],
       "append": [],
       "pron": "hais3 fa2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3069,6 +3226,7 @@
       ],
       "append": [],
       "pron": "luong3 fa2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3086,6 +3244,7 @@
       ],
       "append": [],
       "pron": "fa2 paon1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3103,6 +3262,7 @@
       ],
       "append": [],
       "pron": "sua3",
+      "example": [],
       "num": "76"
     },
     {
@@ -3120,6 +3280,7 @@
       ],
       "append": [],
       "pron": "sua3 fuon3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3146,6 +3307,7 @@
       ],
       "append": [],
       "pron": "cuang2",
+      "example": [],
       "num": "77"
     },
     {
@@ -3173,6 +3335,7 @@
         }
       ],
       "pron": "cuang2 pi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3190,6 +3353,7 @@
       ],
       "append": [],
       "pron": "cuang2 xu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3207,6 +3371,7 @@
       ],
       "append": [],
       "pron": "nes2 cuang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3224,6 +3389,7 @@
       ],
       "append": [],
       "pron": "zi1",
+      "example": [],
       "num": "78"
     },
     {
@@ -3241,6 +3407,7 @@
       ],
       "append": [],
       "pron": "duo2",
+      "example": [],
       "num": "79"
     },
     {
@@ -3258,6 +3425,7 @@
       ],
       "append": [],
       "pron": "lun3",
+      "example": [],
       "num": "80"
     },
     {
@@ -3285,6 +3453,7 @@
         }
       ],
       "pron": "kem1",
+      "example": [],
       "num": "81"
     },
     {
@@ -3302,6 +3471,7 @@
       ],
       "append": [],
       "pron": "qai1",
+      "example": [],
       "num": "82",
       "link": [
         {
@@ -3327,6 +3497,7 @@
       ],
       "append": [],
       "pron": "qai1 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3353,6 +3524,7 @@
       ],
       "append": [],
       "pron": "lao1",
+      "example": [],
       "num": "83"
     },
     {
@@ -3379,6 +3551,7 @@
       ],
       "append": [],
       "pron": "tuo2",
+      "example": [],
       "num": "84"
     },
     {
@@ -3406,6 +3579,7 @@
         }
       ],
       "pron": "he2 tuo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3423,6 +3597,7 @@
       ],
       "append": [],
       "pron": "zom3",
+      "example": [],
       "num": "85"
     },
     {
@@ -3449,6 +3624,7 @@
       ],
       "append": [],
       "pron": "lo3",
+      "example": [],
       "num": "86"
     },
     {
@@ -3466,6 +3642,7 @@
       ],
       "append": [],
       "pron": "lo3 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3483,6 +3660,7 @@
       ],
       "append": [],
       "pron": "ya3 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3500,6 +3678,7 @@
       ],
       "append": [],
       "pron": "lo3 ya3 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3517,6 +3696,7 @@
       ],
       "append": [],
       "pron": "mum2",
+      "example": [],
       "num": "87"
     },
     {
@@ -3534,6 +3714,7 @@
       ],
       "append": [],
       "pron": "mum2 luo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3560,6 +3741,7 @@
       ],
       "append": [],
       "pron": "vu3",
+      "example": [],
       "num": "88"
     },
     {
@@ -3581,6 +3763,7 @@
       ],
       "append": [],
       "pron": "mong2",
+      "example": [],
       "num": "89"
     },
     {
@@ -3598,6 +3781,7 @@
       ],
       "append": [],
       "pron": "mong2 tua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3615,6 +3799,7 @@
       ],
       "append": [],
       "pron": "mong2 ki3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3632,6 +3817,7 @@
       ],
       "append": [],
       "pron": "ki1 mong2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3649,6 +3835,7 @@
       ],
       "append": [],
       "pron": "qua3",
+      "example": [],
       "num": "90"
     },
     {
@@ -3666,6 +3853,7 @@
       ],
       "append": [],
       "pron": "dao1 qua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3683,6 +3871,7 @@
       ],
       "append": [],
       "pron": "cel2",
+      "example": [],
       "num": "91"
     },
     {
@@ -3700,6 +3889,7 @@
       ],
       "append": [],
       "pron": "za3",
+      "example": [],
       "num": "92"
     },
     {
@@ -3726,6 +3916,7 @@
       ],
       "append": [],
       "pron": "hai2",
+      "example": [],
       "num": "93"
     },
     {
@@ -3743,6 +3934,7 @@
       ],
       "append": [],
       "pron": "hai2 kus3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3760,6 +3952,7 @@
       ],
       "append": [],
       "pron": "hai2 ju1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3777,6 +3970,7 @@
       ],
       "append": [],
       "pron": "hai2 lai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3794,6 +3988,7 @@
       ],
       "append": [],
       "pron": "wai1 hes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -3824,6 +4019,7 @@
       ],
       "append": [],
       "pron": "huas3",
+      "example": [],
       "num": "94"
     },
     {
@@ -3841,6 +4037,7 @@
       ],
       "append": [],
       "pron": "qo3",
+      "example": [],
       "num": "95"
     },
     {
@@ -3858,6 +4055,7 @@
       ],
       "append": [],
       "pron": "fun1 qo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -3875,6 +4073,7 @@
       ],
       "append": [],
       "pron": "qo3 xu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3892,6 +4091,7 @@
       ],
       "append": [],
       "pron": "i3",
+      "example": [],
       "num": "96"
     },
     {
@@ -3909,6 +4109,7 @@
       ],
       "append": [],
       "pron": "peng1",
+      "example": [],
       "num": "97"
     },
     {
@@ -3926,6 +4127,7 @@
       ],
       "append": [],
       "pron": "hil3 peng1",
+      "example": [],
       "num": "-"
     },
     {
@@ -3966,6 +4168,7 @@
         }
       ],
       "pron": "na1",
+      "example": [],
       "num": "98"
     },
     {
@@ -3983,6 +4186,7 @@
       ],
       "append": [],
       "pron": "na1 duol2 na2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4000,6 +4204,7 @@
       ],
       "append": [],
       "pron": "wi3 na1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4027,6 +4232,7 @@
         }
       ],
       "pron": "bom1",
+      "example": [],
       "num": "99"
     },
     {
@@ -4044,6 +4250,7 @@
       ],
       "append": [],
       "pron": "bom1 zua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4065,6 +4272,7 @@
       ],
       "append": [],
       "pron": "main2",
+      "example": [],
       "num": "100"
     },
     {
@@ -4082,6 +4290,7 @@
       ],
       "append": [],
       "pron": "main2 cuang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4099,6 +4308,7 @@
       ],
       "append": [],
       "pron": "main2 ye2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4116,6 +4326,7 @@
       ],
       "append": [],
       "pron": "main2 ha3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4133,6 +4344,7 @@
       ],
       "append": [],
       "pron": "main2 xao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4150,6 +4362,7 @@
       ],
       "append": [],
       "pron": "ha3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4167,6 +4380,7 @@
       ],
       "append": [],
       "pron": "sus3 ha3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4184,6 +4398,7 @@
       ],
       "append": [],
       "pron": "las3 ha3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4201,6 +4416,7 @@
       ],
       "append": [],
       "pron": "yaom1 bun2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4218,6 +4434,7 @@
       ],
       "append": [],
       "pron": "yaom1 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4235,6 +4452,7 @@
       ],
       "append": [],
       "pron": "taos3 ha3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4252,6 +4470,7 @@
       ],
       "append": [],
       "pron": "main2 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4269,6 +4488,7 @@
       ],
       "append": [],
       "pron": "main2 bun2 cuang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4286,6 +4506,7 @@
       ],
       "append": [],
       "pron": "main2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4303,6 +4524,7 @@
       ],
       "append": [],
       "pron": "main2 mam3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4320,6 +4542,7 @@
       ],
       "append": [],
       "pron": "main2 li1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4337,6 +4560,7 @@
       ],
       "append": [],
       "pron": "li1 main2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4354,6 +4578,7 @@
       ],
       "append": [],
       "pron": "suol3 li1 main2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4371,6 +4596,7 @@
       ],
       "append": [],
       "pron": "main2 yao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4398,6 +4624,7 @@
         }
       ],
       "pron": "zai3",
+      "example": [],
       "num": "101",
       "link": [
         {
@@ -4423,6 +4650,7 @@
       ],
       "append": [],
       "pron": "ha3",
+      "example": [],
       "num": "102"
     },
     {
@@ -4440,6 +4668,7 @@
       ],
       "append": [],
       "pron": "dais2",
+      "example": [],
       "num": "103"
     },
     {
@@ -4466,6 +4695,7 @@
       ],
       "append": [],
       "pron": "hua1",
+      "example": [],
       "num": "104"
     },
     {
@@ -4483,6 +4713,7 @@
       ],
       "append": [],
       "pron": "pu2 huo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4500,6 +4731,7 @@
       ],
       "append": [],
       "pron": "hua1 pu2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4517,6 +4749,7 @@
       ],
       "append": [],
       "pron": "pu2",
+      "example": [],
       "num": "105"
     },
     {
@@ -4543,6 +4776,7 @@
       ],
       "append": [],
       "pron": "fuon3",
+      "example": [],
       "num": "106"
     },
     {
@@ -4560,6 +4794,7 @@
       ],
       "append": [],
       "pron": "fuon3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4577,6 +4812,7 @@
       ],
       "append": [],
       "pron": "fuon3 mu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4594,6 +4830,7 @@
       ],
       "append": [],
       "pron": "fuon3 qo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4611,6 +4848,7 @@
       ],
       "append": [],
       "pron": "main2 fuon3 mu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4628,6 +4866,7 @@
       ],
       "append": [],
       "pron": "ba1 fuon3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4654,6 +4893,7 @@
       ],
       "append": [],
       "pron": "ve1",
+      "example": [],
       "num": "107"
     },
     {
@@ -4699,6 +4939,7 @@
         }
       ],
       "pron": "ba1",
+      "example": [],
       "num": "108",
       "link": [
         {
@@ -4734,6 +4975,35 @@
         }
       ],
       "pron": "ba1 gao2",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "領軸人",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "管理者。管理人。オーナー。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "組織や施設を管理している人。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "ba1 gao2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4761,6 +5031,7 @@
         }
       ],
       "pron": "om2 ba1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4788,6 +5059,7 @@
         }
       ],
       "pron": "ba1 cai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -4805,6 +5077,7 @@
       ],
       "append": [],
       "pron": "ye2",
+      "example": [],
       "num": "109"
     },
     {
@@ -4822,6 +5095,7 @@
       ],
       "append": [],
       "pron": "sua3 sus3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4839,6 +5113,7 @@
       ],
       "append": [],
       "pron": "buo3",
+      "example": [],
       "num": "110"
     },
     {
@@ -4856,6 +5131,7 @@
       ],
       "append": [],
       "pron": "cai1 buo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4873,6 +5149,7 @@
       ],
       "append": [],
       "pron": "yol1 buo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4890,6 +5167,7 @@
       ],
       "append": [],
       "pron": "ai2 buo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4907,6 +5185,7 @@
       ],
       "append": [],
       "pron": "hais3 buo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -4924,6 +5203,7 @@
       ],
       "append": [],
       "pron": "ki3",
+      "example": [],
       "num": "111"
     },
     {
@@ -4941,6 +5221,7 @@
       ],
       "append": [],
       "pron": "mua1",
+      "example": [],
       "num": "112"
     },
     {
@@ -4958,6 +5239,7 @@
       ],
       "append": [],
       "pron": "ton2 yai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4975,6 +5257,7 @@
       ],
       "append": [],
       "pron": "ton2 lim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -4992,6 +5275,7 @@
       ],
       "append": [],
       "pron": "mua1 di2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5009,6 +5293,7 @@
       ],
       "append": [],
       "pron": "main2 ton2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -5034,6 +5319,7 @@
       ],
       "append": [],
       "pron": "mail2 mua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -5060,6 +5346,7 @@
       ],
       "append": [],
       "pron": "sua1",
+      "example": [],
       "num": "113"
     },
     {
@@ -5096,6 +5383,7 @@
         }
       ],
       "pron": "pe2",
+      "example": [],
       "num": "114",
       "link": [
         {
@@ -5121,6 +5409,7 @@
       ],
       "append": [],
       "pron": "pe2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -5138,6 +5427,7 @@
       ],
       "append": [],
       "pron": "pe2 nai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5159,6 +5449,7 @@
       ],
       "append": [],
       "pron": "cuo2",
+      "example": [],
       "num": "115"
     },
     {
@@ -5176,6 +5467,7 @@
       ],
       "append": [],
       "pron": "cuo2 za2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5193,6 +5485,7 @@
       ],
       "append": [],
       "pron": "yao1 cuo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5210,6 +5503,7 @@
       ],
       "append": [],
       "pron": "cun1 cuo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5227,6 +5521,7 @@
       ],
       "append": [],
       "pron": "pao2",
+      "example": [],
       "num": "116"
     },
     {
@@ -5263,6 +5558,7 @@
         }
       ],
       "pron": "hu3",
+      "example": [],
       "num": "117"
     },
     {
@@ -5280,6 +5576,7 @@
       ],
       "append": [],
       "pron": "hu3 ail1",
+      "example": [],
       "num": "-"
     },
     {
@@ -5306,6 +5603,7 @@
       ],
       "append": [],
       "pron": "ki1",
+      "example": [],
       "num": "118"
     },
     {
@@ -5323,6 +5621,7 @@
       ],
       "append": [],
       "pron": "a2",
+      "example": [],
       "num": "119"
     },
     {
@@ -5340,6 +5639,7 @@
       ],
       "append": [],
       "pron": "lis3",
+      "example": [],
       "num": "120"
     },
     {
@@ -5367,6 +5667,7 @@
         }
       ],
       "pron": "e3",
+      "example": [],
       "num": "121"
     },
     {
@@ -5394,6 +5695,7 @@
         }
       ],
       "pron": "e3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -5421,6 +5723,7 @@
         }
       ],
       "pron": "him2",
+      "example": [],
       "num": "122",
       "link": [
         {
@@ -5447,6 +5750,7 @@
       ],
       "append": [],
       "pron": "sao2 him2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5464,6 +5768,7 @@
       ],
       "append": [],
       "pron": "gim1",
+      "example": [],
       "num": "123"
     },
     {
@@ -5500,6 +5805,7 @@
         }
       ],
       "pron": "xo3",
+      "example": [],
       "num": "124"
     },
     {
@@ -5527,6 +5833,7 @@
         }
       ],
       "pron": "yol1",
+      "example": [],
       "num": "125",
       "link": [
         {
@@ -5557,6 +5864,7 @@
       ],
       "append": [],
       "pron": "yol1 we2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5584,6 +5892,7 @@
         }
       ],
       "pron": "nang2",
+      "example": [],
       "num": "126"
     },
     {
@@ -5601,6 +5910,7 @@
       ],
       "append": [],
       "pron": "nai2 nang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5646,6 +5956,7 @@
         }
       ],
       "pron": "fuon2",
+      "example": [],
       "num": "127"
     },
     {
@@ -5663,6 +5974,7 @@
       ],
       "append": [],
       "pron": "fuon2 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -5689,6 +6001,7 @@
       ],
       "append": [],
       "pron": "fuon2 mo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5734,6 +6047,7 @@
         }
       ],
       "pron": "pel1",
+      "example": [],
       "num": "128"
     },
     {
@@ -5751,6 +6065,7 @@
       ],
       "append": [],
       "pron": "pel1 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -5791,6 +6106,7 @@
         }
       ],
       "pron": "vais2",
+      "example": [],
       "num": "129"
     },
     {
@@ -5808,6 +6124,7 @@
       ],
       "append": [],
       "pron": "i1",
+      "example": [],
       "num": "130"
     },
     {
@@ -5844,6 +6161,7 @@
         }
       ],
       "pron": "jaim3",
+      "example": [],
       "num": "131"
     },
     {
@@ -5861,6 +6179,7 @@
       ],
       "append": [],
       "pron": "so3 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5878,6 +6197,7 @@
       ],
       "append": [],
       "pron": "mi1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5895,6 +6215,7 @@
       ],
       "append": [],
       "pron": "si3 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5912,6 +6233,7 @@
       ],
       "append": [],
       "pron": "sing1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5929,6 +6251,7 @@
       ],
       "append": [],
       "pron": "tang2 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5946,6 +6269,7 @@
       ],
       "append": [],
       "pron": "se3 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5963,6 +6287,7 @@
       ],
       "append": [],
       "pron": "min1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5980,6 +6305,7 @@
       ],
       "append": [],
       "pron": "ja1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -5997,6 +6323,7 @@
       ],
       "append": [],
       "pron": "xai3 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6014,6 +6341,7 @@
       ],
       "append": [],
       "pron": "haom3 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6031,6 +6359,7 @@
       ],
       "append": [],
       "pron": "waos2 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6048,6 +6377,7 @@
       ],
       "append": [],
       "pron": "nais2 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6065,6 +6395,7 @@
       ],
       "append": [],
       "pron": "hao1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6082,6 +6413,7 @@
       ],
       "append": [],
       "pron": "qao2 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6099,6 +6431,7 @@
       ],
       "append": [],
       "pron": "tuo3 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6116,6 +6449,7 @@
       ],
       "append": [],
       "pron": "va2 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6133,6 +6467,7 @@
       ],
       "append": [],
       "pron": "fe2",
+      "example": [],
       "num": "132"
     },
     {
@@ -6160,6 +6495,7 @@
         }
       ],
       "pron": "xe1",
+      "example": [],
       "num": "133"
     },
     {
@@ -6186,6 +6522,7 @@
       ],
       "append": [],
       "pron": "sil3",
+      "example": [],
       "num": "134"
     },
     {
@@ -6217,6 +6554,7 @@
         }
       ],
       "pron": "las2",
+      "example": [],
       "num": "135"
     },
     {
@@ -6244,6 +6582,7 @@
         }
       ],
       "pron": "gaol3 las2 dai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6271,6 +6610,7 @@
         }
       ],
       "pron": "muos3 gaol3 las2 dai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6298,6 +6638,7 @@
         }
       ],
       "pron": "fai1 las2 dai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6325,6 +6666,7 @@
         }
       ],
       "pron": "luong1 las2 dai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6351,6 +6693,7 @@
       ],
       "append": [],
       "pron": "sal2",
+      "example": [],
       "num": "136"
     },
     {
@@ -6368,6 +6711,7 @@
       ],
       "append": [],
       "pron": "sal2 quo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6385,6 +6729,7 @@
       ],
       "append": [],
       "pron": "da3",
+      "example": [],
       "num": "137"
     },
     {
@@ -6406,6 +6751,7 @@
       ],
       "append": [],
       "pron": "si3",
+      "example": [],
       "num": "138"
     },
     {
@@ -6423,6 +6769,7 @@
       ],
       "append": [],
       "pron": "buan3 si3 tang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -6440,6 +6787,7 @@
       ],
       "append": [],
       "pron": "gaol3 so3 sing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -6461,6 +6809,7 @@
       ],
       "append": [],
       "pron": "waos2",
+      "example": [],
       "num": "139"
     },
     {
@@ -6488,6 +6837,7 @@
         }
       ],
       "pron": "xe2",
+      "example": [],
       "num": "140",
       "link": [
         {
@@ -6523,6 +6873,7 @@
         }
       ],
       "pron": "dao3",
+      "example": [],
       "num": "141"
     },
     {
@@ -6540,6 +6891,7 @@
       ],
       "append": [],
       "pron": "zo2",
+      "example": [],
       "num": "142"
     },
     {
@@ -6557,6 +6909,7 @@
       ],
       "append": [],
       "pron": "zo2 zo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -6574,6 +6927,7 @@
       ],
       "append": [],
       "pron": "so1 so1",
+      "example": [],
       "num": "-"
     },
     {
@@ -6601,6 +6955,7 @@
         }
       ],
       "pron": "duol2",
+      "example": [],
       "num": "143"
     },
     {
@@ -6618,6 +6973,7 @@
       ],
       "append": [],
       "pron": "yao1 duol2",
+      "example": [],
       "num": "-"
     },
     {
@@ -6645,6 +7001,7 @@
         }
       ],
       "pron": "quo3",
+      "example": [],
       "num": "144"
     },
     {
@@ -6671,6 +7028,7 @@
       ],
       "append": [],
       "pron": "len1",
+      "example": [],
       "num": "145"
     },
     {
@@ -6688,6 +7046,7 @@
       ],
       "append": [],
       "pron": "len1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6714,6 +7073,7 @@
       ],
       "append": [],
       "pron": "gon2",
+      "example": [],
       "num": "146"
     },
     {
@@ -6741,6 +7101,7 @@
         }
       ],
       "pron": "gon2 gua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -6758,6 +7119,7 @@
       ],
       "append": [],
       "pron": "gon2 gua1 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -6784,6 +7146,7 @@
       ],
       "append": [],
       "pron": "muos3",
+      "example": [],
       "num": "147"
     },
     {
@@ -6801,6 +7164,7 @@
       ],
       "append": [],
       "pron": "muos3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -6818,6 +7182,7 @@
       ],
       "append": [],
       "pron": "fua1 muos3",
+      "example": [],
       "num": "-"
     },
     {
@@ -6844,6 +7209,7 @@
       ],
       "append": [],
       "pron": "nuo2",
+      "example": [],
       "num": "148"
     },
     {
@@ -6870,6 +7236,7 @@
       ],
       "append": [],
       "pron": "dao1",
+      "example": [],
       "num": "149"
     },
     {
@@ -6897,6 +7264,7 @@
         }
       ],
       "pron": "dao1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -6916,6 +7284,7 @@
       ],
       "append": [],
       "pron": "dao1 mis1",
+      "example": [],
       "num": "-"
     },
     {
@@ -6933,6 +7302,7 @@
       ],
       "append": [],
       "pron": "dao1 sao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -6950,6 +7320,7 @@
       ],
       "append": [],
       "pron": "kail3",
+      "example": [],
       "num": "150"
     },
     {
@@ -6967,6 +7338,7 @@
       ],
       "append": [],
       "pron": "wo3",
+      "example": [],
       "num": "151"
     },
     {
@@ -6993,6 +7365,7 @@
       ],
       "append": [],
       "pron": "yem2",
+      "example": [],
       "num": "152"
     },
     {
@@ -7010,6 +7383,7 @@
       ],
       "append": [],
       "pron": "go3",
+      "example": [],
       "num": "153"
     },
     {
@@ -7027,6 +7401,7 @@
       ],
       "append": [],
       "pron": "quo3 go3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7067,6 +7442,7 @@
         }
       ],
       "pron": "vua1",
+      "example": [],
       "num": "154",
       "link": [
         {
@@ -7092,6 +7468,7 @@
       ],
       "append": [],
       "pron": "qang3",
+      "example": [],
       "num": "155"
     },
     {
@@ -7109,6 +7486,7 @@
       ],
       "append": [],
       "pron": "nal3",
+      "example": [],
       "num": "156"
     },
     {
@@ -7126,6 +7504,7 @@
       ],
       "append": [],
       "pron": "xung3",
+      "example": [],
       "num": "157"
     },
     {
@@ -7152,6 +7531,7 @@
       ],
       "append": [],
       "pron": "bas2",
+      "example": [],
       "num": "158"
     },
     {
@@ -7169,6 +7549,7 @@
       ],
       "append": [],
       "pron": "bas2 cua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7196,6 +7577,7 @@
         }
       ],
       "pron": "puang1",
+      "example": [],
       "num": "159"
     },
     {
@@ -7213,6 +7595,7 @@
       ],
       "append": [],
       "pron": "dao3 puang1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7240,6 +7623,7 @@
         }
       ],
       "pron": "xu1",
+      "example": [],
       "num": "160",
       "link": [
         {
@@ -7265,6 +7649,7 @@
       ],
       "append": [],
       "pron": "juan2 lai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -7292,6 +7677,7 @@
         }
       ],
       "pron": "xung3 xu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7309,6 +7695,7 @@
       ],
       "append": [],
       "pron": "xu1 bas2",
+      "example": [],
       "num": "-"
     },
     {
@@ -7326,6 +7713,7 @@
       ],
       "append": [],
       "pron": "mis1",
+      "example": [],
       "num": "161"
     },
     {
@@ -7343,6 +7731,7 @@
       ],
       "append": [],
       "pron": "vao3",
+      "example": [],
       "num": "162"
     },
     {
@@ -7378,6 +7767,7 @@
       ],
       "append": [],
       "pron": "suo3",
+      "example": [],
       "num": "163"
     },
     {
@@ -7395,6 +7785,7 @@
       ],
       "append": [],
       "pron": "sing1 suo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7422,6 +7813,7 @@
         }
       ],
       "pron": "suo3 cun1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7439,6 +7831,7 @@
       ],
       "append": [],
       "pron": "huo2",
+      "example": [],
       "num": "164"
     },
     {
@@ -7466,6 +7859,7 @@
         }
       ],
       "pron": "zo3",
+      "example": [],
       "num": "165",
       "link": [
         {
@@ -7500,6 +7894,7 @@
       ],
       "append": [],
       "pron": "wi3",
+      "example": [],
       "num": "166"
     },
     {
@@ -7517,6 +7912,7 @@
       ],
       "append": [],
       "pron": "vas1 wi3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7534,6 +7930,7 @@
       ],
       "append": [],
       "pron": "xao3 wi3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7561,6 +7958,7 @@
         }
       ],
       "pron": "ye1",
+      "example": [],
       "num": "167"
     },
     {
@@ -7587,6 +7985,7 @@
       ],
       "append": [],
       "pron": "ju1",
+      "example": [],
       "num": "168"
     },
     {
@@ -7604,6 +8003,7 @@
       ],
       "append": [],
       "pron": "kuang1 ju1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7621,6 +8021,7 @@
       ],
       "append": [],
       "pron": "kuang1 jua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7638,6 +8039,7 @@
       ],
       "append": [],
       "pron": "ju1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7664,6 +8066,7 @@
       ],
       "append": [],
       "pron": "yao3",
+      "example": [],
       "num": "169"
     },
     {
@@ -7681,6 +8084,7 @@
       ],
       "append": [],
       "pron": "guong1",
+      "example": [],
       "num": "170"
     },
     {
@@ -7698,6 +8102,7 @@
       ],
       "append": [],
       "pron": "qim3 guong1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7715,6 +8120,7 @@
       ],
       "append": [],
       "pron": "mo2",
+      "example": [],
       "num": "171"
     },
     {
@@ -7746,6 +8152,7 @@
         }
       ],
       "pron": "ma3",
+      "example": [],
       "num": "172",
       "link": [
         {
@@ -7771,6 +8178,7 @@
       ],
       "append": [],
       "pron": "hil3",
+      "example": [],
       "num": "173"
     },
     {
@@ -7788,6 +8196,7 @@
       ],
       "append": [],
       "pron": "hil3 ail1",
+      "example": [],
       "num": "-"
     },
     {
@@ -7815,6 +8224,7 @@
         }
       ],
       "pron": "kus3 fes2 hil3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7842,6 +8252,7 @@
         }
       ],
       "pron": "hai2 nuo2 nu3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7872,6 +8283,7 @@
       ],
       "append": [],
       "pron": "xao3",
+      "example": [],
       "num": "174"
     },
     {
@@ -7889,6 +8301,7 @@
       ],
       "append": [],
       "pron": "xao3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -7915,6 +8328,7 @@
       ],
       "append": [],
       "pron": "ke1 xao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7932,6 +8346,7 @@
       ],
       "append": [],
       "pron": "ke1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -7953,6 +8368,7 @@
       ],
       "append": [],
       "pron": "ke1 vul3",
+      "example": [],
       "num": "-"
     },
     {
@@ -7970,6 +8386,7 @@
       ],
       "append": [],
       "pron": "ail1",
+      "example": [],
       "num": "175"
     },
     {
@@ -7996,6 +8413,7 @@
       ],
       "append": [],
       "pron": "li1",
+      "example": [],
       "num": "176"
     },
     {
@@ -8021,6 +8439,7 @@
       ],
       "append": [],
       "pron": "mi1",
+      "example": [],
       "num": "177"
     },
     {
@@ -8038,6 +8457,7 @@
       ],
       "append": [],
       "pron": "mi1 baon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8055,6 +8475,7 @@
       ],
       "append": [],
       "pron": "nail2 mi1 baon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8072,6 +8493,7 @@
       ],
       "append": [],
       "pron": "li2 mi1 baon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8089,6 +8511,7 @@
       ],
       "append": [],
       "pron": "mi1 sing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -8106,6 +8529,7 @@
       ],
       "append": [],
       "pron": "cang2",
+      "example": [],
       "num": "178"
     },
     {
@@ -8142,6 +8566,7 @@
         }
       ],
       "pron": "hao2",
+      "example": [],
       "num": "179"
     },
     {
@@ -8159,6 +8584,7 @@
       ],
       "append": [],
       "pron": "hao2 qim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -8176,6 +8602,7 @@
       ],
       "append": [],
       "pron": "ho3",
+      "example": [],
       "num": "180"
     },
     {
@@ -8193,6 +8620,7 @@
       ],
       "append": [],
       "pron": "ho3 zaos2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8210,6 +8638,7 @@
       ],
       "append": [],
       "pron": "qim3 ho3",
+      "example": [],
       "num": "-"
     },
     {
@@ -8227,6 +8656,7 @@
       ],
       "append": [],
       "pron": "dai2",
+      "example": [],
       "num": "181"
     },
     {
@@ -8244,6 +8674,7 @@
       ],
       "append": [],
       "pron": "dai2 gim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -8289,6 +8720,7 @@
         }
       ],
       "pron": "yuon2",
+      "example": [],
       "num": "182"
     },
     {
@@ -8306,6 +8738,7 @@
       ],
       "append": [],
       "pron": "mu1",
+      "example": [],
       "num": "183"
     },
     {
@@ -8342,6 +8775,7 @@
         }
       ],
       "pron": "a3",
+      "example": [],
       "num": "184"
     },
     {
@@ -8368,6 +8802,7 @@
       ],
       "append": [],
       "pron": "na2",
+      "example": [],
       "num": "185"
     },
     {
@@ -8385,6 +8820,7 @@
       ],
       "append": [],
       "pron": "fi3",
+      "example": [],
       "num": "186"
     },
     {
@@ -8402,6 +8838,7 @@
       ],
       "append": [],
       "pron": "fi3 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -8438,6 +8875,7 @@
         }
       ],
       "pron": "waing1",
+      "example": [],
       "num": "187"
     },
     {
@@ -8465,6 +8903,7 @@
         }
       ],
       "pron": "xe3 waing1 cen1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -8490,6 +8929,7 @@
       ],
       "append": [],
       "pron": "yon1",
+      "example": [],
       "num": "188"
     },
     {
@@ -8516,6 +8956,7 @@
       ],
       "append": [],
       "pron": "ao1",
+      "example": [],
       "num": "189"
     },
     {
@@ -8543,6 +8984,7 @@
         }
       ],
       "pron": "ao1 lua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -8560,6 +9002,7 @@
       ],
       "append": [],
       "pron": "jaim1",
+      "example": [],
       "num": "190"
     },
     {
@@ -8577,6 +9020,7 @@
       ],
       "append": [],
       "pron": "li3",
+      "example": [],
       "num": "191"
     },
     {
@@ -8594,6 +9038,7 @@
       ],
       "append": [],
       "pron": "yan1",
+      "example": [],
       "num": "192"
     },
     {
@@ -8611,6 +9056,7 @@
       ],
       "append": [],
       "pron": "bao1",
+      "example": [],
       "num": "193"
     },
     {
@@ -8628,6 +9074,7 @@
       ],
       "append": [],
       "pron": "tail1",
+      "example": [],
       "num": "194"
     },
     {
@@ -8645,6 +9092,7 @@
       ],
       "append": [],
       "pron": "pai2",
+      "example": [],
       "num": "195"
     },
     {
@@ -8662,6 +9110,7 @@
       ],
       "append": [],
       "pron": "tuong2",
+      "example": [],
       "num": "196"
     },
     {
@@ -8689,6 +9138,7 @@
         }
       ],
       "pron": "cim1",
+      "example": [],
       "num": "197"
     },
     {
@@ -8716,6 +9166,7 @@
         }
       ],
       "pron": "gual2",
+      "example": [],
       "num": "198"
     },
     {
@@ -8743,6 +9194,7 @@
         }
       ],
       "pron": "la3",
+      "example": [],
       "num": "199"
     },
     {
@@ -8760,6 +9212,7 @@
       ],
       "append": [],
       "pron": "cin2",
+      "example": [],
       "num": "200"
     },
     {
@@ -8786,6 +9239,7 @@
       ],
       "append": [],
       "pron": "hes2",
+      "example": [],
       "num": "201"
     },
     {
@@ -8813,6 +9267,7 @@
         }
       ],
       "pron": "hes2 sua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -8830,6 +9285,7 @@
       ],
       "append": [],
       "pron": "naol3",
+      "example": [],
       "num": "202"
     },
     {
@@ -8847,6 +9303,7 @@
       ],
       "append": [],
       "pron": "naol3 yai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -8864,6 +9321,7 @@
       ],
       "append": [],
       "pron": "naol3 tua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8881,6 +9339,7 @@
       ],
       "append": [],
       "pron": "naol3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -8898,6 +9357,7 @@
       ],
       "append": [],
       "pron": "naol3 pis3",
+      "example": [],
       "num": "-"
     },
     {
@@ -8915,6 +9375,7 @@
       ],
       "append": [],
       "pron": "naol3 wel2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8932,6 +9393,7 @@
       ],
       "append": [],
       "pron": "naol3 xos2",
+      "example": [],
       "num": "-"
     },
     {
@@ -8959,6 +9421,7 @@
         }
       ],
       "pron": "lol1",
+      "example": [],
       "num": "203"
     },
     {
@@ -8985,6 +9448,7 @@
       ],
       "append": [],
       "pron": "mai1",
+      "example": [],
       "num": "204"
     },
     {
@@ -9012,6 +9476,7 @@
         }
       ],
       "pron": "mi1 mai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9039,6 +9504,7 @@
         }
       ],
       "pron": "jai1",
+      "example": [],
       "num": "205",
       "link": [
         {
@@ -9068,6 +9534,7 @@
       ],
       "append": [],
       "pron": "xai3",
+      "example": [],
       "num": "206"
     },
     {
@@ -9085,6 +9552,7 @@
       ],
       "append": [],
       "pron": "hais3",
+      "example": [],
       "num": "207"
     },
     {
@@ -9102,6 +9570,7 @@
       ],
       "append": [],
       "pron": "hais3 si3",
+      "example": [],
       "num": "-"
     },
     {
@@ -9119,6 +9588,7 @@
       ],
       "append": [],
       "pron": "hais3 xu2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9136,6 +9606,7 @@
       ],
       "append": [],
       "pron": "lus3 hais3",
+      "example": [],
       "num": "-"
     },
     {
@@ -9153,6 +9624,7 @@
       ],
       "append": [],
       "pron": "vuos1 duol2 hais3",
+      "example": [],
       "num": "-"
     },
     {
@@ -9170,6 +9642,7 @@
       ],
       "append": [],
       "pron": "kaing2 duol2 hais3",
+      "example": [],
       "num": "-"
     },
     {
@@ -9197,6 +9670,7 @@
         }
       ],
       "pron": "xo2 ju1 hais3",
+      "example": [],
       "num": "-"
     },
     {
@@ -9218,6 +9692,7 @@
       ],
       "append": [],
       "pron": "ja1",
+      "example": [],
       "num": "208"
     },
     {
@@ -9235,6 +9710,7 @@
       ],
       "append": [],
       "pron": "ja1 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9252,6 +9728,7 @@
       ],
       "append": [],
       "pron": "nail2 ja1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9269,6 +9746,7 @@
       ],
       "append": [],
       "pron": "ja1 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -9286,6 +9764,7 @@
       ],
       "append": [],
       "pron": "ke1 ja1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9313,6 +9792,7 @@
         }
       ],
       "pron": "se3",
+      "example": [],
       "num": "209"
     },
     {
@@ -9330,6 +9810,7 @@
       ],
       "append": [],
       "pron": "se3 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9347,6 +9828,7 @@
       ],
       "append": [],
       "pron": "gu2",
+      "example": [],
       "num": "210"
     },
     {
@@ -9364,6 +9846,7 @@
       ],
       "append": [],
       "pron": "gu2 las2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9381,6 +9864,7 @@
       ],
       "append": [],
       "pron": "qil2 main2 ge2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9402,6 +9886,7 @@
       ],
       "append": [],
       "pron": "va2",
+      "example": [],
       "num": "211"
     },
     {
@@ -9423,6 +9908,7 @@
       ],
       "append": [],
       "pron": "tuo3",
+      "example": [],
       "num": "212"
     },
     {
@@ -9444,6 +9930,7 @@
       ],
       "append": [],
       "pron": "qao2",
+      "example": [],
       "num": "213"
     },
     {
@@ -9461,6 +9948,7 @@
       ],
       "append": [],
       "pron": "xao2",
+      "example": [],
       "num": "214"
     },
     {
@@ -9482,6 +9970,7 @@
       ],
       "append": [],
       "pron": "min1",
+      "example": [],
       "num": "215"
     },
     {
@@ -9499,6 +9988,7 @@
       ],
       "append": [],
       "pron": "vao2",
+      "example": [],
       "num": "216"
     },
     {
@@ -9520,6 +10010,7 @@
       ],
       "append": [],
       "pron": "haom3",
+      "example": [],
       "num": "217"
     },
     {
@@ -9537,6 +10028,7 @@
       ],
       "append": [],
       "pron": "nail2",
+      "example": [],
       "num": "218"
     },
     {
@@ -9554,6 +10046,7 @@
       ],
       "append": [],
       "pron": "nail2 nes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9571,6 +10064,7 @@
       ],
       "append": [],
       "pron": "hes2 nail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9592,6 +10086,7 @@
       ],
       "append": [],
       "pron": "hao1",
+      "example": [],
       "num": "219"
     },
     {
@@ -9613,6 +10108,7 @@
       ],
       "append": [],
       "pron": "nais2",
+      "example": [],
       "num": "220"
     },
     {
@@ -9630,6 +10126,7 @@
       ],
       "append": [],
       "pron": "cun1",
+      "example": [],
       "num": "221"
     },
     {
@@ -9656,6 +10153,7 @@
       ],
       "append": [],
       "pron": "uo2",
+      "example": [],
       "num": "222"
     },
     {
@@ -9683,6 +10181,7 @@
         }
       ],
       "pron": "buos1",
+      "example": [],
       "num": "223",
       "link": [
         {
@@ -9718,6 +10217,7 @@
         }
       ],
       "pron": "buos1 juom1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9735,6 +10235,7 @@
       ],
       "append": [],
       "pron": "fai1 xem1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9752,6 +10253,7 @@
       ],
       "append": [],
       "pron": "muos3 fai1 xem1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9769,6 +10271,7 @@
       ],
       "append": [],
       "pron": "muos3 lis3 xem1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9786,6 +10289,7 @@
       ],
       "append": [],
       "pron": "muos3 li3 xem1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9803,6 +10307,7 @@
       ],
       "append": [],
       "pron": "muos3 tail1 xem1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9820,6 +10325,7 @@
       ],
       "append": [],
       "pron": "muos3 tail1 li3 xem1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9837,6 +10343,7 @@
       ],
       "append": [],
       "pron": "buos1 jao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9854,6 +10361,7 @@
       ],
       "append": [],
       "pron": "za2",
+      "example": [],
       "num": "224"
     },
     {
@@ -9871,6 +10379,7 @@
       ],
       "append": [],
       "pron": "tai1 za2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9888,6 +10397,7 @@
       ],
       "append": [],
       "pron": "nail2 za2",
+      "example": [],
       "num": "-"
     },
     {
@@ -9924,6 +10434,7 @@
         }
       ],
       "pron": "les3",
+      "example": [],
       "num": "225"
     },
     {
@@ -9941,6 +10452,7 @@
       ],
       "append": [],
       "pron": "les3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -9967,6 +10479,7 @@
       ],
       "append": [],
       "pron": "tuam2",
+      "example": [],
       "num": "226"
     },
     {
@@ -10002,6 +10515,7 @@
       ],
       "append": [],
       "pron": "wai1",
+      "example": [],
       "num": "227"
     },
     {
@@ -10019,6 +10533,7 @@
       ],
       "append": [],
       "pron": "gais2",
+      "example": [],
       "num": "228"
     },
     {
@@ -10036,6 +10551,7 @@
       ],
       "append": [],
       "pron": "vain3",
+      "example": [],
       "num": "229"
     },
     {
@@ -10053,6 +10569,7 @@
       ],
       "append": [],
       "pron": "ja3",
+      "example": [],
       "num": "230"
     },
     {
@@ -10079,6 +10596,7 @@
       ],
       "append": [],
       "pron": "faong3",
+      "example": [],
       "num": "231"
     },
     {
@@ -10096,6 +10614,7 @@
       ],
       "append": [],
       "pron": "faong3 kuang1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10113,6 +10632,7 @@
       ],
       "append": [],
       "pron": "faong3 vo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10130,6 +10650,7 @@
       ],
       "append": [],
       "pron": "faong3 vais2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10147,6 +10668,7 @@
       ],
       "append": [],
       "pron": "caom1",
+      "example": [],
       "num": "232"
     },
     {
@@ -10173,6 +10695,7 @@
       ],
       "append": [],
       "pron": "il3",
+      "example": [],
       "num": "233"
     },
     {
@@ -10190,6 +10713,7 @@
       ],
       "append": [],
       "pron": "il3 nang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10207,6 +10731,7 @@
       ],
       "append": [],
       "pron": "bua1 il3",
+      "example": [],
       "num": "-"
     },
     {
@@ -10233,6 +10758,7 @@
       ],
       "append": [],
       "pron": "li2",
+      "example": [],
       "num": "234"
     },
     {
@@ -10250,6 +10776,7 @@
       ],
       "append": [],
       "pron": "li2 cai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10267,6 +10794,7 @@
       ],
       "append": [],
       "pron": "li2 hua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10284,6 +10812,7 @@
       ],
       "append": [],
       "pron": "li2 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -10301,6 +10830,7 @@
       ],
       "append": [],
       "pron": "gum2",
+      "example": [],
       "num": "235"
     },
     {
@@ -10318,6 +10848,7 @@
       ],
       "append": [],
       "pron": "tai1",
+      "example": [],
       "num": "236"
     },
     {
@@ -10335,6 +10866,7 @@
       ],
       "append": [],
       "pron": "tai1 hua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10352,6 +10884,7 @@
       ],
       "append": [],
       "pron": "do1",
+      "example": [],
       "num": "237"
     },
     {
@@ -10369,6 +10902,7 @@
       ],
       "append": [],
       "pron": "suam1",
+      "example": [],
       "num": "238"
     },
     {
@@ -10395,6 +10929,7 @@
       ],
       "append": [],
       "pron": "suam1 mu1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10421,6 +10956,7 @@
       ],
       "append": [],
       "pron": "guol1",
+      "example": [],
       "num": "239"
     },
     {
@@ -10438,6 +10974,7 @@
       ],
       "append": [],
       "pron": "guol1 qo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10455,6 +10992,7 @@
       ],
       "append": [],
       "pron": "zua3",
+      "example": [],
       "num": "240"
     },
     {
@@ -10485,6 +11023,7 @@
       ],
       "append": [],
       "pron": "an3",
+      "example": [],
       "num": "241"
     },
     {
@@ -10502,6 +11041,7 @@
       ],
       "append": [],
       "pron": "an3 sao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10519,6 +11059,7 @@
       ],
       "append": [],
       "pron": "an3 sing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10536,6 +11077,7 @@
       ],
       "append": [],
       "pron": "ye2 an3",
+      "example": [],
       "num": "-"
     },
     {
@@ -10553,6 +11095,7 @@
       ],
       "append": [],
       "pron": "vao3 an3",
+      "example": [],
       "num": "-"
     },
     {
@@ -10570,6 +11113,7 @@
       ],
       "append": [],
       "pron": "bao3",
+      "example": [],
       "num": "242"
     },
     {
@@ -10587,6 +11131,7 @@
       ],
       "append": [],
       "pron": "vul1",
+      "example": [],
       "num": "243"
     },
     {
@@ -10604,6 +11149,7 @@
       ],
       "append": [],
       "pron": "tao2",
+      "example": [],
       "num": "244"
     },
     {
@@ -10621,6 +11167,7 @@
       ],
       "append": [],
       "pron": "tao2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10638,6 +11185,7 @@
       ],
       "append": [],
       "pron": "lai2",
+      "example": [],
       "num": "245"
     },
     {
@@ -10655,6 +11203,7 @@
       ],
       "append": [],
       "pron": "lai2 yao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10676,6 +11225,7 @@
       ],
       "append": [],
       "pron": "ai2",
+      "example": [],
       "num": "246"
     },
     {
@@ -10693,6 +11243,7 @@
       ],
       "append": [],
       "pron": "xu2 ai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10710,6 +11261,7 @@
       ],
       "append": [],
       "pron": "ai2 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10727,6 +11279,7 @@
       ],
       "append": [],
       "pron": "wem1",
+      "example": [],
       "num": "247"
     },
     {
@@ -10744,6 +11297,7 @@
       ],
       "append": [],
       "pron": "wem1 ao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -10761,6 +11315,7 @@
       ],
       "append": [],
       "pron": "wem1 ai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10778,6 +11333,7 @@
       ],
       "append": [],
       "pron": "wem1 ai2 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -10795,6 +11351,7 @@
       ],
       "append": [],
       "pron": "wem1 tai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -10812,6 +11369,7 @@
       ],
       "append": [],
       "pron": "nao2 wem1 ai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10829,6 +11387,7 @@
       ],
       "append": [],
       "pron": "nao2 ai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10846,6 +11405,7 @@
       ],
       "append": [],
       "pron": "zua2",
+      "example": [],
       "num": "248"
     },
     {
@@ -10863,6 +11423,7 @@
       ],
       "append": [],
       "pron": "hao1 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10880,6 +11441,7 @@
       ],
       "append": [],
       "pron": "min1 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10897,6 +11459,7 @@
       ],
       "append": [],
       "pron": "ai2 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10914,6 +11477,7 @@
       ],
       "append": [],
       "pron": "sing1 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10931,6 +11495,7 @@
       ],
       "append": [],
       "pron": "main2 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10948,6 +11513,7 @@
       ],
       "append": [],
       "pron": "qao1 main2 zua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10965,6 +11531,7 @@
       ],
       "append": [],
       "pron": "qao1 main2",
+      "example": [],
       "num": "-"
     },
     {
@@ -10982,6 +11549,7 @@
       ],
       "append": [],
       "pron": "wing3",
+      "example": [],
       "num": "249"
     },
     {
@@ -10999,6 +11567,7 @@
       ],
       "append": [],
       "pron": "wing3 be1",
+      "example": [],
       "num": "-"
     },
     {
@@ -11016,6 +11585,7 @@
       ],
       "append": [],
       "pron": "ye3",
+      "example": [],
       "num": "250"
     },
     {
@@ -11033,6 +11603,7 @@
       ],
       "append": [],
       "pron": "nai2 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11050,6 +11621,7 @@
       ],
       "append": [],
       "pron": "xu2 nai2 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11067,6 +11639,7 @@
       ],
       "append": [],
       "pron": "main2 nai2 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11076,14 +11649,25 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "鉄道。電車。汽車。",
+              "translate": "鉄道。電車。汽車。機関車。",
               "tag": []
             }
           ]
         }
       ],
-      "append": [],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "線路に沿って走る大型の車両を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
       "pron": "gim1 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11101,6 +11685,7 @@
       ],
       "append": [],
       "pron": "ye3 gim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -11118,6 +11703,7 @@
       ],
       "append": [],
       "pron": "mail2 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11135,6 +11721,7 @@
       ],
       "append": [],
       "pron": "bas2 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11162,6 +11749,7 @@
         }
       ],
       "pron": "ail2",
+      "example": [],
       "num": "251"
     },
     {
@@ -11179,6 +11767,7 @@
       ],
       "append": [],
       "pron": "dail2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11196,6 +11785,7 @@
       ],
       "append": [],
       "pron": "bas2 dail2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11213,6 +11803,7 @@
       ],
       "append": [],
       "pron": "pel1 dail2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11230,6 +11821,7 @@
       ],
       "append": [],
       "pron": "suo3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11247,6 +11839,7 @@
       ],
       "append": [],
       "pron": "lus3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11264,6 +11857,7 @@
       ],
       "append": [],
       "pron": "lao1 sing1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11281,6 +11875,7 @@
       ],
       "append": [],
       "pron": "bun2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11298,6 +11893,7 @@
       ],
       "append": [],
       "pron": "ail2 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11315,6 +11911,7 @@
       ],
       "append": [],
       "pron": "sua3 xao3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11332,6 +11929,7 @@
       ],
       "append": [],
       "pron": "sua1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11349,6 +11947,7 @@
       ],
       "append": [],
       "pron": "bas2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11376,6 +11975,7 @@
         }
       ],
       "pron": "las3",
+      "example": [],
       "num": "252",
       "link": [
         {
@@ -11411,6 +12011,7 @@
         }
       ],
       "pron": "luo3",
+      "example": [],
       "num": "253",
       "link": [
         {
@@ -11436,6 +12037,7 @@
       ],
       "append": [],
       "pron": "lo3 luo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11453,6 +12055,7 @@
       ],
       "append": [],
       "pron": "os3",
+      "example": [],
       "num": "254"
     },
     {
@@ -11479,6 +12082,7 @@
       ],
       "append": [],
       "pron": "vao1",
+      "example": [],
       "num": "255"
     },
     {
@@ -11496,6 +12100,7 @@
       ],
       "append": [],
       "pron": "sus3",
+      "example": [],
       "num": "256"
     },
     {
@@ -11513,6 +12118,7 @@
       ],
       "append": [],
       "pron": "yuo2 sus3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11530,6 +12136,7 @@
       ],
       "append": [],
       "pron": "qo3 sus3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11547,6 +12154,7 @@
       ],
       "append": [],
       "pron": "bun2 sus3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11582,6 +12190,7 @@
       ],
       "append": [],
       "pron": "yao2",
+      "example": [],
       "num": "257"
     },
     {
@@ -11599,6 +12208,7 @@
       ],
       "append": [],
       "pron": "paon1",
+      "example": [],
       "num": "258"
     },
     {
@@ -11620,6 +12230,7 @@
       ],
       "append": [],
       "pron": "qo1",
+      "example": [],
       "num": "259"
     },
     {
@@ -11646,6 +12257,7 @@
       ],
       "append": [],
       "pron": "qain1",
+      "example": [],
       "num": "260"
     },
     {
@@ -11663,6 +12275,7 @@
       ],
       "append": [],
       "pron": "qain1 paon1",
+      "example": [],
       "num": "-"
     },
     {
@@ -11680,6 +12293,7 @@
       ],
       "append": [],
       "pron": "guan1 paon1",
+      "example": [],
       "num": "-"
     },
     {
@@ -11697,6 +12311,7 @@
       ],
       "append": [],
       "pron": "xai1 yai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -11714,6 +12329,7 @@
       ],
       "append": [],
       "pron": "xai1 vao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11740,6 +12356,7 @@
       ],
       "append": [],
       "pron": "jua1",
+      "example": [],
       "num": "261"
     },
     {
@@ -11757,6 +12374,7 @@
       ],
       "append": [],
       "pron": "jua1 lai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11793,6 +12411,7 @@
         }
       ],
       "pron": "we2",
+      "example": [],
       "num": "262",
       "link": [
         {
@@ -11822,6 +12441,7 @@
       ],
       "append": [],
       "pron": "we2 vul3",
+      "example": [],
       "num": "-"
     },
     {
@@ -11839,6 +12459,7 @@
       ],
       "append": [],
       "pron": "a3 we2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11856,6 +12477,7 @@
       ],
       "append": [],
       "pron": "qai2",
+      "example": [],
       "num": "263"
     },
     {
@@ -11873,6 +12495,7 @@
       ],
       "append": [],
       "pron": "lao1 mis1 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11890,6 +12513,7 @@
       ],
       "append": [],
       "pron": "cuang2 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11907,6 +12531,7 @@
       ],
       "append": [],
       "pron": "qai2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -11924,6 +12549,7 @@
       ],
       "append": [],
       "pron": "mis1 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11941,6 +12567,7 @@
       ],
       "append": [],
       "pron": "bun2 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11958,6 +12585,7 @@
       ],
       "append": [],
       "pron": "sao2 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11975,6 +12603,7 @@
       ],
       "append": [],
       "pron": "cua2 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -11992,6 +12621,7 @@
       ],
       "append": [],
       "pron": "mail2 qai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12009,6 +12639,7 @@
       ],
       "append": [],
       "pron": "qai2 sao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12045,6 +12676,7 @@
         }
       ],
       "pron": "vul3",
+      "example": [],
       "num": "264",
       "link": [
         {
@@ -12071,6 +12703,7 @@
       ],
       "append": [],
       "pron": "vul3 ye2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12088,6 +12721,7 @@
       ],
       "append": [],
       "pron": "vul3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12105,6 +12739,7 @@
       ],
       "append": [],
       "pron": "fua1 vul3",
+      "example": [],
       "num": "-"
     },
     {
@@ -12122,6 +12757,7 @@
       ],
       "append": [],
       "pron": "vul3 fua1 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12139,6 +12775,7 @@
       ],
       "append": [],
       "pron": "dua1 vul3",
+      "example": [],
       "num": "-"
     },
     {
@@ -12156,6 +12793,7 @@
       ],
       "append": [],
       "pron": "cua3",
+      "example": [],
       "num": "265"
     },
     {
@@ -12177,6 +12815,7 @@
       ],
       "append": [],
       "pron": "nel1",
+      "example": [],
       "num": "266"
     },
     {
@@ -12194,6 +12833,7 @@
       ],
       "append": [],
       "pron": "nel1 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12211,6 +12851,7 @@
       ],
       "append": [],
       "pron": "wo3 nel1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12228,6 +12869,7 @@
       ],
       "append": [],
       "pron": "faong3 nel1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12245,6 +12887,7 @@
       ],
       "append": [],
       "pron": "puo3",
+      "example": [],
       "num": "267"
     },
     {
@@ -12262,6 +12905,7 @@
       ],
       "append": [],
       "pron": "kaing1",
+      "example": [],
       "num": "268"
     },
     {
@@ -12279,6 +12923,7 @@
       ],
       "append": [],
       "pron": "fe1",
+      "example": [],
       "num": "269"
     },
     {
@@ -12296,6 +12941,7 @@
       ],
       "append": [],
       "pron": "kao2",
+      "example": [],
       "num": "270"
     },
     {
@@ -12313,6 +12959,7 @@
       ],
       "append": [],
       "pron": "guo1",
+      "example": [],
       "num": "271"
     },
     {
@@ -12330,6 +12977,7 @@
       ],
       "append": [],
       "pron": "juo1",
+      "example": [],
       "num": "272"
     },
     {
@@ -12347,6 +12995,7 @@
       ],
       "append": [],
       "pron": "juo1 buo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -12364,6 +13013,7 @@
       ],
       "append": [],
       "pron": "mail2 juo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12381,6 +13031,7 @@
       ],
       "append": [],
       "pron": "qil2",
+      "example": [],
       "num": "273"
     },
     {
@@ -12407,6 +13058,7 @@
       ],
       "append": [],
       "pron": "qao1",
+      "example": [],
       "num": "274"
     },
     {
@@ -12442,6 +13094,7 @@
       ],
       "append": [],
       "pron": "jo3",
+      "example": [],
       "num": "275"
     },
     {
@@ -12459,6 +13112,7 @@
       ],
       "append": [],
       "pron": "ku1",
+      "example": [],
       "num": "276"
     },
     {
@@ -12476,6 +13130,7 @@
       ],
       "append": [],
       "pron": "gu2 ku1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12493,6 +13148,7 @@
       ],
       "append": [],
       "pron": "ye2 ku1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12510,6 +13166,7 @@
       ],
       "append": [],
       "pron": "main2 ku1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12527,6 +13184,7 @@
       ],
       "append": [],
       "pron": "main2 ku1 lai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12544,6 +13202,7 @@
       ],
       "append": [],
       "pron": "sang3 mail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12571,6 +13230,7 @@
         }
       ],
       "pron": "ku1 quo3 mail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12588,6 +13248,7 @@
       ],
       "append": [],
       "pron": "qao1 ku1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12605,6 +13266,7 @@
       ],
       "append": [],
       "pron": "kaing1 mail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12622,6 +13284,7 @@
       ],
       "append": [],
       "pron": "yao2 mail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12639,6 +13302,7 @@
       ],
       "append": [],
       "pron": "jua1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12665,6 +13329,7 @@
       ],
       "append": [],
       "pron": "cail1",
+      "example": [],
       "num": "277"
     },
     {
@@ -12682,6 +13347,7 @@
       ],
       "append": [],
       "pron": "cail1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12699,6 +13365,7 @@
       ],
       "append": [],
       "pron": "pais2",
+      "example": [],
       "num": "278"
     },
     {
@@ -12716,6 +13383,7 @@
       ],
       "append": [],
       "pron": "pais2 jua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12733,6 +13401,7 @@
       ],
       "append": [],
       "pron": "pais2 jua1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12759,6 +13428,7 @@
       ],
       "append": [],
       "pron": "pais2 vul3",
+      "example": [],
       "num": "-"
     },
     {
@@ -12776,6 +13446,7 @@
       ],
       "append": [],
       "pron": "gua1",
+      "example": [],
       "num": "279"
     },
     {
@@ -12793,6 +13464,7 @@
       ],
       "append": [],
       "pron": "ho3 gua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12819,6 +13491,7 @@
       ],
       "append": [],
       "pron": "das1 gua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12836,6 +13509,7 @@
       ],
       "append": [],
       "pron": "gua1 das1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12853,6 +13527,7 @@
       ],
       "append": [],
       "pron": "tang2 gua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12879,6 +13554,7 @@
       ],
       "append": [],
       "pron": "tu2",
+      "example": [],
       "num": "280"
     },
     {
@@ -12896,6 +13572,7 @@
       ],
       "append": [],
       "pron": "tu2 nes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -12922,6 +13599,7 @@
       ],
       "append": [],
       "pron": "qua1",
+      "example": [],
       "num": "281"
     },
     {
@@ -12939,6 +13617,7 @@
       ],
       "append": [],
       "pron": "don2 qua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12956,6 +13635,7 @@
       ],
       "append": [],
       "pron": "qua1 vul3",
+      "example": [],
       "num": "-"
     },
     {
@@ -12973,6 +13653,7 @@
       ],
       "append": [],
       "pron": "qua1 vul3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -12990,6 +13671,7 @@
       ],
       "append": [],
       "pron": "qua1 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13017,6 +13699,7 @@
         }
       ],
       "pron": "xal3",
+      "example": [],
       "num": "282",
       "link": [
         {
@@ -13043,6 +13726,7 @@
       ],
       "append": [],
       "pron": "xal3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13060,6 +13744,7 @@
       ],
       "append": [],
       "pron": "pa3",
+      "example": [],
       "num": "283"
     },
     {
@@ -13077,6 +13762,7 @@
       ],
       "append": [],
       "pron": "pa3 bun2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13094,6 +13780,7 @@
       ],
       "append": [],
       "pron": "pa3 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -13111,6 +13798,7 @@
       ],
       "append": [],
       "pron": "bua2",
+      "example": [],
       "num": "284"
     },
     {
@@ -13128,6 +13816,7 @@
       ],
       "append": [],
       "pron": "paong2",
+      "example": [],
       "num": "285"
     },
     {
@@ -13163,6 +13852,7 @@
       ],
       "append": [],
       "pron": "puon2",
+      "example": [],
       "num": "286"
     },
     {
@@ -13180,6 +13870,7 @@
       ],
       "append": [],
       "pron": "puon2 ge3",
+      "example": [],
       "num": "-"
     },
     {
@@ -13210,6 +13901,7 @@
       ],
       "append": [],
       "pron": "lim1",
+      "example": [],
       "num": "287"
     },
     {
@@ -13227,6 +13919,7 @@
       ],
       "append": [],
       "pron": "lim1 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13253,6 +13946,7 @@
       ],
       "append": [],
       "pron": "di2",
+      "example": [],
       "num": "288"
     },
     {
@@ -13270,6 +13964,7 @@
       ],
       "append": [],
       "pron": "muos3 di2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13287,6 +13982,7 @@
       ],
       "append": [],
       "pron": "lua2",
+      "example": [],
       "num": "289"
     },
     {
@@ -13304,6 +14000,7 @@
       ],
       "append": [],
       "pron": "lua2 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13321,6 +14018,7 @@
       ],
       "append": [],
       "pron": "zom3 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13338,6 +14036,7 @@
       ],
       "append": [],
       "pron": "mail2 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13365,6 +14064,7 @@
         }
       ],
       "pron": "xos2",
+      "example": [],
       "num": "290"
     },
     {
@@ -13382,6 +14082,7 @@
       ],
       "append": [],
       "pron": "ge3",
+      "example": [],
       "num": "291"
     },
     {
@@ -13409,6 +14110,7 @@
         }
       ],
       "pron": "muo1",
+      "example": [],
       "num": "292"
     },
     {
@@ -13435,6 +14137,7 @@
       ],
       "append": [],
       "pron": "pis3",
+      "example": [],
       "num": "293"
     },
     {
@@ -13452,6 +14155,7 @@
       ],
       "append": [],
       "pron": "pis3 cen1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13469,6 +14173,7 @@
       ],
       "append": [],
       "pron": "quom2",
+      "example": [],
       "num": "294"
     },
     {
@@ -13486,6 +14191,7 @@
       ],
       "append": [],
       "pron": "quom2 sao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13503,6 +14209,7 @@
       ],
       "append": [],
       "pron": "quom2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13529,6 +14236,7 @@
       ],
       "append": [],
       "pron": "hai1",
+      "example": [],
       "num": "295"
     },
     {
@@ -13546,6 +14254,7 @@
       ],
       "append": [],
       "pron": "je1",
+      "example": [],
       "num": "296"
     },
     {
@@ -13563,6 +14272,7 @@
       ],
       "append": [],
       "pron": "he2",
+      "example": [],
       "num": "297"
     },
     {
@@ -13580,6 +14290,7 @@
       ],
       "append": [],
       "pron": "he2 hil3",
+      "example": [],
       "num": "-"
     },
     {
@@ -13597,6 +14308,7 @@
       ],
       "append": [],
       "pron": "he2 ge3",
+      "example": [],
       "num": "-"
     },
     {
@@ -13628,6 +14340,7 @@
         }
       ],
       "pron": "nao2",
+      "example": [],
       "num": "298"
     },
     {
@@ -13654,6 +14367,7 @@
       ],
       "append": [],
       "pron": "co3",
+      "example": [],
       "num": "299"
     },
     {
@@ -13671,6 +14385,7 @@
       ],
       "append": [],
       "pron": "co3 gim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13688,6 +14403,7 @@
       ],
       "append": [],
       "pron": "wel2",
+      "example": [],
       "num": "300"
     },
     {
@@ -13705,6 +14421,7 @@
       ],
       "append": [],
       "pron": "cua2",
+      "example": [],
       "num": "301"
     },
     {
@@ -13722,6 +14439,7 @@
       ],
       "append": [],
       "pron": "nun2 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13739,6 +14457,7 @@
       ],
       "append": [],
       "pron": "he2 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13756,6 +14475,7 @@
       ],
       "append": [],
       "pron": "lua2 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13773,6 +14493,7 @@
       ],
       "append": [],
       "pron": "we3",
+      "example": [],
       "num": "302"
     },
     {
@@ -13790,6 +14511,7 @@
       ],
       "append": [],
       "pron": "we3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13816,6 +14538,7 @@
       ],
       "append": [],
       "pron": "cuam1",
+      "example": [],
       "num": "303"
     },
     {
@@ -13833,6 +14556,7 @@
       ],
       "append": [],
       "pron": "nim3",
+      "example": [],
       "num": "304"
     },
     {
@@ -13850,6 +14574,7 @@
       ],
       "append": [],
       "pron": "nim3 ge3",
+      "example": [],
       "num": "-"
     },
     {
@@ -13867,6 +14592,7 @@
       ],
       "append": [],
       "pron": "nim3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13884,6 +14610,7 @@
       ],
       "append": [],
       "pron": "cung2",
+      "example": [],
       "num": "305"
     },
     {
@@ -13901,6 +14628,7 @@
       ],
       "append": [],
       "pron": "cung2 baon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13918,6 +14646,7 @@
       ],
       "append": [],
       "pron": "xes2",
+      "example": [],
       "num": "306"
     },
     {
@@ -13935,6 +14664,7 @@
       ],
       "append": [],
       "pron": "xes2 nao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -13952,6 +14682,7 @@
       ],
       "append": [],
       "pron": "mai2",
+      "example": [],
       "num": "307"
     },
     {
@@ -13969,6 +14700,7 @@
       ],
       "append": [],
       "pron": "mai2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -13986,6 +14718,7 @@
       ],
       "append": [],
       "pron": "cuo1",
+      "example": [],
       "num": "308"
     },
     {
@@ -14012,6 +14745,7 @@
       ],
       "append": [],
       "pron": "yuas3",
+      "example": [],
       "num": "309"
     },
     {
@@ -14033,6 +14767,7 @@
       ],
       "append": [],
       "pron": "val2",
+      "example": [],
       "num": "310"
     },
     {
@@ -14050,6 +14785,7 @@
       ],
       "append": [],
       "pron": "fua2",
+      "example": [],
       "num": "311"
     },
     {
@@ -14077,6 +14813,7 @@
         }
       ],
       "pron": "cai2 fua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -14094,6 +14831,7 @@
       ],
       "append": [],
       "pron": "ka1",
+      "example": [],
       "num": "312"
     },
     {
@@ -14130,6 +14868,7 @@
         }
       ],
       "pron": "lus3 ka1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -14155,6 +14894,7 @@
       ],
       "append": [],
       "pron": "kal2",
+      "example": [],
       "num": "313"
     },
     {
@@ -14172,6 +14912,7 @@
       ],
       "append": [],
       "pron": "ke1 buos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14189,6 +14930,7 @@
       ],
       "append": [],
       "pron": "buos1 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14206,6 +14948,7 @@
       ],
       "append": [],
       "pron": "caos1",
+      "example": [],
       "num": "314"
     },
     {
@@ -14223,6 +14966,7 @@
       ],
       "append": [],
       "pron": "jua3",
+      "example": [],
       "num": "315"
     },
     {
@@ -14240,6 +14984,7 @@
       ],
       "append": [],
       "pron": "go3 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14257,6 +15002,7 @@
       ],
       "append": [],
       "pron": "ke1 go3",
+      "example": [],
       "num": "-"
     },
     {
@@ -14274,6 +15020,7 @@
       ],
       "append": [],
       "pron": "ve3",
+      "example": [],
       "num": "316"
     },
     {
@@ -14300,6 +15047,7 @@
       ],
       "append": [],
       "pron": "me2",
+      "example": [],
       "num": "317",
       "link": [
         {
@@ -14325,6 +15073,7 @@
       ],
       "append": [],
       "pron": "do2",
+      "example": [],
       "num": "318"
     },
     {
@@ -14342,6 +15091,7 @@
       ],
       "append": [],
       "pron": "fail1",
+      "example": [],
       "num": "319"
     },
     {
@@ -14378,6 +15128,7 @@
         }
       ],
       "pron": "lus3 do2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -14403,6 +15154,7 @@
       ],
       "append": [],
       "pron": "nua1",
+      "example": [],
       "num": "320"
     },
     {
@@ -14420,6 +15172,7 @@
       ],
       "append": [],
       "pron": "juo1 nua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14447,6 +15200,7 @@
         }
       ],
       "pron": "juo1 nua1 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14464,6 +15218,7 @@
       ],
       "append": [],
       "pron": "cai2",
+      "example": [],
       "num": "321"
     },
     {
@@ -14481,6 +15236,7 @@
       ],
       "append": [],
       "pron": "him2 cai2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -14506,6 +15262,7 @@
       ],
       "append": [],
       "pron": "sao2 cai2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -14531,6 +15288,7 @@
       ],
       "append": [],
       "pron": "sua3 cai2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14548,6 +15306,7 @@
       ],
       "append": [],
       "pron": "ji3",
+      "example": [],
       "num": "322"
     },
     {
@@ -14565,6 +15324,7 @@
       ],
       "append": [],
       "pron": "fao2",
+      "example": [],
       "num": "323"
     },
     {
@@ -14582,6 +15342,7 @@
       ],
       "append": [],
       "pron": "kua2",
+      "example": [],
       "num": "324"
     },
     {
@@ -14618,6 +15379,7 @@
         }
       ],
       "pron": "sas2",
+      "example": [],
       "num": "325",
       "link": [
         {
@@ -14643,6 +15405,7 @@
       ],
       "append": [],
       "pron": "sas2 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -14660,6 +15423,7 @@
       ],
       "append": [],
       "pron": "bais3",
+      "example": [],
       "num": "326"
     },
     {
@@ -14677,6 +15441,7 @@
       ],
       "append": [],
       "pron": "bais3 bais3",
+      "example": [],
       "num": "-"
     },
     {
@@ -14694,6 +15459,7 @@
       ],
       "append": [],
       "pron": "wao3",
+      "example": [],
       "num": "327"
     },
     {
@@ -14711,6 +15477,7 @@
       ],
       "append": [],
       "pron": "pail1",
+      "example": [],
       "num": "328"
     },
     {
@@ -14728,6 +15495,7 @@
       ],
       "append": [],
       "pron": "sa1",
+      "example": [],
       "num": "329"
     },
     {
@@ -14749,6 +15517,7 @@
       ],
       "append": [],
       "pron": "kaim1",
+      "example": [],
       "num": "330"
     },
     {
@@ -14766,6 +15535,7 @@
       ],
       "append": [],
       "pron": "taos3 kaim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14783,6 +15553,7 @@
       ],
       "append": [],
       "pron": "yuas1 kaim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -14800,6 +15571,7 @@
       ],
       "append": [],
       "pron": "yo3",
+      "example": [],
       "num": "331"
     },
     {
@@ -14817,6 +15589,7 @@
       ],
       "append": [],
       "pron": "cum2",
+      "example": [],
       "num": "332"
     },
     {
@@ -14834,6 +15607,7 @@
       ],
       "append": [],
       "pron": "kuol1",
+      "example": [],
       "num": "333"
     },
     {
@@ -14851,6 +15625,7 @@
       ],
       "append": [],
       "pron": "huon3",
+      "example": [],
       "num": "334"
     },
     {
@@ -14868,6 +15643,7 @@
       ],
       "append": [],
       "pron": "qe3",
+      "example": [],
       "num": "335"
     },
     {
@@ -14885,6 +15661,7 @@
       ],
       "append": [],
       "pron": "qais1",
+      "example": [],
       "num": "336"
     },
     {
@@ -14902,6 +15679,7 @@
       ],
       "append": [],
       "pron": "cao3",
+      "example": [],
       "num": "337"
     },
     {
@@ -14928,6 +15706,7 @@
       ],
       "append": [],
       "pron": "nol2",
+      "example": [],
       "num": "338"
     },
     {
@@ -14945,6 +15724,7 @@
       ],
       "append": [],
       "pron": "ail2 nol2",
+      "example": [],
       "num": "-"
     },
     {
@@ -14962,6 +15742,7 @@
       ],
       "append": [],
       "pron": "nol2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -14979,6 +15760,7 @@
       ],
       "append": [],
       "pron": "nol2 ye3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15005,6 +15787,7 @@
       ],
       "append": [],
       "pron": "suol3",
+      "example": [],
       "num": "339"
     },
     {
@@ -15022,6 +15805,7 @@
       ],
       "append": [],
       "pron": "guo2",
+      "example": [],
       "num": "340"
     },
     {
@@ -15039,6 +15823,7 @@
       ],
       "append": [],
       "pron": "tim2",
+      "example": [],
       "num": "341"
     },
     {
@@ -15066,6 +15851,7 @@
         }
       ],
       "pron": "hu2",
+      "example": [],
       "num": "342"
     },
     {
@@ -15093,6 +15879,7 @@
         }
       ],
       "pron": "yuo1",
+      "example": [],
       "num": "343"
     },
     {
@@ -15114,6 +15901,7 @@
       ],
       "append": [],
       "pron": "yuo1 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -15140,6 +15928,7 @@
       ],
       "append": [],
       "pron": "sin1",
+      "example": [],
       "num": "344"
     },
     {
@@ -15157,6 +15946,7 @@
       ],
       "append": [],
       "pron": "don2",
+      "example": [],
       "num": "345"
     },
     {
@@ -15174,6 +15964,7 @@
       ],
       "append": [],
       "pron": "taim1",
+      "example": [],
       "num": "346"
     },
     {
@@ -15191,6 +15982,7 @@
       ],
       "append": [],
       "pron": "laol1",
+      "example": [],
       "num": "347"
     },
     {
@@ -15208,6 +16000,7 @@
       ],
       "append": [],
       "pron": "mua3",
+      "example": [],
       "num": "348"
     },
     {
@@ -15238,6 +16031,7 @@
       ],
       "append": [],
       "pron": "xua3",
+      "example": [],
       "num": "349"
     },
     {
@@ -15264,6 +16058,7 @@
       ],
       "append": [],
       "pron": "ke2",
+      "example": [],
       "num": "350"
     },
     {
@@ -15281,6 +16076,7 @@
       ],
       "append": [],
       "pron": "lao1 suam1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15307,6 +16103,7 @@
       ],
       "append": [],
       "pron": "lo3 bua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15324,6 +16121,7 @@
       ],
       "append": [],
       "pron": "dol3",
+      "example": [],
       "num": "351"
     },
     {
@@ -15341,6 +16139,7 @@
       ],
       "append": [],
       "pron": "him2 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15358,6 +16157,7 @@
       ],
       "append": [],
       "pron": "ju1 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15375,6 +16175,7 @@
       ],
       "append": [],
       "pron": "jai2 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15402,6 +16203,7 @@
         }
       ],
       "pron": "dom2 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15429,6 +16231,7 @@
         }
       ],
       "pron": "lai1 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15455,6 +16258,7 @@
       ],
       "append": [],
       "pron": "dom2",
+      "example": [],
       "num": "352"
     },
     {
@@ -15472,6 +16276,7 @@
       ],
       "append": [],
       "pron": "lo3 yol1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15493,6 +16298,7 @@
       ],
       "append": [],
       "pron": "pang3",
+      "example": [],
       "num": "353"
     },
     {
@@ -15510,6 +16316,7 @@
       ],
       "append": [],
       "pron": "qon1",
+      "example": [],
       "num": "354"
     },
     {
@@ -15531,6 +16338,7 @@
       ],
       "append": [],
       "pron": "xaing1",
+      "example": [],
       "num": "355"
     },
     {
@@ -15548,6 +16356,7 @@
       ],
       "append": [],
       "pron": "vas1 xaing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15565,6 +16374,7 @@
       ],
       "append": [],
       "pron": "cun1 xaing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15586,6 +16396,7 @@
       ],
       "append": [],
       "pron": "lao2",
+      "example": [],
       "num": "356"
     },
     {
@@ -15603,6 +16414,7 @@
       ],
       "append": [],
       "pron": "kong3",
+      "example": [],
       "num": "357"
     },
     {
@@ -15620,6 +16432,7 @@
       ],
       "append": [],
       "pron": "juom1",
+      "example": [],
       "num": "358"
     },
     {
@@ -15641,6 +16454,7 @@
       ],
       "append": [],
       "pron": "ne2",
+      "example": [],
       "num": "359"
     },
     {
@@ -15658,6 +16472,7 @@
       ],
       "append": [],
       "pron": "ne2 so3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15675,6 +16490,7 @@
       ],
       "append": [],
       "pron": "ne2 qain1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15692,6 +16508,7 @@
       ],
       "append": [],
       "pron": "bai2",
+      "example": [],
       "num": "360"
     },
     {
@@ -15713,6 +16530,7 @@
       ],
       "append": [],
       "pron": "o3",
+      "example": [],
       "num": "361"
     },
     {
@@ -15730,6 +16548,7 @@
       ],
       "append": [],
       "pron": "hai3",
+      "example": [],
       "num": "362"
     },
     {
@@ -15747,6 +16566,7 @@
       ],
       "append": [],
       "pron": "hai3 juo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15764,6 +16584,7 @@
       ],
       "append": [],
       "pron": "duo3",
+      "example": [],
       "num": "363"
     },
     {
@@ -15781,6 +16602,7 @@
       ],
       "append": [],
       "pron": "buom1",
+      "example": [],
       "num": "364"
     },
     {
@@ -15798,6 +16620,7 @@
       ],
       "append": [],
       "pron": "lao1 wao3 buom1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15815,6 +16638,7 @@
       ],
       "append": [],
       "pron": "dol3 buom1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15832,6 +16656,7 @@
       ],
       "append": [],
       "pron": "ku1 buom1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15849,6 +16674,7 @@
       ],
       "append": [],
       "pron": "ku1 buom1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -15875,6 +16701,7 @@
       ],
       "append": [],
       "pron": "xing1",
+      "example": [],
       "num": "365"
     },
     {
@@ -15892,6 +16719,7 @@
       ],
       "append": [],
       "pron": "lo3 xing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15909,6 +16737,7 @@
       ],
       "append": [],
       "pron": "yaom1 xing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15936,6 +16765,7 @@
         }
       ],
       "pron": "vu2",
+      "example": [],
       "num": "366",
       "link": [
         {
@@ -15961,6 +16791,7 @@
       ],
       "append": [],
       "pron": "vu2 xao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -15978,6 +16809,7 @@
       ],
       "append": [],
       "pron": "vao1 vu2 wai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -15995,6 +16827,7 @@
       ],
       "append": [],
       "pron": "nuo2 vu2 wai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16012,6 +16845,7 @@
       ],
       "append": [],
       "pron": "ga1",
+      "example": [],
       "num": "367"
     },
     {
@@ -16029,6 +16863,7 @@
       ],
       "append": [],
       "pron": "qim3 ga1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16046,6 +16881,7 @@
       ],
       "append": [],
       "pron": "i2",
+      "example": [],
       "num": "368"
     },
     {
@@ -16063,6 +16899,7 @@
       ],
       "append": [],
       "pron": "qim3 i2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16080,6 +16917,7 @@
       ],
       "append": [],
       "pron": "wes2",
+      "example": [],
       "num": "369"
     },
     {
@@ -16097,6 +16935,7 @@
       ],
       "append": [],
       "pron": "qim3 wes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16114,6 +16953,7 @@
       ],
       "append": [],
       "pron": "yaos3",
+      "example": [],
       "num": "370"
     },
     {
@@ -16131,6 +16971,7 @@
       ],
       "append": [],
       "pron": "vai2",
+      "example": [],
       "num": "371"
     },
     {
@@ -16148,6 +16989,7 @@
       ],
       "append": [],
       "pron": "vai2 suo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16165,6 +17007,7 @@
       ],
       "append": [],
       "pron": "vai2 lung2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16182,6 +17025,7 @@
       ],
       "append": [],
       "pron": "vai2 an3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16199,6 +17043,7 @@
       ],
       "append": [],
       "pron": "vai2 paon1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16230,6 +17075,7 @@
         }
       ],
       "pron": "so2",
+      "example": [],
       "num": "372"
     },
     {
@@ -16247,6 +17093,7 @@
       ],
       "append": [],
       "pron": "so2 vai2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16264,6 +17111,7 @@
       ],
       "append": [],
       "pron": "so2 vo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16281,6 +17129,7 @@
       ],
       "append": [],
       "pron": "xem1 so2 vo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16298,6 +17147,7 @@
       ],
       "append": [],
       "pron": "xuam2",
+      "example": [],
       "num": "373"
     },
     {
@@ -16325,6 +17175,7 @@
         }
       ],
       "pron": "wai3",
+      "example": [],
       "num": "374"
     },
     {
@@ -16342,6 +17193,7 @@
       ],
       "append": [],
       "pron": "baon2 wai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16369,6 +17221,7 @@
         }
       ],
       "pron": "qa1",
+      "example": [],
       "num": "375",
       "link": [
         {
@@ -16395,6 +17248,7 @@
       ],
       "append": [],
       "pron": "qa1 wai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16412,6 +17266,7 @@
       ],
       "append": [],
       "pron": "puo1",
+      "example": [],
       "num": "376"
     },
     {
@@ -16429,6 +17284,7 @@
       ],
       "append": [],
       "pron": "li2 puo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16446,6 +17302,7 @@
       ],
       "append": [],
       "pron": "baon2 puo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16473,6 +17330,7 @@
         }
       ],
       "pron": "tai1 xu2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16490,6 +17348,7 @@
       ],
       "append": [],
       "pron": "xu2 qa1 wai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16507,6 +17366,7 @@
       ],
       "append": [],
       "pron": "tai1 se3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16524,6 +17384,7 @@
       ],
       "append": [],
       "pron": "puo1 xuam2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16541,6 +17402,7 @@
       ],
       "append": [],
       "pron": "buos1 wai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16558,6 +17420,7 @@
       ],
       "append": [],
       "pron": "qa1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16575,6 +17438,7 @@
       ],
       "append": [],
       "pron": "main2 qa1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16592,6 +17456,7 @@
       ],
       "append": [],
       "pron": "fun3",
+      "example": [],
       "num": "377"
     },
     {
@@ -16609,6 +17474,7 @@
       ],
       "append": [],
       "pron": "go3 fun3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16626,6 +17492,7 @@
       ],
       "append": [],
       "pron": "fun3 ja1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16647,6 +17514,7 @@
       ],
       "append": [],
       "pron": "caon3",
+      "example": [],
       "num": "378"
     },
     {
@@ -16664,6 +17532,7 @@
       ],
       "append": [],
       "pron": "caon3 jao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16681,6 +17550,7 @@
       ],
       "append": [],
       "pron": "caon3 ja1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16698,6 +17568,7 @@
       ],
       "append": [],
       "pron": "sal2 ke1 ja1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16715,6 +17586,7 @@
       ],
       "append": [],
       "pron": "main2 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16732,6 +17604,7 @@
       ],
       "append": [],
       "pron": "vo1",
+      "example": [],
       "num": "379"
     },
     {
@@ -16749,6 +17622,7 @@
       ],
       "append": [],
       "pron": "vu3 vo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -16766,6 +17640,7 @@
       ],
       "append": [],
       "pron": "vo1 vain3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16793,6 +17668,7 @@
         }
       ],
       "pron": "cuo2 ke1 ja1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -16818,6 +17694,7 @@
       ],
       "append": [],
       "pron": "muong1",
+      "example": [],
       "num": "380"
     },
     {
@@ -16835,6 +17712,7 @@
       ],
       "append": [],
       "pron": "tai1 buos1 wai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16852,6 +17730,7 @@
       ],
       "append": [],
       "pron": "ling3 yaos3",
+      "example": [],
       "num": "-"
     },
     {
@@ -16869,6 +17748,7 @@
       ],
       "append": [],
       "pron": "ling3 bua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16886,6 +17766,7 @@
       ],
       "append": [],
       "pron": "dao2",
+      "example": [],
       "num": "381"
     },
     {
@@ -16903,6 +17784,7 @@
       ],
       "append": [],
       "pron": "ba3",
+      "example": [],
       "num": "382"
     },
     {
@@ -16920,6 +17802,7 @@
       ],
       "append": [],
       "pron": "cuom2",
+      "example": [],
       "num": "383"
     },
     {
@@ -16937,6 +17820,7 @@
       ],
       "append": [],
       "pron": "muong1 fuon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16954,6 +17838,7 @@
       ],
       "append": [],
       "pron": "muong1 na2",
+      "example": [],
       "num": "-"
     },
     {
@@ -16980,6 +17865,7 @@
       ],
       "append": [],
       "pron": "xem1",
+      "example": [],
       "num": "384"
     },
     {
@@ -16997,6 +17883,7 @@
       ],
       "append": [],
       "pron": "xem1 na1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17024,6 +17911,7 @@
         }
       ],
       "pron": "xai1",
+      "example": [],
       "num": "385",
       "link": [
         {
@@ -17049,6 +17937,7 @@
       ],
       "append": [],
       "pron": "xai1 nel1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17066,6 +17955,7 @@
       ],
       "append": [],
       "pron": "nel1 xai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17083,6 +17973,7 @@
       ],
       "append": [],
       "pron": "nel1 xai1 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17109,6 +18000,7 @@
       ],
       "append": [],
       "pron": "so1",
+      "example": [],
       "num": "386"
     },
     {
@@ -17126,6 +18018,7 @@
       ],
       "append": [],
       "pron": "so1 tai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17143,6 +18036,7 @@
       ],
       "append": [],
       "pron": "so1 nel1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17160,6 +18054,7 @@
       ],
       "append": [],
       "pron": "so1 wai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17177,6 +18072,7 @@
       ],
       "append": [],
       "pron": "xem1 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17194,6 +18090,7 @@
       ],
       "append": [],
       "pron": "kuang1 so1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17211,6 +18108,7 @@
       ],
       "append": [],
       "pron": "so1 xaing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17228,6 +18126,7 @@
       ],
       "append": [],
       "pron": "xai1 taos3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17245,6 +18144,7 @@
       ],
       "append": [],
       "pron": "xai1 cuo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17262,6 +18162,7 @@
       ],
       "append": [],
       "pron": "kuon3",
+      "example": [],
       "num": "387"
     },
     {
@@ -17279,6 +18180,7 @@
       ],
       "append": [],
       "pron": "baon2 xu2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17306,6 +18208,7 @@
         }
       ],
       "pron": "fo2 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17323,6 +18226,7 @@
       ],
       "append": [],
       "pron": "ais1",
+      "example": [],
       "num": "388"
     },
     {
@@ -17340,6 +18244,7 @@
       ],
       "append": [],
       "pron": "cung2 ais1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17357,6 +18262,7 @@
       ],
       "append": [],
       "pron": "suom3",
+      "example": [],
       "num": "389"
     },
     {
@@ -17374,6 +18280,7 @@
       ],
       "append": [],
       "pron": "suom3 hai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17391,6 +18298,7 @@
       ],
       "append": [],
       "pron": "dua3",
+      "example": [],
       "num": "390"
     },
     {
@@ -17418,6 +18326,7 @@
         }
       ],
       "pron": "xai1 dua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17435,6 +18344,7 @@
       ],
       "append": [],
       "pron": "lao1 sin1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17452,6 +18362,7 @@
       ],
       "append": [],
       "pron": "huo1 dua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17478,6 +18389,7 @@
       ],
       "append": [],
       "pron": "uo3",
+      "example": [],
       "num": "391"
     },
     {
@@ -17495,6 +18407,7 @@
       ],
       "append": [],
       "pron": "tuo2 uo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17512,6 +18425,7 @@
       ],
       "append": [],
       "pron": "qon1 uo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17529,6 +18443,7 @@
       ],
       "append": [],
       "pron": "nao2 uo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17546,6 +18461,7 @@
       ],
       "append": [],
       "pron": "qim3 uo3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17563,6 +18479,7 @@
       ],
       "append": [],
       "pron": "naim2",
+      "example": [],
       "num": "392"
     },
     {
@@ -17580,6 +18497,7 @@
       ],
       "append": [],
       "pron": "naim2 so2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17606,6 +18524,7 @@
       ],
       "append": [],
       "pron": "nu3",
+      "example": [],
       "num": "393"
     },
     {
@@ -17623,6 +18542,7 @@
       ],
       "append": [],
       "pron": "nu3 val2 vais2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17640,6 +18560,7 @@
       ],
       "append": [],
       "pron": "vung3",
+      "example": [],
       "num": "394"
     },
     {
@@ -17667,6 +18588,7 @@
         }
       ],
       "pron": "del1",
+      "example": [],
       "num": "395"
     },
     {
@@ -17697,6 +18619,7 @@
       ],
       "append": [],
       "pron": "pi1",
+      "example": [],
       "num": "396"
     },
     {
@@ -17714,6 +18637,7 @@
       ],
       "append": [],
       "pron": "pi1 mis1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17731,6 +18655,7 @@
       ],
       "append": [],
       "pron": "nang2 pi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17748,6 +18673,7 @@
       ],
       "append": [],
       "pron": "pi1 gu2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17765,6 +18691,7 @@
       ],
       "append": [],
       "pron": "min1 gu2 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17782,6 +18709,7 @@
       ],
       "append": [],
       "pron": "va2 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17799,6 +18727,7 @@
       ],
       "append": [],
       "pron": "we1",
+      "example": [],
       "num": "397"
     },
     {
@@ -17820,6 +18749,7 @@
       ],
       "append": [],
       "pron": "duon3",
+      "example": [],
       "num": "398"
     },
     {
@@ -17837,6 +18767,7 @@
       ],
       "append": [],
       "pron": "fa2 duon3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17854,6 +18785,7 @@
       ],
       "append": [],
       "pron": "nel1 duon3",
+      "example": [],
       "num": "-"
     },
     {
@@ -17871,6 +18803,7 @@
       ],
       "append": [],
       "pron": "kao1",
+      "example": [],
       "num": "399"
     },
     {
@@ -17888,6 +18821,7 @@
       ],
       "append": [],
       "pron": "baim3 mis1",
+      "example": [],
       "num": "-"
     },
     {
@@ -17905,10 +18839,11 @@
       ],
       "append": [],
       "pron": "ung1",
+      "example": [],
       "num": "400"
     },
     {
-      "word": "探網",
+      "word": "探蔓",
       "mean": [
         {
           "type": "動詞",
@@ -17921,7 +18856,8 @@
         }
       ],
       "append": [],
-      "pron": "ung1 mua1",
+      "pron": "ung1 ton2",
+      "example": [],
       "num": "-"
     },
     {
@@ -17939,6 +18875,7 @@
       ],
       "append": [],
       "pron": "xaos1",
+      "example": [],
       "num": "401"
     },
     {
@@ -17956,6 +18893,7 @@
       ],
       "append": [],
       "pron": "buo2",
+      "example": [],
       "num": "402"
     },
     {
@@ -17983,6 +18921,7 @@
         }
       ],
       "pron": "main2 buo2 ail2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -18019,6 +18958,7 @@
         }
       ],
       "pron": "cua2 qai2 main2 buo2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18036,6 +18976,7 @@
       ],
       "append": [],
       "pron": "naim2 buo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18053,6 +18994,7 @@
       ],
       "append": [],
       "pron": "nao2 buo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18070,6 +19012,7 @@
       ],
       "append": [],
       "pron": "jo3 buo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18087,6 +19030,7 @@
       ],
       "append": [],
       "pron": "na1 buo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18104,6 +19048,7 @@
       ],
       "append": [],
       "pron": "buo2 mis1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18121,6 +19066,7 @@
       ],
       "append": [],
       "pron": "xem1 mis1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18138,6 +19084,7 @@
       ],
       "append": [],
       "pron": "wai1 lo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18174,6 +19121,7 @@
         }
       ],
       "pron": "co2",
+      "example": [],
       "num": "403"
     },
     {
@@ -18200,6 +19148,7 @@
       ],
       "append": [],
       "pron": "tao1",
+      "example": [],
       "num": "404"
     },
     {
@@ -18245,6 +19194,7 @@
         }
       ],
       "pron": "nua3",
+      "example": [],
       "num": "405"
     },
     {
@@ -18281,6 +19231,7 @@
         }
       ],
       "pron": "nua3 nes2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18298,6 +19249,7 @@
       ],
       "append": [],
       "pron": "nua3 vo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18315,6 +19267,7 @@
       ],
       "append": [],
       "pron": "cis3",
+      "example": [],
       "num": "406"
     },
     {
@@ -18336,6 +19289,7 @@
       ],
       "append": [],
       "pron": "pua3",
+      "example": [],
       "num": "407"
     },
     {
@@ -18353,6 +19307,7 @@
       ],
       "append": [],
       "pron": "pua3 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18370,6 +19325,7 @@
       ],
       "append": [],
       "pron": "mel1",
+      "example": [],
       "num": "408"
     },
     {
@@ -18387,6 +19343,7 @@
       ],
       "append": [],
       "pron": "xon2",
+      "example": [],
       "num": "409"
     },
     {
@@ -18413,6 +19370,7 @@
       ],
       "append": [],
       "pron": "jual1",
+      "example": [],
       "num": "410"
     },
     {
@@ -18430,6 +19388,7 @@
       ],
       "append": [],
       "pron": "ge3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18447,6 +19406,7 @@
       ],
       "append": [],
       "pron": "go3 juom1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18473,6 +19433,7 @@
       ],
       "append": [],
       "pron": "dual1",
+      "example": [],
       "num": "411"
     },
     {
@@ -18509,6 +19470,7 @@
         }
       ],
       "pron": "xao2 cai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18539,6 +19501,7 @@
       ],
       "append": [],
       "pron": "lua3",
+      "example": [],
       "num": "412"
     },
     {
@@ -18556,6 +19519,7 @@
       ],
       "append": [],
       "pron": "vai2 lua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18573,6 +19537,7 @@
       ],
       "append": [],
       "pron": "juan2 fuon2 lua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18590,6 +19555,7 @@
       ],
       "append": [],
       "pron": "qao1 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18607,6 +19573,7 @@
       ],
       "append": [],
       "pron": "tail1 qao1 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18624,6 +19591,7 @@
       ],
       "append": [],
       "pron": "tail1 fai1 qao1 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18641,6 +19609,7 @@
       ],
       "append": [],
       "pron": "buan3 qao1 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18668,6 +19637,7 @@
         }
       ],
       "pron": "bao3 qao1 cua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18694,6 +19664,7 @@
       ],
       "append": [],
       "pron": "yos2",
+      "example": [],
       "num": "413"
     },
     {
@@ -18721,6 +19692,7 @@
         }
       ],
       "pron": "sai3",
+      "example": [],
       "num": "414"
     },
     {
@@ -18738,6 +19710,7 @@
       ],
       "append": [],
       "pron": "pang3 sai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18755,6 +19728,7 @@
       ],
       "append": [],
       "pron": "yos2 sai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18772,6 +19746,7 @@
       ],
       "append": [],
       "pron": "mo1",
+      "example": [],
       "num": "415"
     },
     {
@@ -18789,6 +19764,7 @@
       ],
       "append": [],
       "pron": "mo1 yai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18806,6 +19782,7 @@
       ],
       "append": [],
       "pron": "quo3 tang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18823,6 +19800,7 @@
       ],
       "append": [],
       "pron": "mo1 tang2 sai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18840,6 +19818,7 @@
       ],
       "append": [],
       "pron": "sai3 luong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -18857,6 +19836,7 @@
       ],
       "append": [],
       "pron": "mo1 mo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18874,6 +19854,7 @@
       ],
       "append": [],
       "pron": "juan2",
+      "example": [],
       "num": "416"
     },
     {
@@ -18891,6 +19872,7 @@
       ],
       "append": [],
       "pron": "gan2",
+      "example": [],
       "num": "417"
     },
     {
@@ -18908,6 +19890,7 @@
       ],
       "append": [],
       "pron": "mail2 gan2",
+      "example": [],
       "num": "-"
     },
     {
@@ -18925,6 +19908,7 @@
       ],
       "append": [],
       "pron": "je3",
+      "example": [],
       "num": "418"
     },
     {
@@ -18942,6 +19926,7 @@
       ],
       "append": [],
       "pron": "je3 pi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -18959,6 +19944,7 @@
       ],
       "append": [],
       "pron": "ka2",
+      "example": [],
       "num": "419"
     },
     {
@@ -18976,6 +19962,7 @@
       ],
       "append": [],
       "pron": "vu1",
+      "example": [],
       "num": "420"
     },
     {
@@ -18993,6 +19980,7 @@
       ],
       "append": [],
       "pron": "vu1 ho3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19010,6 +19998,7 @@
       ],
       "append": [],
       "pron": "jel2",
+      "example": [],
       "num": "421"
     },
     {
@@ -19027,6 +20016,7 @@
       ],
       "append": [],
       "pron": "jel2 uas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19044,6 +20034,7 @@
       ],
       "append": [],
       "pron": "jing3",
+      "example": [],
       "num": "422"
     },
     {
@@ -19061,6 +20052,7 @@
       ],
       "append": [],
       "pron": "bi2",
+      "example": [],
       "num": "423"
     },
     {
@@ -19078,6 +20070,7 @@
       ],
       "append": [],
       "pron": "kuan3",
+      "example": [],
       "num": "424"
     },
     {
@@ -19095,6 +20088,7 @@
       ],
       "append": [],
       "pron": "jo3 qang3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19112,6 +20106,7 @@
       ],
       "append": [],
       "pron": "kuan3 buo3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19129,6 +20124,7 @@
       ],
       "append": [],
       "pron": "kuan3 tua2 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -19156,6 +20152,7 @@
         }
       ],
       "pron": "dom2 duo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19173,6 +20170,7 @@
       ],
       "append": [],
       "pron": "ju1 duo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19190,6 +20188,7 @@
       ],
       "append": [],
       "pron": "dail2 kuan3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19207,6 +20206,7 @@
       ],
       "append": [],
       "pron": "duo1",
+      "example": [],
       "num": "425"
     },
     {
@@ -19224,6 +20224,7 @@
       ],
       "append": [],
       "pron": "vas1 duo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19255,6 +20256,7 @@
         }
       ],
       "pron": "vas1 ye1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19272,6 +20274,7 @@
       ],
       "append": [],
       "pron": "main2 jao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -19289,6 +20292,7 @@
       ],
       "append": [],
       "pron": "duo1 ho3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19316,6 +20320,7 @@
         }
       ],
       "pron": "vuo1",
+      "example": [],
       "num": "426"
     },
     {
@@ -19343,6 +20348,7 @@
         }
       ],
       "pron": "vuo1 yuo2",
+      "example": [],
       "num": "-"
     },
     {
@@ -19360,6 +20366,7 @@
       ],
       "append": [],
       "pron": "vuo1 xem1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19377,6 +20384,7 @@
       ],
       "append": [],
       "pron": "taom1",
+      "example": [],
       "num": "427"
     },
     {
@@ -19394,6 +20402,7 @@
       ],
       "append": [],
       "pron": "taom1 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -19411,6 +20420,7 @@
       ],
       "append": [],
       "pron": "taom1 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -19437,6 +20447,7 @@
       ],
       "append": [],
       "pron": "taom1 nim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19458,6 +20469,7 @@
       ],
       "append": [],
       "pron": "keng3",
+      "example": [],
       "num": "428"
     },
     {
@@ -19484,6 +20496,7 @@
       ],
       "append": [],
       "pron": "keng3 qai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19511,6 +20524,7 @@
         }
       ],
       "pron": "zua1",
+      "example": [],
       "num": "429"
     },
     {
@@ -19547,6 +20561,7 @@
         }
       ],
       "pron": "zao2",
+      "example": [],
       "num": "430"
     },
     {
@@ -19573,6 +20588,7 @@
       ],
       "append": [],
       "pron": "guo3",
+      "example": [],
       "num": "431"
     },
     {
@@ -19599,6 +20615,7 @@
       ],
       "append": [],
       "pron": "guo3 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -19616,6 +20633,7 @@
       ],
       "append": [],
       "pron": "guo3 ke1 xao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19633,6 +20651,7 @@
       ],
       "append": [],
       "pron": "xua2 ke1 xao3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19664,6 +20683,7 @@
         }
       ],
       "pron": "vai3",
+      "example": [],
       "num": "432"
     },
     {
@@ -19681,6 +20701,7 @@
       ],
       "append": [],
       "pron": "ho3 vai3",
+      "example": [],
       "num": "-"
     },
     {
@@ -19707,6 +20728,7 @@
       ],
       "append": [],
       "pron": "xua2",
+      "example": [],
       "num": "433"
     },
     {
@@ -19738,6 +20760,7 @@
         }
       ],
       "pron": "gaos1",
+      "example": [],
       "num": "434"
     },
     {
@@ -19755,6 +20778,7 @@
       ],
       "append": [],
       "pron": "fes2 gaos1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19772,6 +20796,7 @@
       ],
       "append": [],
       "pron": "vai1",
+      "example": [],
       "num": "435"
     },
     {
@@ -19799,6 +20824,7 @@
         }
       ],
       "pron": "vai1 wel2",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -19824,6 +20850,7 @@
       ],
       "append": [],
       "pron": "ke3",
+      "example": [],
       "num": "436"
     },
     {
@@ -19851,6 +20878,7 @@
         }
       ],
       "pron": "ca1",
+      "example": [],
       "num": "437",
       "link": [
         {
@@ -19876,6 +20904,7 @@
       ],
       "append": [],
       "pron": "yao1 ca1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19903,6 +20932,7 @@
         }
       ],
       "pron": "vai1 ca1",
+      "example": [],
       "num": "-"
     },
     {
@@ -19929,6 +20959,7 @@
       ],
       "append": [],
       "pron": "su3",
+      "example": [],
       "num": "438"
     },
     {
@@ -19946,6 +20977,7 @@
       ],
       "append": [],
       "pron": "jil1",
+      "example": [],
       "num": "439"
     },
     {
@@ -19967,6 +20999,7 @@
       ],
       "append": [],
       "pron": "nuan1",
+      "example": [],
       "num": "440"
     },
     {
@@ -19998,6 +21031,7 @@
         }
       ],
       "pron": "mao1",
+      "example": [],
       "num": "441"
     },
     {
@@ -20019,6 +21053,7 @@
       ],
       "append": [],
       "pron": "bi1",
+      "example": [],
       "num": "442"
     },
     {
@@ -20036,6 +21071,7 @@
       ],
       "append": [],
       "pron": "bi1 wi3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20053,6 +21089,7 @@
       ],
       "append": [],
       "pron": "bi1 gan2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20070,6 +21107,7 @@
       ],
       "append": [],
       "pron": "vi1 bi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20087,6 +21125,7 @@
       ],
       "append": [],
       "pron": "ya3 bi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20104,6 +21143,7 @@
       ],
       "append": [],
       "pron": "ling3 bi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20121,6 +21161,7 @@
       ],
       "append": [],
       "pron": "yuas3 bi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20138,6 +21179,7 @@
       ],
       "append": [],
       "pron": "bi1 kuang1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20155,6 +21197,7 @@
       ],
       "append": [],
       "pron": "bi1 yuon2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20182,6 +21225,7 @@
         }
       ],
       "pron": "fai2",
+      "example": [],
       "num": "443",
       "link": [
         {
@@ -20207,6 +21251,7 @@
       ],
       "append": [],
       "pron": "e1",
+      "example": [],
       "num": "444"
     },
     {
@@ -20233,6 +21278,7 @@
       ],
       "append": [],
       "pron": "duang2",
+      "example": [],
       "num": "445"
     },
     {
@@ -20260,6 +21306,7 @@
         }
       ],
       "pron": "duang2 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20277,6 +21324,7 @@
       ],
       "append": [],
       "pron": "bi3",
+      "example": [],
       "num": "446"
     },
     {
@@ -20294,6 +21342,7 @@
       ],
       "append": [],
       "pron": "bi3 so3 ail2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20311,6 +21360,7 @@
       ],
       "append": [],
       "pron": "bi3 jao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20328,6 +21378,7 @@
       ],
       "append": [],
       "pron": "puong3",
+      "example": [],
       "num": "447"
     },
     {
@@ -20345,6 +21396,7 @@
       ],
       "append": [],
       "pron": "nua3 puong3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20362,6 +21414,7 @@
       ],
       "append": [],
       "pron": "puong3 sing1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20379,6 +21432,7 @@
       ],
       "append": [],
       "pron": "puong3 jao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20415,6 +21469,7 @@
         }
       ],
       "pron": "jao2",
+      "example": [],
       "num": "448",
       "link": [
         {
@@ -20460,6 +21515,7 @@
         }
       ],
       "pron": "sang3",
+      "example": [],
       "num": "449"
     },
     {
@@ -20477,6 +21533,7 @@
       ],
       "append": [],
       "pron": "nan1",
+      "example": [],
       "num": "450"
     },
     {
@@ -20494,6 +21551,7 @@
       ],
       "append": [],
       "pron": "pil1",
+      "example": [],
       "num": "451"
     },
     {
@@ -20520,6 +21578,7 @@
       ],
       "append": [],
       "pron": "go1",
+      "example": [],
       "num": "452"
     },
     {
@@ -20550,6 +21609,7 @@
       ],
       "append": [],
       "pron": "taing3",
+      "example": [],
       "num": "453"
     },
     {
@@ -20567,6 +21627,7 @@
       ],
       "append": [],
       "pron": "mai1 taing3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20584,6 +21645,7 @@
       ],
       "append": [],
       "pron": "mai1 nun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20601,6 +21663,7 @@
       ],
       "append": [],
       "pron": "mai1 bun2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20618,6 +21681,7 @@
       ],
       "append": [],
       "pron": "puon2 taing3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20635,6 +21699,7 @@
       ],
       "append": [],
       "pron": "cail1 taing3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20652,6 +21717,7 @@
       ],
       "append": [],
       "pron": "cis3 su3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20669,6 +21735,7 @@
       ],
       "append": [],
       "pron": "xon2 su3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20686,6 +21753,7 @@
       ],
       "append": [],
       "pron": "tao1 muos3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20703,6 +21771,7 @@
       ],
       "append": [],
       "pron": "mel1 muos3",
+      "example": [],
       "num": "-"
     },
     {
@@ -20720,6 +21789,7 @@
       ],
       "append": [],
       "pron": "tu3",
+      "example": [],
       "num": "454"
     },
     {
@@ -20737,6 +21807,7 @@
       ],
       "append": [],
       "pron": "num2",
+      "example": [],
       "num": "455"
     },
     {
@@ -20754,6 +21825,7 @@
       ],
       "append": [],
       "pron": "bun2 num2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20771,6 +21843,7 @@
       ],
       "append": [],
       "pron": "nu1",
+      "example": [],
       "num": "456"
     },
     {
@@ -20788,6 +21861,7 @@
       ],
       "append": [],
       "pron": "nu1 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20814,6 +21888,7 @@
       ],
       "append": [],
       "pron": "gao2",
+      "example": [],
       "num": "457"
     },
     {
@@ -20831,6 +21906,7 @@
       ],
       "append": [],
       "pron": "gao2 cel2",
+      "example": [],
       "num": "-"
     },
     {
@@ -20857,6 +21933,7 @@
       ],
       "append": [],
       "pron": "uas1",
+      "example": [],
       "num": "458"
     },
     {
@@ -20874,6 +21951,7 @@
       ],
       "append": [],
       "pron": "uas1 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -20901,6 +21979,7 @@
         }
       ],
       "pron": "dai3",
+      "example": [],
       "num": "459",
       "link": [
         {
@@ -20936,6 +22015,7 @@
         }
       ],
       "pron": "qo2",
+      "example": [],
       "num": "460"
     },
     {
@@ -20963,6 +22043,7 @@
         }
       ],
       "pron": "fu3",
+      "example": [],
       "num": "461"
     },
     {
@@ -20990,6 +22071,7 @@
         }
       ],
       "pron": "luong1 vas1 fu3",
+      "example": [],
       "num": "-"
     },
     {
@@ -21016,6 +22098,7 @@
       ],
       "append": [],
       "pron": "pao3",
+      "example": [],
       "num": "462"
     },
     {
@@ -21033,6 +22116,7 @@
       ],
       "append": [],
       "pron": "pao3 ke1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21050,6 +22134,7 @@
       ],
       "append": [],
       "pron": "yao1 pao3 vas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21077,6 +22162,7 @@
         }
       ],
       "pron": "pao3 vas1 naim2",
+      "example": [],
       "num": "-"
     },
     {
@@ -21113,6 +22199,7 @@
       ],
       "append": [],
       "pron": "tas1",
+      "example": [],
       "num": "463"
     },
     {
@@ -21158,6 +22245,7 @@
         }
       ],
       "pron": "no2",
+      "example": [],
       "num": "464",
       "link": [
         {
@@ -21201,6 +22289,7 @@
       ],
       "append": [],
       "pron": "ua3",
+      "example": [],
       "num": "465"
     },
     {
@@ -21228,6 +22317,7 @@
         }
       ],
       "pron": "na2 ua3",
+      "example": [],
       "num": "-"
     },
     {
@@ -21245,6 +22335,7 @@
       ],
       "append": [],
       "pron": "hang2",
+      "example": [],
       "num": "466"
     },
     {
@@ -21281,6 +22372,7 @@
         }
       ],
       "pron": "yum1",
+      "example": [],
       "num": "467",
       "link": [
         {
@@ -21316,6 +22408,7 @@
         }
       ],
       "pron": "yum1 yaom1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21343,6 +22436,7 @@
         }
       ],
       "pron": "nun2 yum1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21370,6 +22464,7 @@
         }
       ],
       "pron": "gai1",
+      "example": [],
       "num": "468"
     },
     {
@@ -21397,6 +22492,7 @@
         }
       ],
       "pron": "gai1 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21424,6 +22520,7 @@
         }
       ],
       "pron": "gai1 tua2",
+      "example": [],
       "num": "-"
     },
     {
@@ -21451,6 +22548,7 @@
         }
       ],
       "pron": "gai1 yai1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21491,6 +22589,7 @@
         }
       ],
       "pron": "lua1",
+      "example": [],
       "num": "469",
       "link": [
         {
@@ -21528,6 +22627,7 @@
         }
       ],
       "pron": "ling3 lua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21555,6 +22655,7 @@
         }
       ],
       "pron": "kaom2",
+      "example": [],
       "num": "470",
       "link": [
         {
@@ -21599,6 +22700,7 @@
         }
       ],
       "pron": "yaom1 kaom2",
+      "example": [],
       "num": "-"
     },
     {
@@ -21626,6 +22728,7 @@
         }
       ],
       "pron": "ton2 yaom1 kaom2",
+      "example": [],
       "num": "-"
     },
     {
@@ -21657,6 +22760,7 @@
         }
       ],
       "pron": "gaim2",
+      "example": [],
       "num": "471",
       "link": [
         {
@@ -21692,6 +22796,7 @@
         }
       ],
       "pron": "tul1",
+      "example": [],
       "num": "472"
     },
     {
@@ -21711,6 +22816,7 @@
       ],
       "append": [],
       "pron": "tul1 tas1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21738,6 +22844,7 @@
         }
       ],
       "pron": "tam1",
+      "example": [],
       "num": "473",
       "link": [
         {
@@ -21773,6 +22880,7 @@
         }
       ],
       "pron": "cai3",
+      "example": [],
       "num": "474"
     },
     {
@@ -21800,6 +22908,7 @@
         }
       ],
       "pron": "bao2",
+      "example": [],
       "num": "475",
       "link": [
         {
@@ -21844,6 +22953,7 @@
         }
       ],
       "pron": "va1",
+      "example": [],
       "num": "476"
     },
     {
@@ -21861,6 +22971,7 @@
       ],
       "append": [],
       "pron": "va1 las2",
+      "example": [],
       "num": "-"
     },
     {
@@ -21878,6 +22989,7 @@
       ],
       "append": [],
       "pron": "va1 gim1",
+      "example": [],
       "num": "-"
     },
     {
@@ -21904,6 +23016,7 @@
       ],
       "append": [],
       "pron": "ling3 va1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -21938,6 +23051,7 @@
       ],
       "append": [],
       "pron": "ya3 va1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -21972,6 +23086,7 @@
       ],
       "append": [],
       "pron": "hain1",
+      "example": [],
       "num": "477"
     },
     {
@@ -21989,6 +23104,7 @@
       ],
       "append": [],
       "pron": "jo3 ku1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22006,6 +23122,7 @@
       ],
       "append": [],
       "pron": "jo3 ku1 dol3",
+      "example": [],
       "num": "-"
     },
     {
@@ -22023,6 +23140,7 @@
       ],
       "append": [],
       "pron": "hain1 ku1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22050,6 +23168,7 @@
         }
       ],
       "pron": "cen2",
+      "example": [],
       "num": "478"
     },
     {
@@ -22077,6 +23196,7 @@
         }
       ],
       "pron": "cen2 num2",
+      "example": [],
       "num": "-"
     },
     {
@@ -22104,6 +23224,7 @@
         }
       ],
       "pron": "cen2 mo1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22140,6 +23261,7 @@
         }
       ],
       "pron": "xai2",
+      "example": [],
       "num": "479"
     },
     {
@@ -22167,6 +23289,7 @@
         }
       ],
       "pron": "xai2 duo1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -22202,6 +23325,7 @@
         }
       ],
       "pron": "qai3 duo1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -22237,6 +23361,7 @@
         }
       ],
       "pron": "xai2 sao2",
+      "example": [],
       "num": "-"
     },
     {
@@ -22264,6 +23389,7 @@
         }
       ],
       "pron": "mul2",
+      "example": [],
       "num": "480"
     },
     {
@@ -22291,6 +23417,7 @@
         }
       ],
       "pron": "nao3",
+      "example": [],
       "num": "481"
     },
     {
@@ -22318,6 +23445,7 @@
         }
       ],
       "pron": "nao3 pis3",
+      "example": [],
       "num": "-"
     },
     {
@@ -22345,6 +23473,7 @@
         }
       ],
       "pron": "si1",
+      "example": [],
       "num": "482"
     },
     {
@@ -22378,6 +23507,7 @@
         }
       ],
       "pron": "qi1",
+      "example": [],
       "num": "483"
     },
     {
@@ -22395,6 +23525,7 @@
       ],
       "append": [],
       "pron": "xing1 qi1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22435,6 +23566,7 @@
         }
       ],
       "pron": "ton2",
+      "example": [],
       "num": "484"
     },
     {
@@ -22456,6 +23588,7 @@
       ],
       "append": [],
       "pron": "ton2 mua1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22483,6 +23616,7 @@
         }
       ],
       "pron": "jao1",
+      "example": [],
       "num": "485"
     },
     {
@@ -22510,6 +23644,7 @@
         }
       ],
       "pron": "jao1 jaim3",
+      "example": [],
       "num": "-"
     },
     {
@@ -22527,6 +23662,7 @@
       ],
       "append": [],
       "pron": "om2",
+      "example": [],
       "num": "486"
     },
     {
@@ -22554,6 +23690,7 @@
         }
       ],
       "pron": "dim3",
+      "example": [],
       "num": "487",
       "link": [
         {
@@ -22590,6 +23727,7 @@
         }
       ],
       "pron": "qa1 dim3",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -22626,6 +23764,7 @@
         }
       ],
       "pron": "fo2 dol3 qa1 dim3",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -22662,6 +23801,7 @@
         }
       ],
       "pron": "e3 fo2 dol3 qa1 dim3 ha1",
+      "example": [],
       "num": "-",
       "link": [
         {
@@ -22688,6 +23828,7 @@
       ],
       "append": [],
       "pron": "dim3 nel1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22705,6 +23846,7 @@
       ],
       "append": [],
       "pron": "fo2",
+      "example": [],
       "num": "488"
     },
     {
@@ -22741,6 +23883,7 @@
         }
       ],
       "pron": "tel1",
+      "example": [],
       "num": "489",
       "link": [
         {
@@ -22776,6 +23919,7 @@
         }
       ],
       "pron": "gua3",
+      "example": [],
       "num": "490"
     },
     {
@@ -22803,6 +23947,7 @@
         }
       ],
       "pron": "zaos2",
+      "example": [],
       "num": "491"
     },
     {
@@ -22830,6 +23975,7 @@
         }
       ],
       "pron": "le3",
+      "example": [],
       "num": "492"
     },
     {
@@ -22857,6 +24003,7 @@
         }
       ],
       "pron": "xes1",
+      "example": [],
       "num": "493"
     },
     {
@@ -22874,6 +24021,7 @@
       ],
       "append": [],
       "pron": "xes1 be1",
+      "example": [],
       "num": "-"
     },
     {
@@ -22891,6 +24039,7 @@
       ],
       "append": [],
       "pron": "xes1 tang2",
+      "example": [],
       "num": "-"
     },
     {
@@ -22917,6 +24066,7 @@
       ],
       "append": [],
       "pron": "ci2",
+      "example": [],
       "num": "494"
     },
     {
@@ -22944,6 +24094,7 @@
         }
       ],
       "pron": "no3",
+      "example": [],
       "num": "495"
     },
     {
@@ -22970,6 +24121,7 @@
       ],
       "append": [],
       "pron": "no3 ci2",
+      "example": [],
       "num": "-"
     },
     {
@@ -22997,6 +24149,7 @@
         }
       ],
       "pron": "zuo1",
+      "example": [],
       "num": "496"
     },
     {
@@ -23024,6 +24177,7 @@
         }
       ],
       "pron": "qua2",
+      "example": [],
       "num": "497"
     },
     {
@@ -23060,6 +24214,7 @@
         }
       ],
       "pron": "ba2",
+      "example": [],
       "num": "498"
     },
     {
@@ -23077,6 +24232,7 @@
       ],
       "append": [],
       "pron": "sul2",
+      "example": [],
       "num": "499"
     },
     {
@@ -23104,6 +24260,7 @@
         }
       ],
       "pron": "pum3",
+      "example": [],
       "num": "500"
     },
     {
@@ -23140,6 +24297,7 @@
         }
       ],
       "pron": "ki1 pum3",
+      "example": [],
       "num": "-"
     },
     {
@@ -23175,6 +24333,7 @@
       ],
       "append": [],
       "pron": "hin2",
+      "example": [],
       "num": "501"
     },
     {
@@ -23202,6 +24361,7 @@
         }
       ],
       "pron": "hin2 ha1",
+      "example": [],
       "num": "-"
     },
     {
@@ -23229,6 +24389,7 @@
         }
       ],
       "pron": "huan3",
+      "example": [],
       "num": "502",
       "link": [
         {
@@ -23257,14 +24418,43 @@
           "type": "語法",
           "explanation": [
             {
-              "translate": "箱や袋などに物体を入れることを指す。",
+              "translate": "ある場所に対象を収めておくことを指す。",
               "tag": []
             }
           ]
         }
       ],
       "pron": "yai3",
+      "example": [],
       "num": "503"
+    },
+    {
+      "word": "掘",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "掘る。掘削する。掘り進む。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "主に地面を削ってくぼみを作ることを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "zel1",
+      "example": [],
+      "num": "504"
     }
   ]
 }
