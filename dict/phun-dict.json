@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-04-06T07:26:38.749Z",
+  "date": "2024-04-06T11:23:34.201Z",
   "data": [
     {
       "word": "人",
@@ -383,6 +383,25 @@
       "latinPron": "qîm",
       "example": [],
       "num": "11"
+    },
+    {
+      "word": "大小",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "大きさ。サイズ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "qim3 yao1",
+      "latinPron": "qîmyáo",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "小",
@@ -1284,6 +1303,25 @@
       "num": "33"
     },
     {
+      "word": "海地",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "海底。海の底。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "guan1 ho3",
+      "latinPron": "gúanhô",
+      "example": [],
+      "num": "-"
+    },
+    {
       "word": "大海",
       "mean": [
         {
@@ -1574,6 +1612,25 @@
       "latinPron": "fún",
       "example": [],
       "num": "41"
+    },
+    {
+      "word": "栄言",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "雰語。雰民族の言語。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "fun1 bun2",
+      "latinPron": "fúnbùn",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "栄国",
@@ -2483,13 +2540,30 @@
               "tag": []
             }
           ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "（風が）吹く。そよぐ。",
+              "tag": []
+            }
+          ]
         }
       ],
       "append": [],
       "pron": "tem3",
       "latinPron": "têm",
       "example": [],
-      "num": "56"
+      "num": "56",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "吹"
+          ]
+        }
+      ]
     },
     {
       "word": "風音",
@@ -2640,6 +2714,44 @@
         {
           "type": "類語",
           "explanation": [
+            "丘"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "山羅",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "山脈。山岳地帯。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "山岳が連なった地形。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "das1 gan2",
+      "latinPron": "dásgàn",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "山",
             "丘"
           ]
         }
@@ -3814,7 +3926,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "カーペット。絨毯。",
+              "translate": "カーペット。絨毯。マット。",
               "tag": []
             }
           ]
@@ -3823,6 +3935,44 @@
       "append": [],
       "pron": "ya3 ye1",
       "latinPron": "yâyé",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "酸足下巾",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "足つぼマット。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "足の裏をマッサージするために使う突起のついたマット。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "感想",
+          "explanation": [
+            {
+              "translate": "めちゃくちゃ痛い。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "tas1 yuas1 ya3 ye1",
+      "latinPron": "tásyúasyâyé",
       "example": [],
       "num": "-"
     },
@@ -7602,7 +7752,7 @@
             {
               "translate": "未知数。",
               "tag": [
-                "数学"
+                "数"
               ]
             }
           ]
@@ -7717,6 +7867,35 @@
       "latinPron": "gô",
       "example": [],
       "num": "153"
+    },
+    {
+      "word": "跳暗",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "いきなり。突然に。急に。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "考えになかった出来事が起こることを指す。出来事が短い時間で起こったかは含意しない。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "go3 tu2",
+      "latinPron": "gôtù",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "立跳",
@@ -8088,7 +8267,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "熱。温度。熱量。",
+              "translate": "熱。熱量。",
               "tag": []
             }
           ]
@@ -8117,6 +8296,25 @@
       "latinPron": "sûo",
       "example": [],
       "num": "163"
+    },
+    {
+      "word": "熱冷",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "温度。熱量。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "suo3 pil1",
+      "latinPron": "sûopíl",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "気熱",
@@ -8186,6 +8384,35 @@
       "num": "164"
     },
     {
+      "word": "広川",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "大河。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "川の中でも特に幅が広く水量が多いもの。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "dua1 huo2",
+      "latinPron": "dúahùo",
+      "example": [],
+      "num": "-"
+    },
+    {
       "word": "丘",
       "mean": [
         {
@@ -8221,6 +8448,35 @@
           ]
         }
       ]
+    },
+    {
+      "word": "平丘",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "高野。高原。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "標高が高い場所にある平野。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "xem1 zo3",
+      "latinPron": "xémzô",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "交",
@@ -11506,7 +11762,17 @@
               "tag": []
             }
           ]
-        },
+        }
+      ],
+      "append": [],
+      "pron": "an3",
+      "latinPron": "ân",
+      "example": [],
+      "num": "241"
+    },
+    {
+      "word": "重軽",
+      "mean": [
         {
           "type": "名詞",
           "explanation": [
@@ -11518,10 +11784,10 @@
         }
       ],
       "append": [],
-      "pron": "an3",
-      "latinPron": "ân",
+      "pron": "an3 xao2",
+      "latinPron": "ânxào",
       "example": [],
-      "num": "241"
+      "num": "-"
     },
     {
       "word": "重思",
@@ -12570,6 +12836,35 @@
           ]
         }
       ]
+    },
+    {
+      "word": "立椅",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "踏み台。足場。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "高い場所のものを取ったりするために足場として使う存在を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "quo3 luo3",
+      "latinPron": "qûo'lûo",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "眠椅",
@@ -15643,6 +15938,120 @@
       "num": "314"
     },
     {
+      "word": "固物",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "固体。ソリッド。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "物質の状態の一つ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "nail2 kao1",
+      "latinPron": "nàilkáo",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "流物",
+            "風物"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "流物",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "液体。リキッド。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "物質の状態の一つ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "caos1 kao1",
+      "latinPron": "cáoskáo",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "固物",
+            "風物"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "風物",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "気体。ガス。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "物質の状態の一つ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "tem3 kao1",
+      "latinPron": "têmkáo",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "固物",
+            "流物"
+          ]
+        }
+      ]
+    },
+    {
       "word": "落",
       "mean": [
         {
@@ -17049,11 +17458,29 @@
           ]
         }
       ],
-      "append": [],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "[吹]は気体などを力強く吹き出すことを指すが、風が吹くことを指す場合は[風]を動詞として用いる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
       "pron": "pang3",
       "latinPron": "pâng",
       "example": [],
-      "num": "353"
+      "num": "353",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "風"
+          ]
+        }
+      ]
     },
     {
       "word": "悪",
@@ -18703,6 +19130,35 @@
       "num": "384"
     },
     {
+      "word": "平地",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "平野。平地。平原。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "広範囲にわたって起伏が少ない地形。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "xem1 ho3",
+      "latinPron": "xémhô",
+      "example": [],
+      "num": "-"
+    },
+    {
       "word": "平刃",
       "mean": [
         {
@@ -19346,6 +19802,35 @@
       "latinPron": "nàim",
       "example": [],
       "num": "392"
+    },
+    {
+      "word": "集集",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "パーティー。会。宴会。祭り。フェスティバル。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "規模に関わらず、複数人が集まって楽しむイベントを指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "naim2 naim2",
+      "latinPron": "nàimnàim",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "集巻",
@@ -23212,7 +23697,7 @@
             {
               "translate": "酸。acid。",
               "tag": [
-                "化学"
+                "化"
               ]
             }
           ]
@@ -23557,7 +24042,7 @@
           "type": "語法",
           "explanation": [
             {
-              "translate": "不特定の時間を指す。",
+              "translate": "不特定の時間を指す。過去か未来かは含意しない。",
               "tag": []
             }
           ]
@@ -23861,7 +24346,7 @@
             {
               "translate": "クエン酸。枸櫞酸。",
               "tag": [
-                "化学"
+                "化"
               ]
             }
           ]
@@ -23938,6 +24423,35 @@
       "latinPron": "câi",
       "example": [],
       "num": "474"
+    },
+    {
+      "word": "従天",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "衛星。サテライト。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "惑星や準惑星、小惑星の周りを公転する天体。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "cai3 vas1",
+      "latinPron": "câivás",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "徒",
@@ -24566,7 +25080,7 @@
             {
               "translate": "類。",
               "tag": [
-                "生物"
+                "生"
               ]
             }
           ]
@@ -24702,7 +25216,7 @@
       "num": "485"
     },
     {
-      "word": "貝材",
+      "word": "貝気材",
       "mean": [
         {
           "type": "名詞",
@@ -24725,8 +25239,8 @@
           ]
         }
       ],
-      "pron": "jao1 jaim3",
-      "latinPron": "jáojâim",
+      "pron": "jao1 sing1 jaim3",
+      "latinPron": "jáo'síngjâim",
       "example": [],
       "num": "-"
     },
@@ -25566,6 +26080,92 @@
       "latinPron": "zél",
       "example": [],
       "num": "504"
+    },
+    {
+      "word": "掘道",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "トンネル。隧道。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "地面を貫いて作る道を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "zel1 gim1",
+      "latinPron": "zélgím",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "桜",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "桜。サクラ。春に花を咲かせる樹木。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "ピンク色の。桃色の。桜色の。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "pron": "tuo1",
+      "latinPron": "túo",
+      "example": [],
+      "num": "505"
+    },
+    {
+      "word": "桜彩",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "ピンク。ピンク色。桃色。桜色。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "薄く明るい赤色を指す。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "pron": "tuo1 guo3",
+      "latinPron": "túogûo",
+      "example": [],
+      "num": "-"
     }
   ]
 }
