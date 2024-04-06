@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-03-24T08:19:54.138Z",
+  "date": "2024-04-06T07:26:38.749Z",
   "data": [
     {
       "word": "人",
@@ -17,6 +17,7 @@
       ],
       "append": [],
       "pron": "ha1",
+      "latinPron": "há",
       "example": [
         {
           "pn": "十七億人活在之丸。",
@@ -40,6 +41,7 @@
       ],
       "append": [],
       "pron": "nai2",
+      "latinPron": "nài",
       "example": [],
       "num": "2"
     },
@@ -58,6 +60,7 @@
       ],
       "append": [],
       "pron": "taos3",
+      "latinPron": "tâos",
       "example": [],
       "num": "3"
     },
@@ -76,6 +79,7 @@
       ],
       "append": [],
       "pron": "ve1 taos3",
+      "latinPron": "vétâos",
       "example": [],
       "num": "-"
     },
@@ -104,6 +108,7 @@
         }
       ],
       "pron": "xe3",
+      "latinPron": "xê",
       "example": [
         {
           "pn": "我為之機。",
@@ -131,6 +136,7 @@
       ],
       "append": [],
       "pron": "lung2",
+      "latinPron": "lùng",
       "example": [],
       "num": "5"
     },
@@ -149,6 +155,7 @@
       ],
       "append": [],
       "pron": "lung2 me2",
+      "latinPron": "lùngmè",
       "example": [],
       "num": "-"
     },
@@ -175,6 +182,7 @@
       ],
       "append": [],
       "pron": "so3",
+      "latinPron": "sô",
       "example": [
         {
           "pn": "水杯居上机。",
@@ -198,6 +206,7 @@
       ],
       "append": [],
       "pron": "so3 luong3",
+      "latinPron": "sô'lûong",
       "example": [],
       "num": "-"
     },
@@ -216,6 +225,7 @@
       ],
       "append": [],
       "pron": "ge2",
+      "latinPron": "gè",
       "example": [],
       "num": "7"
     },
@@ -253,6 +263,7 @@
         }
       ],
       "pron": "bua1",
+      "latinPron": "búa",
       "example": [],
       "num": "8",
       "link": [
@@ -289,6 +300,7 @@
         }
       ],
       "pron": "baon2",
+      "latinPron": "bàon",
       "example": [],
       "num": "9"
     },
@@ -321,6 +333,7 @@
         }
       ],
       "pron": "vuos1 baon2",
+      "latinPron": "vúosbàon",
       "example": [],
       "num": "-"
     },
@@ -339,6 +352,7 @@
       ],
       "append": [],
       "pron": "kus3",
+      "latinPron": "kûs",
       "example": [],
       "num": "10"
     },
@@ -366,6 +380,7 @@
       ],
       "append": [],
       "pron": "qim3",
+      "latinPron": "qîm",
       "example": [],
       "num": "11"
     },
@@ -384,6 +399,7 @@
       ],
       "append": [],
       "pron": "yao1",
+      "latinPron": "yáo",
       "example": [],
       "num": "12"
     },
@@ -415,6 +431,7 @@
       ],
       "append": [],
       "pron": "mail2",
+      "latinPron": "màil",
       "example": [],
       "num": "13"
     },
@@ -433,6 +450,7 @@
       ],
       "append": [],
       "pron": "nun2",
+      "latinPron": "nùn",
       "example": [],
       "num": "14"
     },
@@ -455,6 +473,7 @@
       ],
       "append": [],
       "pron": "ao3",
+      "latinPron": "âo",
       "example": [],
       "num": "15"
     },
@@ -481,6 +500,7 @@
       ],
       "append": [],
       "pron": "tang2",
+      "latinPron": "tàng",
       "example": [],
       "num": "16"
     },
@@ -509,6 +529,7 @@
         }
       ],
       "pron": "cai1",
+      "latinPron": "cái",
       "example": [],
       "num": "17"
     },
@@ -536,6 +557,7 @@
       ],
       "append": [],
       "pron": "vuos1",
+      "latinPron": "vúos",
       "example": [],
       "num": "18"
     },
@@ -558,6 +580,7 @@
       ],
       "append": [],
       "pron": "kuang1",
+      "latinPron": "kúang",
       "example": [],
       "num": "19"
     },
@@ -594,6 +617,7 @@
         }
       ],
       "pron": "vas1",
+      "latinPron": "vás",
       "example": [],
       "num": "20"
     },
@@ -612,6 +636,7 @@
       ],
       "append": [],
       "pron": "kuang1 vas1",
+      "latinPron": "kúangvás",
       "example": [],
       "num": "-"
     },
@@ -630,6 +655,7 @@
       ],
       "append": [],
       "pron": "vo2 vas1",
+      "latinPron": "vòvás",
       "example": [],
       "num": "-"
     },
@@ -648,6 +674,7 @@
       ],
       "append": [],
       "pron": "sing1 vas1",
+      "latinPron": "síngvás",
       "example": [],
       "num": "-"
     },
@@ -666,6 +693,7 @@
       ],
       "append": [],
       "pron": "tang2 vas1",
+      "latinPron": "tàngvás",
       "example": [],
       "num": "-"
     },
@@ -684,6 +712,7 @@
       ],
       "append": [],
       "pron": "qim3 luong3",
+      "latinPron": "qîmlûong",
       "example": [],
       "num": "-"
     },
@@ -702,6 +731,7 @@
       ],
       "append": [],
       "pron": "so3 vas1",
+      "latinPron": "sôvás",
       "example": [],
       "num": "-"
     },
@@ -720,6 +750,7 @@
       ],
       "append": [],
       "pron": "ao3 vas1",
+      "latinPron": "âovás",
       "example": [],
       "num": "-"
     },
@@ -738,6 +769,7 @@
       ],
       "append": [],
       "pron": "lung2 vas1",
+      "latinPron": "lùngvás",
       "example": [],
       "num": "-"
     },
@@ -756,6 +788,7 @@
       ],
       "append": [],
       "pron": "duang2 das1 vas1",
+      "latinPron": "dùangdásvás",
       "example": [],
       "num": "-"
     },
@@ -774,6 +807,7 @@
       ],
       "append": [],
       "pron": "pu2 duo1 vas1",
+      "latinPron": "pùdúovás",
       "example": [],
       "num": "-"
     },
@@ -792,6 +826,7 @@
       ],
       "append": [],
       "pron": "tuo3 nan1 vas1",
+      "latinPron": "tûo'nánvás",
       "example": [],
       "num": "-"
     },
@@ -810,6 +845,7 @@
       ],
       "append": [],
       "pron": "vas1 nes2",
+      "latinPron": "vásnès",
       "example": [],
       "num": "-"
     },
@@ -847,6 +883,7 @@
         }
       ],
       "pron": "ao1 vas1",
+      "latinPron": "áovás",
       "example": [],
       "num": "-"
     },
@@ -865,6 +902,7 @@
       ],
       "append": [],
       "pron": "vas1 cua3",
+      "latinPron": "váscûa",
       "example": [],
       "num": "-"
     },
@@ -892,6 +930,7 @@
       ],
       "append": [],
       "pron": "qai3",
+      "latinPron": "qâi",
       "example": [],
       "num": "21"
     },
@@ -919,6 +958,7 @@
       ],
       "append": [],
       "pron": "fes2",
+      "latinPron": "fès",
       "example": [],
       "num": "22"
     },
@@ -937,6 +977,7 @@
       ],
       "append": [],
       "pron": "fes2 qai2",
+      "latinPron": "fèsqài",
       "example": [],
       "num": "-"
     },
@@ -964,6 +1005,7 @@
       ],
       "append": [],
       "pron": "fua3",
+      "latinPron": "fûa",
       "example": [],
       "num": "23"
     },
@@ -982,6 +1024,7 @@
       ],
       "append": [],
       "pron": "ke1 fua3",
+      "latinPron": "kéfûa",
       "example": [],
       "num": "-"
     },
@@ -1000,6 +1043,7 @@
       ],
       "append": [],
       "pron": "xel3",
+      "latinPron": "xêl",
       "example": [],
       "num": "24"
     },
@@ -1018,6 +1062,7 @@
       ],
       "append": [],
       "pron": "vo2",
+      "latinPron": "vò",
       "example": [],
       "num": "25"
     },
@@ -1036,6 +1081,7 @@
       ],
       "append": [],
       "pron": "vi1",
+      "latinPron": "ví",
       "example": [],
       "num": "26"
     },
@@ -1054,6 +1100,7 @@
       ],
       "append": [],
       "pron": "buan3",
+      "latinPron": "bûan",
       "example": [],
       "num": "27"
     },
@@ -1072,6 +1119,7 @@
       ],
       "append": [],
       "pron": "gaol3",
+      "latinPron": "gâol",
       "example": [],
       "num": "28"
     },
@@ -1090,6 +1138,7 @@
       ],
       "append": [],
       "pron": "fai1",
+      "latinPron": "fái",
       "example": [],
       "num": "29"
     },
@@ -1108,6 +1157,7 @@
       ],
       "append": [],
       "pron": "luong1",
+      "latinPron": "lúong",
       "example": [],
       "num": "30"
     },
@@ -1154,6 +1204,7 @@
         }
       ],
       "pron": "bun2",
+      "latinPron": "bùn",
       "example": [],
       "num": "31",
       "link": [
@@ -1181,6 +1232,7 @@
       ],
       "append": [],
       "pron": "nuo2 bun2 tuo2",
+      "latinPron": "nùobùntùo",
       "example": [],
       "num": "-"
     },
@@ -1208,6 +1260,7 @@
       ],
       "append": [],
       "pron": "zen3",
+      "latinPron": "zên",
       "example": [],
       "num": "32"
     },
@@ -1226,6 +1279,7 @@
       ],
       "append": [],
       "pron": "guan1",
+      "latinPron": "gúan",
       "example": [],
       "num": "33"
     },
@@ -1244,6 +1298,7 @@
       ],
       "append": [],
       "pron": "qim3 guan1",
+      "latinPron": "qîmgúan",
       "example": [],
       "num": "-"
     },
@@ -1262,6 +1317,7 @@
       ],
       "append": [],
       "pron": "juan1",
+      "latinPron": "júan",
       "example": [],
       "num": "34"
     },
@@ -1280,6 +1336,7 @@
       ],
       "append": [],
       "pron": "luam2",
+      "latinPron": "lùam",
       "example": [],
       "num": "35"
     },
@@ -1311,6 +1368,7 @@
       ],
       "append": [],
       "pron": "ling3",
+      "latinPron": "lîng",
       "example": [],
       "num": "36"
     },
@@ -1339,6 +1397,7 @@
         }
       ],
       "pron": "yaom1 ling3",
+      "latinPron": "yáomlîng",
       "example": [],
       "num": "-"
     },
@@ -1366,6 +1425,7 @@
       ],
       "append": [],
       "pron": "ya3",
+      "latinPron": "yâ",
       "example": [],
       "num": "37"
     },
@@ -1394,6 +1454,7 @@
         }
       ],
       "pron": "yaom1 ya3",
+      "latinPron": "yáomyâ",
       "example": [],
       "num": "-"
     },
@@ -1412,6 +1473,7 @@
       ],
       "append": [],
       "pron": "ya3 ha1",
+      "latinPron": "yâhá",
       "example": [],
       "num": "-"
     },
@@ -1430,6 +1492,7 @@
       ],
       "append": [],
       "pron": "vuo2",
+      "latinPron": "vùo",
       "example": [],
       "num": "38"
     },
@@ -1448,6 +1511,7 @@
       ],
       "append": [],
       "pron": "van3",
+      "latinPron": "vân",
       "example": [],
       "num": "39"
     },
@@ -1479,6 +1543,7 @@
       ],
       "append": [],
       "pron": "dua1",
+      "latinPron": "dúa",
       "example": [],
       "num": "40"
     },
@@ -1506,6 +1571,7 @@
       ],
       "append": [],
       "pron": "fun1",
+      "latinPron": "fún",
       "example": [],
       "num": "41"
     },
@@ -1524,6 +1590,7 @@
       ],
       "append": [],
       "pron": "fun1 nun2",
+      "latinPron": "fúnnùn",
       "example": [],
       "num": "-"
     },
@@ -1552,6 +1619,7 @@
         }
       ],
       "pron": "fun1 vas1 nun2",
+      "latinPron": "fúnvásnùn",
       "example": [],
       "num": "-"
     },
@@ -1580,6 +1648,7 @@
         }
       ],
       "pron": "kuang1 nun2",
+      "latinPron": "kúangnùn",
       "example": [],
       "num": "-"
     },
@@ -1608,6 +1677,7 @@
         }
       ],
       "pron": "kuang1 bun2",
+      "latinPron": "kúangbùn",
       "example": [],
       "num": "-"
     },
@@ -1636,6 +1706,7 @@
         }
       ],
       "pron": "wing3 nun2",
+      "latinPron": "wîngnùn",
       "example": [],
       "num": "-"
     },
@@ -1664,6 +1735,7 @@
         }
       ],
       "pron": "wing3 bun2",
+      "latinPron": "wîngbùn",
       "example": [],
       "num": "-"
     },
@@ -1692,6 +1764,7 @@
         }
       ],
       "pron": "lua3 bun2",
+      "latinPron": "lûabùn",
       "example": [],
       "num": "-"
     },
@@ -1720,6 +1793,7 @@
         }
       ],
       "pron": "lua3 qo3",
+      "latinPron": "lûaqô",
       "example": [],
       "num": "-"
     },
@@ -1738,6 +1812,7 @@
       ],
       "append": [],
       "pron": "fun1 zom3",
+      "latinPron": "fúnzôm",
       "example": [],
       "num": "-"
     },
@@ -1756,6 +1831,7 @@
       ],
       "append": [],
       "pron": "yuas1",
+      "latinPron": "yúas",
       "example": [],
       "num": "42"
     },
@@ -1774,6 +1850,7 @@
       ],
       "append": [],
       "pron": "yuas1 ya3",
+      "latinPron": "yúasyâ",
       "example": [],
       "num": "-"
     },
@@ -1801,6 +1878,7 @@
       ],
       "append": [],
       "pron": "yaom1",
+      "latinPron": "yáom",
       "example": [],
       "num": "43"
     },
@@ -1819,6 +1897,7 @@
       ],
       "append": [],
       "pron": "yaom1 xo3",
+      "latinPron": "yáomxô",
       "example": [],
       "num": "-"
     },
@@ -1841,6 +1920,7 @@
       ],
       "append": [],
       "pron": "yaom1 yai1",
+      "latinPron": "yáomyái",
       "example": [],
       "num": "-"
     },
@@ -1868,6 +1948,7 @@
       ],
       "append": [],
       "pron": "ke1",
+      "latinPron": "ké",
       "example": [],
       "num": "44"
     },
@@ -1886,6 +1967,7 @@
       ],
       "append": [],
       "pron": "kua1",
+      "latinPron": "kúa",
       "example": [],
       "num": "45"
     },
@@ -1914,6 +1996,7 @@
         }
       ],
       "pron": "kua1 tua2",
+      "latinPron": "kúatùa",
       "example": [],
       "num": "-",
       "link": [
@@ -1940,6 +2023,7 @@
       ],
       "append": [],
       "pron": "kua1 kuang1",
+      "latinPron": "kúakúang",
       "example": [],
       "num": "-"
     },
@@ -1958,6 +2042,7 @@
       ],
       "append": [],
       "pron": "kua1 lai1",
+      "latinPron": "kúa'lái",
       "example": [],
       "num": "-"
     },
@@ -1986,6 +2071,7 @@
         }
       ],
       "pron": "kua1 gaos1",
+      "latinPron": "kúagáos",
       "example": [],
       "num": "-"
     },
@@ -2014,6 +2100,7 @@
         }
       ],
       "pron": "kua1 vai3",
+      "latinPron": "kúavâi",
       "example": [],
       "num": "-"
     },
@@ -2032,6 +2119,7 @@
       ],
       "append": [],
       "pron": "kua1 vais2",
+      "latinPron": "kúavàis",
       "example": [],
       "num": "-"
     },
@@ -2069,6 +2157,7 @@
         }
       ],
       "pron": "suo2",
+      "latinPron": "sùo",
       "example": [],
       "num": "46"
     },
@@ -2106,6 +2195,7 @@
         }
       ],
       "pron": "baim3",
+      "latinPron": "bâim",
       "example": [],
       "num": "47",
       "link": [
@@ -2132,6 +2222,7 @@
       ],
       "append": [],
       "pron": "peng3",
+      "latinPron": "pêng",
       "example": [],
       "num": "48"
     },
@@ -2150,6 +2241,7 @@
       ],
       "append": [],
       "pron": "yuo2",
+      "latinPron": "yùo",
       "example": [],
       "num": "49"
     },
@@ -2168,6 +2260,7 @@
       ],
       "append": [],
       "pron": "lom2",
+      "latinPron": "lòm",
       "example": [],
       "num": "50"
     },
@@ -2195,6 +2288,7 @@
       ],
       "append": [],
       "pron": "gaing2",
+      "latinPron": "gàing",
       "example": [],
       "num": "51"
     },
@@ -2213,6 +2307,7 @@
       ],
       "append": [],
       "pron": "tua2",
+      "latinPron": "tùa",
       "example": [],
       "num": "52"
     },
@@ -2241,6 +2336,7 @@
         }
       ],
       "pron": "tua2 xu1",
+      "latinPron": "tùaxú",
       "example": [],
       "num": "-"
     },
@@ -2259,6 +2355,7 @@
       ],
       "append": [],
       "pron": "suom3 tua2 xu1",
+      "latinPron": "sûomtùaxú",
       "example": [],
       "num": "-"
     },
@@ -2277,6 +2374,7 @@
       ],
       "append": [],
       "pron": "nol2 tua2 xu1",
+      "latinPron": "nòltùaxú",
       "example": [],
       "num": "-"
     },
@@ -2295,6 +2393,7 @@
       ],
       "append": [],
       "pron": "nol2 ha3 ail2",
+      "latinPron": "nòlhâàil",
       "example": [],
       "num": "-"
     },
@@ -2322,6 +2421,7 @@
       ],
       "append": [],
       "pron": "taol3",
+      "latinPron": "tâol",
       "example": [],
       "num": "53"
     },
@@ -2340,6 +2440,7 @@
       ],
       "append": [],
       "pron": "xo2",
+      "latinPron": "xò",
       "example": [],
       "num": "54"
     },
@@ -2367,6 +2468,7 @@
       ],
       "append": [],
       "pron": "huo1",
+      "latinPron": "húo",
       "example": [],
       "num": "55"
     },
@@ -2385,6 +2487,7 @@
       ],
       "append": [],
       "pron": "tem3",
+      "latinPron": "têm",
       "example": [],
       "num": "56"
     },
@@ -2403,6 +2506,7 @@
       ],
       "append": [],
       "pron": "tem3 jua1",
+      "latinPron": "têmjúa",
       "example": [],
       "num": "-"
     },
@@ -2431,6 +2535,7 @@
         }
       ],
       "pron": "dail2",
+      "latinPron": "dàil",
       "example": [],
       "num": "57",
       "link": [
@@ -2461,6 +2566,7 @@
       ],
       "append": [],
       "pron": "yai1",
+      "latinPron": "yái",
       "example": [],
       "num": "58"
     },
@@ -2479,6 +2585,7 @@
       ],
       "append": [],
       "pron": "cen1",
+      "latinPron": "cén",
       "example": [],
       "num": "59"
     },
@@ -2497,6 +2604,7 @@
       ],
       "append": [],
       "pron": "heng3",
+      "latinPron": "hêng",
       "example": [],
       "num": "60"
     },
@@ -2525,6 +2633,7 @@
         }
       ],
       "pron": "das1",
+      "latinPron": "dás",
       "example": [],
       "num": "61",
       "link": [
@@ -2555,6 +2664,7 @@
       ],
       "append": [],
       "pron": "nes2",
+      "latinPron": "nès",
       "example": [],
       "num": "62"
     },
@@ -2573,6 +2683,7 @@
       ],
       "append": [],
       "pron": "we2 nes2",
+      "latinPron": "wè'nès",
       "example": [],
       "num": "-"
     },
@@ -2600,6 +2711,7 @@
       ],
       "append": [],
       "pron": "sao2",
+      "latinPron": "sào",
       "example": [],
       "num": "63"
     },
@@ -2628,6 +2740,7 @@
         }
       ],
       "pron": "sao2 xos2",
+      "latinPron": "sàoxòs",
       "example": [],
       "num": "-"
     },
@@ -2655,6 +2768,7 @@
       ],
       "append": [],
       "pron": "mail2 ca1",
+      "latinPron": "màilcá",
       "example": [],
       "num": "-"
     },
@@ -2673,6 +2787,7 @@
       ],
       "append": [],
       "pron": "xu2",
+      "latinPron": "xù",
       "example": [],
       "num": "64"
     },
@@ -2700,6 +2815,7 @@
       ],
       "append": [],
       "pron": "lus3",
+      "latinPron": "lûs",
       "example": [],
       "num": "65"
     },
@@ -2718,6 +2834,7 @@
       ],
       "append": [],
       "pron": "be1",
+      "latinPron": "bé",
       "example": [],
       "num": "66"
     },
@@ -2736,6 +2853,7 @@
       ],
       "append": [],
       "pron": "be1 mua1",
+      "latinPron": "bé'múa",
       "example": [],
       "num": "-"
     },
@@ -2754,6 +2872,7 @@
       ],
       "append": [],
       "pron": "ha1 be1",
+      "latinPron": "hábé",
       "example": [],
       "num": "-"
     },
@@ -2772,6 +2891,7 @@
       ],
       "append": [],
       "pron": "mail2 be1",
+      "latinPron": "màilbé",
       "example": [],
       "num": "-"
     },
@@ -2790,6 +2910,7 @@
       ],
       "append": [],
       "pron": "him2 be1",
+      "latinPron": "hìmbé",
       "example": [],
       "num": "-"
     },
@@ -2808,6 +2929,7 @@
       ],
       "append": [],
       "pron": "xal3 be1",
+      "latinPron": "xâlbé",
       "example": [],
       "num": "-"
     },
@@ -2826,6 +2948,7 @@
       ],
       "append": [],
       "pron": "xal3 kaing1",
+      "latinPron": "xâlkáing",
       "example": [],
       "num": "-"
     },
@@ -2854,6 +2977,7 @@
         }
       ],
       "pron": "vaim1",
+      "latinPron": "váim",
       "example": [],
       "num": "67"
     },
@@ -2881,6 +3005,7 @@
       ],
       "append": [],
       "pron": "mam3",
+      "latinPron": "mâm",
       "example": [],
       "num": "68"
     },
@@ -2899,6 +3024,7 @@
       ],
       "append": [],
       "pron": "mam3 qo1",
+      "latinPron": "mâmqó",
       "example": [],
       "num": "-"
     },
@@ -2926,6 +3052,7 @@
       ],
       "append": [],
       "pron": "kaing2",
+      "latinPron": "kàing",
       "example": [],
       "num": "69"
     },
@@ -2944,6 +3071,7 @@
       ],
       "append": [],
       "pron": "jai2",
+      "latinPron": "jài",
       "example": [],
       "num": "70"
     },
@@ -2962,6 +3090,7 @@
       ],
       "append": [],
       "pron": "lai1",
+      "latinPron": "lái",
       "example": [],
       "num": "71"
     },
@@ -2980,6 +3109,7 @@
       ],
       "append": [],
       "pron": "luong3",
+      "latinPron": "lûong",
       "example": [],
       "num": "72"
     },
@@ -2998,6 +3128,7 @@
       ],
       "append": [],
       "pron": "gua1 luong3",
+      "latinPron": "gúa'lûong",
       "example": [],
       "num": "-"
     },
@@ -3016,6 +3147,7 @@
       ],
       "append": [],
       "pron": "duol2 na2",
+      "latinPron": "dùolnà",
       "example": [],
       "num": "-"
     },
@@ -3034,6 +3166,7 @@
       ],
       "append": [],
       "pron": "yao1 duol2 gua1 luong3",
+      "latinPron": "yáodùolgúa'lûong",
       "example": [],
       "num": "-"
     },
@@ -3052,6 +3185,7 @@
       ],
       "append": [],
       "pron": "so3 jaim3 gua1 luong3",
+      "latinPron": "sôjâimgúa'lûong",
       "example": [],
       "num": "-"
     },
@@ -3078,6 +3212,7 @@
       ],
       "append": [],
       "pron": "sing1",
+      "latinPron": "síng",
       "example": [],
       "num": "73"
     },
@@ -3096,6 +3231,7 @@
       ],
       "append": [],
       "pron": "sing1 sao2",
+      "latinPron": "síngsào",
       "example": [],
       "num": "-"
     },
@@ -3114,6 +3250,7 @@
       ],
       "append": [],
       "pron": "sing1 cua3",
+      "latinPron": "síngcûa",
       "example": [],
       "num": "-"
     },
@@ -3132,6 +3269,7 @@
       ],
       "append": [],
       "pron": "sing1 luong3",
+      "latinPron": "sínglûong",
       "example": [],
       "num": "-"
     },
@@ -3150,6 +3288,7 @@
       ],
       "append": [],
       "pron": "fua1",
+      "latinPron": "fúa",
       "example": [],
       "num": "74"
     },
@@ -3168,6 +3307,7 @@
       ],
       "append": [],
       "pron": "fua1 xao3",
+      "latinPron": "fúaxâo",
       "example": [],
       "num": "-"
     },
@@ -3190,6 +3330,7 @@
       ],
       "append": [],
       "pron": "fa2",
+      "latinPron": "fà",
       "example": [],
       "num": "75"
     },
@@ -3208,6 +3349,7 @@
       ],
       "append": [],
       "pron": "hais3 fa2",
+      "latinPron": "hâisfà",
       "example": [],
       "num": "-"
     },
@@ -3226,6 +3368,7 @@
       ],
       "append": [],
       "pron": "luong3 fa2",
+      "latinPron": "lûongfà",
       "example": [],
       "num": "-"
     },
@@ -3244,6 +3387,7 @@
       ],
       "append": [],
       "pron": "fa2 paon1",
+      "latinPron": "fàpáon",
       "example": [],
       "num": "-"
     },
@@ -3262,6 +3406,7 @@
       ],
       "append": [],
       "pron": "sua3",
+      "latinPron": "sûa",
       "example": [],
       "num": "76"
     },
@@ -3280,6 +3425,7 @@
       ],
       "append": [],
       "pron": "sua3 fuon3",
+      "latinPron": "sûafûon",
       "example": [],
       "num": "-"
     },
@@ -3307,6 +3453,7 @@
       ],
       "append": [],
       "pron": "cuang2",
+      "latinPron": "cùang",
       "example": [],
       "num": "77"
     },
@@ -3335,6 +3482,7 @@
         }
       ],
       "pron": "cuang2 pi1",
+      "latinPron": "cùangpí",
       "example": [],
       "num": "-"
     },
@@ -3353,6 +3501,7 @@
       ],
       "append": [],
       "pron": "cuang2 xu1",
+      "latinPron": "cùangxú",
       "example": [],
       "num": "-"
     },
@@ -3371,6 +3520,7 @@
       ],
       "append": [],
       "pron": "nes2 cuang2",
+      "latinPron": "nèscùang",
       "example": [],
       "num": "-"
     },
@@ -3389,6 +3539,7 @@
       ],
       "append": [],
       "pron": "zi1",
+      "latinPron": "zí",
       "example": [],
       "num": "78"
     },
@@ -3407,6 +3558,7 @@
       ],
       "append": [],
       "pron": "duo2",
+      "latinPron": "dùo",
       "example": [],
       "num": "79"
     },
@@ -3425,6 +3577,7 @@
       ],
       "append": [],
       "pron": "lun3",
+      "latinPron": "lûn",
       "example": [],
       "num": "80"
     },
@@ -3453,6 +3606,7 @@
         }
       ],
       "pron": "kem1",
+      "latinPron": "kém",
       "example": [],
       "num": "81"
     },
@@ -3471,6 +3625,7 @@
       ],
       "append": [],
       "pron": "qai1",
+      "latinPron": "qái",
       "example": [],
       "num": "82",
       "link": [
@@ -3497,6 +3652,7 @@
       ],
       "append": [],
       "pron": "qai1 ke1",
+      "latinPron": "qáiké",
       "example": [],
       "num": "-"
     },
@@ -3524,6 +3680,7 @@
       ],
       "append": [],
       "pron": "lao1",
+      "latinPron": "láo",
       "example": [],
       "num": "83"
     },
@@ -3551,6 +3708,7 @@
       ],
       "append": [],
       "pron": "tuo2",
+      "latinPron": "tùo",
       "example": [],
       "num": "84"
     },
@@ -3579,6 +3737,7 @@
         }
       ],
       "pron": "he2 tuo2",
+      "latinPron": "hètùo",
       "example": [],
       "num": "-"
     },
@@ -3597,6 +3756,7 @@
       ],
       "append": [],
       "pron": "zom3",
+      "latinPron": "zôm",
       "example": [],
       "num": "85"
     },
@@ -3624,6 +3784,7 @@
       ],
       "append": [],
       "pron": "lo3",
+      "latinPron": "lô",
       "example": [],
       "num": "86"
     },
@@ -3642,6 +3803,7 @@
       ],
       "append": [],
       "pron": "lo3 ye1",
+      "latinPron": "lôyé",
       "example": [],
       "num": "-"
     },
@@ -3660,6 +3822,7 @@
       ],
       "append": [],
       "pron": "ya3 ye1",
+      "latinPron": "yâyé",
       "example": [],
       "num": "-"
     },
@@ -3678,6 +3841,7 @@
       ],
       "append": [],
       "pron": "lo3 ya3 ye1",
+      "latinPron": "lôyâyé",
       "example": [],
       "num": "-"
     },
@@ -3696,6 +3860,7 @@
       ],
       "append": [],
       "pron": "mum2",
+      "latinPron": "mùm",
       "example": [],
       "num": "87"
     },
@@ -3714,6 +3879,7 @@
       ],
       "append": [],
       "pron": "mum2 luo3",
+      "latinPron": "mùmlûo",
       "example": [],
       "num": "-"
     },
@@ -3741,6 +3907,7 @@
       ],
       "append": [],
       "pron": "vu3",
+      "latinPron": "vû",
       "example": [],
       "num": "88"
     },
@@ -3763,6 +3930,7 @@
       ],
       "append": [],
       "pron": "mong2",
+      "latinPron": "mòng",
       "example": [],
       "num": "89"
     },
@@ -3781,6 +3949,7 @@
       ],
       "append": [],
       "pron": "mong2 tua2",
+      "latinPron": "mòngtùa",
       "example": [],
       "num": "-"
     },
@@ -3799,6 +3968,7 @@
       ],
       "append": [],
       "pron": "mong2 ki3",
+      "latinPron": "mòngkî",
       "example": [],
       "num": "-"
     },
@@ -3817,6 +3987,7 @@
       ],
       "append": [],
       "pron": "ki1 mong2",
+      "latinPron": "kí'mòng",
       "example": [],
       "num": "-"
     },
@@ -3835,6 +4006,7 @@
       ],
       "append": [],
       "pron": "qua3",
+      "latinPron": "qûa",
       "example": [],
       "num": "90"
     },
@@ -3853,6 +4025,7 @@
       ],
       "append": [],
       "pron": "dao1 qua3",
+      "latinPron": "dáoqûa",
       "example": [],
       "num": "-"
     },
@@ -3871,6 +4044,7 @@
       ],
       "append": [],
       "pron": "cel2",
+      "latinPron": "cèl",
       "example": [],
       "num": "91"
     },
@@ -3889,6 +4063,7 @@
       ],
       "append": [],
       "pron": "za3",
+      "latinPron": "zâ",
       "example": [],
       "num": "92"
     },
@@ -3916,6 +4091,7 @@
       ],
       "append": [],
       "pron": "hai2",
+      "latinPron": "hài",
       "example": [],
       "num": "93"
     },
@@ -3934,6 +4110,7 @@
       ],
       "append": [],
       "pron": "hai2 kus3",
+      "latinPron": "hàikûs",
       "example": [],
       "num": "-"
     },
@@ -3952,6 +4129,7 @@
       ],
       "append": [],
       "pron": "hai2 ju1",
+      "latinPron": "hàijú",
       "example": [],
       "num": "-"
     },
@@ -3970,6 +4148,7 @@
       ],
       "append": [],
       "pron": "hai2 lai1",
+      "latinPron": "hài'lái",
       "example": [],
       "num": "-"
     },
@@ -3988,6 +4167,7 @@
       ],
       "append": [],
       "pron": "wai1 hes2",
+      "latinPron": "wáihès",
       "example": [],
       "num": "-"
     },
@@ -4019,6 +4199,7 @@
       ],
       "append": [],
       "pron": "huas3",
+      "latinPron": "hûas",
       "example": [],
       "num": "94"
     },
@@ -4037,6 +4218,7 @@
       ],
       "append": [],
       "pron": "qo3",
+      "latinPron": "qô",
       "example": [],
       "num": "95"
     },
@@ -4055,6 +4237,7 @@
       ],
       "append": [],
       "pron": "fun1 qo3",
+      "latinPron": "fúnqô",
       "example": [],
       "num": "-"
     },
@@ -4073,6 +4256,7 @@
       ],
       "append": [],
       "pron": "qo3 xu1",
+      "latinPron": "qôxú",
       "example": [],
       "num": "-"
     },
@@ -4091,6 +4275,7 @@
       ],
       "append": [],
       "pron": "i3",
+      "latinPron": "î",
       "example": [],
       "num": "96"
     },
@@ -4109,6 +4294,7 @@
       ],
       "append": [],
       "pron": "peng1",
+      "latinPron": "péng",
       "example": [],
       "num": "97"
     },
@@ -4127,6 +4313,7 @@
       ],
       "append": [],
       "pron": "hil3 peng1",
+      "latinPron": "hîlpéng",
       "example": [],
       "num": "-"
     },
@@ -4168,6 +4355,7 @@
         }
       ],
       "pron": "na1",
+      "latinPron": "ná",
       "example": [],
       "num": "98"
     },
@@ -4186,6 +4374,7 @@
       ],
       "append": [],
       "pron": "na1 duol2 na2",
+      "latinPron": "nádùolnà",
       "example": [],
       "num": "-"
     },
@@ -4204,6 +4393,7 @@
       ],
       "append": [],
       "pron": "wi3 na1",
+      "latinPron": "wî'ná",
       "example": [],
       "num": "-"
     },
@@ -4232,6 +4422,7 @@
         }
       ],
       "pron": "bom1",
+      "latinPron": "bóm",
       "example": [],
       "num": "99"
     },
@@ -4250,6 +4441,7 @@
       ],
       "append": [],
       "pron": "bom1 zua3",
+      "latinPron": "bómzûa",
       "example": [],
       "num": "-"
     },
@@ -4272,6 +4464,7 @@
       ],
       "append": [],
       "pron": "main2",
+      "latinPron": "màin",
       "example": [],
       "num": "100"
     },
@@ -4290,6 +4483,7 @@
       ],
       "append": [],
       "pron": "main2 cuang2",
+      "latinPron": "màincùang",
       "example": [],
       "num": "-"
     },
@@ -4308,6 +4502,7 @@
       ],
       "append": [],
       "pron": "main2 ye2",
+      "latinPron": "màinyè",
       "example": [],
       "num": "-"
     },
@@ -4326,6 +4521,7 @@
       ],
       "append": [],
       "pron": "main2 ha3",
+      "latinPron": "màinhâ",
       "example": [],
       "num": "-"
     },
@@ -4344,6 +4540,7 @@
       ],
       "append": [],
       "pron": "main2 xao3",
+      "latinPron": "màinxâo",
       "example": [],
       "num": "-"
     },
@@ -4362,6 +4559,7 @@
       ],
       "append": [],
       "pron": "ha3 ail2",
+      "latinPron": "hâàil",
       "example": [],
       "num": "-"
     },
@@ -4380,6 +4578,7 @@
       ],
       "append": [],
       "pron": "sus3 ha3",
+      "latinPron": "sûshâ",
       "example": [],
       "num": "-"
     },
@@ -4398,6 +4597,7 @@
       ],
       "append": [],
       "pron": "las3 ha3",
+      "latinPron": "lâshâ",
       "example": [],
       "num": "-"
     },
@@ -4416,6 +4616,7 @@
       ],
       "append": [],
       "pron": "yaom1 bun2 ail2",
+      "latinPron": "yáombùn'àil",
       "example": [],
       "num": "-"
     },
@@ -4434,6 +4635,7 @@
       ],
       "append": [],
       "pron": "yaom1 bun2",
+      "latinPron": "yáombùn",
       "example": [],
       "num": "-"
     },
@@ -4452,6 +4654,7 @@
       ],
       "append": [],
       "pron": "taos3 ha3",
+      "latinPron": "tâoshâ",
       "example": [],
       "num": "-"
     },
@@ -4470,6 +4673,7 @@
       ],
       "append": [],
       "pron": "main2 bun2",
+      "latinPron": "màinbùn",
       "example": [],
       "num": "-"
     },
@@ -4488,6 +4692,7 @@
       ],
       "append": [],
       "pron": "main2 bun2 cuang2",
+      "latinPron": "màinbùncùang",
       "example": [],
       "num": "-"
     },
@@ -4506,6 +4711,7 @@
       ],
       "append": [],
       "pron": "main2 ail2",
+      "latinPron": "màin'àil",
       "example": [],
       "num": "-"
     },
@@ -4524,6 +4730,7 @@
       ],
       "append": [],
       "pron": "main2 mam3",
+      "latinPron": "màinmâm",
       "example": [],
       "num": "-"
     },
@@ -4542,6 +4749,7 @@
       ],
       "append": [],
       "pron": "main2 li1",
+      "latinPron": "màinlí",
       "example": [],
       "num": "-"
     },
@@ -4560,6 +4768,7 @@
       ],
       "append": [],
       "pron": "li1 main2",
+      "latinPron": "lí'màin",
       "example": [],
       "num": "-"
     },
@@ -4578,6 +4787,7 @@
       ],
       "append": [],
       "pron": "suol3 li1 main2",
+      "latinPron": "sûollí'màin",
       "example": [],
       "num": "-"
     },
@@ -4596,6 +4806,7 @@
       ],
       "append": [],
       "pron": "main2 yao2",
+      "latinPron": "màinyào",
       "example": [],
       "num": "-"
     },
@@ -4624,6 +4835,7 @@
         }
       ],
       "pron": "zai3",
+      "latinPron": "zâi",
       "example": [],
       "num": "101",
       "link": [
@@ -4650,6 +4862,7 @@
       ],
       "append": [],
       "pron": "ha3",
+      "latinPron": "hâ",
       "example": [],
       "num": "102"
     },
@@ -4668,6 +4881,7 @@
       ],
       "append": [],
       "pron": "dais2",
+      "latinPron": "dàis",
       "example": [],
       "num": "103"
     },
@@ -4695,6 +4909,7 @@
       ],
       "append": [],
       "pron": "hua1",
+      "latinPron": "húa",
       "example": [],
       "num": "104"
     },
@@ -4713,6 +4928,7 @@
       ],
       "append": [],
       "pron": "pu2 huo1",
+      "latinPron": "pùhúo",
       "example": [],
       "num": "-"
     },
@@ -4731,6 +4947,7 @@
       ],
       "append": [],
       "pron": "hua1 pu2",
+      "latinPron": "húapù",
       "example": [],
       "num": "-"
     },
@@ -4749,6 +4966,7 @@
       ],
       "append": [],
       "pron": "pu2",
+      "latinPron": "pù",
       "example": [],
       "num": "105"
     },
@@ -4776,6 +4994,7 @@
       ],
       "append": [],
       "pron": "fuon3",
+      "latinPron": "fûon",
       "example": [],
       "num": "106"
     },
@@ -4794,6 +5013,7 @@
       ],
       "append": [],
       "pron": "fuon3 bun2",
+      "latinPron": "fûonbùn",
       "example": [],
       "num": "-"
     },
@@ -4812,6 +5032,7 @@
       ],
       "append": [],
       "pron": "fuon3 mu1",
+      "latinPron": "fûonmú",
       "example": [],
       "num": "-"
     },
@@ -4830,6 +5051,7 @@
       ],
       "append": [],
       "pron": "fuon3 qo1",
+      "latinPron": "fûonqó",
       "example": [],
       "num": "-"
     },
@@ -4848,6 +5070,7 @@
       ],
       "append": [],
       "pron": "main2 fuon3 mu1",
+      "latinPron": "màinfûonmú",
       "example": [],
       "num": "-"
     },
@@ -4866,6 +5089,7 @@
       ],
       "append": [],
       "pron": "ba1 fuon3",
+      "latinPron": "báfûon",
       "example": [],
       "num": "-"
     },
@@ -4893,6 +5117,7 @@
       ],
       "append": [],
       "pron": "ve1",
+      "latinPron": "vé",
       "example": [],
       "num": "107"
     },
@@ -4939,6 +5164,7 @@
         }
       ],
       "pron": "ba1",
+      "latinPron": "bá",
       "example": [],
       "num": "108",
       "link": [
@@ -4975,6 +5201,7 @@
         }
       ],
       "pron": "ba1 gao2",
+      "latinPron": "bágào",
       "example": [],
       "num": "-"
     },
@@ -5003,6 +5230,7 @@
         }
       ],
       "pron": "ba1 gao2 ha1",
+      "latinPron": "bágàohá",
       "example": [],
       "num": "-"
     },
@@ -5031,6 +5259,7 @@
         }
       ],
       "pron": "om2 ba1",
+      "latinPron": "òmbá",
       "example": [],
       "num": "-"
     },
@@ -5059,6 +5288,7 @@
         }
       ],
       "pron": "ba1 cai2",
+      "latinPron": "bácài",
       "example": [],
       "num": "-"
     },
@@ -5077,6 +5307,7 @@
       ],
       "append": [],
       "pron": "ye2",
+      "latinPron": "yè",
       "example": [],
       "num": "109"
     },
@@ -5095,6 +5326,7 @@
       ],
       "append": [],
       "pron": "sua3 sus3",
+      "latinPron": "sûa'sûs",
       "example": [],
       "num": "-"
     },
@@ -5113,6 +5345,7 @@
       ],
       "append": [],
       "pron": "buo3",
+      "latinPron": "bûo",
       "example": [],
       "num": "110"
     },
@@ -5131,6 +5364,7 @@
       ],
       "append": [],
       "pron": "cai1 buo3",
+      "latinPron": "cáibûo",
       "example": [],
       "num": "-"
     },
@@ -5149,6 +5383,7 @@
       ],
       "append": [],
       "pron": "yol1 buo3",
+      "latinPron": "yólbûo",
       "example": [],
       "num": "-"
     },
@@ -5167,6 +5402,7 @@
       ],
       "append": [],
       "pron": "ai2 buo3",
+      "latinPron": "àibûo",
       "example": [],
       "num": "-"
     },
@@ -5185,6 +5421,7 @@
       ],
       "append": [],
       "pron": "hais3 buo3",
+      "latinPron": "hâisbûo",
       "example": [],
       "num": "-"
     },
@@ -5203,6 +5440,7 @@
       ],
       "append": [],
       "pron": "ki3",
+      "latinPron": "kî",
       "example": [],
       "num": "111"
     },
@@ -5221,6 +5459,7 @@
       ],
       "append": [],
       "pron": "mua1",
+      "latinPron": "múa",
       "example": [],
       "num": "112"
     },
@@ -5239,6 +5478,7 @@
       ],
       "append": [],
       "pron": "ton2 yai1",
+      "latinPron": "tònyái",
       "example": [],
       "num": "-"
     },
@@ -5257,6 +5497,7 @@
       ],
       "append": [],
       "pron": "ton2 lim1",
+      "latinPron": "tònlím",
       "example": [],
       "num": "-"
     },
@@ -5275,6 +5516,7 @@
       ],
       "append": [],
       "pron": "mua1 di2",
+      "latinPron": "múadì",
       "example": [],
       "num": "-"
     },
@@ -5293,6 +5535,7 @@
       ],
       "append": [],
       "pron": "main2 ton2",
+      "latinPron": "màintòn",
       "example": [],
       "num": "-",
       "link": [
@@ -5319,6 +5562,7 @@
       ],
       "append": [],
       "pron": "mail2 mua1",
+      "latinPron": "màilmúa",
       "example": [],
       "num": "-"
     },
@@ -5346,6 +5590,7 @@
       ],
       "append": [],
       "pron": "sua1",
+      "latinPron": "súa",
       "example": [],
       "num": "113"
     },
@@ -5383,6 +5628,7 @@
         }
       ],
       "pron": "pe2",
+      "latinPron": "pè",
       "example": [],
       "num": "114",
       "link": [
@@ -5409,6 +5655,7 @@
       ],
       "append": [],
       "pron": "pe2 ha1",
+      "latinPron": "pèhá",
       "example": [],
       "num": "-"
     },
@@ -5427,6 +5674,7 @@
       ],
       "append": [],
       "pron": "pe2 nai2",
+      "latinPron": "pè'nài",
       "example": [],
       "num": "-"
     },
@@ -5449,6 +5697,7 @@
       ],
       "append": [],
       "pron": "cuo2",
+      "latinPron": "cùo",
       "example": [],
       "num": "115"
     },
@@ -5467,6 +5716,7 @@
       ],
       "append": [],
       "pron": "cuo2 za2",
+      "latinPron": "cùozà",
       "example": [],
       "num": "-"
     },
@@ -5485,6 +5735,7 @@
       ],
       "append": [],
       "pron": "yao1 cuo2",
+      "latinPron": "yáocùo",
       "example": [],
       "num": "-"
     },
@@ -5503,6 +5754,7 @@
       ],
       "append": [],
       "pron": "cun1 cuo2",
+      "latinPron": "cúncùo",
       "example": [],
       "num": "-"
     },
@@ -5521,6 +5773,7 @@
       ],
       "append": [],
       "pron": "pao2",
+      "latinPron": "pào",
       "example": [],
       "num": "116"
     },
@@ -5558,6 +5811,7 @@
         }
       ],
       "pron": "hu3",
+      "latinPron": "hû",
       "example": [],
       "num": "117"
     },
@@ -5576,6 +5830,7 @@
       ],
       "append": [],
       "pron": "hu3 ail1",
+      "latinPron": "hûáil",
       "example": [],
       "num": "-"
     },
@@ -5603,6 +5858,7 @@
       ],
       "append": [],
       "pron": "ki1",
+      "latinPron": "kí",
       "example": [],
       "num": "118"
     },
@@ -5621,6 +5877,7 @@
       ],
       "append": [],
       "pron": "a2",
+      "latinPron": "à",
       "example": [],
       "num": "119"
     },
@@ -5639,6 +5896,7 @@
       ],
       "append": [],
       "pron": "lis3",
+      "latinPron": "lîs",
       "example": [],
       "num": "120"
     },
@@ -5667,6 +5925,7 @@
         }
       ],
       "pron": "e3",
+      "latinPron": "ê",
       "example": [],
       "num": "121"
     },
@@ -5695,6 +5954,7 @@
         }
       ],
       "pron": "e3 ha1",
+      "latinPron": "êhá",
       "example": [],
       "num": "-"
     },
@@ -5723,6 +5983,7 @@
         }
       ],
       "pron": "him2",
+      "latinPron": "hìm",
       "example": [],
       "num": "122",
       "link": [
@@ -5750,6 +6011,7 @@
       ],
       "append": [],
       "pron": "sao2 him2",
+      "latinPron": "sàohìm",
       "example": [],
       "num": "-"
     },
@@ -5768,6 +6030,7 @@
       ],
       "append": [],
       "pron": "gim1",
+      "latinPron": "gím",
       "example": [],
       "num": "123"
     },
@@ -5805,6 +6068,7 @@
         }
       ],
       "pron": "xo3",
+      "latinPron": "xô",
       "example": [],
       "num": "124"
     },
@@ -5833,6 +6097,7 @@
         }
       ],
       "pron": "yol1",
+      "latinPron": "yól",
       "example": [],
       "num": "125",
       "link": [
@@ -5864,6 +6129,7 @@
       ],
       "append": [],
       "pron": "yol1 we2",
+      "latinPron": "yólwè",
       "example": [],
       "num": "-"
     },
@@ -5892,6 +6158,7 @@
         }
       ],
       "pron": "nang2",
+      "latinPron": "nàng",
       "example": [],
       "num": "126"
     },
@@ -5910,6 +6177,7 @@
       ],
       "append": [],
       "pron": "nai2 nang2",
+      "latinPron": "nài'nàng",
       "example": [],
       "num": "-"
     },
@@ -5956,6 +6224,7 @@
         }
       ],
       "pron": "fuon2",
+      "latinPron": "fùon",
       "example": [],
       "num": "127"
     },
@@ -5974,6 +6243,7 @@
       ],
       "append": [],
       "pron": "fuon2 ke1",
+      "latinPron": "fùonké",
       "example": [],
       "num": "-"
     },
@@ -6001,6 +6271,7 @@
       ],
       "append": [],
       "pron": "fuon2 mo2",
+      "latinPron": "fùonmò",
       "example": [],
       "num": "-"
     },
@@ -6047,6 +6318,7 @@
         }
       ],
       "pron": "pel1",
+      "latinPron": "pél",
       "example": [],
       "num": "128"
     },
@@ -6065,6 +6337,7 @@
       ],
       "append": [],
       "pron": "pel1 cua2",
+      "latinPron": "pélcùa",
       "example": [],
       "num": "-"
     },
@@ -6106,6 +6379,7 @@
         }
       ],
       "pron": "vais2",
+      "latinPron": "vàis",
       "example": [],
       "num": "129"
     },
@@ -6124,6 +6398,7 @@
       ],
       "append": [],
       "pron": "i1",
+      "latinPron": "í",
       "example": [],
       "num": "130"
     },
@@ -6161,6 +6436,7 @@
         }
       ],
       "pron": "jaim3",
+      "latinPron": "jâim",
       "example": [],
       "num": "131"
     },
@@ -6179,6 +6455,7 @@
       ],
       "append": [],
       "pron": "so3 jaim3",
+      "latinPron": "sôjâim",
       "example": [],
       "num": "-"
     },
@@ -6197,6 +6474,7 @@
       ],
       "append": [],
       "pron": "mi1 jaim3",
+      "latinPron": "míjâim",
       "example": [],
       "num": "-"
     },
@@ -6215,6 +6493,7 @@
       ],
       "append": [],
       "pron": "si3 jaim3",
+      "latinPron": "sîjâim",
       "example": [],
       "num": "-"
     },
@@ -6233,6 +6512,7 @@
       ],
       "append": [],
       "pron": "sing1 jaim3",
+      "latinPron": "síngjâim",
       "example": [],
       "num": "-"
     },
@@ -6251,6 +6531,7 @@
       ],
       "append": [],
       "pron": "tang2 jaim3",
+      "latinPron": "tàngjâim",
       "example": [],
       "num": "-"
     },
@@ -6269,6 +6550,7 @@
       ],
       "append": [],
       "pron": "se3 jaim3",
+      "latinPron": "sêjâim",
       "example": [],
       "num": "-"
     },
@@ -6287,6 +6569,7 @@
       ],
       "append": [],
       "pron": "min1 jaim3",
+      "latinPron": "mínjâim",
       "example": [],
       "num": "-"
     },
@@ -6305,6 +6588,7 @@
       ],
       "append": [],
       "pron": "ja1 jaim3",
+      "latinPron": "jájâim",
       "example": [],
       "num": "-"
     },
@@ -6323,6 +6607,7 @@
       ],
       "append": [],
       "pron": "xai3 jaim3",
+      "latinPron": "xâijâim",
       "example": [],
       "num": "-"
     },
@@ -6341,6 +6626,7 @@
       ],
       "append": [],
       "pron": "haom3 jaim3",
+      "latinPron": "hâomjâim",
       "example": [],
       "num": "-"
     },
@@ -6359,6 +6645,7 @@
       ],
       "append": [],
       "pron": "waos2 jaim3",
+      "latinPron": "wàosjâim",
       "example": [],
       "num": "-"
     },
@@ -6377,6 +6664,7 @@
       ],
       "append": [],
       "pron": "nais2 jaim3",
+      "latinPron": "nàisjâim",
       "example": [],
       "num": "-"
     },
@@ -6395,6 +6683,7 @@
       ],
       "append": [],
       "pron": "hao1 jaim3",
+      "latinPron": "háojâim",
       "example": [],
       "num": "-"
     },
@@ -6413,6 +6702,7 @@
       ],
       "append": [],
       "pron": "qao2 jaim3",
+      "latinPron": "qàojâim",
       "example": [],
       "num": "-"
     },
@@ -6431,6 +6721,7 @@
       ],
       "append": [],
       "pron": "tuo3 jaim3",
+      "latinPron": "tûojâim",
       "example": [],
       "num": "-"
     },
@@ -6449,6 +6740,7 @@
       ],
       "append": [],
       "pron": "va2 jaim3",
+      "latinPron": "vàjâim",
       "example": [],
       "num": "-"
     },
@@ -6467,6 +6759,7 @@
       ],
       "append": [],
       "pron": "fe2",
+      "latinPron": "fè",
       "example": [],
       "num": "132"
     },
@@ -6495,6 +6788,7 @@
         }
       ],
       "pron": "xe1",
+      "latinPron": "xé",
       "example": [],
       "num": "133"
     },
@@ -6522,6 +6816,7 @@
       ],
       "append": [],
       "pron": "sil3",
+      "latinPron": "sîl",
       "example": [],
       "num": "134"
     },
@@ -6554,6 +6849,7 @@
         }
       ],
       "pron": "las2",
+      "latinPron": "làs",
       "example": [],
       "num": "135"
     },
@@ -6582,6 +6878,7 @@
         }
       ],
       "pron": "gaol3 las2 dai3",
+      "latinPron": "gâollàsdâi",
       "example": [],
       "num": "-"
     },
@@ -6610,6 +6907,7 @@
         }
       ],
       "pron": "muos3 gaol3 las2 dai3",
+      "latinPron": "mûosgâollàsdâi",
       "example": [],
       "num": "-"
     },
@@ -6638,6 +6936,7 @@
         }
       ],
       "pron": "fai1 las2 dai3",
+      "latinPron": "fái'làsdâi",
       "example": [],
       "num": "-"
     },
@@ -6666,6 +6965,7 @@
         }
       ],
       "pron": "luong1 las2 dai3",
+      "latinPron": "lúonglàsdâi",
       "example": [],
       "num": "-"
     },
@@ -6693,6 +6993,7 @@
       ],
       "append": [],
       "pron": "sal2",
+      "latinPron": "sàl",
       "example": [],
       "num": "136"
     },
@@ -6711,6 +7012,7 @@
       ],
       "append": [],
       "pron": "sal2 quo3",
+      "latinPron": "sàlqûo",
       "example": [],
       "num": "-"
     },
@@ -6729,6 +7031,7 @@
       ],
       "append": [],
       "pron": "da3",
+      "latinPron": "dâ",
       "example": [],
       "num": "137"
     },
@@ -6751,6 +7054,7 @@
       ],
       "append": [],
       "pron": "si3",
+      "latinPron": "sî",
       "example": [],
       "num": "138"
     },
@@ -6769,6 +7073,7 @@
       ],
       "append": [],
       "pron": "buan3 si3 tang2",
+      "latinPron": "bûansîtàng",
       "example": [],
       "num": "-"
     },
@@ -6787,6 +7092,7 @@
       ],
       "append": [],
       "pron": "gaol3 so3 sing1",
+      "latinPron": "gâolsô'síng",
       "example": [],
       "num": "-"
     },
@@ -6809,6 +7115,7 @@
       ],
       "append": [],
       "pron": "waos2",
+      "latinPron": "wàos",
       "example": [],
       "num": "139"
     },
@@ -6837,6 +7144,7 @@
         }
       ],
       "pron": "xe2",
+      "latinPron": "xè",
       "example": [],
       "num": "140",
       "link": [
@@ -6873,6 +7181,7 @@
         }
       ],
       "pron": "dao3",
+      "latinPron": "dâo",
       "example": [],
       "num": "141"
     },
@@ -6891,6 +7200,7 @@
       ],
       "append": [],
       "pron": "zo2",
+      "latinPron": "zò",
       "example": [],
       "num": "142"
     },
@@ -6909,6 +7219,7 @@
       ],
       "append": [],
       "pron": "zo2 zo2",
+      "latinPron": "zòzò",
       "example": [],
       "num": "-"
     },
@@ -6927,6 +7238,7 @@
       ],
       "append": [],
       "pron": "so1 so1",
+      "latinPron": "só'só",
       "example": [],
       "num": "-"
     },
@@ -6955,6 +7267,7 @@
         }
       ],
       "pron": "duol2",
+      "latinPron": "dùol",
       "example": [],
       "num": "143"
     },
@@ -6973,6 +7286,7 @@
       ],
       "append": [],
       "pron": "yao1 duol2",
+      "latinPron": "yáodùol",
       "example": [],
       "num": "-"
     },
@@ -7001,6 +7315,7 @@
         }
       ],
       "pron": "quo3",
+      "latinPron": "qûo",
       "example": [],
       "num": "144"
     },
@@ -7028,6 +7343,7 @@
       ],
       "append": [],
       "pron": "len1",
+      "latinPron": "lén",
       "example": [],
       "num": "145"
     },
@@ -7046,6 +7362,7 @@
       ],
       "append": [],
       "pron": "len1 jaim3",
+      "latinPron": "lénjâim",
       "example": [],
       "num": "-"
     },
@@ -7073,6 +7390,7 @@
       ],
       "append": [],
       "pron": "gon2",
+      "latinPron": "gòn",
       "example": [],
       "num": "146"
     },
@@ -7101,6 +7419,7 @@
         }
       ],
       "pron": "gon2 gua1",
+      "latinPron": "gòngúa",
       "example": [],
       "num": "-"
     },
@@ -7119,6 +7438,7 @@
       ],
       "append": [],
       "pron": "gon2 gua1 ha1",
+      "latinPron": "gòngúahá",
       "example": [],
       "num": "-"
     },
@@ -7146,6 +7466,7 @@
       ],
       "append": [],
       "pron": "muos3",
+      "latinPron": "mûos",
       "example": [],
       "num": "147"
     },
@@ -7164,6 +7485,7 @@
       ],
       "append": [],
       "pron": "muos3 bun2",
+      "latinPron": "mûosbùn",
       "example": [],
       "num": "-"
     },
@@ -7182,6 +7504,7 @@
       ],
       "append": [],
       "pron": "fua1 muos3",
+      "latinPron": "fúa'mûos",
       "example": [],
       "num": "-"
     },
@@ -7209,6 +7532,7 @@
       ],
       "append": [],
       "pron": "nuo2",
+      "latinPron": "nùo",
       "example": [],
       "num": "148"
     },
@@ -7236,6 +7560,7 @@
       ],
       "append": [],
       "pron": "dao1",
+      "latinPron": "dáo",
       "example": [],
       "num": "149"
     },
@@ -7264,6 +7589,7 @@
         }
       ],
       "pron": "dao1 vas1",
+      "latinPron": "dáovás",
       "example": [],
       "num": "-"
     },
@@ -7284,6 +7610,7 @@
       ],
       "append": [],
       "pron": "dao1 mis1",
+      "latinPron": "dáo'mís",
       "example": [],
       "num": "-"
     },
@@ -7302,6 +7629,7 @@
       ],
       "append": [],
       "pron": "dao1 sao2",
+      "latinPron": "dáo'sào",
       "example": [],
       "num": "-"
     },
@@ -7320,6 +7648,7 @@
       ],
       "append": [],
       "pron": "kail3",
+      "latinPron": "kâil",
       "example": [],
       "num": "150"
     },
@@ -7338,6 +7667,7 @@
       ],
       "append": [],
       "pron": "wo3",
+      "latinPron": "wô",
       "example": [],
       "num": "151"
     },
@@ -7365,6 +7695,7 @@
       ],
       "append": [],
       "pron": "yem2",
+      "latinPron": "yèm",
       "example": [],
       "num": "152"
     },
@@ -7383,6 +7714,7 @@
       ],
       "append": [],
       "pron": "go3",
+      "latinPron": "gô",
       "example": [],
       "num": "153"
     },
@@ -7401,6 +7733,7 @@
       ],
       "append": [],
       "pron": "quo3 go3",
+      "latinPron": "qûogô",
       "example": [],
       "num": "-"
     },
@@ -7442,6 +7775,7 @@
         }
       ],
       "pron": "vua1",
+      "latinPron": "vúa",
       "example": [],
       "num": "154",
       "link": [
@@ -7468,6 +7802,7 @@
       ],
       "append": [],
       "pron": "qang3",
+      "latinPron": "qâng",
       "example": [],
       "num": "155"
     },
@@ -7486,6 +7821,7 @@
       ],
       "append": [],
       "pron": "nal3",
+      "latinPron": "nâl",
       "example": [],
       "num": "156"
     },
@@ -7504,6 +7840,7 @@
       ],
       "append": [],
       "pron": "xung3",
+      "latinPron": "xûng",
       "example": [],
       "num": "157"
     },
@@ -7531,6 +7868,7 @@
       ],
       "append": [],
       "pron": "bas2",
+      "latinPron": "bàs",
       "example": [],
       "num": "158"
     },
@@ -7549,6 +7887,7 @@
       ],
       "append": [],
       "pron": "bas2 cua3",
+      "latinPron": "bàscûa",
       "example": [],
       "num": "-"
     },
@@ -7577,6 +7916,7 @@
         }
       ],
       "pron": "puang1",
+      "latinPron": "púang",
       "example": [],
       "num": "159"
     },
@@ -7595,6 +7935,7 @@
       ],
       "append": [],
       "pron": "dao3 puang1",
+      "latinPron": "dâopúang",
       "example": [],
       "num": "-"
     },
@@ -7623,6 +7964,7 @@
         }
       ],
       "pron": "xu1",
+      "latinPron": "xú",
       "example": [],
       "num": "160",
       "link": [
@@ -7649,6 +7991,7 @@
       ],
       "append": [],
       "pron": "juan2 lai2",
+      "latinPron": "jùanlài",
       "example": [],
       "num": "-"
     },
@@ -7677,6 +8020,7 @@
         }
       ],
       "pron": "xung3 xu1",
+      "latinPron": "xûngxú",
       "example": [],
       "num": "-"
     },
@@ -7695,6 +8039,7 @@
       ],
       "append": [],
       "pron": "xu1 bas2",
+      "latinPron": "xúbàs",
       "example": [],
       "num": "-"
     },
@@ -7713,6 +8058,7 @@
       ],
       "append": [],
       "pron": "mis1",
+      "latinPron": "mís",
       "example": [],
       "num": "161"
     },
@@ -7731,6 +8077,7 @@
       ],
       "append": [],
       "pron": "vao3",
+      "latinPron": "vâo",
       "example": [],
       "num": "162"
     },
@@ -7767,6 +8114,7 @@
       ],
       "append": [],
       "pron": "suo3",
+      "latinPron": "sûo",
       "example": [],
       "num": "163"
     },
@@ -7785,6 +8133,7 @@
       ],
       "append": [],
       "pron": "sing1 suo3",
+      "latinPron": "síngsûo",
       "example": [],
       "num": "-"
     },
@@ -7813,6 +8162,7 @@
         }
       ],
       "pron": "suo3 cun1",
+      "latinPron": "sûocún",
       "example": [],
       "num": "-"
     },
@@ -7831,6 +8181,7 @@
       ],
       "append": [],
       "pron": "huo2",
+      "latinPron": "hùo",
       "example": [],
       "num": "164"
     },
@@ -7859,6 +8210,7 @@
         }
       ],
       "pron": "zo3",
+      "latinPron": "zô",
       "example": [],
       "num": "165",
       "link": [
@@ -7894,6 +8246,7 @@
       ],
       "append": [],
       "pron": "wi3",
+      "latinPron": "wî",
       "example": [],
       "num": "166"
     },
@@ -7912,6 +8265,7 @@
       ],
       "append": [],
       "pron": "vas1 wi3",
+      "latinPron": "váswî",
       "example": [],
       "num": "-"
     },
@@ -7930,6 +8284,7 @@
       ],
       "append": [],
       "pron": "xao3 wi3",
+      "latinPron": "xâowî",
       "example": [],
       "num": "-"
     },
@@ -7958,6 +8313,7 @@
         }
       ],
       "pron": "ye1",
+      "latinPron": "yé",
       "example": [],
       "num": "167"
     },
@@ -7985,6 +8341,7 @@
       ],
       "append": [],
       "pron": "ju1",
+      "latinPron": "jú",
       "example": [],
       "num": "168"
     },
@@ -8003,6 +8360,7 @@
       ],
       "append": [],
       "pron": "kuang1 ju1",
+      "latinPron": "kúangjú",
       "example": [],
       "num": "-"
     },
@@ -8021,6 +8379,7 @@
       ],
       "append": [],
       "pron": "kuang1 jua3",
+      "latinPron": "kúangjûa",
       "example": [],
       "num": "-"
     },
@@ -8039,6 +8398,7 @@
       ],
       "append": [],
       "pron": "ju1 vas1",
+      "latinPron": "júvás",
       "example": [],
       "num": "-"
     },
@@ -8066,6 +8426,7 @@
       ],
       "append": [],
       "pron": "yao3",
+      "latinPron": "yâo",
       "example": [],
       "num": "169"
     },
@@ -8084,6 +8445,7 @@
       ],
       "append": [],
       "pron": "guong1",
+      "latinPron": "gúong",
       "example": [],
       "num": "170"
     },
@@ -8102,6 +8464,7 @@
       ],
       "append": [],
       "pron": "qim3 guong1",
+      "latinPron": "qîmgúong",
       "example": [],
       "num": "-"
     },
@@ -8120,6 +8483,7 @@
       ],
       "append": [],
       "pron": "mo2",
+      "latinPron": "mò",
       "example": [],
       "num": "171"
     },
@@ -8152,6 +8516,7 @@
         }
       ],
       "pron": "ma3",
+      "latinPron": "mâ",
       "example": [],
       "num": "172",
       "link": [
@@ -8178,6 +8543,7 @@
       ],
       "append": [],
       "pron": "hil3",
+      "latinPron": "hîl",
       "example": [],
       "num": "173"
     },
@@ -8196,6 +8562,7 @@
       ],
       "append": [],
       "pron": "hil3 ail1",
+      "latinPron": "hîl'áil",
       "example": [],
       "num": "-"
     },
@@ -8224,6 +8591,7 @@
         }
       ],
       "pron": "kus3 fes2 hil3",
+      "latinPron": "kûsfèshîl",
       "example": [],
       "num": "-"
     },
@@ -8252,6 +8620,7 @@
         }
       ],
       "pron": "hai2 nuo2 nu3",
+      "latinPron": "hài'nùo'nû",
       "example": [],
       "num": "-"
     },
@@ -8283,6 +8652,7 @@
       ],
       "append": [],
       "pron": "xao3",
+      "latinPron": "xâo",
       "example": [],
       "num": "174"
     },
@@ -8301,6 +8671,7 @@
       ],
       "append": [],
       "pron": "xao3 ail2",
+      "latinPron": "xâoàil",
       "example": [],
       "num": "-"
     },
@@ -8328,6 +8699,7 @@
       ],
       "append": [],
       "pron": "ke1 xao3",
+      "latinPron": "kéxâo",
       "example": [],
       "num": "-"
     },
@@ -8346,6 +8718,7 @@
       ],
       "append": [],
       "pron": "ke1 ail2",
+      "latinPron": "kéàil",
       "example": [],
       "num": "-"
     },
@@ -8368,6 +8741,7 @@
       ],
       "append": [],
       "pron": "ke1 vul3",
+      "latinPron": "kévûl",
       "example": [],
       "num": "-"
     },
@@ -8386,6 +8760,7 @@
       ],
       "append": [],
       "pron": "ail1",
+      "latinPron": "áil",
       "example": [],
       "num": "175"
     },
@@ -8413,6 +8788,7 @@
       ],
       "append": [],
       "pron": "li1",
+      "latinPron": "lí",
       "example": [],
       "num": "176"
     },
@@ -8439,6 +8815,7 @@
       ],
       "append": [],
       "pron": "mi1",
+      "latinPron": "mí",
       "example": [],
       "num": "177"
     },
@@ -8457,6 +8834,7 @@
       ],
       "append": [],
       "pron": "mi1 baon2",
+      "latinPron": "míbàon",
       "example": [],
       "num": "-"
     },
@@ -8475,6 +8853,7 @@
       ],
       "append": [],
       "pron": "nail2 mi1 baon2",
+      "latinPron": "nàilmíbàon",
       "example": [],
       "num": "-"
     },
@@ -8493,6 +8872,7 @@
       ],
       "append": [],
       "pron": "li2 mi1 baon2",
+      "latinPron": "lì'míbàon",
       "example": [],
       "num": "-"
     },
@@ -8511,6 +8891,7 @@
       ],
       "append": [],
       "pron": "mi1 sing1",
+      "latinPron": "mí'síng",
       "example": [],
       "num": "-"
     },
@@ -8529,6 +8910,7 @@
       ],
       "append": [],
       "pron": "cang2",
+      "latinPron": "càng",
       "example": [],
       "num": "178"
     },
@@ -8566,6 +8948,7 @@
         }
       ],
       "pron": "hao2",
+      "latinPron": "hào",
       "example": [],
       "num": "179"
     },
@@ -8584,6 +8967,7 @@
       ],
       "append": [],
       "pron": "hao2 qim3",
+      "latinPron": "hàoqîm",
       "example": [],
       "num": "-"
     },
@@ -8602,6 +8986,7 @@
       ],
       "append": [],
       "pron": "ho3",
+      "latinPron": "hô",
       "example": [],
       "num": "180"
     },
@@ -8620,6 +9005,7 @@
       ],
       "append": [],
       "pron": "ho3 zaos2",
+      "latinPron": "hôzàos",
       "example": [],
       "num": "-"
     },
@@ -8638,6 +9024,7 @@
       ],
       "append": [],
       "pron": "qim3 ho3",
+      "latinPron": "qîmhô",
       "example": [],
       "num": "-"
     },
@@ -8656,6 +9043,7 @@
       ],
       "append": [],
       "pron": "dai2",
+      "latinPron": "dài",
       "example": [],
       "num": "181"
     },
@@ -8674,6 +9062,7 @@
       ],
       "append": [],
       "pron": "dai2 gim1",
+      "latinPron": "dàigím",
       "example": [],
       "num": "-"
     },
@@ -8720,6 +9109,7 @@
         }
       ],
       "pron": "yuon2",
+      "latinPron": "yùon",
       "example": [],
       "num": "182"
     },
@@ -8738,6 +9128,7 @@
       ],
       "append": [],
       "pron": "mu1",
+      "latinPron": "mú",
       "example": [],
       "num": "183"
     },
@@ -8775,6 +9166,7 @@
         }
       ],
       "pron": "a3",
+      "latinPron": "â",
       "example": [],
       "num": "184"
     },
@@ -8802,6 +9194,7 @@
       ],
       "append": [],
       "pron": "na2",
+      "latinPron": "nà",
       "example": [],
       "num": "185"
     },
@@ -8820,6 +9213,7 @@
       ],
       "append": [],
       "pron": "fi3",
+      "latinPron": "fî",
       "example": [],
       "num": "186"
     },
@@ -8838,6 +9232,7 @@
       ],
       "append": [],
       "pron": "fi3 vas1",
+      "latinPron": "fîvás",
       "example": [],
       "num": "-"
     },
@@ -8875,6 +9270,7 @@
         }
       ],
       "pron": "waing1",
+      "latinPron": "wáing",
       "example": [],
       "num": "187"
     },
@@ -8903,6 +9299,7 @@
         }
       ],
       "pron": "xe3 waing1 cen1",
+      "latinPron": "xêwáingcén",
       "example": [],
       "num": "-",
       "link": [
@@ -8929,6 +9326,7 @@
       ],
       "append": [],
       "pron": "yon1",
+      "latinPron": "yón",
       "example": [],
       "num": "188"
     },
@@ -8956,6 +9354,7 @@
       ],
       "append": [],
       "pron": "ao1",
+      "latinPron": "áo",
       "example": [],
       "num": "189"
     },
@@ -8984,6 +9383,7 @@
         }
       ],
       "pron": "ao1 lua3",
+      "latinPron": "áo'lûa",
       "example": [],
       "num": "-"
     },
@@ -9002,6 +9402,7 @@
       ],
       "append": [],
       "pron": "jaim1",
+      "latinPron": "jáim",
       "example": [],
       "num": "190"
     },
@@ -9020,6 +9421,7 @@
       ],
       "append": [],
       "pron": "li3",
+      "latinPron": "lî",
       "example": [],
       "num": "191"
     },
@@ -9038,6 +9440,7 @@
       ],
       "append": [],
       "pron": "yan1",
+      "latinPron": "yán",
       "example": [],
       "num": "192"
     },
@@ -9056,6 +9459,7 @@
       ],
       "append": [],
       "pron": "bao1",
+      "latinPron": "báo",
       "example": [],
       "num": "193"
     },
@@ -9074,6 +9478,7 @@
       ],
       "append": [],
       "pron": "tail1",
+      "latinPron": "táil",
       "example": [],
       "num": "194"
     },
@@ -9092,6 +9497,7 @@
       ],
       "append": [],
       "pron": "pai2",
+      "latinPron": "pài",
       "example": [],
       "num": "195"
     },
@@ -9110,6 +9516,7 @@
       ],
       "append": [],
       "pron": "tuong2",
+      "latinPron": "tùong",
       "example": [],
       "num": "196"
     },
@@ -9138,6 +9545,7 @@
         }
       ],
       "pron": "cim1",
+      "latinPron": "cím",
       "example": [],
       "num": "197"
     },
@@ -9166,6 +9574,7 @@
         }
       ],
       "pron": "gual2",
+      "latinPron": "gùal",
       "example": [],
       "num": "198"
     },
@@ -9194,6 +9603,7 @@
         }
       ],
       "pron": "la3",
+      "latinPron": "lâ",
       "example": [],
       "num": "199"
     },
@@ -9212,6 +9622,7 @@
       ],
       "append": [],
       "pron": "cin2",
+      "latinPron": "cìn",
       "example": [],
       "num": "200"
     },
@@ -9239,6 +9650,7 @@
       ],
       "append": [],
       "pron": "hes2",
+      "latinPron": "hès",
       "example": [],
       "num": "201"
     },
@@ -9267,6 +9679,7 @@
         }
       ],
       "pron": "hes2 sua1",
+      "latinPron": "hèssúa",
       "example": [],
       "num": "-"
     },
@@ -9285,6 +9698,7 @@
       ],
       "append": [],
       "pron": "naol3",
+      "latinPron": "nâol",
       "example": [],
       "num": "202"
     },
@@ -9303,6 +9717,7 @@
       ],
       "append": [],
       "pron": "naol3 yai1",
+      "latinPron": "nâolyái",
       "example": [],
       "num": "-"
     },
@@ -9321,6 +9736,7 @@
       ],
       "append": [],
       "pron": "naol3 tua2",
+      "latinPron": "nâoltùa",
       "example": [],
       "num": "-"
     },
@@ -9339,6 +9755,7 @@
       ],
       "append": [],
       "pron": "naol3 ha1",
+      "latinPron": "nâolhá",
       "example": [],
       "num": "-"
     },
@@ -9357,6 +9774,7 @@
       ],
       "append": [],
       "pron": "naol3 pis3",
+      "latinPron": "nâolpîs",
       "example": [],
       "num": "-"
     },
@@ -9375,6 +9793,7 @@
       ],
       "append": [],
       "pron": "naol3 wel2",
+      "latinPron": "nâolwèl",
       "example": [],
       "num": "-"
     },
@@ -9393,6 +9812,7 @@
       ],
       "append": [],
       "pron": "naol3 xos2",
+      "latinPron": "nâolxòs",
       "example": [],
       "num": "-"
     },
@@ -9421,6 +9841,7 @@
         }
       ],
       "pron": "lol1",
+      "latinPron": "lól",
       "example": [],
       "num": "203"
     },
@@ -9448,6 +9869,7 @@
       ],
       "append": [],
       "pron": "mai1",
+      "latinPron": "mái",
       "example": [],
       "num": "204"
     },
@@ -9476,6 +9898,7 @@
         }
       ],
       "pron": "mi1 mai1",
+      "latinPron": "mí'mái",
       "example": [],
       "num": "-"
     },
@@ -9504,6 +9927,7 @@
         }
       ],
       "pron": "jai1",
+      "latinPron": "jái",
       "example": [],
       "num": "205",
       "link": [
@@ -9534,6 +9958,7 @@
       ],
       "append": [],
       "pron": "xai3",
+      "latinPron": "xâi",
       "example": [],
       "num": "206"
     },
@@ -9552,6 +9977,7 @@
       ],
       "append": [],
       "pron": "hais3",
+      "latinPron": "hâis",
       "example": [],
       "num": "207"
     },
@@ -9570,6 +9996,7 @@
       ],
       "append": [],
       "pron": "hais3 si3",
+      "latinPron": "hâissî",
       "example": [],
       "num": "-"
     },
@@ -9588,6 +10015,7 @@
       ],
       "append": [],
       "pron": "hais3 xu2",
+      "latinPron": "hâisxù",
       "example": [],
       "num": "-"
     },
@@ -9606,6 +10034,7 @@
       ],
       "append": [],
       "pron": "lus3 hais3",
+      "latinPron": "lûshâis",
       "example": [],
       "num": "-"
     },
@@ -9624,6 +10053,7 @@
       ],
       "append": [],
       "pron": "vuos1 duol2 hais3",
+      "latinPron": "vúosdùolhâis",
       "example": [],
       "num": "-"
     },
@@ -9642,6 +10072,7 @@
       ],
       "append": [],
       "pron": "kaing2 duol2 hais3",
+      "latinPron": "kàingdùolhâis",
       "example": [],
       "num": "-"
     },
@@ -9670,6 +10101,7 @@
         }
       ],
       "pron": "xo2 ju1 hais3",
+      "latinPron": "xòjúhâis",
       "example": [],
       "num": "-"
     },
@@ -9692,6 +10124,7 @@
       ],
       "append": [],
       "pron": "ja1",
+      "latinPron": "já",
       "example": [],
       "num": "208"
     },
@@ -9710,6 +10143,7 @@
       ],
       "append": [],
       "pron": "ja1 zua2",
+      "latinPron": "jázùa",
       "example": [],
       "num": "-"
     },
@@ -9728,6 +10162,7 @@
       ],
       "append": [],
       "pron": "nail2 ja1",
+      "latinPron": "nàiljá",
       "example": [],
       "num": "-"
     },
@@ -9746,6 +10181,7 @@
       ],
       "append": [],
       "pron": "ja1 luong3",
+      "latinPron": "já'lûong",
       "example": [],
       "num": "-"
     },
@@ -9764,6 +10200,7 @@
       ],
       "append": [],
       "pron": "ke1 ja1",
+      "latinPron": "kéjá",
       "example": [],
       "num": "-"
     },
@@ -9792,6 +10229,7 @@
         }
       ],
       "pron": "se3",
+      "latinPron": "sê",
       "example": [],
       "num": "209"
     },
@@ -9810,6 +10248,7 @@
       ],
       "append": [],
       "pron": "se3 ye1",
+      "latinPron": "sêyé",
       "example": [],
       "num": "-"
     },
@@ -9828,6 +10267,7 @@
       ],
       "append": [],
       "pron": "gu2",
+      "latinPron": "gù",
       "example": [],
       "num": "210"
     },
@@ -9846,6 +10286,7 @@
       ],
       "append": [],
       "pron": "gu2 las2",
+      "latinPron": "gù'làs",
       "example": [],
       "num": "-"
     },
@@ -9864,6 +10305,7 @@
       ],
       "append": [],
       "pron": "qil2 main2 ge2",
+      "latinPron": "qìlmàingè",
       "example": [],
       "num": "-"
     },
@@ -9886,6 +10328,7 @@
       ],
       "append": [],
       "pron": "va2",
+      "latinPron": "và",
       "example": [],
       "num": "211"
     },
@@ -9908,6 +10351,7 @@
       ],
       "append": [],
       "pron": "tuo3",
+      "latinPron": "tûo",
       "example": [],
       "num": "212"
     },
@@ -9930,6 +10374,7 @@
       ],
       "append": [],
       "pron": "qao2",
+      "latinPron": "qào",
       "example": [],
       "num": "213"
     },
@@ -9948,6 +10393,7 @@
       ],
       "append": [],
       "pron": "xao2",
+      "latinPron": "xào",
       "example": [],
       "num": "214"
     },
@@ -9970,6 +10416,7 @@
       ],
       "append": [],
       "pron": "min1",
+      "latinPron": "mín",
       "example": [],
       "num": "215"
     },
@@ -9988,6 +10435,7 @@
       ],
       "append": [],
       "pron": "vao2",
+      "latinPron": "vào",
       "example": [],
       "num": "216"
     },
@@ -10010,6 +10458,7 @@
       ],
       "append": [],
       "pron": "haom3",
+      "latinPron": "hâom",
       "example": [],
       "num": "217"
     },
@@ -10028,6 +10477,7 @@
       ],
       "append": [],
       "pron": "nail2",
+      "latinPron": "nàil",
       "example": [],
       "num": "218"
     },
@@ -10046,6 +10496,7 @@
       ],
       "append": [],
       "pron": "nail2 nes2",
+      "latinPron": "nàilnès",
       "example": [],
       "num": "-"
     },
@@ -10064,6 +10515,7 @@
       ],
       "append": [],
       "pron": "hes2 nail2",
+      "latinPron": "hèsnàil",
       "example": [],
       "num": "-"
     },
@@ -10086,6 +10538,7 @@
       ],
       "append": [],
       "pron": "hao1",
+      "latinPron": "háo",
       "example": [],
       "num": "219"
     },
@@ -10108,6 +10561,7 @@
       ],
       "append": [],
       "pron": "nais2",
+      "latinPron": "nàis",
       "example": [],
       "num": "220"
     },
@@ -10126,6 +10580,7 @@
       ],
       "append": [],
       "pron": "cun1",
+      "latinPron": "cún",
       "example": [],
       "num": "221"
     },
@@ -10153,6 +10608,7 @@
       ],
       "append": [],
       "pron": "uo2",
+      "latinPron": "ùo",
       "example": [],
       "num": "222"
     },
@@ -10181,6 +10637,7 @@
         }
       ],
       "pron": "buos1",
+      "latinPron": "búos",
       "example": [],
       "num": "223",
       "link": [
@@ -10217,6 +10674,7 @@
         }
       ],
       "pron": "buos1 juom1",
+      "latinPron": "búosjúom",
       "example": [],
       "num": "-"
     },
@@ -10235,6 +10693,7 @@
       ],
       "append": [],
       "pron": "fai1 xem1 buos1",
+      "latinPron": "fáixémbúos",
       "example": [],
       "num": "-"
     },
@@ -10253,6 +10712,7 @@
       ],
       "append": [],
       "pron": "muos3 fai1 xem1 buos1",
+      "latinPron": "mûosfáixémbúos",
       "example": [],
       "num": "-"
     },
@@ -10271,6 +10731,7 @@
       ],
       "append": [],
       "pron": "muos3 lis3 xem1 buos1",
+      "latinPron": "mûoslîsxémbúos",
       "example": [],
       "num": "-"
     },
@@ -10289,6 +10750,7 @@
       ],
       "append": [],
       "pron": "muos3 li3 xem1 buos1",
+      "latinPron": "mûoslîxémbúos",
       "example": [],
       "num": "-"
     },
@@ -10307,6 +10769,7 @@
       ],
       "append": [],
       "pron": "muos3 tail1 xem1 buos1",
+      "latinPron": "mûostáilxémbúos",
       "example": [],
       "num": "-"
     },
@@ -10325,6 +10788,7 @@
       ],
       "append": [],
       "pron": "muos3 tail1 li3 xem1 buos1",
+      "latinPron": "mûostáillîxémbúos",
       "example": [],
       "num": "-"
     },
@@ -10343,6 +10807,7 @@
       ],
       "append": [],
       "pron": "buos1 jao2",
+      "latinPron": "búosjào",
       "example": [],
       "num": "-"
     },
@@ -10361,6 +10826,7 @@
       ],
       "append": [],
       "pron": "za2",
+      "latinPron": "zà",
       "example": [],
       "num": "224"
     },
@@ -10379,6 +10845,7 @@
       ],
       "append": [],
       "pron": "tai1 za2",
+      "latinPron": "táizà",
       "example": [],
       "num": "-"
     },
@@ -10397,6 +10864,7 @@
       ],
       "append": [],
       "pron": "nail2 za2",
+      "latinPron": "nàilzà",
       "example": [],
       "num": "-"
     },
@@ -10434,6 +10902,7 @@
         }
       ],
       "pron": "les3",
+      "latinPron": "lês",
       "example": [],
       "num": "225"
     },
@@ -10452,6 +10921,7 @@
       ],
       "append": [],
       "pron": "les3 ha1",
+      "latinPron": "lêshá",
       "example": [],
       "num": "-"
     },
@@ -10479,6 +10949,7 @@
       ],
       "append": [],
       "pron": "tuam2",
+      "latinPron": "tùam",
       "example": [],
       "num": "226"
     },
@@ -10515,6 +10986,7 @@
       ],
       "append": [],
       "pron": "wai1",
+      "latinPron": "wái",
       "example": [],
       "num": "227"
     },
@@ -10533,6 +11005,7 @@
       ],
       "append": [],
       "pron": "gais2",
+      "latinPron": "gàis",
       "example": [],
       "num": "228"
     },
@@ -10551,6 +11024,7 @@
       ],
       "append": [],
       "pron": "vain3",
+      "latinPron": "vâin",
       "example": [],
       "num": "229"
     },
@@ -10569,6 +11043,7 @@
       ],
       "append": [],
       "pron": "ja3",
+      "latinPron": "jâ",
       "example": [],
       "num": "230"
     },
@@ -10596,6 +11071,7 @@
       ],
       "append": [],
       "pron": "faong3",
+      "latinPron": "fâong",
       "example": [],
       "num": "231"
     },
@@ -10614,6 +11090,7 @@
       ],
       "append": [],
       "pron": "faong3 kuang1",
+      "latinPron": "fâongkúang",
       "example": [],
       "num": "-"
     },
@@ -10632,6 +11109,7 @@
       ],
       "append": [],
       "pron": "faong3 vo2",
+      "latinPron": "fâongvò",
       "example": [],
       "num": "-"
     },
@@ -10650,6 +11128,7 @@
       ],
       "append": [],
       "pron": "faong3 vais2",
+      "latinPron": "fâongvàis",
       "example": [],
       "num": "-"
     },
@@ -10668,6 +11147,7 @@
       ],
       "append": [],
       "pron": "caom1",
+      "latinPron": "cáom",
       "example": [],
       "num": "232"
     },
@@ -10695,6 +11175,7 @@
       ],
       "append": [],
       "pron": "il3",
+      "latinPron": "îl",
       "example": [],
       "num": "233"
     },
@@ -10713,6 +11194,7 @@
       ],
       "append": [],
       "pron": "il3 nang2",
+      "latinPron": "îlnàng",
       "example": [],
       "num": "-"
     },
@@ -10731,6 +11213,7 @@
       ],
       "append": [],
       "pron": "bua1 il3",
+      "latinPron": "búaîl",
       "example": [],
       "num": "-"
     },
@@ -10758,6 +11241,7 @@
       ],
       "append": [],
       "pron": "li2",
+      "latinPron": "lì",
       "example": [],
       "num": "234"
     },
@@ -10776,6 +11260,7 @@
       ],
       "append": [],
       "pron": "li2 cai1",
+      "latinPron": "lìcái",
       "example": [],
       "num": "-"
     },
@@ -10794,6 +11279,7 @@
       ],
       "append": [],
       "pron": "li2 hua1",
+      "latinPron": "lìhúa",
       "example": [],
       "num": "-"
     },
@@ -10812,6 +11298,7 @@
       ],
       "append": [],
       "pron": "li2 luong3",
+      "latinPron": "lì'lûong",
       "example": [],
       "num": "-"
     },
@@ -10830,6 +11317,7 @@
       ],
       "append": [],
       "pron": "gum2",
+      "latinPron": "gùm",
       "example": [],
       "num": "235"
     },
@@ -10848,6 +11336,7 @@
       ],
       "append": [],
       "pron": "tai1",
+      "latinPron": "tái",
       "example": [],
       "num": "236"
     },
@@ -10866,6 +11355,7 @@
       ],
       "append": [],
       "pron": "tai1 hua1",
+      "latinPron": "táihúa",
       "example": [],
       "num": "-"
     },
@@ -10884,6 +11374,7 @@
       ],
       "append": [],
       "pron": "do1",
+      "latinPron": "dó",
       "example": [],
       "num": "237"
     },
@@ -10902,6 +11393,7 @@
       ],
       "append": [],
       "pron": "suam1",
+      "latinPron": "súam",
       "example": [],
       "num": "238"
     },
@@ -10929,6 +11421,7 @@
       ],
       "append": [],
       "pron": "suam1 mu1",
+      "latinPron": "súammú",
       "example": [],
       "num": "-"
     },
@@ -10956,6 +11449,7 @@
       ],
       "append": [],
       "pron": "guol1",
+      "latinPron": "gúol",
       "example": [],
       "num": "239"
     },
@@ -10974,6 +11468,7 @@
       ],
       "append": [],
       "pron": "guol1 qo1",
+      "latinPron": "gúolqó",
       "example": [],
       "num": "-"
     },
@@ -10992,6 +11487,7 @@
       ],
       "append": [],
       "pron": "zua3",
+      "latinPron": "zûa",
       "example": [],
       "num": "240"
     },
@@ -11023,6 +11519,7 @@
       ],
       "append": [],
       "pron": "an3",
+      "latinPron": "ân",
       "example": [],
       "num": "241"
     },
@@ -11041,6 +11538,7 @@
       ],
       "append": [],
       "pron": "an3 sao2",
+      "latinPron": "ânsào",
       "example": [],
       "num": "-"
     },
@@ -11059,6 +11557,7 @@
       ],
       "append": [],
       "pron": "an3 sing1",
+      "latinPron": "ânsíng",
       "example": [],
       "num": "-"
     },
@@ -11077,6 +11576,7 @@
       ],
       "append": [],
       "pron": "ye2 an3",
+      "latinPron": "yèân",
       "example": [],
       "num": "-"
     },
@@ -11095,6 +11595,7 @@
       ],
       "append": [],
       "pron": "vao3 an3",
+      "latinPron": "vâoân",
       "example": [],
       "num": "-"
     },
@@ -11113,6 +11614,7 @@
       ],
       "append": [],
       "pron": "bao3",
+      "latinPron": "bâo",
       "example": [],
       "num": "242"
     },
@@ -11131,6 +11633,7 @@
       ],
       "append": [],
       "pron": "vul1",
+      "latinPron": "vúl",
       "example": [],
       "num": "243"
     },
@@ -11149,6 +11652,7 @@
       ],
       "append": [],
       "pron": "tao2",
+      "latinPron": "tào",
       "example": [],
       "num": "244"
     },
@@ -11167,6 +11671,7 @@
       ],
       "append": [],
       "pron": "tao2 ha1",
+      "latinPron": "tàohá",
       "example": [],
       "num": "-"
     },
@@ -11185,6 +11690,7 @@
       ],
       "append": [],
       "pron": "lai2",
+      "latinPron": "lài",
       "example": [],
       "num": "245"
     },
@@ -11203,6 +11709,7 @@
       ],
       "append": [],
       "pron": "lai2 yao2",
+      "latinPron": "làiyào",
       "example": [],
       "num": "-"
     },
@@ -11225,6 +11732,7 @@
       ],
       "append": [],
       "pron": "ai2",
+      "latinPron": "ài",
       "example": [],
       "num": "246"
     },
@@ -11243,6 +11751,7 @@
       ],
       "append": [],
       "pron": "xu2 ai2",
+      "latinPron": "xùài",
       "example": [],
       "num": "-"
     },
@@ -11261,6 +11770,7 @@
       ],
       "append": [],
       "pron": "ai2 ye1",
+      "latinPron": "àiyé",
       "example": [],
       "num": "-"
     },
@@ -11279,6 +11789,7 @@
       ],
       "append": [],
       "pron": "wem1",
+      "latinPron": "wém",
       "example": [],
       "num": "247"
     },
@@ -11297,6 +11808,7 @@
       ],
       "append": [],
       "pron": "wem1 ao3",
+      "latinPron": "wém'âo",
       "example": [],
       "num": "-"
     },
@@ -11315,6 +11827,7 @@
       ],
       "append": [],
       "pron": "wem1 ai2",
+      "latinPron": "wém'ài",
       "example": [],
       "num": "-"
     },
@@ -11333,6 +11846,7 @@
       ],
       "append": [],
       "pron": "wem1 ai2 luong3",
+      "latinPron": "wém'ài'lûong",
       "example": [],
       "num": "-"
     },
@@ -11351,6 +11865,7 @@
       ],
       "append": [],
       "pron": "wem1 tai1",
+      "latinPron": "wémtái",
       "example": [],
       "num": "-"
     },
@@ -11369,6 +11884,7 @@
       ],
       "append": [],
       "pron": "nao2 wem1 ai2",
+      "latinPron": "nàowém'ài",
       "example": [],
       "num": "-"
     },
@@ -11387,6 +11903,7 @@
       ],
       "append": [],
       "pron": "nao2 ai2",
+      "latinPron": "nàoài",
       "example": [],
       "num": "-"
     },
@@ -11405,6 +11922,7 @@
       ],
       "append": [],
       "pron": "zua2",
+      "latinPron": "zùa",
       "example": [],
       "num": "248"
     },
@@ -11423,6 +11941,7 @@
       ],
       "append": [],
       "pron": "hao1 zua2",
+      "latinPron": "háozùa",
       "example": [],
       "num": "-"
     },
@@ -11441,6 +11960,7 @@
       ],
       "append": [],
       "pron": "min1 zua2",
+      "latinPron": "mínzùa",
       "example": [],
       "num": "-"
     },
@@ -11459,6 +11979,7 @@
       ],
       "append": [],
       "pron": "ai2 zua2",
+      "latinPron": "àizùa",
       "example": [],
       "num": "-"
     },
@@ -11477,6 +11998,7 @@
       ],
       "append": [],
       "pron": "sing1 zua2",
+      "latinPron": "síngzùa",
       "example": [],
       "num": "-"
     },
@@ -11495,6 +12017,7 @@
       ],
       "append": [],
       "pron": "main2 zua2",
+      "latinPron": "màinzùa",
       "example": [],
       "num": "-"
     },
@@ -11513,6 +12036,7 @@
       ],
       "append": [],
       "pron": "qao1 main2 zua2",
+      "latinPron": "qáo'màinzùa",
       "example": [],
       "num": "-"
     },
@@ -11531,6 +12055,7 @@
       ],
       "append": [],
       "pron": "qao1 main2",
+      "latinPron": "qáo'màin",
       "example": [],
       "num": "-"
     },
@@ -11549,6 +12074,7 @@
       ],
       "append": [],
       "pron": "wing3",
+      "latinPron": "wîng",
       "example": [],
       "num": "249"
     },
@@ -11567,6 +12093,7 @@
       ],
       "append": [],
       "pron": "wing3 be1",
+      "latinPron": "wîngbé",
       "example": [],
       "num": "-"
     },
@@ -11585,6 +12112,7 @@
       ],
       "append": [],
       "pron": "ye3",
+      "latinPron": "yê",
       "example": [],
       "num": "250"
     },
@@ -11603,6 +12131,7 @@
       ],
       "append": [],
       "pron": "nai2 ye3",
+      "latinPron": "nàiyê",
       "example": [],
       "num": "-"
     },
@@ -11621,6 +12150,7 @@
       ],
       "append": [],
       "pron": "xu2 nai2 ye3",
+      "latinPron": "xù'nàiyê",
       "example": [],
       "num": "-"
     },
@@ -11639,6 +12169,7 @@
       ],
       "append": [],
       "pron": "main2 nai2 ye3",
+      "latinPron": "màinnàiyê",
       "example": [],
       "num": "-"
     },
@@ -11667,6 +12198,7 @@
         }
       ],
       "pron": "gim1 ye3",
+      "latinPron": "gímyê",
       "example": [],
       "num": "-"
     },
@@ -11685,6 +12217,7 @@
       ],
       "append": [],
       "pron": "ye3 gim1",
+      "latinPron": "yêgím",
       "example": [],
       "num": "-"
     },
@@ -11703,6 +12236,7 @@
       ],
       "append": [],
       "pron": "mail2 ye3",
+      "latinPron": "màilyê",
       "example": [],
       "num": "-"
     },
@@ -11721,6 +12255,7 @@
       ],
       "append": [],
       "pron": "bas2 ye3",
+      "latinPron": "bàsyê",
       "example": [],
       "num": "-"
     },
@@ -11749,6 +12284,7 @@
         }
       ],
       "pron": "ail2",
+      "latinPron": "àil",
       "example": [],
       "num": "251"
     },
@@ -11767,6 +12303,7 @@
       ],
       "append": [],
       "pron": "dail2 ail2",
+      "latinPron": "dàil'àil",
       "example": [],
       "num": "-"
     },
@@ -11785,6 +12322,7 @@
       ],
       "append": [],
       "pron": "bas2 dail2 ail2",
+      "latinPron": "bàsdàil'àil",
       "example": [],
       "num": "-"
     },
@@ -11803,6 +12341,7 @@
       ],
       "append": [],
       "pron": "pel1 dail2 ail2",
+      "latinPron": "példàil'àil",
       "example": [],
       "num": "-"
     },
@@ -11821,6 +12360,7 @@
       ],
       "append": [],
       "pron": "suo3 ail2",
+      "latinPron": "sûoàil",
       "example": [],
       "num": "-"
     },
@@ -11839,6 +12379,7 @@
       ],
       "append": [],
       "pron": "lus3 ail2",
+      "latinPron": "lûs'àil",
       "example": [],
       "num": "-"
     },
@@ -11857,6 +12398,7 @@
       ],
       "append": [],
       "pron": "lao1 sing1 ail2",
+      "latinPron": "láo'síngàil",
       "example": [],
       "num": "-"
     },
@@ -11875,6 +12417,7 @@
       ],
       "append": [],
       "pron": "bun2 ail2",
+      "latinPron": "bùn'àil",
       "example": [],
       "num": "-"
     },
@@ -11893,6 +12436,7 @@
       ],
       "append": [],
       "pron": "ail2 bun2",
+      "latinPron": "àilbùn",
       "example": [],
       "num": "-"
     },
@@ -11911,6 +12455,7 @@
       ],
       "append": [],
       "pron": "sua3 xao3 ail2",
+      "latinPron": "sûaxâoàil",
       "example": [],
       "num": "-"
     },
@@ -11929,6 +12474,7 @@
       ],
       "append": [],
       "pron": "sua1 ail2",
+      "latinPron": "súaàil",
       "example": [],
       "num": "-"
     },
@@ -11947,6 +12493,7 @@
       ],
       "append": [],
       "pron": "bas2 ail2",
+      "latinPron": "bàs'àil",
       "example": [],
       "num": "-"
     },
@@ -11975,6 +12522,7 @@
         }
       ],
       "pron": "las3",
+      "latinPron": "lâs",
       "example": [],
       "num": "252",
       "link": [
@@ -12011,6 +12559,7 @@
         }
       ],
       "pron": "luo3",
+      "latinPron": "lûo",
       "example": [],
       "num": "253",
       "link": [
@@ -12037,6 +12586,7 @@
       ],
       "append": [],
       "pron": "lo3 luo3",
+      "latinPron": "lô'lûo",
       "example": [],
       "num": "-"
     },
@@ -12055,6 +12605,7 @@
       ],
       "append": [],
       "pron": "os3",
+      "latinPron": "ôs",
       "example": [],
       "num": "254"
     },
@@ -12082,6 +12633,7 @@
       ],
       "append": [],
       "pron": "vao1",
+      "latinPron": "váo",
       "example": [],
       "num": "255"
     },
@@ -12100,6 +12652,7 @@
       ],
       "append": [],
       "pron": "sus3",
+      "latinPron": "sûs",
       "example": [],
       "num": "256"
     },
@@ -12118,6 +12671,7 @@
       ],
       "append": [],
       "pron": "yuo2 sus3",
+      "latinPron": "yùo'sûs",
       "example": [],
       "num": "-"
     },
@@ -12136,6 +12690,7 @@
       ],
       "append": [],
       "pron": "qo3 sus3",
+      "latinPron": "qô'sûs",
       "example": [],
       "num": "-"
     },
@@ -12154,6 +12709,7 @@
       ],
       "append": [],
       "pron": "bun2 sus3",
+      "latinPron": "bùnsûs",
       "example": [],
       "num": "-"
     },
@@ -12190,6 +12746,7 @@
       ],
       "append": [],
       "pron": "yao2",
+      "latinPron": "yào",
       "example": [],
       "num": "257"
     },
@@ -12208,6 +12765,7 @@
       ],
       "append": [],
       "pron": "paon1",
+      "latinPron": "páon",
       "example": [],
       "num": "258"
     },
@@ -12230,6 +12788,7 @@
       ],
       "append": [],
       "pron": "qo1",
+      "latinPron": "qó",
       "example": [],
       "num": "259"
     },
@@ -12257,6 +12816,7 @@
       ],
       "append": [],
       "pron": "qain1",
+      "latinPron": "qáin",
       "example": [],
       "num": "260"
     },
@@ -12275,6 +12835,7 @@
       ],
       "append": [],
       "pron": "qain1 paon1",
+      "latinPron": "qáinpáon",
       "example": [],
       "num": "-"
     },
@@ -12293,6 +12854,7 @@
       ],
       "append": [],
       "pron": "guan1 paon1",
+      "latinPron": "gúanpáon",
       "example": [],
       "num": "-"
     },
@@ -12311,6 +12873,7 @@
       ],
       "append": [],
       "pron": "xai1 yai1",
+      "latinPron": "xáiyái",
       "example": [],
       "num": "-"
     },
@@ -12329,6 +12892,7 @@
       ],
       "append": [],
       "pron": "xai1 vao3",
+      "latinPron": "xáivâo",
       "example": [],
       "num": "-"
     },
@@ -12356,6 +12920,7 @@
       ],
       "append": [],
       "pron": "jua1",
+      "latinPron": "júa",
       "example": [],
       "num": "261"
     },
@@ -12374,6 +12939,7 @@
       ],
       "append": [],
       "pron": "jua1 lai2",
+      "latinPron": "júa'lài",
       "example": [],
       "num": "-"
     },
@@ -12411,6 +12977,7 @@
         }
       ],
       "pron": "we2",
+      "latinPron": "wè",
       "example": [],
       "num": "262",
       "link": [
@@ -12441,6 +13008,7 @@
       ],
       "append": [],
       "pron": "we2 vul3",
+      "latinPron": "wèvûl",
       "example": [],
       "num": "-"
     },
@@ -12459,6 +13027,7 @@
       ],
       "append": [],
       "pron": "a3 we2",
+      "latinPron": "âwè",
       "example": [],
       "num": "-"
     },
@@ -12477,6 +13046,7 @@
       ],
       "append": [],
       "pron": "qai2",
+      "latinPron": "qài",
       "example": [],
       "num": "263"
     },
@@ -12495,6 +13065,7 @@
       ],
       "append": [],
       "pron": "lao1 mis1 qai2",
+      "latinPron": "láo'mísqài",
       "example": [],
       "num": "-"
     },
@@ -12513,6 +13084,7 @@
       ],
       "append": [],
       "pron": "cuang2 qai2",
+      "latinPron": "cùangqài",
       "example": [],
       "num": "-"
     },
@@ -12531,6 +13103,7 @@
       ],
       "append": [],
       "pron": "qai2 ha1",
+      "latinPron": "qàihá",
       "example": [],
       "num": "-"
     },
@@ -12549,6 +13122,7 @@
       ],
       "append": [],
       "pron": "mis1 qai2",
+      "latinPron": "mísqài",
       "example": [],
       "num": "-"
     },
@@ -12567,6 +13141,7 @@
       ],
       "append": [],
       "pron": "bun2 qai2",
+      "latinPron": "bùnqài",
       "example": [],
       "num": "-"
     },
@@ -12585,6 +13160,7 @@
       ],
       "append": [],
       "pron": "sao2 qai2",
+      "latinPron": "sàoqài",
       "example": [],
       "num": "-"
     },
@@ -12603,6 +13179,7 @@
       ],
       "append": [],
       "pron": "cua2 qai2",
+      "latinPron": "cùaqài",
       "example": [],
       "num": "-"
     },
@@ -12621,6 +13198,7 @@
       ],
       "append": [],
       "pron": "mail2 qai2",
+      "latinPron": "màilqài",
       "example": [],
       "num": "-"
     },
@@ -12639,6 +13217,7 @@
       ],
       "append": [],
       "pron": "qai2 sao2",
+      "latinPron": "qài'sào",
       "example": [],
       "num": "-"
     },
@@ -12676,6 +13255,7 @@
         }
       ],
       "pron": "vul3",
+      "latinPron": "vûl",
       "example": [],
       "num": "264",
       "link": [
@@ -12703,6 +13283,7 @@
       ],
       "append": [],
       "pron": "vul3 ye2",
+      "latinPron": "vûlyè",
       "example": [],
       "num": "-"
     },
@@ -12721,6 +13302,7 @@
       ],
       "append": [],
       "pron": "vul3 bun2",
+      "latinPron": "vûlbùn",
       "example": [],
       "num": "-"
     },
@@ -12739,6 +13321,7 @@
       ],
       "append": [],
       "pron": "fua1 vul3",
+      "latinPron": "fúavûl",
       "example": [],
       "num": "-"
     },
@@ -12757,6 +13340,7 @@
       ],
       "append": [],
       "pron": "vul3 fua1 ha1",
+      "latinPron": "vûlfúahá",
       "example": [],
       "num": "-"
     },
@@ -12775,6 +13359,7 @@
       ],
       "append": [],
       "pron": "dua1 vul3",
+      "latinPron": "dúavûl",
       "example": [],
       "num": "-"
     },
@@ -12793,6 +13378,7 @@
       ],
       "append": [],
       "pron": "cua3",
+      "latinPron": "cûa",
       "example": [],
       "num": "265"
     },
@@ -12815,6 +13401,7 @@
       ],
       "append": [],
       "pron": "nel1",
+      "latinPron": "nél",
       "example": [],
       "num": "266"
     },
@@ -12833,6 +13420,7 @@
       ],
       "append": [],
       "pron": "nel1 vas1",
+      "latinPron": "nélvás",
       "example": [],
       "num": "-"
     },
@@ -12851,6 +13439,7 @@
       ],
       "append": [],
       "pron": "wo3 nel1",
+      "latinPron": "wô'nél",
       "example": [],
       "num": "-"
     },
@@ -12869,6 +13458,7 @@
       ],
       "append": [],
       "pron": "faong3 nel1",
+      "latinPron": "fâongnél",
       "example": [],
       "num": "-"
     },
@@ -12887,6 +13477,7 @@
       ],
       "append": [],
       "pron": "puo3",
+      "latinPron": "pûo",
       "example": [],
       "num": "267"
     },
@@ -12905,6 +13496,7 @@
       ],
       "append": [],
       "pron": "kaing1",
+      "latinPron": "káing",
       "example": [],
       "num": "268"
     },
@@ -12923,6 +13515,7 @@
       ],
       "append": [],
       "pron": "fe1",
+      "latinPron": "fé",
       "example": [],
       "num": "269"
     },
@@ -12941,6 +13534,7 @@
       ],
       "append": [],
       "pron": "kao2",
+      "latinPron": "kào",
       "example": [],
       "num": "270"
     },
@@ -12959,6 +13553,7 @@
       ],
       "append": [],
       "pron": "guo1",
+      "latinPron": "gúo",
       "example": [],
       "num": "271"
     },
@@ -12977,6 +13572,7 @@
       ],
       "append": [],
       "pron": "juo1",
+      "latinPron": "júo",
       "example": [],
       "num": "272"
     },
@@ -12995,6 +13591,7 @@
       ],
       "append": [],
       "pron": "juo1 buo3",
+      "latinPron": "júobûo",
       "example": [],
       "num": "-"
     },
@@ -13013,6 +13610,7 @@
       ],
       "append": [],
       "pron": "mail2 juo1",
+      "latinPron": "màiljúo",
       "example": [],
       "num": "-"
     },
@@ -13031,6 +13629,7 @@
       ],
       "append": [],
       "pron": "qil2",
+      "latinPron": "qìl",
       "example": [],
       "num": "273"
     },
@@ -13058,6 +13657,7 @@
       ],
       "append": [],
       "pron": "qao1",
+      "latinPron": "qáo",
       "example": [],
       "num": "274"
     },
@@ -13094,6 +13694,7 @@
       ],
       "append": [],
       "pron": "jo3",
+      "latinPron": "jô",
       "example": [],
       "num": "275"
     },
@@ -13112,6 +13713,7 @@
       ],
       "append": [],
       "pron": "ku1",
+      "latinPron": "kú",
       "example": [],
       "num": "276"
     },
@@ -13130,6 +13732,7 @@
       ],
       "append": [],
       "pron": "gu2 ku1",
+      "latinPron": "gùkú",
       "example": [],
       "num": "-"
     },
@@ -13148,6 +13751,7 @@
       ],
       "append": [],
       "pron": "ye2 ku1",
+      "latinPron": "yèkú",
       "example": [],
       "num": "-"
     },
@@ -13166,6 +13770,7 @@
       ],
       "append": [],
       "pron": "main2 ku1",
+      "latinPron": "màinkú",
       "example": [],
       "num": "-"
     },
@@ -13184,6 +13789,7 @@
       ],
       "append": [],
       "pron": "main2 ku1 lai2",
+      "latinPron": "màinkú'lài",
       "example": [],
       "num": "-"
     },
@@ -13202,6 +13808,7 @@
       ],
       "append": [],
       "pron": "sang3 mail2",
+      "latinPron": "sângmàil",
       "example": [],
       "num": "-"
     },
@@ -13230,6 +13837,7 @@
         }
       ],
       "pron": "ku1 quo3 mail2",
+      "latinPron": "kúqûo'màil",
       "example": [],
       "num": "-"
     },
@@ -13248,6 +13856,7 @@
       ],
       "append": [],
       "pron": "qao1 ku1",
+      "latinPron": "qáokú",
       "example": [],
       "num": "-"
     },
@@ -13266,6 +13875,7 @@
       ],
       "append": [],
       "pron": "kaing1 mail2",
+      "latinPron": "káingmàil",
       "example": [],
       "num": "-"
     },
@@ -13284,6 +13894,7 @@
       ],
       "append": [],
       "pron": "yao2 mail2",
+      "latinPron": "yào'màil",
       "example": [],
       "num": "-"
     },
@@ -13302,6 +13913,7 @@
       ],
       "append": [],
       "pron": "jua1 ail2",
+      "latinPron": "júaàil",
       "example": [],
       "num": "-"
     },
@@ -13329,6 +13941,7 @@
       ],
       "append": [],
       "pron": "cail1",
+      "latinPron": "cáil",
       "example": [],
       "num": "277"
     },
@@ -13347,6 +13960,7 @@
       ],
       "append": [],
       "pron": "cail1 ail2",
+      "latinPron": "cáil'àil",
       "example": [],
       "num": "-"
     },
@@ -13365,6 +13979,7 @@
       ],
       "append": [],
       "pron": "pais2",
+      "latinPron": "pàis",
       "example": [],
       "num": "278"
     },
@@ -13383,6 +13998,7 @@
       ],
       "append": [],
       "pron": "pais2 jua1",
+      "latinPron": "pàisjúa",
       "example": [],
       "num": "-"
     },
@@ -13401,6 +14017,7 @@
       ],
       "append": [],
       "pron": "pais2 jua1 ail2",
+      "latinPron": "pàisjúaàil",
       "example": [],
       "num": "-"
     },
@@ -13428,6 +14045,7 @@
       ],
       "append": [],
       "pron": "pais2 vul3",
+      "latinPron": "pàisvûl",
       "example": [],
       "num": "-"
     },
@@ -13446,6 +14064,7 @@
       ],
       "append": [],
       "pron": "gua1",
+      "latinPron": "gúa",
       "example": [],
       "num": "279"
     },
@@ -13464,6 +14083,7 @@
       ],
       "append": [],
       "pron": "ho3 gua1",
+      "latinPron": "hôgúa",
       "example": [],
       "num": "-"
     },
@@ -13491,6 +14111,7 @@
       ],
       "append": [],
       "pron": "das1 gua1",
+      "latinPron": "dásgúa",
       "example": [],
       "num": "-"
     },
@@ -13509,6 +14130,7 @@
       ],
       "append": [],
       "pron": "gua1 das1",
+      "latinPron": "gúadás",
       "example": [],
       "num": "-"
     },
@@ -13527,6 +14149,7 @@
       ],
       "append": [],
       "pron": "tang2 gua1",
+      "latinPron": "tànggúa",
       "example": [],
       "num": "-"
     },
@@ -13554,6 +14177,7 @@
       ],
       "append": [],
       "pron": "tu2",
+      "latinPron": "tù",
       "example": [],
       "num": "280"
     },
@@ -13572,6 +14196,7 @@
       ],
       "append": [],
       "pron": "tu2 nes2",
+      "latinPron": "tù'nès",
       "example": [],
       "num": "-"
     },
@@ -13599,6 +14224,7 @@
       ],
       "append": [],
       "pron": "qua1",
+      "latinPron": "qúa",
       "example": [],
       "num": "281"
     },
@@ -13617,6 +14243,7 @@
       ],
       "append": [],
       "pron": "don2 qua1",
+      "latinPron": "dònqúa",
       "example": [],
       "num": "-"
     },
@@ -13635,6 +14262,7 @@
       ],
       "append": [],
       "pron": "qua1 vul3",
+      "latinPron": "qúavûl",
       "example": [],
       "num": "-"
     },
@@ -13653,6 +14281,7 @@
       ],
       "append": [],
       "pron": "qua1 vul3 ha1",
+      "latinPron": "qúavûlhá",
       "example": [],
       "num": "-"
     },
@@ -13671,6 +14300,7 @@
       ],
       "append": [],
       "pron": "qua1 bun2",
+      "latinPron": "qúabùn",
       "example": [],
       "num": "-"
     },
@@ -13699,6 +14329,7 @@
         }
       ],
       "pron": "xal3",
+      "latinPron": "xâl",
       "example": [],
       "num": "282",
       "link": [
@@ -13726,6 +14357,7 @@
       ],
       "append": [],
       "pron": "xal3 ha1",
+      "latinPron": "xâlhá",
       "example": [],
       "num": "-"
     },
@@ -13744,6 +14376,7 @@
       ],
       "append": [],
       "pron": "pa3",
+      "latinPron": "pâ",
       "example": [],
       "num": "283"
     },
@@ -13762,6 +14395,7 @@
       ],
       "append": [],
       "pron": "pa3 bun2 ha1",
+      "latinPron": "pâbùnhá",
       "example": [],
       "num": "-"
     },
@@ -13780,6 +14414,7 @@
       ],
       "append": [],
       "pron": "pa3 luong3",
+      "latinPron": "pâ'lûong",
       "example": [],
       "num": "-"
     },
@@ -13798,6 +14433,7 @@
       ],
       "append": [],
       "pron": "bua2",
+      "latinPron": "bùa",
       "example": [],
       "num": "284"
     },
@@ -13816,6 +14452,7 @@
       ],
       "append": [],
       "pron": "paong2",
+      "latinPron": "pàong",
       "example": [],
       "num": "285"
     },
@@ -13852,6 +14489,7 @@
       ],
       "append": [],
       "pron": "puon2",
+      "latinPron": "pùon",
       "example": [],
       "num": "286"
     },
@@ -13870,6 +14508,7 @@
       ],
       "append": [],
       "pron": "puon2 ge3",
+      "latinPron": "pùongê",
       "example": [],
       "num": "-"
     },
@@ -13901,6 +14540,7 @@
       ],
       "append": [],
       "pron": "lim1",
+      "latinPron": "lím",
       "example": [],
       "num": "287"
     },
@@ -13919,6 +14559,7 @@
       ],
       "append": [],
       "pron": "lim1 ha1",
+      "latinPron": "límhá",
       "example": [],
       "num": "-"
     },
@@ -13946,6 +14587,7 @@
       ],
       "append": [],
       "pron": "di2",
+      "latinPron": "dì",
       "example": [],
       "num": "288"
     },
@@ -13964,6 +14606,7 @@
       ],
       "append": [],
       "pron": "muos3 di2",
+      "latinPron": "mûosdì",
       "example": [],
       "num": "-"
     },
@@ -13982,6 +14625,7 @@
       ],
       "append": [],
       "pron": "lua2",
+      "latinPron": "lùa",
       "example": [],
       "num": "289"
     },
@@ -14000,6 +14644,7 @@
       ],
       "append": [],
       "pron": "lua2 nun2",
+      "latinPron": "lùa'nùn",
       "example": [],
       "num": "-"
     },
@@ -14018,6 +14663,7 @@
       ],
       "append": [],
       "pron": "zom3 nun2",
+      "latinPron": "zômnùn",
       "example": [],
       "num": "-"
     },
@@ -14036,6 +14682,7 @@
       ],
       "append": [],
       "pron": "mail2 nun2",
+      "latinPron": "màilnùn",
       "example": [],
       "num": "-"
     },
@@ -14064,6 +14711,7 @@
         }
       ],
       "pron": "xos2",
+      "latinPron": "xòs",
       "example": [],
       "num": "290"
     },
@@ -14082,6 +14730,7 @@
       ],
       "append": [],
       "pron": "ge3",
+      "latinPron": "gê",
       "example": [],
       "num": "291"
     },
@@ -14110,6 +14759,7 @@
         }
       ],
       "pron": "muo1",
+      "latinPron": "múo",
       "example": [],
       "num": "292"
     },
@@ -14137,6 +14787,7 @@
       ],
       "append": [],
       "pron": "pis3",
+      "latinPron": "pîs",
       "example": [],
       "num": "293"
     },
@@ -14155,6 +14806,7 @@
       ],
       "append": [],
       "pron": "pis3 cen1",
+      "latinPron": "pîscén",
       "example": [],
       "num": "-"
     },
@@ -14173,6 +14825,7 @@
       ],
       "append": [],
       "pron": "quom2",
+      "latinPron": "qùom",
       "example": [],
       "num": "294"
     },
@@ -14191,6 +14844,7 @@
       ],
       "append": [],
       "pron": "quom2 sao2",
+      "latinPron": "qùomsào",
       "example": [],
       "num": "-"
     },
@@ -14209,6 +14863,7 @@
       ],
       "append": [],
       "pron": "quom2 ha1",
+      "latinPron": "qùomhá",
       "example": [],
       "num": "-"
     },
@@ -14236,6 +14891,7 @@
       ],
       "append": [],
       "pron": "hai1",
+      "latinPron": "hái",
       "example": [],
       "num": "295"
     },
@@ -14254,6 +14910,7 @@
       ],
       "append": [],
       "pron": "je1",
+      "latinPron": "jé",
       "example": [],
       "num": "296"
     },
@@ -14272,6 +14929,7 @@
       ],
       "append": [],
       "pron": "he2",
+      "latinPron": "hè",
       "example": [],
       "num": "297"
     },
@@ -14290,6 +14948,7 @@
       ],
       "append": [],
       "pron": "he2 hil3",
+      "latinPron": "hèhîl",
       "example": [],
       "num": "-"
     },
@@ -14308,6 +14967,7 @@
       ],
       "append": [],
       "pron": "he2 ge3",
+      "latinPron": "hègê",
       "example": [],
       "num": "-"
     },
@@ -14340,6 +15000,7 @@
         }
       ],
       "pron": "nao2",
+      "latinPron": "nào",
       "example": [],
       "num": "298"
     },
@@ -14367,6 +15028,7 @@
       ],
       "append": [],
       "pron": "co3",
+      "latinPron": "cô",
       "example": [],
       "num": "299"
     },
@@ -14385,6 +15047,7 @@
       ],
       "append": [],
       "pron": "co3 gim1",
+      "latinPron": "côgím",
       "example": [],
       "num": "-"
     },
@@ -14403,6 +15066,7 @@
       ],
       "append": [],
       "pron": "wel2",
+      "latinPron": "wèl",
       "example": [],
       "num": "300"
     },
@@ -14421,6 +15085,7 @@
       ],
       "append": [],
       "pron": "cua2",
+      "latinPron": "cùa",
       "example": [],
       "num": "301"
     },
@@ -14439,6 +15104,7 @@
       ],
       "append": [],
       "pron": "nun2 cua2",
+      "latinPron": "nùncùa",
       "example": [],
       "num": "-"
     },
@@ -14457,6 +15123,7 @@
       ],
       "append": [],
       "pron": "he2 nun2",
+      "latinPron": "hè'nùn",
       "example": [],
       "num": "-"
     },
@@ -14475,6 +15142,7 @@
       ],
       "append": [],
       "pron": "lua2 cua2",
+      "latinPron": "lùacùa",
       "example": [],
       "num": "-"
     },
@@ -14493,6 +15161,7 @@
       ],
       "append": [],
       "pron": "we3",
+      "latinPron": "wê",
       "example": [],
       "num": "302"
     },
@@ -14511,6 +15180,7 @@
       ],
       "append": [],
       "pron": "we3 ha1",
+      "latinPron": "wêhá",
       "example": [],
       "num": "-"
     },
@@ -14538,6 +15208,7 @@
       ],
       "append": [],
       "pron": "cuam1",
+      "latinPron": "cúam",
       "example": [],
       "num": "303"
     },
@@ -14556,6 +15227,7 @@
       ],
       "append": [],
       "pron": "nim3",
+      "latinPron": "nîm",
       "example": [],
       "num": "304"
     },
@@ -14574,6 +15246,7 @@
       ],
       "append": [],
       "pron": "nim3 ge3",
+      "latinPron": "nîmgê",
       "example": [],
       "num": "-"
     },
@@ -14592,6 +15265,7 @@
       ],
       "append": [],
       "pron": "nim3 bun2",
+      "latinPron": "nîmbùn",
       "example": [],
       "num": "-"
     },
@@ -14610,6 +15284,7 @@
       ],
       "append": [],
       "pron": "cung2",
+      "latinPron": "cùng",
       "example": [],
       "num": "305"
     },
@@ -14628,6 +15303,7 @@
       ],
       "append": [],
       "pron": "cung2 baon2",
+      "latinPron": "cùngbàon",
       "example": [],
       "num": "-"
     },
@@ -14646,6 +15322,7 @@
       ],
       "append": [],
       "pron": "xes2",
+      "latinPron": "xès",
       "example": [],
       "num": "306"
     },
@@ -14664,6 +15341,7 @@
       ],
       "append": [],
       "pron": "xes2 nao2",
+      "latinPron": "xèsnào",
       "example": [],
       "num": "-"
     },
@@ -14682,6 +15360,7 @@
       ],
       "append": [],
       "pron": "mai2",
+      "latinPron": "mài",
       "example": [],
       "num": "307"
     },
@@ -14700,6 +15379,7 @@
       ],
       "append": [],
       "pron": "mai2 ha1",
+      "latinPron": "màihá",
       "example": [],
       "num": "-"
     },
@@ -14718,6 +15398,7 @@
       ],
       "append": [],
       "pron": "cuo1",
+      "latinPron": "cúo",
       "example": [],
       "num": "308"
     },
@@ -14745,6 +15426,7 @@
       ],
       "append": [],
       "pron": "yuas3",
+      "latinPron": "yûas",
       "example": [],
       "num": "309"
     },
@@ -14767,6 +15449,7 @@
       ],
       "append": [],
       "pron": "val2",
+      "latinPron": "vàl",
       "example": [],
       "num": "310"
     },
@@ -14785,6 +15468,7 @@
       ],
       "append": [],
       "pron": "fua2",
+      "latinPron": "fùa",
       "example": [],
       "num": "311"
     },
@@ -14813,6 +15497,7 @@
         }
       ],
       "pron": "cai2 fua2",
+      "latinPron": "càifùa",
       "example": [],
       "num": "-"
     },
@@ -14831,6 +15516,7 @@
       ],
       "append": [],
       "pron": "ka1",
+      "latinPron": "ká",
       "example": [],
       "num": "312"
     },
@@ -14868,6 +15554,7 @@
         }
       ],
       "pron": "lus3 ka1",
+      "latinPron": "lûská",
       "example": [],
       "num": "-",
       "link": [
@@ -14894,6 +15581,7 @@
       ],
       "append": [],
       "pron": "kal2",
+      "latinPron": "kàl",
       "example": [],
       "num": "313"
     },
@@ -14912,6 +15600,7 @@
       ],
       "append": [],
       "pron": "ke1 buos1",
+      "latinPron": "kébúos",
       "example": [],
       "num": "-"
     },
@@ -14930,6 +15619,7 @@
       ],
       "append": [],
       "pron": "buos1 ke1",
+      "latinPron": "búoské",
       "example": [],
       "num": "-"
     },
@@ -14948,6 +15638,7 @@
       ],
       "append": [],
       "pron": "caos1",
+      "latinPron": "cáos",
       "example": [],
       "num": "314"
     },
@@ -14966,6 +15657,7 @@
       ],
       "append": [],
       "pron": "jua3",
+      "latinPron": "jûa",
       "example": [],
       "num": "315"
     },
@@ -14984,6 +15676,7 @@
       ],
       "append": [],
       "pron": "go3 ke1",
+      "latinPron": "gôké",
       "example": [],
       "num": "-"
     },
@@ -15002,6 +15695,7 @@
       ],
       "append": [],
       "pron": "ke1 go3",
+      "latinPron": "kégô",
       "example": [],
       "num": "-"
     },
@@ -15020,6 +15714,7 @@
       ],
       "append": [],
       "pron": "ve3",
+      "latinPron": "vê",
       "example": [],
       "num": "316"
     },
@@ -15047,6 +15742,7 @@
       ],
       "append": [],
       "pron": "me2",
+      "latinPron": "mè",
       "example": [],
       "num": "317",
       "link": [
@@ -15073,6 +15769,7 @@
       ],
       "append": [],
       "pron": "do2",
+      "latinPron": "dò",
       "example": [],
       "num": "318"
     },
@@ -15091,6 +15788,7 @@
       ],
       "append": [],
       "pron": "fail1",
+      "latinPron": "fáil",
       "example": [],
       "num": "319"
     },
@@ -15128,6 +15826,7 @@
         }
       ],
       "pron": "lus3 do2",
+      "latinPron": "lûsdò",
       "example": [],
       "num": "-",
       "link": [
@@ -15154,6 +15853,7 @@
       ],
       "append": [],
       "pron": "nua1",
+      "latinPron": "núa",
       "example": [],
       "num": "320"
     },
@@ -15172,6 +15872,7 @@
       ],
       "append": [],
       "pron": "juo1 nua1",
+      "latinPron": "júo'núa",
       "example": [],
       "num": "-"
     },
@@ -15200,6 +15901,7 @@
         }
       ],
       "pron": "juo1 nua1 ha1",
+      "latinPron": "júo'núahá",
       "example": [],
       "num": "-"
     },
@@ -15218,6 +15920,7 @@
       ],
       "append": [],
       "pron": "cai2",
+      "latinPron": "cài",
       "example": [],
       "num": "321"
     },
@@ -15236,6 +15939,7 @@
       ],
       "append": [],
       "pron": "him2 cai2",
+      "latinPron": "hìmcài",
       "example": [],
       "num": "-",
       "link": [
@@ -15262,6 +15966,7 @@
       ],
       "append": [],
       "pron": "sao2 cai2",
+      "latinPron": "sàocài",
       "example": [],
       "num": "-",
       "link": [
@@ -15288,6 +15993,7 @@
       ],
       "append": [],
       "pron": "sua3 cai2 ha1",
+      "latinPron": "sûacàihá",
       "example": [],
       "num": "-"
     },
@@ -15306,6 +16012,7 @@
       ],
       "append": [],
       "pron": "ji3",
+      "latinPron": "jî",
       "example": [],
       "num": "322"
     },
@@ -15324,6 +16031,7 @@
       ],
       "append": [],
       "pron": "fao2",
+      "latinPron": "fào",
       "example": [],
       "num": "323"
     },
@@ -15342,6 +16050,7 @@
       ],
       "append": [],
       "pron": "kua2",
+      "latinPron": "kùa",
       "example": [],
       "num": "324"
     },
@@ -15379,6 +16088,7 @@
         }
       ],
       "pron": "sas2",
+      "latinPron": "sàs",
       "example": [],
       "num": "325",
       "link": [
@@ -15405,6 +16115,7 @@
       ],
       "append": [],
       "pron": "sas2 luong3",
+      "latinPron": "sàslûong",
       "example": [],
       "num": "-"
     },
@@ -15423,6 +16134,7 @@
       ],
       "append": [],
       "pron": "bais3",
+      "latinPron": "bâis",
       "example": [],
       "num": "326"
     },
@@ -15441,6 +16153,7 @@
       ],
       "append": [],
       "pron": "bais3 bais3",
+      "latinPron": "bâisbâis",
       "example": [],
       "num": "-"
     },
@@ -15459,6 +16172,7 @@
       ],
       "append": [],
       "pron": "wao3",
+      "latinPron": "wâo",
       "example": [],
       "num": "327"
     },
@@ -15477,6 +16191,7 @@
       ],
       "append": [],
       "pron": "pail1",
+      "latinPron": "páil",
       "example": [],
       "num": "328"
     },
@@ -15495,6 +16210,7 @@
       ],
       "append": [],
       "pron": "sa1",
+      "latinPron": "sá",
       "example": [],
       "num": "329"
     },
@@ -15517,6 +16233,7 @@
       ],
       "append": [],
       "pron": "kaim1",
+      "latinPron": "káim",
       "example": [],
       "num": "330"
     },
@@ -15535,6 +16252,7 @@
       ],
       "append": [],
       "pron": "taos3 kaim1",
+      "latinPron": "tâoskáim",
       "example": [],
       "num": "-"
     },
@@ -15553,6 +16271,7 @@
       ],
       "append": [],
       "pron": "yuas1 kaim1",
+      "latinPron": "yúaskáim",
       "example": [],
       "num": "-"
     },
@@ -15571,6 +16290,7 @@
       ],
       "append": [],
       "pron": "yo3",
+      "latinPron": "yô",
       "example": [],
       "num": "331"
     },
@@ -15589,6 +16309,7 @@
       ],
       "append": [],
       "pron": "cum2",
+      "latinPron": "cùm",
       "example": [],
       "num": "332"
     },
@@ -15607,6 +16328,7 @@
       ],
       "append": [],
       "pron": "kuol1",
+      "latinPron": "kúol",
       "example": [],
       "num": "333"
     },
@@ -15625,6 +16347,7 @@
       ],
       "append": [],
       "pron": "huon3",
+      "latinPron": "hûon",
       "example": [],
       "num": "334"
     },
@@ -15643,6 +16366,7 @@
       ],
       "append": [],
       "pron": "qe3",
+      "latinPron": "qê",
       "example": [],
       "num": "335"
     },
@@ -15661,6 +16385,7 @@
       ],
       "append": [],
       "pron": "qais1",
+      "latinPron": "qáis",
       "example": [],
       "num": "336"
     },
@@ -15679,6 +16404,7 @@
       ],
       "append": [],
       "pron": "cao3",
+      "latinPron": "câo",
       "example": [],
       "num": "337"
     },
@@ -15706,6 +16432,7 @@
       ],
       "append": [],
       "pron": "nol2",
+      "latinPron": "nòl",
       "example": [],
       "num": "338"
     },
@@ -15724,6 +16451,7 @@
       ],
       "append": [],
       "pron": "ail2 nol2",
+      "latinPron": "àilnòl",
       "example": [],
       "num": "-"
     },
@@ -15742,6 +16470,7 @@
       ],
       "append": [],
       "pron": "nol2 ail2",
+      "latinPron": "nòl'àil",
       "example": [],
       "num": "-"
     },
@@ -15760,6 +16489,7 @@
       ],
       "append": [],
       "pron": "nol2 ye3",
+      "latinPron": "nòlyê",
       "example": [],
       "num": "-"
     },
@@ -15787,6 +16517,7 @@
       ],
       "append": [],
       "pron": "suol3",
+      "latinPron": "sûol",
       "example": [],
       "num": "339"
     },
@@ -15805,6 +16536,7 @@
       ],
       "append": [],
       "pron": "guo2",
+      "latinPron": "gùo",
       "example": [],
       "num": "340"
     },
@@ -15823,6 +16555,7 @@
       ],
       "append": [],
       "pron": "tim2",
+      "latinPron": "tìm",
       "example": [],
       "num": "341"
     },
@@ -15851,6 +16584,7 @@
         }
       ],
       "pron": "hu2",
+      "latinPron": "hù",
       "example": [],
       "num": "342"
     },
@@ -15879,6 +16613,7 @@
         }
       ],
       "pron": "yuo1",
+      "latinPron": "yúo",
       "example": [],
       "num": "343"
     },
@@ -15901,6 +16636,7 @@
       ],
       "append": [],
       "pron": "yuo1 bun2",
+      "latinPron": "yúobùn",
       "example": [],
       "num": "-"
     },
@@ -15928,6 +16664,7 @@
       ],
       "append": [],
       "pron": "sin1",
+      "latinPron": "sín",
       "example": [],
       "num": "344"
     },
@@ -15946,6 +16683,7 @@
       ],
       "append": [],
       "pron": "don2",
+      "latinPron": "dòn",
       "example": [],
       "num": "345"
     },
@@ -15964,6 +16702,7 @@
       ],
       "append": [],
       "pron": "taim1",
+      "latinPron": "táim",
       "example": [],
       "num": "346"
     },
@@ -15982,6 +16721,7 @@
       ],
       "append": [],
       "pron": "laol1",
+      "latinPron": "láol",
       "example": [],
       "num": "347"
     },
@@ -16000,6 +16740,7 @@
       ],
       "append": [],
       "pron": "mua3",
+      "latinPron": "mûa",
       "example": [],
       "num": "348"
     },
@@ -16031,6 +16772,7 @@
       ],
       "append": [],
       "pron": "xua3",
+      "latinPron": "xûa",
       "example": [],
       "num": "349"
     },
@@ -16058,6 +16800,7 @@
       ],
       "append": [],
       "pron": "ke2",
+      "latinPron": "kè",
       "example": [],
       "num": "350"
     },
@@ -16076,6 +16819,7 @@
       ],
       "append": [],
       "pron": "lao1 suam1",
+      "latinPron": "láo'súam",
       "example": [],
       "num": "-"
     },
@@ -16103,6 +16847,7 @@
       ],
       "append": [],
       "pron": "lo3 bua1",
+      "latinPron": "lôbúa",
       "example": [],
       "num": "-"
     },
@@ -16121,6 +16866,7 @@
       ],
       "append": [],
       "pron": "dol3",
+      "latinPron": "dôl",
       "example": [],
       "num": "351"
     },
@@ -16139,6 +16885,7 @@
       ],
       "append": [],
       "pron": "him2 dol3",
+      "latinPron": "hìmdôl",
       "example": [],
       "num": "-"
     },
@@ -16157,6 +16904,7 @@
       ],
       "append": [],
       "pron": "ju1 dol3",
+      "latinPron": "júdôl",
       "example": [],
       "num": "-"
     },
@@ -16175,6 +16923,7 @@
       ],
       "append": [],
       "pron": "jai2 dol3",
+      "latinPron": "jàidôl",
       "example": [],
       "num": "-"
     },
@@ -16203,6 +16952,7 @@
         }
       ],
       "pron": "dom2 dol3",
+      "latinPron": "dòmdôl",
       "example": [],
       "num": "-"
     },
@@ -16231,6 +16981,7 @@
         }
       ],
       "pron": "lai1 dol3",
+      "latinPron": "láidôl",
       "example": [],
       "num": "-"
     },
@@ -16258,6 +17009,7 @@
       ],
       "append": [],
       "pron": "dom2",
+      "latinPron": "dòm",
       "example": [],
       "num": "352"
     },
@@ -16276,6 +17028,7 @@
       ],
       "append": [],
       "pron": "lo3 yol1",
+      "latinPron": "lôyól",
       "example": [],
       "num": "-"
     },
@@ -16298,6 +17051,7 @@
       ],
       "append": [],
       "pron": "pang3",
+      "latinPron": "pâng",
       "example": [],
       "num": "353"
     },
@@ -16316,6 +17070,7 @@
       ],
       "append": [],
       "pron": "qon1",
+      "latinPron": "qón",
       "example": [],
       "num": "354"
     },
@@ -16338,6 +17093,7 @@
       ],
       "append": [],
       "pron": "xaing1",
+      "latinPron": "xáing",
       "example": [],
       "num": "355"
     },
@@ -16356,6 +17112,7 @@
       ],
       "append": [],
       "pron": "vas1 xaing1",
+      "latinPron": "vásxáing",
       "example": [],
       "num": "-"
     },
@@ -16374,6 +17131,7 @@
       ],
       "append": [],
       "pron": "cun1 xaing1",
+      "latinPron": "cúnxáing",
       "example": [],
       "num": "-"
     },
@@ -16396,6 +17154,7 @@
       ],
       "append": [],
       "pron": "lao2",
+      "latinPron": "lào",
       "example": [],
       "num": "356"
     },
@@ -16414,6 +17173,7 @@
       ],
       "append": [],
       "pron": "kong3",
+      "latinPron": "kông",
       "example": [],
       "num": "357"
     },
@@ -16432,6 +17192,7 @@
       ],
       "append": [],
       "pron": "juom1",
+      "latinPron": "júom",
       "example": [],
       "num": "358"
     },
@@ -16454,6 +17215,7 @@
       ],
       "append": [],
       "pron": "ne2",
+      "latinPron": "nè",
       "example": [],
       "num": "359"
     },
@@ -16472,6 +17234,7 @@
       ],
       "append": [],
       "pron": "ne2 so3",
+      "latinPron": "nè'sô",
       "example": [],
       "num": "-"
     },
@@ -16490,6 +17253,7 @@
       ],
       "append": [],
       "pron": "ne2 qain1",
+      "latinPron": "nèqáin",
       "example": [],
       "num": "-"
     },
@@ -16508,6 +17272,7 @@
       ],
       "append": [],
       "pron": "bai2",
+      "latinPron": "bài",
       "example": [],
       "num": "360"
     },
@@ -16530,6 +17295,7 @@
       ],
       "append": [],
       "pron": "o3",
+      "latinPron": "ô",
       "example": [],
       "num": "361"
     },
@@ -16548,6 +17314,7 @@
       ],
       "append": [],
       "pron": "hai3",
+      "latinPron": "hâi",
       "example": [],
       "num": "362"
     },
@@ -16566,6 +17333,7 @@
       ],
       "append": [],
       "pron": "hai3 juo1",
+      "latinPron": "hâijúo",
       "example": [],
       "num": "-"
     },
@@ -16584,6 +17352,7 @@
       ],
       "append": [],
       "pron": "duo3",
+      "latinPron": "dûo",
       "example": [],
       "num": "363"
     },
@@ -16602,6 +17371,7 @@
       ],
       "append": [],
       "pron": "buom1",
+      "latinPron": "búom",
       "example": [],
       "num": "364"
     },
@@ -16620,6 +17390,7 @@
       ],
       "append": [],
       "pron": "lao1 wao3 buom1",
+      "latinPron": "láowâobúom",
       "example": [],
       "num": "-"
     },
@@ -16638,6 +17409,7 @@
       ],
       "append": [],
       "pron": "dol3 buom1",
+      "latinPron": "dôlbúom",
       "example": [],
       "num": "-"
     },
@@ -16656,6 +17428,7 @@
       ],
       "append": [],
       "pron": "ku1 buom1",
+      "latinPron": "kúbúom",
       "example": [],
       "num": "-"
     },
@@ -16674,6 +17447,7 @@
       ],
       "append": [],
       "pron": "ku1 buom1 ail2",
+      "latinPron": "kúbúom'àil",
       "example": [],
       "num": "-"
     },
@@ -16701,6 +17475,7 @@
       ],
       "append": [],
       "pron": "xing1",
+      "latinPron": "xíng",
       "example": [],
       "num": "365"
     },
@@ -16719,6 +17494,7 @@
       ],
       "append": [],
       "pron": "lo3 xing1",
+      "latinPron": "lôxíng",
       "example": [],
       "num": "-"
     },
@@ -16737,6 +17513,7 @@
       ],
       "append": [],
       "pron": "yaom1 xing1",
+      "latinPron": "yáomxíng",
       "example": [],
       "num": "-"
     },
@@ -16765,6 +17542,7 @@
         }
       ],
       "pron": "vu2",
+      "latinPron": "vù",
       "example": [],
       "num": "366",
       "link": [
@@ -16791,6 +17569,7 @@
       ],
       "append": [],
       "pron": "vu2 xao3",
+      "latinPron": "vùxâo",
       "example": [],
       "num": "-"
     },
@@ -16809,6 +17588,7 @@
       ],
       "append": [],
       "pron": "vao1 vu2 wai1",
+      "latinPron": "váovùwái",
       "example": [],
       "num": "-"
     },
@@ -16827,6 +17607,7 @@
       ],
       "append": [],
       "pron": "nuo2 vu2 wai1",
+      "latinPron": "nùovùwái",
       "example": [],
       "num": "-"
     },
@@ -16845,6 +17626,7 @@
       ],
       "append": [],
       "pron": "ga1",
+      "latinPron": "gá",
       "example": [],
       "num": "367"
     },
@@ -16863,6 +17645,7 @@
       ],
       "append": [],
       "pron": "qim3 ga1",
+      "latinPron": "qîmgá",
       "example": [],
       "num": "-"
     },
@@ -16881,6 +17664,7 @@
       ],
       "append": [],
       "pron": "i2",
+      "latinPron": "ì",
       "example": [],
       "num": "368"
     },
@@ -16899,6 +17683,7 @@
       ],
       "append": [],
       "pron": "qim3 i2",
+      "latinPron": "qîm'ì",
       "example": [],
       "num": "-"
     },
@@ -16917,6 +17702,7 @@
       ],
       "append": [],
       "pron": "wes2",
+      "latinPron": "wès",
       "example": [],
       "num": "369"
     },
@@ -16935,6 +17721,7 @@
       ],
       "append": [],
       "pron": "qim3 wes2",
+      "latinPron": "qîmwès",
       "example": [],
       "num": "-"
     },
@@ -16953,6 +17740,7 @@
       ],
       "append": [],
       "pron": "yaos3",
+      "latinPron": "yâos",
       "example": [],
       "num": "370"
     },
@@ -16971,6 +17759,7 @@
       ],
       "append": [],
       "pron": "vai2",
+      "latinPron": "vài",
       "example": [],
       "num": "371"
     },
@@ -16989,6 +17778,7 @@
       ],
       "append": [],
       "pron": "vai2 suo3",
+      "latinPron": "vài'sûo",
       "example": [],
       "num": "-"
     },
@@ -17007,6 +17797,7 @@
       ],
       "append": [],
       "pron": "vai2 lung2",
+      "latinPron": "vài'lùng",
       "example": [],
       "num": "-"
     },
@@ -17025,6 +17816,7 @@
       ],
       "append": [],
       "pron": "vai2 an3",
+      "latinPron": "vàiân",
       "example": [],
       "num": "-"
     },
@@ -17043,6 +17835,7 @@
       ],
       "append": [],
       "pron": "vai2 paon1",
+      "latinPron": "vàipáon",
       "example": [],
       "num": "-"
     },
@@ -17075,6 +17868,7 @@
         }
       ],
       "pron": "so2",
+      "latinPron": "sò",
       "example": [],
       "num": "372"
     },
@@ -17093,6 +17887,7 @@
       ],
       "append": [],
       "pron": "so2 vai2",
+      "latinPron": "sòvài",
       "example": [],
       "num": "-"
     },
@@ -17111,6 +17906,7 @@
       ],
       "append": [],
       "pron": "so2 vo1",
+      "latinPron": "sòvó",
       "example": [],
       "num": "-"
     },
@@ -17129,6 +17925,7 @@
       ],
       "append": [],
       "pron": "xem1 so2 vo1",
+      "latinPron": "xémsòvó",
       "example": [],
       "num": "-"
     },
@@ -17147,6 +17944,7 @@
       ],
       "append": [],
       "pron": "xuam2",
+      "latinPron": "xùam",
       "example": [],
       "num": "373"
     },
@@ -17175,6 +17973,7 @@
         }
       ],
       "pron": "wai3",
+      "latinPron": "wâi",
       "example": [],
       "num": "374"
     },
@@ -17193,6 +17992,7 @@
       ],
       "append": [],
       "pron": "baon2 wai3",
+      "latinPron": "bàonwâi",
       "example": [],
       "num": "-"
     },
@@ -17221,6 +18021,7 @@
         }
       ],
       "pron": "qa1",
+      "latinPron": "qá",
       "example": [],
       "num": "375",
       "link": [
@@ -17248,6 +18049,7 @@
       ],
       "append": [],
       "pron": "qa1 wai3",
+      "latinPron": "qáwâi",
       "example": [],
       "num": "-"
     },
@@ -17266,6 +18068,7 @@
       ],
       "append": [],
       "pron": "puo1",
+      "latinPron": "púo",
       "example": [],
       "num": "376"
     },
@@ -17284,6 +18087,7 @@
       ],
       "append": [],
       "pron": "li2 puo1",
+      "latinPron": "lìpúo",
       "example": [],
       "num": "-"
     },
@@ -17302,6 +18106,7 @@
       ],
       "append": [],
       "pron": "baon2 puo1",
+      "latinPron": "bàonpúo",
       "example": [],
       "num": "-"
     },
@@ -17330,6 +18135,7 @@
         }
       ],
       "pron": "tai1 xu2",
+      "latinPron": "táixù",
       "example": [],
       "num": "-"
     },
@@ -17348,6 +18154,7 @@
       ],
       "append": [],
       "pron": "xu2 qa1 wai3",
+      "latinPron": "xùqáwâi",
       "example": [],
       "num": "-"
     },
@@ -17366,6 +18173,7 @@
       ],
       "append": [],
       "pron": "tai1 se3",
+      "latinPron": "tái'sê",
       "example": [],
       "num": "-"
     },
@@ -17384,6 +18192,7 @@
       ],
       "append": [],
       "pron": "puo1 xuam2",
+      "latinPron": "púoxùam",
       "example": [],
       "num": "-"
     },
@@ -17402,6 +18211,7 @@
       ],
       "append": [],
       "pron": "buos1 wai3",
+      "latinPron": "búoswâi",
       "example": [],
       "num": "-"
     },
@@ -17420,6 +18230,7 @@
       ],
       "append": [],
       "pron": "qa1 ail2",
+      "latinPron": "qáàil",
       "example": [],
       "num": "-"
     },
@@ -17438,6 +18249,7 @@
       ],
       "append": [],
       "pron": "main2 qa1",
+      "latinPron": "màinqá",
       "example": [],
       "num": "-"
     },
@@ -17456,6 +18268,7 @@
       ],
       "append": [],
       "pron": "fun3",
+      "latinPron": "fûn",
       "example": [],
       "num": "377"
     },
@@ -17474,6 +18287,7 @@
       ],
       "append": [],
       "pron": "go3 fun3",
+      "latinPron": "gôfûn",
       "example": [],
       "num": "-"
     },
@@ -17492,6 +18306,7 @@
       ],
       "append": [],
       "pron": "fun3 ja1",
+      "latinPron": "fûnjá",
       "example": [],
       "num": "-"
     },
@@ -17514,6 +18329,7 @@
       ],
       "append": [],
       "pron": "caon3",
+      "latinPron": "câon",
       "example": [],
       "num": "378"
     },
@@ -17532,6 +18348,7 @@
       ],
       "append": [],
       "pron": "caon3 jao2",
+      "latinPron": "câonjào",
       "example": [],
       "num": "-"
     },
@@ -17550,6 +18367,7 @@
       ],
       "append": [],
       "pron": "caon3 ja1",
+      "latinPron": "câonjá",
       "example": [],
       "num": "-"
     },
@@ -17568,6 +18386,7 @@
       ],
       "append": [],
       "pron": "sal2 ke1 ja1",
+      "latinPron": "sàlkéjá",
       "example": [],
       "num": "-"
     },
@@ -17586,6 +18405,7 @@
       ],
       "append": [],
       "pron": "main2 ke1",
+      "latinPron": "màinké",
       "example": [],
       "num": "-"
     },
@@ -17604,6 +18424,7 @@
       ],
       "append": [],
       "pron": "vo1",
+      "latinPron": "vó",
       "example": [],
       "num": "379"
     },
@@ -17622,6 +18443,7 @@
       ],
       "append": [],
       "pron": "vu3 vo1",
+      "latinPron": "vûvó",
       "example": [],
       "num": "-"
     },
@@ -17640,6 +18462,7 @@
       ],
       "append": [],
       "pron": "vo1 vain3",
+      "latinPron": "vóvâin",
       "example": [],
       "num": "-"
     },
@@ -17668,6 +18491,7 @@
         }
       ],
       "pron": "cuo2 ke1 ja1",
+      "latinPron": "cùokéjá",
       "example": [],
       "num": "-",
       "link": [
@@ -17694,6 +18518,7 @@
       ],
       "append": [],
       "pron": "muong1",
+      "latinPron": "múong",
       "example": [],
       "num": "380"
     },
@@ -17712,6 +18537,7 @@
       ],
       "append": [],
       "pron": "tai1 buos1 wai3",
+      "latinPron": "táibúoswâi",
       "example": [],
       "num": "-"
     },
@@ -17730,6 +18556,7 @@
       ],
       "append": [],
       "pron": "ling3 yaos3",
+      "latinPron": "lîngyâos",
       "example": [],
       "num": "-"
     },
@@ -17748,6 +18575,7 @@
       ],
       "append": [],
       "pron": "ling3 bua2",
+      "latinPron": "lîngbùa",
       "example": [],
       "num": "-"
     },
@@ -17766,6 +18594,7 @@
       ],
       "append": [],
       "pron": "dao2",
+      "latinPron": "dào",
       "example": [],
       "num": "381"
     },
@@ -17784,6 +18613,7 @@
       ],
       "append": [],
       "pron": "ba3",
+      "latinPron": "bâ",
       "example": [],
       "num": "382"
     },
@@ -17802,6 +18632,7 @@
       ],
       "append": [],
       "pron": "cuom2",
+      "latinPron": "cùom",
       "example": [],
       "num": "383"
     },
@@ -17820,6 +18651,7 @@
       ],
       "append": [],
       "pron": "muong1 fuon2",
+      "latinPron": "múongfùon",
       "example": [],
       "num": "-"
     },
@@ -17838,6 +18670,7 @@
       ],
       "append": [],
       "pron": "muong1 na2",
+      "latinPron": "múongnà",
       "example": [],
       "num": "-"
     },
@@ -17865,6 +18698,7 @@
       ],
       "append": [],
       "pron": "xem1",
+      "latinPron": "xém",
       "example": [],
       "num": "384"
     },
@@ -17883,6 +18717,7 @@
       ],
       "append": [],
       "pron": "xem1 na1",
+      "latinPron": "xémná",
       "example": [],
       "num": "-"
     },
@@ -17911,6 +18746,7 @@
         }
       ],
       "pron": "xai1",
+      "latinPron": "xái",
       "example": [],
       "num": "385",
       "link": [
@@ -17937,6 +18773,7 @@
       ],
       "append": [],
       "pron": "xai1 nel1",
+      "latinPron": "xái'nél",
       "example": [],
       "num": "-"
     },
@@ -17955,6 +18792,7 @@
       ],
       "append": [],
       "pron": "nel1 xai1",
+      "latinPron": "nélxái",
       "example": [],
       "num": "-"
     },
@@ -17973,6 +18811,7 @@
       ],
       "append": [],
       "pron": "nel1 xai1 ail2",
+      "latinPron": "nélxáiàil",
       "example": [],
       "num": "-"
     },
@@ -18000,6 +18839,7 @@
       ],
       "append": [],
       "pron": "so1",
+      "latinPron": "só",
       "example": [],
       "num": "386"
     },
@@ -18018,6 +18858,7 @@
       ],
       "append": [],
       "pron": "so1 tai1",
+      "latinPron": "sótái",
       "example": [],
       "num": "-"
     },
@@ -18036,6 +18877,7 @@
       ],
       "append": [],
       "pron": "so1 nel1",
+      "latinPron": "só'nél",
       "example": [],
       "num": "-"
     },
@@ -18054,6 +18896,7 @@
       ],
       "append": [],
       "pron": "so1 wai3",
+      "latinPron": "sówâi",
       "example": [],
       "num": "-"
     },
@@ -18072,6 +18915,7 @@
       ],
       "append": [],
       "pron": "xem1 luong3",
+      "latinPron": "xémlûong",
       "example": [],
       "num": "-"
     },
@@ -18090,6 +18934,7 @@
       ],
       "append": [],
       "pron": "kuang1 so1",
+      "latinPron": "kúangsó",
       "example": [],
       "num": "-"
     },
@@ -18108,6 +18953,7 @@
       ],
       "append": [],
       "pron": "so1 xaing1",
+      "latinPron": "sóxáing",
       "example": [],
       "num": "-"
     },
@@ -18126,6 +18972,7 @@
       ],
       "append": [],
       "pron": "xai1 taos3",
+      "latinPron": "xáitâos",
       "example": [],
       "num": "-"
     },
@@ -18144,6 +18991,7 @@
       ],
       "append": [],
       "pron": "xai1 cuo2",
+      "latinPron": "xáicùo",
       "example": [],
       "num": "-"
     },
@@ -18162,6 +19010,7 @@
       ],
       "append": [],
       "pron": "kuon3",
+      "latinPron": "kûon",
       "example": [],
       "num": "387"
     },
@@ -18180,6 +19029,7 @@
       ],
       "append": [],
       "pron": "baon2 xu2",
+      "latinPron": "bàonxù",
       "example": [],
       "num": "-"
     },
@@ -18208,6 +19058,7 @@
         }
       ],
       "pron": "fo2 dol3",
+      "latinPron": "fòdôl",
       "example": [],
       "num": "-"
     },
@@ -18226,6 +19077,7 @@
       ],
       "append": [],
       "pron": "ais1",
+      "latinPron": "áis",
       "example": [],
       "num": "388"
     },
@@ -18244,6 +19096,7 @@
       ],
       "append": [],
       "pron": "cung2 ais1",
+      "latinPron": "cùngáis",
       "example": [],
       "num": "-"
     },
@@ -18262,6 +19115,7 @@
       ],
       "append": [],
       "pron": "suom3",
+      "latinPron": "sûom",
       "example": [],
       "num": "389"
     },
@@ -18280,6 +19134,7 @@
       ],
       "append": [],
       "pron": "suom3 hai3",
+      "latinPron": "sûomhâi",
       "example": [],
       "num": "-"
     },
@@ -18298,6 +19153,7 @@
       ],
       "append": [],
       "pron": "dua3",
+      "latinPron": "dûa",
       "example": [],
       "num": "390"
     },
@@ -18326,6 +19182,7 @@
         }
       ],
       "pron": "xai1 dua3",
+      "latinPron": "xáidûa",
       "example": [],
       "num": "-"
     },
@@ -18344,6 +19201,7 @@
       ],
       "append": [],
       "pron": "lao1 sin1",
+      "latinPron": "láo'sín",
       "example": [],
       "num": "-"
     },
@@ -18362,6 +19220,7 @@
       ],
       "append": [],
       "pron": "huo1 dua3",
+      "latinPron": "húodûa",
       "example": [],
       "num": "-"
     },
@@ -18389,6 +19248,7 @@
       ],
       "append": [],
       "pron": "uo3",
+      "latinPron": "ûo",
       "example": [],
       "num": "391"
     },
@@ -18407,6 +19267,7 @@
       ],
       "append": [],
       "pron": "tuo2 uo3",
+      "latinPron": "tùoûo",
       "example": [],
       "num": "-"
     },
@@ -18425,6 +19286,7 @@
       ],
       "append": [],
       "pron": "qon1 uo3",
+      "latinPron": "qón'ûo",
       "example": [],
       "num": "-"
     },
@@ -18443,6 +19305,7 @@
       ],
       "append": [],
       "pron": "nao2 uo3",
+      "latinPron": "nàoûo",
       "example": [],
       "num": "-"
     },
@@ -18461,6 +19324,7 @@
       ],
       "append": [],
       "pron": "qim3 uo3 ha1",
+      "latinPron": "qîm'ûohá",
       "example": [],
       "num": "-"
     },
@@ -18479,6 +19343,7 @@
       ],
       "append": [],
       "pron": "naim2",
+      "latinPron": "nàim",
       "example": [],
       "num": "392"
     },
@@ -18497,6 +19362,7 @@
       ],
       "append": [],
       "pron": "naim2 so2",
+      "latinPron": "nàimsò",
       "example": [],
       "num": "-"
     },
@@ -18524,6 +19390,7 @@
       ],
       "append": [],
       "pron": "nu3",
+      "latinPron": "nû",
       "example": [],
       "num": "393"
     },
@@ -18542,6 +19409,7 @@
       ],
       "append": [],
       "pron": "nu3 val2 vais2",
+      "latinPron": "nûvàlvàis",
       "example": [],
       "num": "-"
     },
@@ -18560,6 +19428,7 @@
       ],
       "append": [],
       "pron": "vung3",
+      "latinPron": "vûng",
       "example": [],
       "num": "394"
     },
@@ -18588,6 +19457,7 @@
         }
       ],
       "pron": "del1",
+      "latinPron": "dél",
       "example": [],
       "num": "395"
     },
@@ -18619,6 +19489,7 @@
       ],
       "append": [],
       "pron": "pi1",
+      "latinPron": "pí",
       "example": [],
       "num": "396"
     },
@@ -18637,6 +19508,7 @@
       ],
       "append": [],
       "pron": "pi1 mis1",
+      "latinPron": "pí'mís",
       "example": [],
       "num": "-"
     },
@@ -18655,6 +19527,7 @@
       ],
       "append": [],
       "pron": "nang2 pi1",
+      "latinPron": "nàngpí",
       "example": [],
       "num": "-"
     },
@@ -18673,6 +19546,7 @@
       ],
       "append": [],
       "pron": "pi1 gu2",
+      "latinPron": "pígù",
       "example": [],
       "num": "-"
     },
@@ -18691,6 +19565,7 @@
       ],
       "append": [],
       "pron": "min1 gu2 ye1",
+      "latinPron": "míngùyé",
       "example": [],
       "num": "-"
     },
@@ -18709,6 +19584,7 @@
       ],
       "append": [],
       "pron": "va2 ye1",
+      "latinPron": "vàyé",
       "example": [],
       "num": "-"
     },
@@ -18727,6 +19603,7 @@
       ],
       "append": [],
       "pron": "we1",
+      "latinPron": "wé",
       "example": [],
       "num": "397"
     },
@@ -18749,6 +19626,7 @@
       ],
       "append": [],
       "pron": "duon3",
+      "latinPron": "dûon",
       "example": [],
       "num": "398"
     },
@@ -18767,6 +19645,7 @@
       ],
       "append": [],
       "pron": "fa2 duon3",
+      "latinPron": "fàdûon",
       "example": [],
       "num": "-"
     },
@@ -18785,6 +19664,7 @@
       ],
       "append": [],
       "pron": "nel1 duon3",
+      "latinPron": "néldûon",
       "example": [],
       "num": "-"
     },
@@ -18803,6 +19683,7 @@
       ],
       "append": [],
       "pron": "kao1",
+      "latinPron": "káo",
       "example": [],
       "num": "399"
     },
@@ -18821,6 +19702,7 @@
       ],
       "append": [],
       "pron": "baim3 mis1",
+      "latinPron": "bâimmís",
       "example": [],
       "num": "-"
     },
@@ -18839,6 +19721,7 @@
       ],
       "append": [],
       "pron": "ung1",
+      "latinPron": "úng",
       "example": [],
       "num": "400"
     },
@@ -18857,6 +19740,7 @@
       ],
       "append": [],
       "pron": "ung1 ton2",
+      "latinPron": "úngtòn",
       "example": [],
       "num": "-"
     },
@@ -18875,6 +19759,7 @@
       ],
       "append": [],
       "pron": "xaos1",
+      "latinPron": "xáos",
       "example": [],
       "num": "401"
     },
@@ -18893,6 +19778,7 @@
       ],
       "append": [],
       "pron": "buo2",
+      "latinPron": "bùo",
       "example": [],
       "num": "402"
     },
@@ -18921,6 +19807,7 @@
         }
       ],
       "pron": "main2 buo2 ail2",
+      "latinPron": "màinbùoàil",
       "example": [],
       "num": "-",
       "link": [
@@ -18958,6 +19845,7 @@
         }
       ],
       "pron": "cua2 qai2 main2 buo2 ail2",
+      "latinPron": "cùaqài'màinbùoàil",
       "example": [],
       "num": "-"
     },
@@ -18976,6 +19864,7 @@
       ],
       "append": [],
       "pron": "naim2 buo2",
+      "latinPron": "nàimbùo",
       "example": [],
       "num": "-"
     },
@@ -18994,6 +19883,7 @@
       ],
       "append": [],
       "pron": "nao2 buo2",
+      "latinPron": "nàobùo",
       "example": [],
       "num": "-"
     },
@@ -19012,6 +19902,7 @@
       ],
       "append": [],
       "pron": "jo3 buo2",
+      "latinPron": "jôbùo",
       "example": [],
       "num": "-"
     },
@@ -19030,6 +19921,7 @@
       ],
       "append": [],
       "pron": "na1 buo2",
+      "latinPron": "nábùo",
       "example": [],
       "num": "-"
     },
@@ -19048,6 +19940,7 @@
       ],
       "append": [],
       "pron": "buo2 mis1",
+      "latinPron": "bùo'mís",
       "example": [],
       "num": "-"
     },
@@ -19066,6 +19959,7 @@
       ],
       "append": [],
       "pron": "xem1 mis1",
+      "latinPron": "xémmís",
       "example": [],
       "num": "-"
     },
@@ -19084,6 +19978,7 @@
       ],
       "append": [],
       "pron": "wai1 lo3",
+      "latinPron": "wái'lô",
       "example": [],
       "num": "-"
     },
@@ -19121,6 +20016,7 @@
         }
       ],
       "pron": "co2",
+      "latinPron": "cò",
       "example": [],
       "num": "403"
     },
@@ -19148,6 +20044,7 @@
       ],
       "append": [],
       "pron": "tao1",
+      "latinPron": "táo",
       "example": [],
       "num": "404"
     },
@@ -19194,6 +20091,7 @@
         }
       ],
       "pron": "nua3",
+      "latinPron": "nûa",
       "example": [],
       "num": "405"
     },
@@ -19231,6 +20129,7 @@
         }
       ],
       "pron": "nua3 nes2",
+      "latinPron": "nûa'nès",
       "example": [],
       "num": "-"
     },
@@ -19249,6 +20148,7 @@
       ],
       "append": [],
       "pron": "nua3 vo2",
+      "latinPron": "nûavò",
       "example": [],
       "num": "-"
     },
@@ -19267,6 +20167,7 @@
       ],
       "append": [],
       "pron": "cis3",
+      "latinPron": "cîs",
       "example": [],
       "num": "406"
     },
@@ -19289,6 +20190,7 @@
       ],
       "append": [],
       "pron": "pua3",
+      "latinPron": "pûa",
       "example": [],
       "num": "407"
     },
@@ -19307,6 +20209,7 @@
       ],
       "append": [],
       "pron": "pua3 ha1",
+      "latinPron": "pûahá",
       "example": [],
       "num": "-"
     },
@@ -19325,6 +20228,7 @@
       ],
       "append": [],
       "pron": "mel1",
+      "latinPron": "mél",
       "example": [],
       "num": "408"
     },
@@ -19343,6 +20247,7 @@
       ],
       "append": [],
       "pron": "xon2",
+      "latinPron": "xòn",
       "example": [],
       "num": "409"
     },
@@ -19370,6 +20275,7 @@
       ],
       "append": [],
       "pron": "jual1",
+      "latinPron": "júal",
       "example": [],
       "num": "410"
     },
@@ -19388,6 +20294,7 @@
       ],
       "append": [],
       "pron": "ge3 bun2",
+      "latinPron": "gêbùn",
       "example": [],
       "num": "-"
     },
@@ -19406,6 +20313,7 @@
       ],
       "append": [],
       "pron": "go3 juom1",
+      "latinPron": "gôjúom",
       "example": [],
       "num": "-"
     },
@@ -19433,6 +20341,7 @@
       ],
       "append": [],
       "pron": "dual1",
+      "latinPron": "dúal",
       "example": [],
       "num": "411"
     },
@@ -19470,6 +20379,7 @@
         }
       ],
       "pron": "xao2 cai1",
+      "latinPron": "xàocái",
       "example": [],
       "num": "-"
     },
@@ -19501,6 +20411,7 @@
       ],
       "append": [],
       "pron": "lua3",
+      "latinPron": "lûa",
       "example": [],
       "num": "412"
     },
@@ -19519,6 +20430,7 @@
       ],
       "append": [],
       "pron": "vai2 lua3",
+      "latinPron": "vài'lûa",
       "example": [],
       "num": "-"
     },
@@ -19537,6 +20449,7 @@
       ],
       "append": [],
       "pron": "juan2 fuon2 lua3",
+      "latinPron": "jùanfùonlûa",
       "example": [],
       "num": "-"
     },
@@ -19555,6 +20468,7 @@
       ],
       "append": [],
       "pron": "qao1 cua2",
+      "latinPron": "qáocùa",
       "example": [],
       "num": "-"
     },
@@ -19573,6 +20487,7 @@
       ],
       "append": [],
       "pron": "tail1 qao1 cua2",
+      "latinPron": "táilqáocùa",
       "example": [],
       "num": "-"
     },
@@ -19591,6 +20506,7 @@
       ],
       "append": [],
       "pron": "tail1 fai1 qao1 cua2",
+      "latinPron": "táilfáiqáocùa",
       "example": [],
       "num": "-"
     },
@@ -19609,6 +20525,7 @@
       ],
       "append": [],
       "pron": "buan3 qao1 cua2",
+      "latinPron": "bûanqáocùa",
       "example": [],
       "num": "-"
     },
@@ -19637,6 +20554,7 @@
         }
       ],
       "pron": "bao3 qao1 cua2",
+      "latinPron": "bâoqáocùa",
       "example": [],
       "num": "-"
     },
@@ -19664,6 +20582,7 @@
       ],
       "append": [],
       "pron": "yos2",
+      "latinPron": "yòs",
       "example": [],
       "num": "413"
     },
@@ -19692,6 +20611,7 @@
         }
       ],
       "pron": "sai3",
+      "latinPron": "sâi",
       "example": [],
       "num": "414"
     },
@@ -19710,6 +20630,7 @@
       ],
       "append": [],
       "pron": "pang3 sai3",
+      "latinPron": "pângsâi",
       "example": [],
       "num": "-"
     },
@@ -19728,6 +20649,7 @@
       ],
       "append": [],
       "pron": "yos2 sai3",
+      "latinPron": "yòssâi",
       "example": [],
       "num": "-"
     },
@@ -19746,6 +20668,7 @@
       ],
       "append": [],
       "pron": "mo1",
+      "latinPron": "mó",
       "example": [],
       "num": "415"
     },
@@ -19764,6 +20687,7 @@
       ],
       "append": [],
       "pron": "mo1 yai1",
+      "latinPron": "móyái",
       "example": [],
       "num": "-"
     },
@@ -19782,6 +20706,7 @@
       ],
       "append": [],
       "pron": "quo3 tang2",
+      "latinPron": "qûotàng",
       "example": [],
       "num": "-"
     },
@@ -19800,6 +20725,7 @@
       ],
       "append": [],
       "pron": "mo1 tang2 sai3",
+      "latinPron": "mótàngsâi",
       "example": [],
       "num": "-"
     },
@@ -19818,6 +20744,7 @@
       ],
       "append": [],
       "pron": "sai3 luong3",
+      "latinPron": "sâi'lûong",
       "example": [],
       "num": "-"
     },
@@ -19836,6 +20763,7 @@
       ],
       "append": [],
       "pron": "mo1 mo2",
+      "latinPron": "mó'mò",
       "example": [],
       "num": "-"
     },
@@ -19854,6 +20782,7 @@
       ],
       "append": [],
       "pron": "juan2",
+      "latinPron": "jùan",
       "example": [],
       "num": "416"
     },
@@ -19872,6 +20801,7 @@
       ],
       "append": [],
       "pron": "gan2",
+      "latinPron": "gàn",
       "example": [],
       "num": "417"
     },
@@ -19890,6 +20820,7 @@
       ],
       "append": [],
       "pron": "mail2 gan2",
+      "latinPron": "màilgàn",
       "example": [],
       "num": "-"
     },
@@ -19908,6 +20839,7 @@
       ],
       "append": [],
       "pron": "je3",
+      "latinPron": "jê",
       "example": [],
       "num": "418"
     },
@@ -19926,6 +20858,7 @@
       ],
       "append": [],
       "pron": "je3 pi1",
+      "latinPron": "jêpí",
       "example": [],
       "num": "-"
     },
@@ -19944,6 +20877,7 @@
       ],
       "append": [],
       "pron": "ka2",
+      "latinPron": "kà",
       "example": [],
       "num": "419"
     },
@@ -19962,6 +20896,7 @@
       ],
       "append": [],
       "pron": "vu1",
+      "latinPron": "vú",
       "example": [],
       "num": "420"
     },
@@ -19980,6 +20915,7 @@
       ],
       "append": [],
       "pron": "vu1 ho3",
+      "latinPron": "vúhô",
       "example": [],
       "num": "-"
     },
@@ -19998,6 +20934,7 @@
       ],
       "append": [],
       "pron": "jel2",
+      "latinPron": "jèl",
       "example": [],
       "num": "421"
     },
@@ -20016,6 +20953,7 @@
       ],
       "append": [],
       "pron": "jel2 uas1",
+      "latinPron": "jèl'úas",
       "example": [],
       "num": "-"
     },
@@ -20034,6 +20972,7 @@
       ],
       "append": [],
       "pron": "jing3",
+      "latinPron": "jîng",
       "example": [],
       "num": "422"
     },
@@ -20052,6 +20991,7 @@
       ],
       "append": [],
       "pron": "bi2",
+      "latinPron": "bì",
       "example": [],
       "num": "423"
     },
@@ -20070,6 +21010,7 @@
       ],
       "append": [],
       "pron": "kuan3",
+      "latinPron": "kûan",
       "example": [],
       "num": "424"
     },
@@ -20088,6 +21029,7 @@
       ],
       "append": [],
       "pron": "jo3 qang3",
+      "latinPron": "jôqâng",
       "example": [],
       "num": "-"
     },
@@ -20106,6 +21048,7 @@
       ],
       "append": [],
       "pron": "kuan3 buo3",
+      "latinPron": "kûanbûo",
       "example": [],
       "num": "-"
     },
@@ -20124,6 +21067,7 @@
       ],
       "append": [],
       "pron": "kuan3 tua2 ail2",
+      "latinPron": "kûantùaàil",
       "example": [],
       "num": "-"
     },
@@ -20152,6 +21096,7 @@
         }
       ],
       "pron": "dom2 duo1",
+      "latinPron": "dòmdúo",
       "example": [],
       "num": "-"
     },
@@ -20170,6 +21115,7 @@
       ],
       "append": [],
       "pron": "ju1 duo1",
+      "latinPron": "júdúo",
       "example": [],
       "num": "-"
     },
@@ -20188,6 +21134,7 @@
       ],
       "append": [],
       "pron": "dail2 kuan3",
+      "latinPron": "dàilkûan",
       "example": [],
       "num": "-"
     },
@@ -20206,6 +21153,7 @@
       ],
       "append": [],
       "pron": "duo1",
+      "latinPron": "dúo",
       "example": [],
       "num": "425"
     },
@@ -20224,6 +21172,7 @@
       ],
       "append": [],
       "pron": "vas1 duo1",
+      "latinPron": "vásdúo",
       "example": [],
       "num": "-"
     },
@@ -20256,6 +21205,7 @@
         }
       ],
       "pron": "vas1 ye1",
+      "latinPron": "vásyé",
       "example": [],
       "num": "-"
     },
@@ -20274,6 +21224,7 @@
       ],
       "append": [],
       "pron": "main2 jao2",
+      "latinPron": "màinjào",
       "example": [],
       "num": "-"
     },
@@ -20292,6 +21243,7 @@
       ],
       "append": [],
       "pron": "duo1 ho3",
+      "latinPron": "dúohô",
       "example": [],
       "num": "-"
     },
@@ -20320,6 +21272,7 @@
         }
       ],
       "pron": "vuo1",
+      "latinPron": "vúo",
       "example": [],
       "num": "426"
     },
@@ -20348,6 +21301,7 @@
         }
       ],
       "pron": "vuo1 yuo2",
+      "latinPron": "vúoyùo",
       "example": [],
       "num": "-"
     },
@@ -20366,6 +21320,7 @@
       ],
       "append": [],
       "pron": "vuo1 xem1",
+      "latinPron": "vúoxém",
       "example": [],
       "num": "-"
     },
@@ -20384,6 +21339,7 @@
       ],
       "append": [],
       "pron": "taom1",
+      "latinPron": "táom",
       "example": [],
       "num": "427"
     },
@@ -20402,6 +21358,7 @@
       ],
       "append": [],
       "pron": "taom1 nun2",
+      "latinPron": "táomnùn",
       "example": [],
       "num": "-"
     },
@@ -20420,6 +21377,7 @@
       ],
       "append": [],
       "pron": "taom1 bun2",
+      "latinPron": "táombùn",
       "example": [],
       "num": "-"
     },
@@ -20447,6 +21405,7 @@
       ],
       "append": [],
       "pron": "taom1 nim3",
+      "latinPron": "táomnîm",
       "example": [],
       "num": "-"
     },
@@ -20469,6 +21428,7 @@
       ],
       "append": [],
       "pron": "keng3",
+      "latinPron": "kêng",
       "example": [],
       "num": "428"
     },
@@ -20496,6 +21456,7 @@
       ],
       "append": [],
       "pron": "keng3 qai1",
+      "latinPron": "kêngqái",
       "example": [],
       "num": "-"
     },
@@ -20524,6 +21485,7 @@
         }
       ],
       "pron": "zua1",
+      "latinPron": "zúa",
       "example": [],
       "num": "429"
     },
@@ -20561,6 +21523,7 @@
         }
       ],
       "pron": "zao2",
+      "latinPron": "zào",
       "example": [],
       "num": "430"
     },
@@ -20588,6 +21551,7 @@
       ],
       "append": [],
       "pron": "guo3",
+      "latinPron": "gûo",
       "example": [],
       "num": "431"
     },
@@ -20615,6 +21579,7 @@
       ],
       "append": [],
       "pron": "guo3 bun2",
+      "latinPron": "gûobùn",
       "example": [],
       "num": "-"
     },
@@ -20633,6 +21598,7 @@
       ],
       "append": [],
       "pron": "guo3 ke1 xao3",
+      "latinPron": "gûokéxâo",
       "example": [],
       "num": "-"
     },
@@ -20651,6 +21617,7 @@
       ],
       "append": [],
       "pron": "xua2 ke1 xao3",
+      "latinPron": "xùakéxâo",
       "example": [],
       "num": "-"
     },
@@ -20683,6 +21650,7 @@
         }
       ],
       "pron": "vai3",
+      "latinPron": "vâi",
       "example": [],
       "num": "432"
     },
@@ -20701,6 +21669,7 @@
       ],
       "append": [],
       "pron": "ho3 vai3",
+      "latinPron": "hôvâi",
       "example": [],
       "num": "-"
     },
@@ -20728,6 +21697,7 @@
       ],
       "append": [],
       "pron": "xua2",
+      "latinPron": "xùa",
       "example": [],
       "num": "433"
     },
@@ -20760,6 +21730,7 @@
         }
       ],
       "pron": "gaos1",
+      "latinPron": "gáos",
       "example": [],
       "num": "434"
     },
@@ -20778,6 +21749,7 @@
       ],
       "append": [],
       "pron": "fes2 gaos1",
+      "latinPron": "fèsgáos",
       "example": [],
       "num": "-"
     },
@@ -20796,6 +21768,7 @@
       ],
       "append": [],
       "pron": "vai1",
+      "latinPron": "vái",
       "example": [],
       "num": "435"
     },
@@ -20824,6 +21797,7 @@
         }
       ],
       "pron": "vai1 wel2",
+      "latinPron": "váiwèl",
       "example": [],
       "num": "-",
       "link": [
@@ -20850,6 +21824,7 @@
       ],
       "append": [],
       "pron": "ke3",
+      "latinPron": "kê",
       "example": [],
       "num": "436"
     },
@@ -20878,6 +21853,7 @@
         }
       ],
       "pron": "ca1",
+      "latinPron": "cá",
       "example": [],
       "num": "437",
       "link": [
@@ -20904,6 +21880,7 @@
       ],
       "append": [],
       "pron": "yao1 ca1",
+      "latinPron": "yáocá",
       "example": [],
       "num": "-"
     },
@@ -20932,6 +21909,7 @@
         }
       ],
       "pron": "vai1 ca1",
+      "latinPron": "váicá",
       "example": [],
       "num": "-"
     },
@@ -20959,6 +21937,7 @@
       ],
       "append": [],
       "pron": "su3",
+      "latinPron": "sû",
       "example": [],
       "num": "438"
     },
@@ -20977,6 +21956,7 @@
       ],
       "append": [],
       "pron": "jil1",
+      "latinPron": "jíl",
       "example": [],
       "num": "439"
     },
@@ -20999,6 +21979,7 @@
       ],
       "append": [],
       "pron": "nuan1",
+      "latinPron": "núan",
       "example": [],
       "num": "440"
     },
@@ -21031,6 +22012,7 @@
         }
       ],
       "pron": "mao1",
+      "latinPron": "máo",
       "example": [],
       "num": "441"
     },
@@ -21053,6 +22035,7 @@
       ],
       "append": [],
       "pron": "bi1",
+      "latinPron": "bí",
       "example": [],
       "num": "442"
     },
@@ -21071,6 +22054,7 @@
       ],
       "append": [],
       "pron": "bi1 wi3",
+      "latinPron": "bíwî",
       "example": [],
       "num": "-"
     },
@@ -21089,6 +22073,7 @@
       ],
       "append": [],
       "pron": "bi1 gan2",
+      "latinPron": "bígàn",
       "example": [],
       "num": "-"
     },
@@ -21107,6 +22092,7 @@
       ],
       "append": [],
       "pron": "vi1 bi1",
+      "latinPron": "víbí",
       "example": [],
       "num": "-"
     },
@@ -21125,6 +22111,7 @@
       ],
       "append": [],
       "pron": "ya3 bi1",
+      "latinPron": "yâbí",
       "example": [],
       "num": "-"
     },
@@ -21143,6 +22130,7 @@
       ],
       "append": [],
       "pron": "ling3 bi1",
+      "latinPron": "lîngbí",
       "example": [],
       "num": "-"
     },
@@ -21161,6 +22149,7 @@
       ],
       "append": [],
       "pron": "yuas3 bi1",
+      "latinPron": "yûasbí",
       "example": [],
       "num": "-"
     },
@@ -21179,6 +22168,7 @@
       ],
       "append": [],
       "pron": "bi1 kuang1",
+      "latinPron": "bíkúang",
       "example": [],
       "num": "-"
     },
@@ -21197,6 +22187,7 @@
       ],
       "append": [],
       "pron": "bi1 yuon2",
+      "latinPron": "bíyùon",
       "example": [],
       "num": "-"
     },
@@ -21225,6 +22216,7 @@
         }
       ],
       "pron": "fai2",
+      "latinPron": "fài",
       "example": [],
       "num": "443",
       "link": [
@@ -21251,6 +22243,7 @@
       ],
       "append": [],
       "pron": "e1",
+      "latinPron": "é",
       "example": [],
       "num": "444"
     },
@@ -21278,6 +22271,7 @@
       ],
       "append": [],
       "pron": "duang2",
+      "latinPron": "dùang",
       "example": [],
       "num": "445"
     },
@@ -21306,6 +22300,7 @@
         }
       ],
       "pron": "duang2 vas1",
+      "latinPron": "dùangvás",
       "example": [],
       "num": "-"
     },
@@ -21324,6 +22319,7 @@
       ],
       "append": [],
       "pron": "bi3",
+      "latinPron": "bî",
       "example": [],
       "num": "446"
     },
@@ -21342,6 +22338,7 @@
       ],
       "append": [],
       "pron": "bi3 so3 ail2",
+      "latinPron": "bî'sôàil",
       "example": [],
       "num": "-"
     },
@@ -21360,6 +22357,7 @@
       ],
       "append": [],
       "pron": "bi3 jao2",
+      "latinPron": "bîjào",
       "example": [],
       "num": "-"
     },
@@ -21378,6 +22376,7 @@
       ],
       "append": [],
       "pron": "puong3",
+      "latinPron": "pûong",
       "example": [],
       "num": "447"
     },
@@ -21396,6 +22395,7 @@
       ],
       "append": [],
       "pron": "nua3 puong3",
+      "latinPron": "nûapûong",
       "example": [],
       "num": "-"
     },
@@ -21414,6 +22414,7 @@
       ],
       "append": [],
       "pron": "puong3 sing1",
+      "latinPron": "pûongsíng",
       "example": [],
       "num": "-"
     },
@@ -21432,6 +22433,7 @@
       ],
       "append": [],
       "pron": "puong3 jao2",
+      "latinPron": "pûongjào",
       "example": [],
       "num": "-"
     },
@@ -21469,6 +22471,7 @@
         }
       ],
       "pron": "jao2",
+      "latinPron": "jào",
       "example": [],
       "num": "448",
       "link": [
@@ -21515,6 +22518,7 @@
         }
       ],
       "pron": "sang3",
+      "latinPron": "sâng",
       "example": [],
       "num": "449"
     },
@@ -21533,6 +22537,7 @@
       ],
       "append": [],
       "pron": "nan1",
+      "latinPron": "nán",
       "example": [],
       "num": "450"
     },
@@ -21551,6 +22556,7 @@
       ],
       "append": [],
       "pron": "pil1",
+      "latinPron": "píl",
       "example": [],
       "num": "451"
     },
@@ -21578,6 +22584,7 @@
       ],
       "append": [],
       "pron": "go1",
+      "latinPron": "gó",
       "example": [],
       "num": "452"
     },
@@ -21609,6 +22616,7 @@
       ],
       "append": [],
       "pron": "taing3",
+      "latinPron": "tâing",
       "example": [],
       "num": "453"
     },
@@ -21627,6 +22635,7 @@
       ],
       "append": [],
       "pron": "mai1 taing3",
+      "latinPron": "máitâing",
       "example": [],
       "num": "-"
     },
@@ -21645,6 +22654,7 @@
       ],
       "append": [],
       "pron": "mai1 nun2",
+      "latinPron": "mái'nùn",
       "example": [],
       "num": "-"
     },
@@ -21663,6 +22673,7 @@
       ],
       "append": [],
       "pron": "mai1 bun2",
+      "latinPron": "máibùn",
       "example": [],
       "num": "-"
     },
@@ -21681,6 +22692,7 @@
       ],
       "append": [],
       "pron": "puon2 taing3",
+      "latinPron": "pùontâing",
       "example": [],
       "num": "-"
     },
@@ -21699,6 +22711,7 @@
       ],
       "append": [],
       "pron": "cail1 taing3",
+      "latinPron": "cáiltâing",
       "example": [],
       "num": "-"
     },
@@ -21717,6 +22730,7 @@
       ],
       "append": [],
       "pron": "cis3 su3",
+      "latinPron": "cîssû",
       "example": [],
       "num": "-"
     },
@@ -21735,6 +22749,7 @@
       ],
       "append": [],
       "pron": "xon2 su3",
+      "latinPron": "xònsû",
       "example": [],
       "num": "-"
     },
@@ -21753,6 +22768,7 @@
       ],
       "append": [],
       "pron": "tao1 muos3",
+      "latinPron": "táo'mûos",
       "example": [],
       "num": "-"
     },
@@ -21771,6 +22787,7 @@
       ],
       "append": [],
       "pron": "mel1 muos3",
+      "latinPron": "mélmûos",
       "example": [],
       "num": "-"
     },
@@ -21789,6 +22806,7 @@
       ],
       "append": [],
       "pron": "tu3",
+      "latinPron": "tû",
       "example": [],
       "num": "454"
     },
@@ -21807,6 +22825,7 @@
       ],
       "append": [],
       "pron": "num2",
+      "latinPron": "nùm",
       "example": [],
       "num": "455"
     },
@@ -21825,6 +22844,7 @@
       ],
       "append": [],
       "pron": "bun2 num2",
+      "latinPron": "bùnnùm",
       "example": [],
       "num": "-"
     },
@@ -21843,6 +22863,7 @@
       ],
       "append": [],
       "pron": "nu1",
+      "latinPron": "nú",
       "example": [],
       "num": "456"
     },
@@ -21861,6 +22882,7 @@
       ],
       "append": [],
       "pron": "nu1 ke1",
+      "latinPron": "núké",
       "example": [],
       "num": "-"
     },
@@ -21888,6 +22910,7 @@
       ],
       "append": [],
       "pron": "gao2",
+      "latinPron": "gào",
       "example": [],
       "num": "457"
     },
@@ -21906,6 +22929,7 @@
       ],
       "append": [],
       "pron": "gao2 cel2",
+      "latinPron": "gàocèl",
       "example": [],
       "num": "-"
     },
@@ -21933,6 +22957,7 @@
       ],
       "append": [],
       "pron": "uas1",
+      "latinPron": "úas",
       "example": [],
       "num": "458"
     },
@@ -21951,6 +22976,7 @@
       ],
       "append": [],
       "pron": "uas1 ha1",
+      "latinPron": "úashá",
       "example": [],
       "num": "-"
     },
@@ -21979,6 +23005,7 @@
         }
       ],
       "pron": "dai3",
+      "latinPron": "dâi",
       "example": [],
       "num": "459",
       "link": [
@@ -22015,6 +23042,7 @@
         }
       ],
       "pron": "qo2",
+      "latinPron": "qò",
       "example": [],
       "num": "460"
     },
@@ -22043,6 +23071,7 @@
         }
       ],
       "pron": "fu3",
+      "latinPron": "fû",
       "example": [],
       "num": "461"
     },
@@ -22071,6 +23100,7 @@
         }
       ],
       "pron": "luong1 vas1 fu3",
+      "latinPron": "lúongvásfû",
       "example": [],
       "num": "-"
     },
@@ -22098,6 +23128,7 @@
       ],
       "append": [],
       "pron": "pao3",
+      "latinPron": "pâo",
       "example": [],
       "num": "462"
     },
@@ -22116,6 +23147,7 @@
       ],
       "append": [],
       "pron": "pao3 ke1",
+      "latinPron": "pâoké",
       "example": [],
       "num": "-"
     },
@@ -22134,6 +23166,7 @@
       ],
       "append": [],
       "pron": "yao1 pao3 vas1",
+      "latinPron": "yáopâovás",
       "example": [],
       "num": "-"
     },
@@ -22162,6 +23195,7 @@
         }
       ],
       "pron": "pao3 vas1 naim2",
+      "latinPron": "pâovásnàim",
       "example": [],
       "num": "-"
     },
@@ -22199,6 +23233,7 @@
       ],
       "append": [],
       "pron": "tas1",
+      "latinPron": "tás",
       "example": [],
       "num": "463"
     },
@@ -22245,6 +23280,7 @@
         }
       ],
       "pron": "no2",
+      "latinPron": "nò",
       "example": [],
       "num": "464",
       "link": [
@@ -22289,6 +23325,7 @@
       ],
       "append": [],
       "pron": "ua3",
+      "latinPron": "ûa",
       "example": [],
       "num": "465"
     },
@@ -22317,6 +23354,7 @@
         }
       ],
       "pron": "na2 ua3",
+      "latinPron": "nàûa",
       "example": [],
       "num": "-"
     },
@@ -22335,6 +23373,7 @@
       ],
       "append": [],
       "pron": "hang2",
+      "latinPron": "hàng",
       "example": [],
       "num": "466"
     },
@@ -22372,6 +23411,7 @@
         }
       ],
       "pron": "yum1",
+      "latinPron": "yúm",
       "example": [],
       "num": "467",
       "link": [
@@ -22408,6 +23448,7 @@
         }
       ],
       "pron": "yum1 yaom1",
+      "latinPron": "yúmyáom",
       "example": [],
       "num": "-"
     },
@@ -22436,6 +23477,7 @@
         }
       ],
       "pron": "nun2 yum1",
+      "latinPron": "nùnyúm",
       "example": [],
       "num": "-"
     },
@@ -22464,6 +23506,7 @@
         }
       ],
       "pron": "gai1",
+      "latinPron": "gái",
       "example": [],
       "num": "468"
     },
@@ -22492,6 +23535,7 @@
         }
       ],
       "pron": "gai1 ha1",
+      "latinPron": "gáihá",
       "example": [],
       "num": "-"
     },
@@ -22520,6 +23564,7 @@
         }
       ],
       "pron": "gai1 tua2",
+      "latinPron": "gáitùa",
       "example": [],
       "num": "-"
     },
@@ -22548,6 +23593,7 @@
         }
       ],
       "pron": "gai1 yai1",
+      "latinPron": "gáiyái",
       "example": [],
       "num": "-"
     },
@@ -22589,6 +23635,7 @@
         }
       ],
       "pron": "lua1",
+      "latinPron": "lúa",
       "example": [],
       "num": "469",
       "link": [
@@ -22627,6 +23674,7 @@
         }
       ],
       "pron": "ling3 lua1",
+      "latinPron": "lînglúa",
       "example": [],
       "num": "-"
     },
@@ -22655,6 +23703,7 @@
         }
       ],
       "pron": "kaom2",
+      "latinPron": "kàom",
       "example": [],
       "num": "470",
       "link": [
@@ -22700,6 +23749,7 @@
         }
       ],
       "pron": "yaom1 kaom2",
+      "latinPron": "yáomkàom",
       "example": [],
       "num": "-"
     },
@@ -22728,6 +23778,7 @@
         }
       ],
       "pron": "ton2 yaom1 kaom2",
+      "latinPron": "tònyáomkàom",
       "example": [],
       "num": "-"
     },
@@ -22760,6 +23811,7 @@
         }
       ],
       "pron": "gaim2",
+      "latinPron": "gàim",
       "example": [],
       "num": "471",
       "link": [
@@ -22796,6 +23848,7 @@
         }
       ],
       "pron": "tul1",
+      "latinPron": "túl",
       "example": [],
       "num": "472"
     },
@@ -22816,6 +23869,7 @@
       ],
       "append": [],
       "pron": "tul1 tas1",
+      "latinPron": "túltás",
       "example": [],
       "num": "-"
     },
@@ -22844,6 +23898,7 @@
         }
       ],
       "pron": "tam1",
+      "latinPron": "tám",
       "example": [],
       "num": "473",
       "link": [
@@ -22880,6 +23935,7 @@
         }
       ],
       "pron": "cai3",
+      "latinPron": "câi",
       "example": [],
       "num": "474"
     },
@@ -22908,6 +23964,7 @@
         }
       ],
       "pron": "bao2",
+      "latinPron": "bào",
       "example": [],
       "num": "475",
       "link": [
@@ -22953,6 +24010,7 @@
         }
       ],
       "pron": "va1",
+      "latinPron": "vá",
       "example": [],
       "num": "476"
     },
@@ -22971,6 +24029,7 @@
       ],
       "append": [],
       "pron": "va1 las2",
+      "latinPron": "vá'làs",
       "example": [],
       "num": "-"
     },
@@ -22989,6 +24048,7 @@
       ],
       "append": [],
       "pron": "va1 gim1",
+      "latinPron": "vágím",
       "example": [],
       "num": "-"
     },
@@ -23016,6 +24076,7 @@
       ],
       "append": [],
       "pron": "ling3 va1",
+      "latinPron": "lîngvá",
       "example": [],
       "num": "-",
       "link": [
@@ -23051,6 +24112,7 @@
       ],
       "append": [],
       "pron": "ya3 va1",
+      "latinPron": "yâvá",
       "example": [],
       "num": "-",
       "link": [
@@ -23086,6 +24148,7 @@
       ],
       "append": [],
       "pron": "hain1",
+      "latinPron": "háin",
       "example": [],
       "num": "477"
     },
@@ -23104,6 +24167,7 @@
       ],
       "append": [],
       "pron": "jo3 ku1",
+      "latinPron": "jôkú",
       "example": [],
       "num": "-"
     },
@@ -23122,6 +24186,7 @@
       ],
       "append": [],
       "pron": "jo3 ku1 dol3",
+      "latinPron": "jôkúdôl",
       "example": [],
       "num": "-"
     },
@@ -23140,6 +24205,7 @@
       ],
       "append": [],
       "pron": "hain1 ku1",
+      "latinPron": "háinkú",
       "example": [],
       "num": "-"
     },
@@ -23168,6 +24234,7 @@
         }
       ],
       "pron": "cen2",
+      "latinPron": "cèn",
       "example": [],
       "num": "478"
     },
@@ -23196,6 +24263,7 @@
         }
       ],
       "pron": "cen2 num2",
+      "latinPron": "cènnùm",
       "example": [],
       "num": "-"
     },
@@ -23224,6 +24292,7 @@
         }
       ],
       "pron": "cen2 mo1",
+      "latinPron": "cènmó",
       "example": [],
       "num": "-"
     },
@@ -23261,6 +24330,7 @@
         }
       ],
       "pron": "xai2",
+      "latinPron": "xài",
       "example": [],
       "num": "479"
     },
@@ -23289,6 +24359,7 @@
         }
       ],
       "pron": "xai2 duo1",
+      "latinPron": "xàidúo",
       "example": [],
       "num": "-",
       "link": [
@@ -23325,6 +24396,7 @@
         }
       ],
       "pron": "qai3 duo1",
+      "latinPron": "qâidúo",
       "example": [],
       "num": "-",
       "link": [
@@ -23361,6 +24433,7 @@
         }
       ],
       "pron": "xai2 sao2",
+      "latinPron": "xài'sào",
       "example": [],
       "num": "-"
     },
@@ -23389,6 +24462,7 @@
         }
       ],
       "pron": "mul2",
+      "latinPron": "mùl",
       "example": [],
       "num": "480"
     },
@@ -23417,6 +24491,7 @@
         }
       ],
       "pron": "nao3",
+      "latinPron": "nâo",
       "example": [],
       "num": "481"
     },
@@ -23445,6 +24520,7 @@
         }
       ],
       "pron": "nao3 pis3",
+      "latinPron": "nâopîs",
       "example": [],
       "num": "-"
     },
@@ -23473,6 +24549,7 @@
         }
       ],
       "pron": "si1",
+      "latinPron": "sí",
       "example": [],
       "num": "482"
     },
@@ -23507,6 +24584,7 @@
         }
       ],
       "pron": "qi1",
+      "latinPron": "qí",
       "example": [],
       "num": "483"
     },
@@ -23525,6 +24603,7 @@
       ],
       "append": [],
       "pron": "xing1 qi1",
+      "latinPron": "xíngqí",
       "example": [],
       "num": "-"
     },
@@ -23566,6 +24645,7 @@
         }
       ],
       "pron": "ton2",
+      "latinPron": "tòn",
       "example": [],
       "num": "484"
     },
@@ -23588,6 +24668,7 @@
       ],
       "append": [],
       "pron": "ton2 mua1",
+      "latinPron": "tònmúa",
       "example": [],
       "num": "-"
     },
@@ -23616,6 +24697,7 @@
         }
       ],
       "pron": "jao1",
+      "latinPron": "jáo",
       "example": [],
       "num": "485"
     },
@@ -23644,6 +24726,7 @@
         }
       ],
       "pron": "jao1 jaim3",
+      "latinPron": "jáojâim",
       "example": [],
       "num": "-"
     },
@@ -23662,6 +24745,7 @@
       ],
       "append": [],
       "pron": "om2",
+      "latinPron": "òm",
       "example": [],
       "num": "486"
     },
@@ -23690,6 +24774,7 @@
         }
       ],
       "pron": "dim3",
+      "latinPron": "dîm",
       "example": [],
       "num": "487",
       "link": [
@@ -23727,6 +24812,7 @@
         }
       ],
       "pron": "qa1 dim3",
+      "latinPron": "qádîm",
       "example": [],
       "num": "-",
       "link": [
@@ -23764,6 +24850,7 @@
         }
       ],
       "pron": "fo2 dol3 qa1 dim3",
+      "latinPron": "fòdôlqádîm",
       "example": [],
       "num": "-",
       "link": [
@@ -23801,6 +24888,7 @@
         }
       ],
       "pron": "e3 fo2 dol3 qa1 dim3 ha1",
+      "latinPron": "êfòdôlqádîmhá",
       "example": [],
       "num": "-",
       "link": [
@@ -23828,6 +24916,7 @@
       ],
       "append": [],
       "pron": "dim3 nel1",
+      "latinPron": "dîmnél",
       "example": [],
       "num": "-"
     },
@@ -23846,6 +24935,7 @@
       ],
       "append": [],
       "pron": "fo2",
+      "latinPron": "fò",
       "example": [],
       "num": "488"
     },
@@ -23883,6 +24973,7 @@
         }
       ],
       "pron": "tel1",
+      "latinPron": "tél",
       "example": [],
       "num": "489",
       "link": [
@@ -23919,6 +25010,7 @@
         }
       ],
       "pron": "gua3",
+      "latinPron": "gûa",
       "example": [],
       "num": "490"
     },
@@ -23947,6 +25039,7 @@
         }
       ],
       "pron": "zaos2",
+      "latinPron": "zàos",
       "example": [],
       "num": "491"
     },
@@ -23975,6 +25068,7 @@
         }
       ],
       "pron": "le3",
+      "latinPron": "lê",
       "example": [],
       "num": "492"
     },
@@ -24003,6 +25097,7 @@
         }
       ],
       "pron": "xes1",
+      "latinPron": "xés",
       "example": [],
       "num": "493"
     },
@@ -24021,6 +25116,7 @@
       ],
       "append": [],
       "pron": "xes1 be1",
+      "latinPron": "xésbé",
       "example": [],
       "num": "-"
     },
@@ -24039,6 +25135,7 @@
       ],
       "append": [],
       "pron": "xes1 tang2",
+      "latinPron": "xéstàng",
       "example": [],
       "num": "-"
     },
@@ -24066,6 +25163,7 @@
       ],
       "append": [],
       "pron": "ci2",
+      "latinPron": "cì",
       "example": [],
       "num": "494"
     },
@@ -24094,6 +25192,7 @@
         }
       ],
       "pron": "no3",
+      "latinPron": "nô",
       "example": [],
       "num": "495"
     },
@@ -24121,6 +25220,7 @@
       ],
       "append": [],
       "pron": "no3 ci2",
+      "latinPron": "nôcì",
       "example": [],
       "num": "-"
     },
@@ -24149,6 +25249,7 @@
         }
       ],
       "pron": "zuo1",
+      "latinPron": "zúo",
       "example": [],
       "num": "496"
     },
@@ -24177,6 +25278,7 @@
         }
       ],
       "pron": "qua2",
+      "latinPron": "qùa",
       "example": [],
       "num": "497"
     },
@@ -24214,6 +25316,7 @@
         }
       ],
       "pron": "ba2",
+      "latinPron": "bà",
       "example": [],
       "num": "498"
     },
@@ -24232,6 +25335,7 @@
       ],
       "append": [],
       "pron": "sul2",
+      "latinPron": "sùl",
       "example": [],
       "num": "499"
     },
@@ -24260,6 +25364,7 @@
         }
       ],
       "pron": "pum3",
+      "latinPron": "pûm",
       "example": [],
       "num": "500"
     },
@@ -24297,6 +25402,7 @@
         }
       ],
       "pron": "ki1 pum3",
+      "latinPron": "kípûm",
       "example": [],
       "num": "-"
     },
@@ -24333,6 +25439,7 @@
       ],
       "append": [],
       "pron": "hin2",
+      "latinPron": "hìn",
       "example": [],
       "num": "501"
     },
@@ -24361,6 +25468,7 @@
         }
       ],
       "pron": "hin2 ha1",
+      "latinPron": "hìnhá",
       "example": [],
       "num": "-"
     },
@@ -24389,6 +25497,7 @@
         }
       ],
       "pron": "huan3",
+      "latinPron": "hûan",
       "example": [],
       "num": "502",
       "link": [
@@ -24425,6 +25534,7 @@
         }
       ],
       "pron": "yai3",
+      "latinPron": "yâi",
       "example": [],
       "num": "503"
     },
@@ -24453,6 +25563,7 @@
         }
       ],
       "pron": "zel1",
+      "latinPron": "zél",
       "example": [],
       "num": "504"
     }
