@@ -36,6 +36,15 @@
     "desc": ""
   },
   {
+    "path": "font/PhunNum5px.woff",
+    "pathList": [
+      "font",
+      "PhunNum5px.woff"
+    ],
+    "title": "PhunNum5px.woff",
+    "desc": ""
+  },
+  {
     "path": "font/PhunWrite-Regular-latest.ttf",
     "pathList": [
       "font",
@@ -106,6 +115,24 @@
     ],
     "title": "PhunWrite-latest.zip",
     "desc": ""
+  },
+  {
+    "path": "img/1picoin.png",
+    "pathList": [
+      "img",
+      "1picoin.png"
+    ],
+    "title": "一片硬貨 (表)",
+    "desc": "一片硬貨の表の画像。"
+  },
+  {
+    "path": "img/1picoin_reverse.png",
+    "pathList": [
+      "img",
+      "1picoin_reverse.png"
+    ],
+    "title": "一片硬貨 (裏)",
+    "desc": "一片硬貨の裏の画像。"
   },
   {
     "path": "img/babel_index_logo.png",
@@ -252,13 +279,31 @@
     "desc": "正方形に加工された雰国旗。円形のアイコンに最適化されている。"
   },
   {
-    "path": "img/phun_stamp.png",
+    "path": "img/phun_seal.png",
     "pathList": [
       "img",
-      "phun_stamp.png"
+      "phun_seal.png"
     ],
     "title": "雰天国璽",
     "desc": "雰天国の国璽。"
+  },
+  {
+    "path": "img/phun_seal_stamped.png",
+    "pathList": [
+      "img",
+      "phun_seal_stamped.png"
+    ],
+    "title": "雰天国璽 (かすれ加工)",
+    "desc": "実際に捺印したときのような加工がされた雰天国の国璽。"
+  },
+  {
+    "path": "img/phun_seal_transparent.png",
+    "pathList": [
+      "img",
+      "phun_seal_transparent.png"
+    ],
+    "title": "雰天国璽 (背景透過)",
+    "desc": "背景を透過した雰天国の国璽。"
   },
   {
     "path": "img/Qon.png",
