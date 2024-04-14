@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-04-06T11:23:34.201Z",
+  "date": "2024-04-14T08:14:42.786Z",
   "data": [
     {
       "word": "人",
@@ -16,6 +16,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥/",
       "pron": "ha1",
       "latinPron": "há",
       "example": [
@@ -40,6 +41,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨/",
       "pron": "nai2",
       "latinPron": "nài",
       "example": [],
@@ -59,6 +61,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˧/",
       "pron": "taos3",
       "latinPron": "tâos",
       "example": [],
@@ -78,6 +81,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɛ˥˥.ta˥˧/",
       "pron": "ve1 taos3",
       "latinPron": "vétâos",
       "example": [],
@@ -107,6 +111,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛ˥˧/",
       "pron": "xe3",
       "latinPron": "xê",
       "example": [
@@ -135,6 +140,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨/",
       "pron": "lung2",
       "latinPron": "lùng",
       "example": [],
@@ -154,6 +160,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨.mɛ˨˨/",
       "pron": "lung2 me2",
       "latinPron": "lùngmè",
       "example": [],
@@ -181,6 +188,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˧/",
       "pron": "so3",
       "latinPron": "sô",
       "example": [
@@ -205,6 +213,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˧.lɯ˥˧/",
       "pron": "so3 luong3",
       "latinPron": "sô'lûong",
       "example": [],
@@ -224,6 +233,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɛ˨˨/",
       "pron": "ge2",
       "latinPron": "gè",
       "example": [],
@@ -262,6 +272,7 @@
           ]
         }
       ],
+      "ipa": "/bɯ˥˥/",
       "pron": "bua1",
       "latinPron": "búa",
       "example": [],
@@ -299,6 +310,7 @@
           ]
         }
       ],
+      "ipa": "/ba˨˨/",
       "pron": "baon2",
       "latinPron": "bàon",
       "example": [],
@@ -332,6 +344,7 @@
           ]
         }
       ],
+      "ipa": "/βɯ˥˥.ba˨˨/",
       "pron": "vuos1 baon2",
       "latinPron": "vúosbàon",
       "example": [],
@@ -351,6 +364,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯs˥˧/",
       "pron": "kus3",
       "latinPron": "kûs",
       "example": [],
@@ -379,6 +393,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧/",
       "pron": "qim3",
       "latinPron": "qîm",
       "example": [],
@@ -398,6 +413,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.ja˥˥/",
       "pron": "qim3 yao1",
       "latinPron": "qîmyáo",
       "example": [],
@@ -417,6 +433,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥/",
       "pron": "yao1",
       "latinPron": "yáo",
       "example": [],
@@ -449,6 +466,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨/",
       "pron": "mail2",
       "latinPron": "màil",
       "example": [],
@@ -468,6 +486,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯn˨˨/",
       "pron": "nun2",
       "latinPron": "nùn",
       "example": [],
@@ -491,6 +510,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˥˧/",
       "pron": "ao3",
       "latinPron": "âo",
       "example": [],
@@ -518,6 +538,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˨˨/",
       "pron": "tang2",
       "latinPron": "tàng",
       "example": [],
@@ -547,6 +568,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sa˥˥/",
       "pron": "cai1",
       "latinPron": "cái",
       "example": [],
@@ -575,6 +597,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˥/",
       "pron": "vuos1",
       "latinPron": "vúos",
       "example": [],
@@ -598,6 +621,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥/",
       "pron": "kuang1",
       "latinPron": "kúang",
       "example": [],
@@ -635,6 +659,7 @@
           ]
         }
       ],
+      "ipa": "/βas˥˥/",
       "pron": "vas1",
       "latinPron": "vás",
       "example": [],
@@ -654,6 +679,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.βas˥˥/",
       "pron": "kuang1 vas1",
       "latinPron": "kúangvás",
       "example": [],
@@ -673,6 +699,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βo˨˨.βas˥˥/",
       "pron": "vo2 vas1",
       "latinPron": "vòvás",
       "example": [],
@@ -692,6 +719,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.βas˥˥/",
       "pron": "sing1 vas1",
       "latinPron": "síngvás",
       "example": [],
@@ -711,6 +739,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˨˨.βas˥˥/",
       "pron": "tang2 vas1",
       "latinPron": "tàngvás",
       "example": [],
@@ -730,6 +759,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.lɯ˥˧/",
       "pron": "qim3 luong3",
       "latinPron": "qîmlûong",
       "example": [],
@@ -749,6 +779,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˧.βas˥˥/",
       "pron": "so3 vas1",
       "latinPron": "sôvás",
       "example": [],
@@ -768,6 +799,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˥˧.βas˥˥/",
       "pron": "ao3 vas1",
       "latinPron": "âovás",
       "example": [],
@@ -787,6 +819,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨.βas˥˥/",
       "pron": "lung2 vas1",
       "latinPron": "lùngvás",
       "example": [],
@@ -806,6 +839,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˨˨.das˥˥.βas˥˥/",
       "pron": "duang2 das1 vas1",
       "latinPron": "dùangdásvás",
       "example": [],
@@ -825,6 +859,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˨˨.dɯ˥˥.βas˥˥/",
       "pron": "pu2 duo1 vas1",
       "latinPron": "pùdúovás",
       "example": [],
@@ -844,6 +879,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˥˧.nan˥˥.βas˥˥/",
       "pron": "tuo3 nan1 vas1",
       "latinPron": "tûo'nánvás",
       "example": [],
@@ -863,6 +899,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βas˥˥.nɛs˨˨/",
       "pron": "vas1 nes2",
       "latinPron": "vásnès",
       "example": [],
@@ -901,6 +938,7 @@
           ]
         }
       ],
+      "ipa": "/a˥˥.βas˥˥/",
       "pron": "ao1 vas1",
       "latinPron": "áovás",
       "example": [],
@@ -920,6 +958,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βas˥˥.t͡sɯ˥˧/",
       "pron": "vas1 cua3",
       "latinPron": "váscûa",
       "example": [],
@@ -948,6 +987,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˧/",
       "pron": "qai3",
       "latinPron": "qâi",
       "example": [],
@@ -976,6 +1016,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɛs˨˨/",
       "pron": "fes2",
       "latinPron": "fès",
       "example": [],
@@ -995,6 +1036,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɛs˨˨.t͡ʃa˨˨/",
       "pron": "fes2 qai2",
       "latinPron": "fèsqài",
       "example": [],
@@ -1023,6 +1065,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˧/",
       "pron": "fua3",
       "latinPron": "fûa",
       "example": [],
@@ -1042,6 +1085,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.ɸɯ˥˧/",
       "pron": "ke1 fua3",
       "latinPron": "kéfûa",
       "example": [],
@@ -1061,6 +1105,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛl˥˧/",
       "pron": "xel3",
       "latinPron": "xêl",
       "example": [],
@@ -1080,6 +1125,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βo˨˨/",
       "pron": "vo2",
       "latinPron": "vò",
       "example": [],
@@ -1099,6 +1145,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βi˥˥/",
       "pron": "vi1",
       "latinPron": "ví",
       "example": [],
@@ -1118,6 +1165,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˧/",
       "pron": "buan3",
       "latinPron": "bûan",
       "example": [],
@@ -1137,6 +1185,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˥˧/",
       "pron": "gaol3",
       "latinPron": "gâol",
       "example": [],
@@ -1156,6 +1205,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˥/",
       "pron": "fai1",
       "latinPron": "fái",
       "example": [],
@@ -1175,6 +1225,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˥˥/",
       "pron": "luong1",
       "latinPron": "lúong",
       "example": [],
@@ -1222,6 +1273,7 @@
           ]
         }
       ],
+      "ipa": "/bɯn˨˨/",
       "pron": "bun2",
       "latinPron": "bùn",
       "example": [],
@@ -1250,6 +1302,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˨˨.bɯn˨˨.tɯ˨˨/",
       "pron": "nuo2 bun2 tuo2",
       "latinPron": "nùobùntùo",
       "example": [],
@@ -1278,6 +1331,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zɛn˥˧/",
       "pron": "zen3",
       "latinPron": "zên",
       "example": [],
@@ -1297,6 +1351,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥/",
       "pron": "guan1",
       "latinPron": "gúan",
       "example": [],
@@ -1316,6 +1371,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥.ho˥˧/",
       "pron": "guan1 ho3",
       "latinPron": "gúanhô",
       "example": [],
@@ -1335,6 +1391,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.gɯ˥˥/",
       "pron": "qim3 guan1",
       "latinPron": "qîmgúan",
       "example": [],
@@ -1354,6 +1411,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥/",
       "pron": "juan1",
       "latinPron": "júan",
       "example": [],
@@ -1373,6 +1431,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨/",
       "pron": "luam2",
       "latinPron": "lùam",
       "example": [],
@@ -1405,6 +1464,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˧/",
       "pron": "ling3",
       "latinPron": "lîng",
       "example": [],
@@ -1434,6 +1494,7 @@
           ]
         }
       ],
+      "ipa": "/ja˥˥.li˥˧/",
       "pron": "yaom1 ling3",
       "latinPron": "yáomlîng",
       "example": [],
@@ -1462,6 +1523,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧/",
       "pron": "ya3",
       "latinPron": "yâ",
       "example": [],
@@ -1491,6 +1553,7 @@
           ]
         }
       ],
+      "ipa": "/ja˥˥.ja˥˧/",
       "pron": "yaom1 ya3",
       "latinPron": "yáomyâ",
       "example": [],
@@ -1510,6 +1573,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧.ha˥˥/",
       "pron": "ya3 ha1",
       "latinPron": "yâhá",
       "example": [],
@@ -1529,6 +1593,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˨˨/",
       "pron": "vuo2",
       "latinPron": "vùo",
       "example": [],
@@ -1548,6 +1613,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βan˥˧/",
       "pron": "van3",
       "latinPron": "vân",
       "example": [],
@@ -1580,6 +1646,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˥/",
       "pron": "dua1",
       "latinPron": "dúa",
       "example": [],
@@ -1608,6 +1675,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˥/",
       "pron": "fun1",
       "latinPron": "fún",
       "example": [],
@@ -1627,6 +1695,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˥.bɯn˨˨/",
       "pron": "fun1 bun2",
       "latinPron": "fúnbùn",
       "example": [],
@@ -1646,6 +1715,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˥.nɯn˨˨/",
       "pron": "fun1 nun2",
       "latinPron": "fúnnùn",
       "example": [],
@@ -1675,6 +1745,7 @@
           ]
         }
       ],
+      "ipa": "/ɸɯn˥˥.βas˥˥.nɯn˨˨/",
       "pron": "fun1 vas1 nun2",
       "latinPron": "fúnvásnùn",
       "example": [],
@@ -1704,6 +1775,7 @@
           ]
         }
       ],
+      "ipa": "/kɯ˥˥.nɯn˨˨/",
       "pron": "kuang1 nun2",
       "latinPron": "kúangnùn",
       "example": [],
@@ -1733,6 +1805,7 @@
           ]
         }
       ],
+      "ipa": "/kɯ˥˥.bɯn˨˨/",
       "pron": "kuang1 bun2",
       "latinPron": "kúangbùn",
       "example": [],
@@ -1762,6 +1835,7 @@
           ]
         }
       ],
+      "ipa": "/wi˥˧.nɯn˨˨/",
       "pron": "wing3 nun2",
       "latinPron": "wîngnùn",
       "example": [],
@@ -1791,6 +1865,7 @@
           ]
         }
       ],
+      "ipa": "/wi˥˧.bɯn˨˨/",
       "pron": "wing3 bun2",
       "latinPron": "wîngbùn",
       "example": [],
@@ -1820,6 +1895,7 @@
           ]
         }
       ],
+      "ipa": "/lɯ˥˧.bɯn˨˨/",
       "pron": "lua3 bun2",
       "latinPron": "lûabùn",
       "example": [],
@@ -1849,6 +1925,7 @@
           ]
         }
       ],
+      "ipa": "/lɯ˥˧.t͡ʃo˥˧/",
       "pron": "lua3 qo3",
       "latinPron": "lûaqô",
       "example": [],
@@ -1868,6 +1945,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˥.zom˥˧/",
       "pron": "fun1 zom3",
       "latinPron": "fúnzôm",
       "example": [],
@@ -1887,13 +1965,14 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˥˥/",
       "pron": "yuas1",
       "latinPron": "yúas",
       "example": [],
       "num": "42"
     },
     {
-      "word": "足下",
+      "word": "返足",
       "mean": [
         {
           "type": "名詞",
@@ -1906,8 +1985,9 @@
         }
       ],
       "append": [],
-      "pron": "yuas1 ya3",
-      "latinPron": "yúasyâ",
+      "ipa": "/βɯ˥˥.jɯ˥˥/",
+      "pron": "vuo1 yuas1",
+      "latinPron": "vúoyúas",
       "example": [],
       "num": "-"
     },
@@ -1934,6 +2014,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥/",
       "pron": "yaom1",
       "latinPron": "yáom",
       "example": [],
@@ -1953,6 +2034,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.ʃo˥˧/",
       "pron": "yaom1 xo3",
       "latinPron": "yáomxô",
       "example": [],
@@ -1976,6 +2058,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.ja˥˥/",
       "pron": "yaom1 yai1",
       "latinPron": "yáomyái",
       "example": [],
@@ -2004,6 +2087,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥/",
       "pron": "ke1",
       "latinPron": "ké",
       "example": [],
@@ -2023,6 +2107,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥/",
       "pron": "kua1",
       "latinPron": "kúa",
       "example": [],
@@ -2052,6 +2137,7 @@
           ]
         }
       ],
+      "ipa": "/kɯ˥˥.tɯ˨˨/",
       "pron": "kua1 tua2",
       "latinPron": "kúatùa",
       "example": [],
@@ -2079,6 +2165,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.kɯ˥˥/",
       "pron": "kua1 kuang1",
       "latinPron": "kúakúang",
       "example": [],
@@ -2098,6 +2185,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.la˥˥/",
       "pron": "kua1 lai1",
       "latinPron": "kúa'lái",
       "example": [],
@@ -2127,6 +2215,7 @@
           ]
         }
       ],
+      "ipa": "/kɯ˥˥.ga˥˥/",
       "pron": "kua1 gaos1",
       "latinPron": "kúagáos",
       "example": [],
@@ -2156,6 +2245,7 @@
           ]
         }
       ],
+      "ipa": "/kɯ˥˥.βa˥˧/",
       "pron": "kua1 vai3",
       "latinPron": "kúavâi",
       "example": [],
@@ -2175,6 +2265,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.βa˨˨/",
       "pron": "kua1 vais2",
       "latinPron": "kúavàis",
       "example": [],
@@ -2213,6 +2304,7 @@
           ]
         }
       ],
+      "ipa": "/sɯ˨˨/",
       "pron": "suo2",
       "latinPron": "sùo",
       "example": [],
@@ -2251,6 +2343,7 @@
           ]
         }
       ],
+      "ipa": "/ba˥˧/",
       "pron": "baim3",
       "latinPron": "bâim",
       "example": [],
@@ -2278,6 +2371,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɛ˥˧/",
       "pron": "peng3",
       "latinPron": "pêng",
       "example": [],
@@ -2297,6 +2391,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˨˨/",
       "pron": "yuo2",
       "latinPron": "yùo",
       "example": [],
@@ -2316,6 +2411,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lom˨˨/",
       "pron": "lom2",
       "latinPron": "lòm",
       "example": [],
@@ -2344,6 +2440,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˨˨/",
       "pron": "gaing2",
       "latinPron": "gàing",
       "example": [],
@@ -2363,6 +2460,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨/",
       "pron": "tua2",
       "latinPron": "tùa",
       "example": [],
@@ -2392,6 +2490,7 @@
           ]
         }
       ],
+      "ipa": "/tɯ˨˨.ʃɯ˥˥/",
       "pron": "tua2 xu1",
       "latinPron": "tùaxú",
       "example": [],
@@ -2411,6 +2510,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.tɯ˨˨.ʃɯ˥˥/",
       "pron": "suom3 tua2 xu1",
       "latinPron": "sûomtùaxú",
       "example": [],
@@ -2430,6 +2530,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nol˨˨.tɯ˨˨.ʃɯ˥˥/",
       "pron": "nol2 tua2 xu1",
       "latinPron": "nòltùaxú",
       "example": [],
@@ -2449,6 +2550,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nol˨˨.ha˥˧.a˨˨/",
       "pron": "nol2 ha3 ail2",
       "latinPron": "nòlhâàil",
       "example": [],
@@ -2477,6 +2579,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˧/",
       "pron": "taol3",
       "latinPron": "tâol",
       "example": [],
@@ -2496,6 +2599,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃo˨˨/",
       "pron": "xo2",
       "latinPron": "xò",
       "example": [],
@@ -2524,6 +2628,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˥/",
       "pron": "huo1",
       "latinPron": "húo",
       "example": [],
@@ -2552,6 +2657,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɛm˥˧/",
       "pron": "tem3",
       "latinPron": "têm",
       "example": [],
@@ -2579,6 +2685,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɛm˥˧.d͡ʒɯ˥˥/",
       "pron": "tem3 jua1",
       "latinPron": "têmjúa",
       "example": [],
@@ -2608,6 +2715,7 @@
           ]
         }
       ],
+      "ipa": "/da˨˨/",
       "pron": "dail2",
       "latinPron": "dàil",
       "example": [],
@@ -2639,6 +2747,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥/",
       "pron": "yai1",
       "latinPron": "yái",
       "example": [],
@@ -2658,6 +2767,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɛn˥˥/",
       "pron": "cen1",
       "latinPron": "cén",
       "example": [],
@@ -2677,6 +2787,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛ˥˧/",
       "pron": "heng3",
       "latinPron": "hêng",
       "example": [],
@@ -2706,6 +2817,7 @@
           ]
         }
       ],
+      "ipa": "/das˥˥/",
       "pron": "das1",
       "latinPron": "dás",
       "example": [],
@@ -2743,6 +2855,7 @@
           ]
         }
       ],
+      "ipa": "/das˥˥.gan˨˨/",
       "pron": "das1 gan2",
       "latinPron": "dásgàn",
       "example": [],
@@ -2775,6 +2888,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛs˨˨/",
       "pron": "nes2",
       "latinPron": "nès",
       "example": [],
@@ -2794,6 +2908,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛ˨˨.nɛs˨˨/",
       "pron": "we2 nes2",
       "latinPron": "wè'nès",
       "example": [],
@@ -2822,6 +2937,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˨˨/",
       "pron": "sao2",
       "latinPron": "sào",
       "example": [],
@@ -2851,6 +2967,7 @@
           ]
         }
       ],
+      "ipa": "/sa˨˨.ʃos˨˨/",
       "pron": "sao2 xos2",
       "latinPron": "sàoxòs",
       "example": [],
@@ -2872,13 +2989,14 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "議論する。話し合う。",
+              "translate": "議論する。話し合う。討論する。",
               "tag": []
             }
           ]
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.t͡sa˥˥/",
       "pron": "mail2 ca1",
       "latinPron": "màilcá",
       "example": [],
@@ -2898,6 +3016,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨/",
       "pron": "xu2",
       "latinPron": "xù",
       "example": [],
@@ -2926,6 +3045,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯs˥˧/",
       "pron": "lus3",
       "latinPron": "lûs",
       "example": [],
@@ -2945,6 +3065,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɛ˥˥/",
       "pron": "be1",
       "latinPron": "bé",
       "example": [],
@@ -2964,6 +3085,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɛ˥˥.mɯ˥˥/",
       "pron": "be1 mua1",
       "latinPron": "bé'múa",
       "example": [],
@@ -2983,6 +3105,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥.bɛ˥˥/",
       "pron": "ha1 be1",
       "latinPron": "hábé",
       "example": [],
@@ -3002,6 +3125,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.bɛ˥˥/",
       "pron": "mail2 be1",
       "latinPron": "màilbé",
       "example": [],
@@ -3021,6 +3145,7 @@
         }
       ],
       "append": [],
+      "ipa": "/him˨˨.bɛ˥˥/",
       "pron": "him2 be1",
       "latinPron": "hìmbé",
       "example": [],
@@ -3040,6 +3165,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃal˥˧.bɛ˥˥/",
       "pron": "xal3 be1",
       "latinPron": "xâlbé",
       "example": [],
@@ -3059,6 +3185,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃal˥˧.ka˥˥/",
       "pron": "xal3 kaing1",
       "latinPron": "xâlkáing",
       "example": [],
@@ -3088,6 +3215,7 @@
           ]
         }
       ],
+      "ipa": "/βa˥˥/",
       "pron": "vaim1",
       "latinPron": "váim",
       "example": [],
@@ -3116,6 +3244,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mam˥˧/",
       "pron": "mam3",
       "latinPron": "mâm",
       "example": [],
@@ -3135,6 +3264,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mam˥˧.t͡ʃo˥˥/",
       "pron": "mam3 qo1",
       "latinPron": "mâmqó",
       "example": [],
@@ -3163,6 +3293,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˨˨/",
       "pron": "kaing2",
       "latinPron": "kàing",
       "example": [],
@@ -3182,6 +3313,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˨˨/",
       "pron": "jai2",
       "latinPron": "jài",
       "example": [],
@@ -3201,6 +3333,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥/",
       "pron": "lai1",
       "latinPron": "lái",
       "example": [],
@@ -3220,6 +3353,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˥˧/",
       "pron": "luong3",
       "latinPron": "lûong",
       "example": [],
@@ -3239,6 +3373,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥.lɯ˥˧/",
       "pron": "gua1 luong3",
       "latinPron": "gúa'lûong",
       "example": [],
@@ -3258,6 +3393,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˨˨.na˨˨/",
       "pron": "duol2 na2",
       "latinPron": "dùolnà",
       "example": [],
@@ -3277,6 +3413,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.dɯ˨˨.gɯ˥˥.lɯ˥˧/",
       "pron": "yao1 duol2 gua1 luong3",
       "latinPron": "yáodùolgúa'lûong",
       "example": [],
@@ -3296,6 +3433,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˧.d͡ʒa˥˧.gɯ˥˥.lɯ˥˧/",
       "pron": "so3 jaim3 gua1 luong3",
       "latinPron": "sôjâimgúa'lûong",
       "example": [],
@@ -3323,6 +3461,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥/",
       "pron": "sing1",
       "latinPron": "síng",
       "example": [],
@@ -3342,6 +3481,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.sa˨˨/",
       "pron": "sing1 sao2",
       "latinPron": "síngsào",
       "example": [],
@@ -3361,6 +3501,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.t͡sɯ˥˧/",
       "pron": "sing1 cua3",
       "latinPron": "síngcûa",
       "example": [],
@@ -3380,6 +3521,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.lɯ˥˧/",
       "pron": "sing1 luong3",
       "latinPron": "sínglûong",
       "example": [],
@@ -3399,6 +3541,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˥/",
       "pron": "fua1",
       "latinPron": "fúa",
       "example": [],
@@ -3418,6 +3561,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˥.ʃa˥˧/",
       "pron": "fua1 xao3",
       "latinPron": "fúaxâo",
       "example": [],
@@ -3441,6 +3585,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˨˨/",
       "pron": "fa2",
       "latinPron": "fà",
       "example": [],
@@ -3460,6 +3605,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.ɸa˨˨/",
       "pron": "hais3 fa2",
       "latinPron": "hâisfà",
       "example": [],
@@ -3479,6 +3625,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˥˧.ɸa˨˨/",
       "pron": "luong3 fa2",
       "latinPron": "lûongfà",
       "example": [],
@@ -3498,6 +3645,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˨˨.pa˥˥/",
       "pron": "fa2 paon1",
       "latinPron": "fàpáon",
       "example": [],
@@ -3517,6 +3665,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧/",
       "pron": "sua3",
       "latinPron": "sûa",
       "example": [],
@@ -3536,6 +3685,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.ɸɯ˥˧/",
       "pron": "sua3 fuon3",
       "latinPron": "sûafûon",
       "example": [],
@@ -3564,6 +3714,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨/",
       "pron": "cuang2",
       "latinPron": "cùang",
       "example": [],
@@ -3593,6 +3744,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sɯ˨˨.pi˥˥/",
       "pron": "cuang2 pi1",
       "latinPron": "cùangpí",
       "example": [],
@@ -3612,6 +3764,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨.ʃɯ˥˥/",
       "pron": "cuang2 xu1",
       "latinPron": "cùangxú",
       "example": [],
@@ -3631,6 +3784,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛs˨˨.t͡sɯ˨˨/",
       "pron": "nes2 cuang2",
       "latinPron": "nèscùang",
       "example": [],
@@ -3650,6 +3804,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zi˥˥/",
       "pron": "zi1",
       "latinPron": "zí",
       "example": [],
@@ -3669,6 +3824,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˨˨/",
       "pron": "duo2",
       "latinPron": "dùo",
       "example": [],
@@ -3688,6 +3844,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯn˥˧/",
       "pron": "lun3",
       "latinPron": "lûn",
       "example": [],
@@ -3717,6 +3874,7 @@
           ]
         }
       ],
+      "ipa": "/kɛm˥˥/",
       "pron": "kem1",
       "latinPron": "kém",
       "example": [],
@@ -3736,6 +3894,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥/",
       "pron": "qai1",
       "latinPron": "qái",
       "example": [],
@@ -3763,6 +3922,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.kɛ˥˥/",
       "pron": "qai1 ke1",
       "latinPron": "qáiké",
       "example": [],
@@ -3791,6 +3951,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥/",
       "pron": "lao1",
       "latinPron": "láo",
       "example": [],
@@ -3819,6 +3980,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨/",
       "pron": "tuo2",
       "latinPron": "tùo",
       "example": [],
@@ -3848,6 +4010,7 @@
           ]
         }
       ],
+      "ipa": "/hɛ˨˨.tɯ˨˨/",
       "pron": "he2 tuo2",
       "latinPron": "hètùo",
       "example": [],
@@ -3867,6 +4030,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zom˥˧/",
       "pron": "zom3",
       "latinPron": "zôm",
       "example": [],
@@ -3895,6 +4059,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧/",
       "pron": "lo3",
       "latinPron": "lô",
       "example": [],
@@ -3914,6 +4079,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧.jɛ˥˥/",
       "pron": "lo3 ye1",
       "latinPron": "lôyé",
       "example": [],
@@ -3933,6 +4099,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧.jɛ˥˥/",
       "pron": "ya3 ye1",
       "latinPron": "yâyé",
       "example": [],
@@ -3971,6 +4138,7 @@
           ]
         }
       ],
+      "ipa": "/tas˥˥.jɯ˥˥.ja˥˧.jɛ˥˥/",
       "pron": "tas1 yuas1 ya3 ye1",
       "latinPron": "tásyúasyâyé",
       "example": [],
@@ -3990,6 +4158,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧.ja˥˧.jɛ˥˥/",
       "pron": "lo3 ya3 ye1",
       "latinPron": "lôyâyé",
       "example": [],
@@ -4009,6 +4178,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯm˨˨/",
       "pron": "mum2",
       "latinPron": "mùm",
       "example": [],
@@ -4028,6 +4198,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯm˨˨.lɯ˥˧/",
       "pron": "mum2 luo3",
       "latinPron": "mùmlûo",
       "example": [],
@@ -4056,6 +4227,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˧/",
       "pron": "vu3",
       "latinPron": "vû",
       "example": [],
@@ -4079,6 +4251,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˨˨/",
       "pron": "mong2",
       "latinPron": "mòng",
       "example": [],
@@ -4098,6 +4271,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˨˨.tɯ˨˨/",
       "pron": "mong2 tua2",
       "latinPron": "mòngtùa",
       "example": [],
@@ -4117,6 +4291,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˨˨.ki˥˧/",
       "pron": "mong2 ki3",
       "latinPron": "mòngkî",
       "example": [],
@@ -4136,6 +4311,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ki˥˥.mo˨˨/",
       "pron": "ki1 mong2",
       "latinPron": "kí'mòng",
       "example": [],
@@ -4155,6 +4331,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˧/",
       "pron": "qua3",
       "latinPron": "qûa",
       "example": [],
@@ -4174,6 +4351,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˥˥.t͡ʃɯ˥˧/",
       "pron": "dao1 qua3",
       "latinPron": "dáoqûa",
       "example": [],
@@ -4193,6 +4371,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɛl˨˨/",
       "pron": "cel2",
       "latinPron": "cèl",
       "example": [],
@@ -4212,6 +4391,7 @@
         }
       ],
       "append": [],
+      "ipa": "/za˥˧/",
       "pron": "za3",
       "latinPron": "zâ",
       "example": [],
@@ -4240,6 +4420,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˨˨/",
       "pron": "hai2",
       "latinPron": "hài",
       "example": [],
@@ -4259,6 +4440,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˨˨.kɯs˥˧/",
       "pron": "hai2 kus3",
       "latinPron": "hàikûs",
       "example": [],
@@ -4278,6 +4460,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˨˨.d͡ʒɯ˥˥/",
       "pron": "hai2 ju1",
       "latinPron": "hàijú",
       "example": [],
@@ -4297,6 +4480,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˨˨.la˥˥/",
       "pron": "hai2 lai1",
       "latinPron": "hài'lái",
       "example": [],
@@ -4316,6 +4500,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wa˥˥.hɛs˨˨/",
       "pron": "wai1 hes2",
       "latinPron": "wáihès",
       "example": [],
@@ -4348,6 +4533,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˧/",
       "pron": "huas3",
       "latinPron": "hûas",
       "example": [],
@@ -4367,6 +4553,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃo˥˧/",
       "pron": "qo3",
       "latinPron": "qô",
       "example": [],
@@ -4386,6 +4573,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˥.t͡ʃo˥˧/",
       "pron": "fun1 qo3",
       "latinPron": "fúnqô",
       "example": [],
@@ -4405,6 +4593,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃo˥˧.ʃɯ˥˥/",
       "pron": "qo3 xu1",
       "latinPron": "qôxú",
       "example": [],
@@ -4424,6 +4613,7 @@
         }
       ],
       "append": [],
+      "ipa": "/i˥˧/",
       "pron": "i3",
       "latinPron": "î",
       "example": [],
@@ -4443,6 +4633,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɛ˥˥/",
       "pron": "peng1",
       "latinPron": "péng",
       "example": [],
@@ -4462,6 +4653,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hil˥˧.pɛ˥˥/",
       "pron": "hil3 peng1",
       "latinPron": "hîlpéng",
       "example": [],
@@ -4504,6 +4696,7 @@
           ]
         }
       ],
+      "ipa": "/na˥˥/",
       "pron": "na1",
       "latinPron": "ná",
       "example": [],
@@ -4523,6 +4716,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˥.dɯ˨˨.na˨˨/",
       "pron": "na1 duol2 na2",
       "latinPron": "nádùolnà",
       "example": [],
@@ -4542,6 +4736,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wi˥˧.na˥˥/",
       "pron": "wi3 na1",
       "latinPron": "wî'ná",
       "example": [],
@@ -4571,6 +4766,7 @@
           ]
         }
       ],
+      "ipa": "/bom˥˥/",
       "pron": "bom1",
       "latinPron": "bóm",
       "example": [],
@@ -4590,6 +4786,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bom˥˥.zɯ˥˧/",
       "pron": "bom1 zua3",
       "latinPron": "bómzûa",
       "example": [],
@@ -4613,6 +4810,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨/",
       "pron": "main2",
       "latinPron": "màin",
       "example": [],
@@ -4632,6 +4830,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.t͡sɯ˨˨/",
       "pron": "main2 cuang2",
       "latinPron": "màincùang",
       "example": [],
@@ -4651,6 +4850,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.jɛ˨˨/",
       "pron": "main2 ye2",
       "latinPron": "màinyè",
       "example": [],
@@ -4670,6 +4870,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.ha˥˧/",
       "pron": "main2 ha3",
       "latinPron": "màinhâ",
       "example": [],
@@ -4689,6 +4890,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.ʃa˥˧/",
       "pron": "main2 xao3",
       "latinPron": "màinxâo",
       "example": [],
@@ -4708,6 +4910,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.a˨˨/",
       "pron": "ha3 ail2",
       "latinPron": "hâàil",
       "example": [],
@@ -4727,6 +4930,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯs˥˧.ha˥˧/",
       "pron": "sus3 ha3",
       "latinPron": "sûshâ",
       "example": [],
@@ -4746,6 +4950,7 @@
         }
       ],
       "append": [],
+      "ipa": "/las˥˧.ha˥˧/",
       "pron": "las3 ha3",
       "latinPron": "lâshâ",
       "example": [],
@@ -4765,6 +4970,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.bɯn˨˨.a˨˨/",
       "pron": "yaom1 bun2 ail2",
       "latinPron": "yáombùn'àil",
       "example": [],
@@ -4784,6 +4990,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.bɯn˨˨/",
       "pron": "yaom1 bun2",
       "latinPron": "yáombùn",
       "example": [],
@@ -4803,6 +5010,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˧.ha˥˧/",
       "pron": "taos3 ha3",
       "latinPron": "tâoshâ",
       "example": [],
@@ -4822,6 +5030,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.bɯn˨˨/",
       "pron": "main2 bun2",
       "latinPron": "màinbùn",
       "example": [],
@@ -4841,6 +5050,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.bɯn˨˨.t͡sɯ˨˨/",
       "pron": "main2 bun2 cuang2",
       "latinPron": "màinbùncùang",
       "example": [],
@@ -4860,6 +5070,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.a˨˨/",
       "pron": "main2 ail2",
       "latinPron": "màin'àil",
       "example": [],
@@ -4879,6 +5090,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.mam˥˧/",
       "pron": "main2 mam3",
       "latinPron": "màinmâm",
       "example": [],
@@ -4898,6 +5110,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.li˥˥/",
       "pron": "main2 li1",
       "latinPron": "màinlí",
       "example": [],
@@ -4917,6 +5130,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˥.ma˨˨/",
       "pron": "li1 main2",
       "latinPron": "lí'màin",
       "example": [],
@@ -4936,6 +5150,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.li˥˥.ma˨˨/",
       "pron": "suol3 li1 main2",
       "latinPron": "sûollí'màin",
       "example": [],
@@ -4955,6 +5170,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.ja˨˨/",
       "pron": "main2 yao2",
       "latinPron": "màinyào",
       "example": [],
@@ -4984,6 +5200,7 @@
           ]
         }
       ],
+      "ipa": "/za˥˧/",
       "pron": "zai3",
       "latinPron": "zâi",
       "example": [],
@@ -5011,6 +5228,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧/",
       "pron": "ha3",
       "latinPron": "hâ",
       "example": [],
@@ -5030,6 +5248,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˨˨/",
       "pron": "dais2",
       "latinPron": "dàis",
       "example": [],
@@ -5058,6 +5277,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˥/",
       "pron": "hua1",
       "latinPron": "húa",
       "example": [],
@@ -5077,6 +5297,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˨˨.hɯ˥˥/",
       "pron": "pu2 huo1",
       "latinPron": "pùhúo",
       "example": [],
@@ -5096,6 +5317,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˥.pɯ˨˨/",
       "pron": "hua1 pu2",
       "latinPron": "húapù",
       "example": [],
@@ -5115,6 +5337,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˨˨/",
       "pron": "pu2",
       "latinPron": "pù",
       "example": [],
@@ -5143,6 +5366,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˧/",
       "pron": "fuon3",
       "latinPron": "fûon",
       "example": [],
@@ -5162,6 +5386,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˧.bɯn˨˨/",
       "pron": "fuon3 bun2",
       "latinPron": "fûonbùn",
       "example": [],
@@ -5181,6 +5406,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˧.mɯ˥˥/",
       "pron": "fuon3 mu1",
       "latinPron": "fûonmú",
       "example": [],
@@ -5200,6 +5426,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˧.t͡ʃo˥˥/",
       "pron": "fuon3 qo1",
       "latinPron": "fûonqó",
       "example": [],
@@ -5219,6 +5446,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.ɸɯ˥˧.mɯ˥˥/",
       "pron": "main2 fuon3 mu1",
       "latinPron": "màinfûonmú",
       "example": [],
@@ -5238,6 +5466,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˥.ɸɯ˥˧/",
       "pron": "ba1 fuon3",
       "latinPron": "báfûon",
       "example": [],
@@ -5266,6 +5495,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɛ˥˥/",
       "pron": "ve1",
       "latinPron": "vé",
       "example": [],
@@ -5313,6 +5543,7 @@
           ]
         }
       ],
+      "ipa": "/ba˥˥/",
       "pron": "ba1",
       "latinPron": "bá",
       "example": [],
@@ -5350,6 +5581,7 @@
           ]
         }
       ],
+      "ipa": "/ba˥˥.ga˨˨/",
       "pron": "ba1 gao2",
       "latinPron": "bágào",
       "example": [],
@@ -5379,6 +5611,7 @@
           ]
         }
       ],
+      "ipa": "/ba˥˥.ga˨˨.ha˥˥/",
       "pron": "ba1 gao2 ha1",
       "latinPron": "bágàohá",
       "example": [],
@@ -5408,6 +5641,7 @@
           ]
         }
       ],
+      "ipa": "/om˨˨.ba˥˥/",
       "pron": "om2 ba1",
       "latinPron": "òmbá",
       "example": [],
@@ -5437,6 +5671,7 @@
           ]
         }
       ],
+      "ipa": "/ba˥˥.t͡sa˨˨/",
       "pron": "ba1 cai2",
       "latinPron": "bácài",
       "example": [],
@@ -5456,6 +5691,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɛ˨˨/",
       "pron": "ye2",
       "latinPron": "yè",
       "example": [],
@@ -5475,6 +5711,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.sɯs˥˧/",
       "pron": "sua3 sus3",
       "latinPron": "sûa'sûs",
       "example": [],
@@ -5494,6 +5731,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˧/",
       "pron": "buo3",
       "latinPron": "bûo",
       "example": [],
@@ -5513,6 +5751,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˥.bɯ˥˧/",
       "pron": "cai1 buo3",
       "latinPron": "cáibûo",
       "example": [],
@@ -5532,6 +5771,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jol˥˥.bɯ˥˧/",
       "pron": "yol1 buo3",
       "latinPron": "yólbûo",
       "example": [],
@@ -5551,6 +5791,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨.bɯ˥˧/",
       "pron": "ai2 buo3",
       "latinPron": "àibûo",
       "example": [],
@@ -5570,6 +5811,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.bɯ˥˧/",
       "pron": "hais3 buo3",
       "latinPron": "hâisbûo",
       "example": [],
@@ -5589,6 +5831,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ki˥˧/",
       "pron": "ki3",
       "latinPron": "kî",
       "example": [],
@@ -5608,6 +5851,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˥/",
       "pron": "mua1",
       "latinPron": "múa",
       "example": [],
@@ -5627,6 +5871,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ton˨˨.ja˥˥/",
       "pron": "ton2 yai1",
       "latinPron": "tònyái",
       "example": [],
@@ -5646,6 +5891,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ton˨˨.lim˥˥/",
       "pron": "ton2 lim1",
       "latinPron": "tònlím",
       "example": [],
@@ -5665,6 +5911,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˥.di˨˨/",
       "pron": "mua1 di2",
       "latinPron": "múadì",
       "example": [],
@@ -5684,6 +5931,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.ton˨˨/",
       "pron": "main2 ton2",
       "latinPron": "màintòn",
       "example": [],
@@ -5711,6 +5959,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.mɯ˥˥/",
       "pron": "mail2 mua1",
       "latinPron": "màilmúa",
       "example": [],
@@ -5739,6 +5988,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˥/",
       "pron": "sua1",
       "latinPron": "súa",
       "example": [],
@@ -5777,6 +6027,7 @@
           ]
         }
       ],
+      "ipa": "/pɛ˨˨/",
       "pron": "pe2",
       "latinPron": "pè",
       "example": [],
@@ -5804,6 +6055,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɛ˨˨.ha˥˥/",
       "pron": "pe2 ha1",
       "latinPron": "pèhá",
       "example": [],
@@ -5823,6 +6075,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɛ˨˨.na˨˨/",
       "pron": "pe2 nai2",
       "latinPron": "pè'nài",
       "example": [],
@@ -5846,6 +6099,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨/",
       "pron": "cuo2",
       "latinPron": "cùo",
       "example": [],
@@ -5865,6 +6119,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨.za˨˨/",
       "pron": "cuo2 za2",
       "latinPron": "cùozà",
       "example": [],
@@ -5884,6 +6139,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.t͡sɯ˨˨/",
       "pron": "yao1 cuo2",
       "latinPron": "yáocùo",
       "example": [],
@@ -5903,6 +6159,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯn˥˥.t͡sɯ˨˨/",
       "pron": "cun1 cuo2",
       "latinPron": "cúncùo",
       "example": [],
@@ -5922,6 +6179,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨/",
       "pron": "pao2",
       "latinPron": "pào",
       "example": [],
@@ -5960,6 +6218,7 @@
           ]
         }
       ],
+      "ipa": "/hɯ˥˧/",
       "pron": "hu3",
       "latinPron": "hû",
       "example": [],
@@ -5979,6 +6238,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˧.a˥˥/",
       "pron": "hu3 ail1",
       "latinPron": "hûáil",
       "example": [],
@@ -6007,6 +6267,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ki˥˥/",
       "pron": "ki1",
       "latinPron": "kí",
       "example": [],
@@ -6026,6 +6287,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨/",
       "pron": "a2",
       "latinPron": "à",
       "example": [],
@@ -6045,6 +6307,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lis˥˧/",
       "pron": "lis3",
       "latinPron": "lîs",
       "example": [],
@@ -6074,6 +6337,7 @@
           ]
         }
       ],
+      "ipa": "/ɛ˥˧/",
       "pron": "e3",
       "latinPron": "ê",
       "example": [],
@@ -6103,6 +6367,7 @@
           ]
         }
       ],
+      "ipa": "/ɛ˥˧.ha˥˥/",
       "pron": "e3 ha1",
       "latinPron": "êhá",
       "example": [],
@@ -6132,6 +6397,7 @@
           ]
         }
       ],
+      "ipa": "/him˨˨/",
       "pron": "him2",
       "latinPron": "hìm",
       "example": [],
@@ -6160,6 +6426,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˨˨.him˨˨/",
       "pron": "sao2 him2",
       "latinPron": "sàohìm",
       "example": [],
@@ -6179,6 +6446,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gim˥˥/",
       "pron": "gim1",
       "latinPron": "gím",
       "example": [],
@@ -6217,6 +6485,7 @@
           ]
         }
       ],
+      "ipa": "/ʃo˥˧/",
       "pron": "xo3",
       "latinPron": "xô",
       "example": [],
@@ -6246,6 +6515,7 @@
           ]
         }
       ],
+      "ipa": "/jol˥˥/",
       "pron": "yol1",
       "latinPron": "yól",
       "example": [],
@@ -6278,6 +6548,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jol˥˥.wɛ˨˨/",
       "pron": "yol1 we2",
       "latinPron": "yólwè",
       "example": [],
@@ -6307,6 +6578,7 @@
           ]
         }
       ],
+      "ipa": "/na˨˨/",
       "pron": "nang2",
       "latinPron": "nàng",
       "example": [],
@@ -6326,6 +6598,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.na˨˨/",
       "pron": "nai2 nang2",
       "latinPron": "nài'nàng",
       "example": [],
@@ -6373,6 +6646,7 @@
           ]
         }
       ],
+      "ipa": "/ɸɯ˨˨/",
       "pron": "fuon2",
       "latinPron": "fùon",
       "example": [],
@@ -6392,6 +6666,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˨˨.kɛ˥˥/",
       "pron": "fuon2 ke1",
       "latinPron": "fùonké",
       "example": [],
@@ -6420,6 +6695,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˨˨.mo˨˨/",
       "pron": "fuon2 mo2",
       "latinPron": "fùonmò",
       "example": [],
@@ -6467,6 +6743,7 @@
           ]
         }
       ],
+      "ipa": "/pɛl˥˥/",
       "pron": "pel1",
       "latinPron": "pél",
       "example": [],
@@ -6486,6 +6763,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɛl˥˥.t͡sɯ˨˨/",
       "pron": "pel1 cua2",
       "latinPron": "pélcùa",
       "example": [],
@@ -6528,6 +6806,7 @@
           ]
         }
       ],
+      "ipa": "/βa˨˨/",
       "pron": "vais2",
       "latinPron": "vàis",
       "example": [],
@@ -6547,6 +6826,7 @@
         }
       ],
       "append": [],
+      "ipa": "/i˥˥/",
       "pron": "i1",
       "latinPron": "í",
       "example": [],
@@ -6585,6 +6865,7 @@
           ]
         }
       ],
+      "ipa": "/d͡ʒa˥˧/",
       "pron": "jaim3",
       "latinPron": "jâim",
       "example": [],
@@ -6604,6 +6885,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˧.d͡ʒa˥˧/",
       "pron": "so3 jaim3",
       "latinPron": "sôjâim",
       "example": [],
@@ -6623,6 +6905,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mi˥˥.d͡ʒa˥˧/",
       "pron": "mi1 jaim3",
       "latinPron": "míjâim",
       "example": [],
@@ -6642,6 +6925,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˧.d͡ʒa˥˧/",
       "pron": "si3 jaim3",
       "latinPron": "sîjâim",
       "example": [],
@@ -6661,6 +6945,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.d͡ʒa˥˧/",
       "pron": "sing1 jaim3",
       "latinPron": "síngjâim",
       "example": [],
@@ -6680,6 +6965,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˨˨.d͡ʒa˥˧/",
       "pron": "tang2 jaim3",
       "latinPron": "tàngjâim",
       "example": [],
@@ -6699,6 +6985,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɛ˥˧.d͡ʒa˥˧/",
       "pron": "se3 jaim3",
       "latinPron": "sêjâim",
       "example": [],
@@ -6718,6 +7005,7 @@
         }
       ],
       "append": [],
+      "ipa": "/min˥˥.d͡ʒa˥˧/",
       "pron": "min1 jaim3",
       "latinPron": "mínjâim",
       "example": [],
@@ -6737,6 +7025,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˥˥.d͡ʒa˥˧/",
       "pron": "ja1 jaim3",
       "latinPron": "jájâim",
       "example": [],
@@ -6756,6 +7045,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˧.d͡ʒa˥˧/",
       "pron": "xai3 jaim3",
       "latinPron": "xâijâim",
       "example": [],
@@ -6775,6 +7065,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.d͡ʒa˥˧/",
       "pron": "haom3 jaim3",
       "latinPron": "hâomjâim",
       "example": [],
@@ -6794,6 +7085,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wa˨˨.d͡ʒa˥˧/",
       "pron": "waos2 jaim3",
       "latinPron": "wàosjâim",
       "example": [],
@@ -6813,6 +7105,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.d͡ʒa˥˧/",
       "pron": "nais2 jaim3",
       "latinPron": "nàisjâim",
       "example": [],
@@ -6832,6 +7125,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥.d͡ʒa˥˧/",
       "pron": "hao1 jaim3",
       "latinPron": "háojâim",
       "example": [],
@@ -6851,6 +7145,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˨˨.d͡ʒa˥˧/",
       "pron": "qao2 jaim3",
       "latinPron": "qàojâim",
       "example": [],
@@ -6870,6 +7165,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˥˧.d͡ʒa˥˧/",
       "pron": "tuo3 jaim3",
       "latinPron": "tûojâim",
       "example": [],
@@ -6889,6 +7185,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.d͡ʒa˥˧/",
       "pron": "va2 jaim3",
       "latinPron": "vàjâim",
       "example": [],
@@ -6908,6 +7205,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɛ˨˨/",
       "pron": "fe2",
       "latinPron": "fè",
       "example": [],
@@ -6937,6 +7235,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛ˥˥/",
       "pron": "xe1",
       "latinPron": "xé",
       "example": [],
@@ -6965,6 +7264,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sil˥˧/",
       "pron": "sil3",
       "latinPron": "sîl",
       "example": [],
@@ -6998,6 +7298,7 @@
           ]
         }
       ],
+      "ipa": "/las˨˨/",
       "pron": "las2",
       "latinPron": "làs",
       "example": [],
@@ -7027,6 +7328,7 @@
           ]
         }
       ],
+      "ipa": "/ga˥˧.las˨˨.da˥˧/",
       "pron": "gaol3 las2 dai3",
       "latinPron": "gâollàsdâi",
       "example": [],
@@ -7056,6 +7358,7 @@
           ]
         }
       ],
+      "ipa": "/mɯ˥˧.ga˥˧.las˨˨.da˥˧/",
       "pron": "muos3 gaol3 las2 dai3",
       "latinPron": "mûosgâollàsdâi",
       "example": [],
@@ -7085,6 +7388,7 @@
           ]
         }
       ],
+      "ipa": "/ɸa˥˥.las˨˨.da˥˧/",
       "pron": "fai1 las2 dai3",
       "latinPron": "fái'làsdâi",
       "example": [],
@@ -7114,6 +7418,7 @@
           ]
         }
       ],
+      "ipa": "/lɯ˥˥.las˨˨.da˥˧/",
       "pron": "luong1 las2 dai3",
       "latinPron": "lúonglàsdâi",
       "example": [],
@@ -7142,6 +7447,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sal˨˨/",
       "pron": "sal2",
       "latinPron": "sàl",
       "example": [],
@@ -7161,6 +7467,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sal˨˨.t͡ʃɯ˥˧/",
       "pron": "sal2 quo3",
       "latinPron": "sàlqûo",
       "example": [],
@@ -7180,6 +7487,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˥˧/",
       "pron": "da3",
       "latinPron": "dâ",
       "example": [],
@@ -7203,6 +7511,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˧/",
       "pron": "si3",
       "latinPron": "sî",
       "example": [],
@@ -7222,6 +7531,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˧.si˥˧.ta˨˨/",
       "pron": "buan3 si3 tang2",
       "latinPron": "bûansîtàng",
       "example": [],
@@ -7241,6 +7551,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˥˧.so˥˧.si˥˥/",
       "pron": "gaol3 so3 sing1",
       "latinPron": "gâolsô'síng",
       "example": [],
@@ -7264,6 +7575,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wa˨˨/",
       "pron": "waos2",
       "latinPron": "wàos",
       "example": [],
@@ -7293,6 +7605,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛ˨˨/",
       "pron": "xe2",
       "latinPron": "xè",
       "example": [],
@@ -7330,6 +7643,7 @@
           ]
         }
       ],
+      "ipa": "/da˥˧/",
       "pron": "dao3",
       "latinPron": "dâo",
       "example": [],
@@ -7349,6 +7663,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zo˨˨/",
       "pron": "zo2",
       "latinPron": "zò",
       "example": [],
@@ -7368,6 +7683,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zo˨˨.zo˨˨/",
       "pron": "zo2 zo2",
       "latinPron": "zòzò",
       "example": [],
@@ -7387,6 +7703,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˥.so˥˥/",
       "pron": "so1 so1",
       "latinPron": "só'só",
       "example": [],
@@ -7416,6 +7733,7 @@
           ]
         }
       ],
+      "ipa": "/dɯ˨˨/",
       "pron": "duol2",
       "latinPron": "dùol",
       "example": [],
@@ -7435,6 +7753,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.dɯ˨˨/",
       "pron": "yao1 duol2",
       "latinPron": "yáodùol",
       "example": [],
@@ -7464,6 +7783,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃɯ˥˧/",
       "pron": "quo3",
       "latinPron": "qûo",
       "example": [],
@@ -7492,6 +7812,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɛn˥˥/",
       "pron": "len1",
       "latinPron": "lén",
       "example": [],
@@ -7511,6 +7832,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɛn˥˥.d͡ʒa˥˧/",
       "pron": "len1 jaim3",
       "latinPron": "lénjâim",
       "example": [],
@@ -7539,6 +7861,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gon˨˨/",
       "pron": "gon2",
       "latinPron": "gòn",
       "example": [],
@@ -7568,6 +7891,7 @@
           ]
         }
       ],
+      "ipa": "/gon˨˨.gɯ˥˥/",
       "pron": "gon2 gua1",
       "latinPron": "gòngúa",
       "example": [],
@@ -7587,6 +7911,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gon˨˨.gɯ˥˥.ha˥˥/",
       "pron": "gon2 gua1 ha1",
       "latinPron": "gòngúahá",
       "example": [],
@@ -7615,6 +7940,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧/",
       "pron": "muos3",
       "latinPron": "mûos",
       "example": [],
@@ -7634,6 +7960,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.bɯn˨˨/",
       "pron": "muos3 bun2",
       "latinPron": "mûosbùn",
       "example": [],
@@ -7653,6 +7980,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˥.mɯ˥˧/",
       "pron": "fua1 muos3",
       "latinPron": "fúa'mûos",
       "example": [],
@@ -7681,6 +8009,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˨˨/",
       "pron": "nuo2",
       "latinPron": "nùo",
       "example": [],
@@ -7709,6 +8038,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˥˥/",
       "pron": "dao1",
       "latinPron": "dáo",
       "example": [],
@@ -7738,6 +8068,7 @@
           ]
         }
       ],
+      "ipa": "/da˥˥.βas˥˥/",
       "pron": "dao1 vas1",
       "latinPron": "dáovás",
       "example": [],
@@ -7759,6 +8090,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˥˥.mis˥˥/",
       "pron": "dao1 mis1",
       "latinPron": "dáo'mís",
       "example": [],
@@ -7778,6 +8110,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˥˥.sa˨˨/",
       "pron": "dao1 sao2",
       "latinPron": "dáo'sào",
       "example": [],
@@ -7797,6 +8130,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˥˧/",
       "pron": "kail3",
       "latinPron": "kâil",
       "example": [],
@@ -7816,6 +8150,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wo˥˧/",
       "pron": "wo3",
       "latinPron": "wô",
       "example": [],
@@ -7844,6 +8179,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɛm˨˨/",
       "pron": "yem2",
       "latinPron": "yèm",
       "example": [],
@@ -7863,6 +8199,7 @@
         }
       ],
       "append": [],
+      "ipa": "/go˥˧/",
       "pron": "go3",
       "latinPron": "gô",
       "example": [],
@@ -7892,6 +8229,7 @@
           ]
         }
       ],
+      "ipa": "/go˥˧.tɯ˨˨/",
       "pron": "go3 tu2",
       "latinPron": "gôtù",
       "example": [],
@@ -7911,6 +8249,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˧.go˥˧/",
       "pron": "quo3 go3",
       "latinPron": "qûogô",
       "example": [],
@@ -7953,6 +8292,7 @@
           ]
         }
       ],
+      "ipa": "/βɯ˥˥/",
       "pron": "vua1",
       "latinPron": "vúa",
       "example": [],
@@ -7980,6 +8320,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˧/",
       "pron": "qang3",
       "latinPron": "qâng",
       "example": [],
@@ -7999,6 +8340,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nal˥˧/",
       "pron": "nal3",
       "latinPron": "nâl",
       "example": [],
@@ -8018,6 +8360,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˥˧/",
       "pron": "xung3",
       "latinPron": "xûng",
       "example": [],
@@ -8046,6 +8389,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bas˨˨/",
       "pron": "bas2",
       "latinPron": "bàs",
       "example": [],
@@ -8065,6 +8409,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bas˨˨.t͡sɯ˥˧/",
       "pron": "bas2 cua3",
       "latinPron": "bàscûa",
       "example": [],
@@ -8094,6 +8439,7 @@
           ]
         }
       ],
+      "ipa": "/pɯ˥˥/",
       "pron": "puang1",
       "latinPron": "púang",
       "example": [],
@@ -8113,6 +8459,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˥˧.pɯ˥˥/",
       "pron": "dao3 puang1",
       "latinPron": "dâopúang",
       "example": [],
@@ -8142,6 +8489,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɯ˥˥/",
       "pron": "xu1",
       "latinPron": "xú",
       "example": [],
@@ -8169,6 +8517,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˨˨.la˨˨/",
       "pron": "juan2 lai2",
       "latinPron": "jùanlài",
       "example": [],
@@ -8198,6 +8547,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɯ˥˧.ʃɯ˥˥/",
       "pron": "xung3 xu1",
       "latinPron": "xûngxú",
       "example": [],
@@ -8217,6 +8567,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˥˥.bas˨˨/",
       "pron": "xu1 bas2",
       "latinPron": "xúbàs",
       "example": [],
@@ -8236,6 +8587,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mis˥˥/",
       "pron": "mis1",
       "latinPron": "mís",
       "example": [],
@@ -8255,6 +8607,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˧/",
       "pron": "vao3",
       "latinPron": "vâo",
       "example": [],
@@ -8292,6 +8645,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧/",
       "pron": "suo3",
       "latinPron": "sûo",
       "example": [],
@@ -8311,6 +8665,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.pil˥˥/",
       "pron": "suo3 pil1",
       "latinPron": "sûopíl",
       "example": [],
@@ -8330,6 +8685,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.sɯ˥˧/",
       "pron": "sing1 suo3",
       "latinPron": "síngsûo",
       "example": [],
@@ -8359,6 +8715,7 @@
           ]
         }
       ],
+      "ipa": "/sɯ˥˧.t͡sɯn˥˥/",
       "pron": "suo3 cun1",
       "latinPron": "sûocún",
       "example": [],
@@ -8378,6 +8735,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˨˨/",
       "pron": "huo2",
       "latinPron": "hùo",
       "example": [],
@@ -8407,6 +8765,7 @@
           ]
         }
       ],
+      "ipa": "/dɯ˥˥.hɯ˨˨/",
       "pron": "dua1 huo2",
       "latinPron": "dúahùo",
       "example": [],
@@ -8436,6 +8795,7 @@
           ]
         }
       ],
+      "ipa": "/zo˥˧/",
       "pron": "zo3",
       "latinPron": "zô",
       "example": [],
@@ -8473,6 +8833,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛm˥˥.zo˥˧/",
       "pron": "xem1 zo3",
       "latinPron": "xémzô",
       "example": [],
@@ -8501,6 +8862,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wi˥˧/",
       "pron": "wi3",
       "latinPron": "wî",
       "example": [],
@@ -8520,6 +8882,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βas˥˥.wi˥˧/",
       "pron": "vas1 wi3",
       "latinPron": "váswî",
       "example": [],
@@ -8539,6 +8902,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˧.wi˥˧/",
       "pron": "xao3 wi3",
       "latinPron": "xâowî",
       "example": [],
@@ -8568,6 +8932,7 @@
           ]
         }
       ],
+      "ipa": "/jɛ˥˥/",
       "pron": "ye1",
       "latinPron": "yé",
       "example": [],
@@ -8596,6 +8961,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥/",
       "pron": "ju1",
       "latinPron": "jú",
       "example": [],
@@ -8615,6 +8981,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.d͡ʒɯ˥˥/",
       "pron": "kuang1 ju1",
       "latinPron": "kúangjú",
       "example": [],
@@ -8634,6 +9001,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.d͡ʒɯ˥˧/",
       "pron": "kuang1 jua3",
       "latinPron": "kúangjûa",
       "example": [],
@@ -8653,6 +9021,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.βas˥˥/",
       "pron": "ju1 vas1",
       "latinPron": "júvás",
       "example": [],
@@ -8681,6 +9050,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧/",
       "pron": "yao3",
       "latinPron": "yâo",
       "example": [],
@@ -8700,6 +9070,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥/",
       "pron": "guong1",
       "latinPron": "gúong",
       "example": [],
@@ -8719,6 +9090,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.gɯ˥˥/",
       "pron": "qim3 guong1",
       "latinPron": "qîmgúong",
       "example": [],
@@ -8738,6 +9110,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˨˨/",
       "pron": "mo2",
       "latinPron": "mò",
       "example": [],
@@ -8771,6 +9144,7 @@
           ]
         }
       ],
+      "ipa": "/ma˥˧/",
       "pron": "ma3",
       "latinPron": "mâ",
       "example": [],
@@ -8798,6 +9172,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hil˥˧/",
       "pron": "hil3",
       "latinPron": "hîl",
       "example": [],
@@ -8817,6 +9192,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hil˥˧.a˥˥/",
       "pron": "hil3 ail1",
       "latinPron": "hîl'áil",
       "example": [],
@@ -8846,6 +9222,7 @@
           ]
         }
       ],
+      "ipa": "/kɯs˥˧.ɸɛs˨˨.hil˥˧/",
       "pron": "kus3 fes2 hil3",
       "latinPron": "kûsfèshîl",
       "example": [],
@@ -8875,6 +9252,7 @@
           ]
         }
       ],
+      "ipa": "/ha˨˨.nɯ˨˨.nɯ˥˧/",
       "pron": "hai2 nuo2 nu3",
       "latinPron": "hài'nùo'nû",
       "example": [],
@@ -8907,6 +9285,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˧/",
       "pron": "xao3",
       "latinPron": "xâo",
       "example": [],
@@ -8926,6 +9305,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˧.a˨˨/",
       "pron": "xao3 ail2",
       "latinPron": "xâoàil",
       "example": [],
@@ -8954,6 +9334,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.ʃa˥˧/",
       "pron": "ke1 xao3",
       "latinPron": "kéxâo",
       "example": [],
@@ -8973,6 +9354,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.a˨˨/",
       "pron": "ke1 ail2",
       "latinPron": "kéàil",
       "example": [],
@@ -8996,6 +9378,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.βɯl˥˧/",
       "pron": "ke1 vul3",
       "latinPron": "kévûl",
       "example": [],
@@ -9015,6 +9398,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˥˥/",
       "pron": "ail1",
       "latinPron": "áil",
       "example": [],
@@ -9043,6 +9427,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˥/",
       "pron": "li1",
       "latinPron": "lí",
       "example": [],
@@ -9070,6 +9455,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mi˥˥/",
       "pron": "mi1",
       "latinPron": "mí",
       "example": [],
@@ -9089,6 +9475,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mi˥˥.ba˨˨/",
       "pron": "mi1 baon2",
       "latinPron": "míbàon",
       "example": [],
@@ -9108,6 +9495,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.mi˥˥.ba˨˨/",
       "pron": "nail2 mi1 baon2",
       "latinPron": "nàilmíbàon",
       "example": [],
@@ -9127,6 +9515,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˨˨.mi˥˥.ba˨˨/",
       "pron": "li2 mi1 baon2",
       "latinPron": "lì'míbàon",
       "example": [],
@@ -9146,6 +9535,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mi˥˥.si˥˥/",
       "pron": "mi1 sing1",
       "latinPron": "mí'síng",
       "example": [],
@@ -9165,6 +9555,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˨˨/",
       "pron": "cang2",
       "latinPron": "càng",
       "example": [],
@@ -9203,6 +9594,7 @@
           ]
         }
       ],
+      "ipa": "/ha˨˨/",
       "pron": "hao2",
       "latinPron": "hào",
       "example": [],
@@ -9222,6 +9614,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˨˨.t͡ʃim˥˧/",
       "pron": "hao2 qim3",
       "latinPron": "hàoqîm",
       "example": [],
@@ -9241,6 +9634,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ho˥˧/",
       "pron": "ho3",
       "latinPron": "hô",
       "example": [],
@@ -9260,6 +9654,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ho˥˧.za˨˨/",
       "pron": "ho3 zaos2",
       "latinPron": "hôzàos",
       "example": [],
@@ -9279,6 +9674,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.ho˥˧/",
       "pron": "qim3 ho3",
       "latinPron": "qîmhô",
       "example": [],
@@ -9298,6 +9694,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˨˨/",
       "pron": "dai2",
       "latinPron": "dài",
       "example": [],
@@ -9317,6 +9714,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˨˨.gim˥˥/",
       "pron": "dai2 gim1",
       "latinPron": "dàigím",
       "example": [],
@@ -9364,6 +9762,7 @@
           ]
         }
       ],
+      "ipa": "/jɯ˨˨/",
       "pron": "yuon2",
       "latinPron": "yùon",
       "example": [],
@@ -9383,6 +9782,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˥/",
       "pron": "mu1",
       "latinPron": "mú",
       "example": [],
@@ -9421,6 +9821,7 @@
           ]
         }
       ],
+      "ipa": "/a˥˧/",
       "pron": "a3",
       "latinPron": "â",
       "example": [],
@@ -9449,6 +9850,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨/",
       "pron": "na2",
       "latinPron": "nà",
       "example": [],
@@ -9468,6 +9870,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸi˥˧/",
       "pron": "fi3",
       "latinPron": "fî",
       "example": [],
@@ -9487,6 +9890,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸi˥˧.βas˥˥/",
       "pron": "fi3 vas1",
       "latinPron": "fîvás",
       "example": [],
@@ -9525,6 +9929,7 @@
           ]
         }
       ],
+      "ipa": "/wa˥˥/",
       "pron": "waing1",
       "latinPron": "wáing",
       "example": [],
@@ -9554,6 +9959,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛ˥˧.wa˥˥.t͡sɛn˥˥/",
       "pron": "xe3 waing1 cen1",
       "latinPron": "xêwáingcén",
       "example": [],
@@ -9581,6 +9987,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jon˥˥/",
       "pron": "yon1",
       "latinPron": "yón",
       "example": [],
@@ -9609,6 +10016,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˥˥/",
       "pron": "ao1",
       "latinPron": "áo",
       "example": [],
@@ -9638,6 +10046,7 @@
           ]
         }
       ],
+      "ipa": "/a˥˥.lɯ˥˧/",
       "pron": "ao1 lua3",
       "latinPron": "áo'lûa",
       "example": [],
@@ -9657,6 +10066,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˥˥/",
       "pron": "jaim1",
       "latinPron": "jáim",
       "example": [],
@@ -9676,6 +10086,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˧/",
       "pron": "li3",
       "latinPron": "lî",
       "example": [],
@@ -9695,6 +10106,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jan˥˥/",
       "pron": "yan1",
       "latinPron": "yán",
       "example": [],
@@ -9714,6 +10126,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˥/",
       "pron": "bao1",
       "latinPron": "báo",
       "example": [],
@@ -9733,6 +10146,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥/",
       "pron": "tail1",
       "latinPron": "táil",
       "example": [],
@@ -9752,6 +10166,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨/",
       "pron": "pai2",
       "latinPron": "pài",
       "example": [],
@@ -9771,6 +10186,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨/",
       "pron": "tuong2",
       "latinPron": "tùong",
       "example": [],
@@ -9800,6 +10216,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sim˥˥/",
       "pron": "cim1",
       "latinPron": "cím",
       "example": [],
@@ -9829,6 +10246,7 @@
           ]
         }
       ],
+      "ipa": "/gɯ˨˨/",
       "pron": "gual2",
       "latinPron": "gùal",
       "example": [],
@@ -9858,6 +10276,7 @@
           ]
         }
       ],
+      "ipa": "/la˥˧/",
       "pron": "la3",
       "latinPron": "lâ",
       "example": [],
@@ -9877,6 +10296,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sin˨˨/",
       "pron": "cin2",
       "latinPron": "cìn",
       "example": [],
@@ -9905,6 +10325,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛs˨˨/",
       "pron": "hes2",
       "latinPron": "hès",
       "example": [],
@@ -9934,6 +10355,7 @@
           ]
         }
       ],
+      "ipa": "/hɛs˨˨.sɯ˥˥/",
       "pron": "hes2 sua1",
       "latinPron": "hèssúa",
       "example": [],
@@ -9953,6 +10375,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧/",
       "pron": "naol3",
       "latinPron": "nâol",
       "example": [],
@@ -9972,6 +10395,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧.ja˥˥/",
       "pron": "naol3 yai1",
       "latinPron": "nâolyái",
       "example": [],
@@ -9991,6 +10415,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧.tɯ˨˨/",
       "pron": "naol3 tua2",
       "latinPron": "nâoltùa",
       "example": [],
@@ -10010,6 +10435,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧.ha˥˥/",
       "pron": "naol3 ha1",
       "latinPron": "nâolhá",
       "example": [],
@@ -10029,6 +10455,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧.pis˥˧/",
       "pron": "naol3 pis3",
       "latinPron": "nâolpîs",
       "example": [],
@@ -10048,6 +10475,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧.wɛl˨˨/",
       "pron": "naol3 wel2",
       "latinPron": "nâolwèl",
       "example": [],
@@ -10067,6 +10495,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˧.ʃos˨˨/",
       "pron": "naol3 xos2",
       "latinPron": "nâolxòs",
       "example": [],
@@ -10096,6 +10525,7 @@
           ]
         }
       ],
+      "ipa": "/lol˥˥/",
       "pron": "lol1",
       "latinPron": "lól",
       "example": [],
@@ -10124,6 +10554,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˥˥/",
       "pron": "mai1",
       "latinPron": "mái",
       "example": [],
@@ -10153,6 +10584,7 @@
           ]
         }
       ],
+      "ipa": "/mi˥˥.ma˥˥/",
       "pron": "mi1 mai1",
       "latinPron": "mí'mái",
       "example": [],
@@ -10182,6 +10614,7 @@
           ]
         }
       ],
+      "ipa": "/d͡ʒa˥˥/",
       "pron": "jai1",
       "latinPron": "jái",
       "example": [],
@@ -10213,6 +10646,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˧/",
       "pron": "xai3",
       "latinPron": "xâi",
       "example": [],
@@ -10232,6 +10666,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧/",
       "pron": "hais3",
       "latinPron": "hâis",
       "example": [],
@@ -10251,6 +10686,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.si˥˧/",
       "pron": "hais3 si3",
       "latinPron": "hâissî",
       "example": [],
@@ -10270,6 +10706,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.ʃɯ˨˨/",
       "pron": "hais3 xu2",
       "latinPron": "hâisxù",
       "example": [],
@@ -10289,6 +10726,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯs˥˧.ha˥˧/",
       "pron": "lus3 hais3",
       "latinPron": "lûshâis",
       "example": [],
@@ -10308,6 +10746,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˥.dɯ˨˨.ha˥˧/",
       "pron": "vuos1 duol2 hais3",
       "latinPron": "vúosdùolhâis",
       "example": [],
@@ -10327,6 +10766,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˨˨.dɯ˨˨.ha˥˧/",
       "pron": "kaing2 duol2 hais3",
       "latinPron": "kàingdùolhâis",
       "example": [],
@@ -10356,6 +10796,7 @@
           ]
         }
       ],
+      "ipa": "/ʃo˨˨.d͡ʒɯ˥˥.ha˥˧/",
       "pron": "xo2 ju1 hais3",
       "latinPron": "xòjúhâis",
       "example": [],
@@ -10379,6 +10820,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˥˥/",
       "pron": "ja1",
       "latinPron": "já",
       "example": [],
@@ -10398,6 +10840,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˥˥.zɯ˨˨/",
       "pron": "ja1 zua2",
       "latinPron": "jázùa",
       "example": [],
@@ -10417,6 +10860,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.d͡ʒa˥˥/",
       "pron": "nail2 ja1",
       "latinPron": "nàiljá",
       "example": [],
@@ -10436,6 +10880,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˥˥.lɯ˥˧/",
       "pron": "ja1 luong3",
       "latinPron": "já'lûong",
       "example": [],
@@ -10455,6 +10900,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.d͡ʒa˥˥/",
       "pron": "ke1 ja1",
       "latinPron": "kéjá",
       "example": [],
@@ -10484,6 +10930,7 @@
           ]
         }
       ],
+      "ipa": "/sɛ˥˧/",
       "pron": "se3",
       "latinPron": "sê",
       "example": [],
@@ -10503,6 +10950,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɛ˥˧.jɛ˥˥/",
       "pron": "se3 ye1",
       "latinPron": "sêyé",
       "example": [],
@@ -10522,6 +10970,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˨˨/",
       "pron": "gu2",
       "latinPron": "gù",
       "example": [],
@@ -10541,6 +10990,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˨˨.las˨˨/",
       "pron": "gu2 las2",
       "latinPron": "gù'làs",
       "example": [],
@@ -10560,6 +11010,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃil˨˨.ma˨˨.gɛ˨˨/",
       "pron": "qil2 main2 ge2",
       "latinPron": "qìlmàingè",
       "example": [],
@@ -10583,6 +11034,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨/",
       "pron": "va2",
       "latinPron": "và",
       "example": [],
@@ -10606,6 +11058,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˥˧/",
       "pron": "tuo3",
       "latinPron": "tûo",
       "example": [],
@@ -10629,6 +11082,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˨˨/",
       "pron": "qao2",
       "latinPron": "qào",
       "example": [],
@@ -10648,6 +11102,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˨˨/",
       "pron": "xao2",
       "latinPron": "xào",
       "example": [],
@@ -10671,6 +11126,7 @@
         }
       ],
       "append": [],
+      "ipa": "/min˥˥/",
       "pron": "min1",
       "latinPron": "mín",
       "example": [],
@@ -10690,6 +11146,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨/",
       "pron": "vao2",
       "latinPron": "vào",
       "example": [],
@@ -10713,6 +11170,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧/",
       "pron": "haom3",
       "latinPron": "hâom",
       "example": [],
@@ -10732,6 +11190,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨/",
       "pron": "nail2",
       "latinPron": "nàil",
       "example": [],
@@ -10751,6 +11210,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.nɛs˨˨/",
       "pron": "nail2 nes2",
       "latinPron": "nàilnès",
       "example": [],
@@ -10770,6 +11230,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛs˨˨.na˨˨/",
       "pron": "hes2 nail2",
       "latinPron": "hèsnàil",
       "example": [],
@@ -10793,6 +11254,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥/",
       "pron": "hao1",
       "latinPron": "háo",
       "example": [],
@@ -10816,6 +11278,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨/",
       "pron": "nais2",
       "latinPron": "nàis",
       "example": [],
@@ -10835,6 +11298,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯn˥˥/",
       "pron": "cun1",
       "latinPron": "cún",
       "example": [],
@@ -10863,6 +11327,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˨˨/",
       "pron": "uo2",
       "latinPron": "ùo",
       "example": [],
@@ -10892,6 +11357,7 @@
           ]
         }
       ],
+      "ipa": "/bɯ˥˥/",
       "pron": "buos1",
       "latinPron": "búos",
       "example": [],
@@ -10929,6 +11395,7 @@
           ]
         }
       ],
+      "ipa": "/bɯ˥˥.d͡ʒɯ˥˥/",
       "pron": "buos1 juom1",
       "latinPron": "búosjúom",
       "example": [],
@@ -10948,6 +11415,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˥.ʃɛm˥˥.bɯ˥˥/",
       "pron": "fai1 xem1 buos1",
       "latinPron": "fáixémbúos",
       "example": [],
@@ -10967,6 +11435,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.ɸa˥˥.ʃɛm˥˥.bɯ˥˥/",
       "pron": "muos3 fai1 xem1 buos1",
       "latinPron": "mûosfáixémbúos",
       "example": [],
@@ -10986,6 +11455,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.lis˥˧.ʃɛm˥˥.bɯ˥˥/",
       "pron": "muos3 lis3 xem1 buos1",
       "latinPron": "mûoslîsxémbúos",
       "example": [],
@@ -11005,6 +11475,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.li˥˧.ʃɛm˥˥.bɯ˥˥/",
       "pron": "muos3 li3 xem1 buos1",
       "latinPron": "mûoslîxémbúos",
       "example": [],
@@ -11024,6 +11495,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.ta˥˥.ʃɛm˥˥.bɯ˥˥/",
       "pron": "muos3 tail1 xem1 buos1",
       "latinPron": "mûostáilxémbúos",
       "example": [],
@@ -11043,6 +11515,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.ta˥˥.li˥˧.ʃɛm˥˥.bɯ˥˥/",
       "pron": "muos3 tail1 li3 xem1 buos1",
       "latinPron": "mûostáillîxémbúos",
       "example": [],
@@ -11062,6 +11535,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˥.d͡ʒa˨˨/",
       "pron": "buos1 jao2",
       "latinPron": "búosjào",
       "example": [],
@@ -11081,6 +11555,7 @@
         }
       ],
       "append": [],
+      "ipa": "/za˨˨/",
       "pron": "za2",
       "latinPron": "zà",
       "example": [],
@@ -11100,6 +11575,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.za˨˨/",
       "pron": "tai1 za2",
       "latinPron": "táizà",
       "example": [],
@@ -11119,6 +11595,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.za˨˨/",
       "pron": "nail2 za2",
       "latinPron": "nàilzà",
       "example": [],
@@ -11157,6 +11634,7 @@
           ]
         }
       ],
+      "ipa": "/lɛs˥˧/",
       "pron": "les3",
       "latinPron": "lês",
       "example": [],
@@ -11176,6 +11654,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɛs˥˧.ha˥˥/",
       "pron": "les3 ha1",
       "latinPron": "lêshá",
       "example": [],
@@ -11204,6 +11683,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨/",
       "pron": "tuam2",
       "latinPron": "tùam",
       "example": [],
@@ -11241,6 +11721,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wa˥˥/",
       "pron": "wai1",
       "latinPron": "wái",
       "example": [],
@@ -11260,6 +11741,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˨˨/",
       "pron": "gais2",
       "latinPron": "gàis",
       "example": [],
@@ -11279,6 +11761,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˧/",
       "pron": "vain3",
       "latinPron": "vâin",
       "example": [],
@@ -11298,6 +11781,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˥˧/",
       "pron": "ja3",
       "latinPron": "jâ",
       "example": [],
@@ -11326,6 +11810,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˧/",
       "pron": "faong3",
       "latinPron": "fâong",
       "example": [],
@@ -11345,6 +11830,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˧.kɯ˥˥/",
       "pron": "faong3 kuang1",
       "latinPron": "fâongkúang",
       "example": [],
@@ -11364,6 +11850,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˧.βo˨˨/",
       "pron": "faong3 vo2",
       "latinPron": "fâongvò",
       "example": [],
@@ -11383,6 +11870,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˧.βa˨˨/",
       "pron": "faong3 vais2",
       "latinPron": "fâongvàis",
       "example": [],
@@ -11402,6 +11890,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˥/",
       "pron": "caom1",
       "latinPron": "cáom",
       "example": [],
@@ -11430,6 +11919,7 @@
         }
       ],
       "append": [],
+      "ipa": "/il˥˧/",
       "pron": "il3",
       "latinPron": "îl",
       "example": [],
@@ -11449,6 +11939,7 @@
         }
       ],
       "append": [],
+      "ipa": "/il˥˧.na˨˨/",
       "pron": "il3 nang2",
       "latinPron": "îlnàng",
       "example": [],
@@ -11468,6 +11959,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˥.il˥˧/",
       "pron": "bua1 il3",
       "latinPron": "búaîl",
       "example": [],
@@ -11496,6 +11988,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˨˨/",
       "pron": "li2",
       "latinPron": "lì",
       "example": [],
@@ -11515,6 +12008,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˨˨.t͡sa˥˥/",
       "pron": "li2 cai1",
       "latinPron": "lìcái",
       "example": [],
@@ -11534,6 +12028,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˨˨.hɯ˥˥/",
       "pron": "li2 hua1",
       "latinPron": "lìhúa",
       "example": [],
@@ -11553,6 +12048,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˨˨.lɯ˥˧/",
       "pron": "li2 luong3",
       "latinPron": "lì'lûong",
       "example": [],
@@ -11572,6 +12068,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯm˨˨/",
       "pron": "gum2",
       "latinPron": "gùm",
       "example": [],
@@ -11591,6 +12088,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥/",
       "pron": "tai1",
       "latinPron": "tái",
       "example": [],
@@ -11610,6 +12108,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.hɯ˥˥/",
       "pron": "tai1 hua1",
       "latinPron": "táihúa",
       "example": [],
@@ -11629,6 +12128,7 @@
         }
       ],
       "append": [],
+      "ipa": "/do˥˥/",
       "pron": "do1",
       "latinPron": "dó",
       "example": [],
@@ -11648,6 +12148,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˥/",
       "pron": "suam1",
       "latinPron": "súam",
       "example": [],
@@ -11676,6 +12177,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˥.mɯ˥˥/",
       "pron": "suam1 mu1",
       "latinPron": "súammú",
       "example": [],
@@ -11704,6 +12206,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥/",
       "pron": "guol1",
       "latinPron": "gúol",
       "example": [],
@@ -11723,6 +12226,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥.t͡ʃo˥˥/",
       "pron": "guol1 qo1",
       "latinPron": "gúolqó",
       "example": [],
@@ -11742,6 +12246,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zɯ˥˧/",
       "pron": "zua3",
       "latinPron": "zûa",
       "example": [],
@@ -11765,6 +12270,7 @@
         }
       ],
       "append": [],
+      "ipa": "/an˥˧/",
       "pron": "an3",
       "latinPron": "ân",
       "example": [],
@@ -11784,6 +12290,7 @@
         }
       ],
       "append": [],
+      "ipa": "/an˥˧.ʃa˨˨/",
       "pron": "an3 xao2",
       "latinPron": "ânxào",
       "example": [],
@@ -11803,6 +12310,7 @@
         }
       ],
       "append": [],
+      "ipa": "/an˥˧.sa˨˨/",
       "pron": "an3 sao2",
       "latinPron": "ânsào",
       "example": [],
@@ -11822,6 +12330,7 @@
         }
       ],
       "append": [],
+      "ipa": "/an˥˧.si˥˥/",
       "pron": "an3 sing1",
       "latinPron": "ânsíng",
       "example": [],
@@ -11841,6 +12350,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɛ˨˨.an˥˧/",
       "pron": "ye2 an3",
       "latinPron": "yèân",
       "example": [],
@@ -11860,6 +12370,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˧.an˥˧/",
       "pron": "vao3 an3",
       "latinPron": "vâoân",
       "example": [],
@@ -11879,6 +12390,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˧/",
       "pron": "bao3",
       "latinPron": "bâo",
       "example": [],
@@ -11898,6 +12410,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯl˥˥/",
       "pron": "vul1",
       "latinPron": "vúl",
       "example": [],
@@ -11917,6 +12430,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˨˨/",
       "pron": "tao2",
       "latinPron": "tào",
       "example": [],
@@ -11936,6 +12450,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˨˨.ha˥˥/",
       "pron": "tao2 ha1",
       "latinPron": "tàohá",
       "example": [],
@@ -11955,6 +12470,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˨˨/",
       "pron": "lai2",
       "latinPron": "lài",
       "example": [],
@@ -11974,6 +12490,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˨˨.ja˨˨/",
       "pron": "lai2 yao2",
       "latinPron": "làiyào",
       "example": [],
@@ -11997,6 +12514,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨/",
       "pron": "ai2",
       "latinPron": "ài",
       "example": [],
@@ -12016,6 +12534,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨.a˨˨/",
       "pron": "xu2 ai2",
       "latinPron": "xùài",
       "example": [],
@@ -12035,6 +12554,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨.jɛ˥˥/",
       "pron": "ai2 ye1",
       "latinPron": "àiyé",
       "example": [],
@@ -12054,6 +12574,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛm˥˥/",
       "pron": "wem1",
       "latinPron": "wém",
       "example": [],
@@ -12073,6 +12594,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛm˥˥.a˥˧/",
       "pron": "wem1 ao3",
       "latinPron": "wém'âo",
       "example": [],
@@ -12092,6 +12614,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛm˥˥.a˨˨/",
       "pron": "wem1 ai2",
       "latinPron": "wém'ài",
       "example": [],
@@ -12111,6 +12634,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛm˥˥.a˨˨.lɯ˥˧/",
       "pron": "wem1 ai2 luong3",
       "latinPron": "wém'ài'lûong",
       "example": [],
@@ -12130,6 +12654,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛm˥˥.ta˥˥/",
       "pron": "wem1 tai1",
       "latinPron": "wémtái",
       "example": [],
@@ -12149,6 +12674,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.wɛm˥˥.a˨˨/",
       "pron": "nao2 wem1 ai2",
       "latinPron": "nàowém'ài",
       "example": [],
@@ -12168,6 +12694,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.a˨˨/",
       "pron": "nao2 ai2",
       "latinPron": "nàoài",
       "example": [],
@@ -12187,6 +12714,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zɯ˨˨/",
       "pron": "zua2",
       "latinPron": "zùa",
       "example": [],
@@ -12206,6 +12734,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥.zɯ˨˨/",
       "pron": "hao1 zua2",
       "latinPron": "háozùa",
       "example": [],
@@ -12225,6 +12754,7 @@
         }
       ],
       "append": [],
+      "ipa": "/min˥˥.zɯ˨˨/",
       "pron": "min1 zua2",
       "latinPron": "mínzùa",
       "example": [],
@@ -12244,6 +12774,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨.zɯ˨˨/",
       "pron": "ai2 zua2",
       "latinPron": "àizùa",
       "example": [],
@@ -12263,6 +12794,7 @@
         }
       ],
       "append": [],
+      "ipa": "/si˥˥.zɯ˨˨/",
       "pron": "sing1 zua2",
       "latinPron": "síngzùa",
       "example": [],
@@ -12282,6 +12814,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.zɯ˨˨/",
       "pron": "main2 zua2",
       "latinPron": "màinzùa",
       "example": [],
@@ -12301,6 +12834,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.ma˨˨.zɯ˨˨/",
       "pron": "qao1 main2 zua2",
       "latinPron": "qáo'màinzùa",
       "example": [],
@@ -12320,6 +12854,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.ma˨˨/",
       "pron": "qao1 main2",
       "latinPron": "qáo'màin",
       "example": [],
@@ -12339,6 +12874,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wi˥˧/",
       "pron": "wing3",
       "latinPron": "wîng",
       "example": [],
@@ -12358,6 +12894,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wi˥˧.bɛ˥˥/",
       "pron": "wing3 be1",
       "latinPron": "wîngbé",
       "example": [],
@@ -12377,6 +12914,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɛ˥˧/",
       "pron": "ye3",
       "latinPron": "yê",
       "example": [],
@@ -12396,6 +12934,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.jɛ˥˧/",
       "pron": "nai2 ye3",
       "latinPron": "nàiyê",
       "example": [],
@@ -12415,6 +12954,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨.na˨˨.jɛ˥˧/",
       "pron": "xu2 nai2 ye3",
       "latinPron": "xù'nàiyê",
       "example": [],
@@ -12434,6 +12974,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.na˨˨.jɛ˥˧/",
       "pron": "main2 nai2 ye3",
       "latinPron": "màinnàiyê",
       "example": [],
@@ -12463,6 +13004,7 @@
           ]
         }
       ],
+      "ipa": "/gim˥˥.jɛ˥˧/",
       "pron": "gim1 ye3",
       "latinPron": "gímyê",
       "example": [],
@@ -12482,6 +13024,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɛ˥˧.gim˥˥/",
       "pron": "ye3 gim1",
       "latinPron": "yêgím",
       "example": [],
@@ -12501,6 +13044,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.jɛ˥˧/",
       "pron": "mail2 ye3",
       "latinPron": "màilyê",
       "example": [],
@@ -12520,6 +13064,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bas˨˨.jɛ˥˧/",
       "pron": "bas2 ye3",
       "latinPron": "bàsyê",
       "example": [],
@@ -12549,6 +13094,7 @@
           ]
         }
       ],
+      "ipa": "/a˨˨/",
       "pron": "ail2",
       "latinPron": "àil",
       "example": [],
@@ -12568,6 +13114,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˨˨.a˨˨/",
       "pron": "dail2 ail2",
       "latinPron": "dàil'àil",
       "example": [],
@@ -12587,6 +13134,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bas˨˨.da˨˨.a˨˨/",
       "pron": "bas2 dail2 ail2",
       "latinPron": "bàsdàil'àil",
       "example": [],
@@ -12606,6 +13154,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɛl˥˥.da˨˨.a˨˨/",
       "pron": "pel1 dail2 ail2",
       "latinPron": "példàil'àil",
       "example": [],
@@ -12625,6 +13174,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.a˨˨/",
       "pron": "suo3 ail2",
       "latinPron": "sûoàil",
       "example": [],
@@ -12644,6 +13194,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯs˥˧.a˨˨/",
       "pron": "lus3 ail2",
       "latinPron": "lûs'àil",
       "example": [],
@@ -12663,6 +13214,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥.si˥˥.a˨˨/",
       "pron": "lao1 sing1 ail2",
       "latinPron": "láo'síngàil",
       "example": [],
@@ -12682,6 +13234,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯn˨˨.a˨˨/",
       "pron": "bun2 ail2",
       "latinPron": "bùn'àil",
       "example": [],
@@ -12701,6 +13254,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨.bɯn˨˨/",
       "pron": "ail2 bun2",
       "latinPron": "àilbùn",
       "example": [],
@@ -12720,6 +13274,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.ʃa˥˧.a˨˨/",
       "pron": "sua3 xao3 ail2",
       "latinPron": "sûaxâoàil",
       "example": [],
@@ -12739,6 +13294,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˥.a˨˨/",
       "pron": "sua1 ail2",
       "latinPron": "súaàil",
       "example": [],
@@ -12758,6 +13314,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bas˨˨.a˨˨/",
       "pron": "bas2 ail2",
       "latinPron": "bàs'àil",
       "example": [],
@@ -12787,6 +13344,7 @@
           ]
         }
       ],
+      "ipa": "/las˥˧/",
       "pron": "las3",
       "latinPron": "lâs",
       "example": [],
@@ -12824,6 +13382,7 @@
           ]
         }
       ],
+      "ipa": "/lɯ˥˧/",
       "pron": "luo3",
       "latinPron": "lûo",
       "example": [],
@@ -12861,6 +13420,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃɯ˥˧.lɯ˥˧/",
       "pron": "quo3 luo3",
       "latinPron": "qûo'lûo",
       "example": [],
@@ -12880,6 +13440,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧.lɯ˥˧/",
       "pron": "lo3 luo3",
       "latinPron": "lô'lûo",
       "example": [],
@@ -12899,6 +13460,7 @@
         }
       ],
       "append": [],
+      "ipa": "/os˥˧/",
       "pron": "os3",
       "latinPron": "ôs",
       "example": [],
@@ -12927,6 +13489,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˥/",
       "pron": "vao1",
       "latinPron": "váo",
       "example": [],
@@ -12946,6 +13509,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯs˥˧/",
       "pron": "sus3",
       "latinPron": "sûs",
       "example": [],
@@ -12965,6 +13529,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˨˨.sɯs˥˧/",
       "pron": "yuo2 sus3",
       "latinPron": "yùo'sûs",
       "example": [],
@@ -12984,6 +13549,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃo˥˧.sɯs˥˧/",
       "pron": "qo3 sus3",
       "latinPron": "qô'sûs",
       "example": [],
@@ -13003,6 +13569,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯn˨˨.sɯs˥˧/",
       "pron": "bun2 sus3",
       "latinPron": "bùnsûs",
       "example": [],
@@ -13040,6 +13607,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˨˨/",
       "pron": "yao2",
       "latinPron": "yào",
       "example": [],
@@ -13059,6 +13627,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˥/",
       "pron": "paon1",
       "latinPron": "páon",
       "example": [],
@@ -13082,6 +13651,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃo˥˥/",
       "pron": "qo1",
       "latinPron": "qó",
       "example": [],
@@ -13110,6 +13680,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥/",
       "pron": "qain1",
       "latinPron": "qáin",
       "example": [],
@@ -13129,6 +13700,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.pa˥˥/",
       "pron": "qain1 paon1",
       "latinPron": "qáinpáon",
       "example": [],
@@ -13148,6 +13720,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥.pa˥˥/",
       "pron": "guan1 paon1",
       "latinPron": "gúanpáon",
       "example": [],
@@ -13167,6 +13740,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥.ja˥˥/",
       "pron": "xai1 yai1",
       "latinPron": "xáiyái",
       "example": [],
@@ -13186,6 +13760,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥.βa˥˧/",
       "pron": "xai1 vao3",
       "latinPron": "xáivâo",
       "example": [],
@@ -13214,6 +13789,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥/",
       "pron": "jua1",
       "latinPron": "júa",
       "example": [],
@@ -13233,6 +13809,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.la˨˨/",
       "pron": "jua1 lai2",
       "latinPron": "júa'lài",
       "example": [],
@@ -13271,6 +13848,7 @@
           ]
         }
       ],
+      "ipa": "/wɛ˨˨/",
       "pron": "we2",
       "latinPron": "wè",
       "example": [],
@@ -13302,6 +13880,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛ˨˨.βɯl˥˧/",
       "pron": "we2 vul3",
       "latinPron": "wèvûl",
       "example": [],
@@ -13321,6 +13900,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˥˧.wɛ˨˨/",
       "pron": "a3 we2",
       "latinPron": "âwè",
       "example": [],
@@ -13340,6 +13920,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˨˨/",
       "pron": "qai2",
       "latinPron": "qài",
       "example": [],
@@ -13359,6 +13940,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥.mis˥˥.t͡ʃa˨˨/",
       "pron": "lao1 mis1 qai2",
       "latinPron": "láo'mísqài",
       "example": [],
@@ -13378,6 +13960,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨.t͡ʃa˨˨/",
       "pron": "cuang2 qai2",
       "latinPron": "cùangqài",
       "example": [],
@@ -13397,6 +13980,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˨˨.ha˥˥/",
       "pron": "qai2 ha1",
       "latinPron": "qàihá",
       "example": [],
@@ -13416,6 +14000,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mis˥˥.t͡ʃa˨˨/",
       "pron": "mis1 qai2",
       "latinPron": "mísqài",
       "example": [],
@@ -13435,6 +14020,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯn˨˨.t͡ʃa˨˨/",
       "pron": "bun2 qai2",
       "latinPron": "bùnqài",
       "example": [],
@@ -13454,6 +14040,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˨˨.t͡ʃa˨˨/",
       "pron": "sao2 qai2",
       "latinPron": "sàoqài",
       "example": [],
@@ -13473,6 +14060,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨.t͡ʃa˨˨/",
       "pron": "cua2 qai2",
       "latinPron": "cùaqài",
       "example": [],
@@ -13492,6 +14080,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.t͡ʃa˨˨/",
       "pron": "mail2 qai2",
       "latinPron": "màilqài",
       "example": [],
@@ -13511,6 +14100,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˨˨.sa˨˨/",
       "pron": "qai2 sao2",
       "latinPron": "qài'sào",
       "example": [],
@@ -13549,6 +14139,7 @@
           ]
         }
       ],
+      "ipa": "/βɯl˥˧/",
       "pron": "vul3",
       "latinPron": "vûl",
       "example": [],
@@ -13577,6 +14168,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯl˥˧.jɛ˨˨/",
       "pron": "vul3 ye2",
       "latinPron": "vûlyè",
       "example": [],
@@ -13596,6 +14188,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯl˥˧.bɯn˨˨/",
       "pron": "vul3 bun2",
       "latinPron": "vûlbùn",
       "example": [],
@@ -13615,6 +14208,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˥˥.βɯl˥˧/",
       "pron": "fua1 vul3",
       "latinPron": "fúavûl",
       "example": [],
@@ -13634,6 +14228,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯl˥˧.ɸɯ˥˥.ha˥˥/",
       "pron": "vul3 fua1 ha1",
       "latinPron": "vûlfúahá",
       "example": [],
@@ -13653,6 +14248,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˥.βɯl˥˧/",
       "pron": "dua1 vul3",
       "latinPron": "dúavûl",
       "example": [],
@@ -13672,6 +14268,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˥˧/",
       "pron": "cua3",
       "latinPron": "cûa",
       "example": [],
@@ -13695,6 +14292,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛl˥˥/",
       "pron": "nel1",
       "latinPron": "nél",
       "example": [],
@@ -13714,6 +14312,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛl˥˥.βas˥˥/",
       "pron": "nel1 vas1",
       "latinPron": "nélvás",
       "example": [],
@@ -13733,6 +14332,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wo˥˧.nɛl˥˥/",
       "pron": "wo3 nel1",
       "latinPron": "wô'nél",
       "example": [],
@@ -13752,6 +14352,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˧.nɛl˥˥/",
       "pron": "faong3 nel1",
       "latinPron": "fâongnél",
       "example": [],
@@ -13771,6 +14372,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˧/",
       "pron": "puo3",
       "latinPron": "pûo",
       "example": [],
@@ -13790,6 +14392,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˥˥/",
       "pron": "kaing1",
       "latinPron": "káing",
       "example": [],
@@ -13809,6 +14412,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɛ˥˥/",
       "pron": "fe1",
       "latinPron": "fé",
       "example": [],
@@ -13828,6 +14432,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˨˨/",
       "pron": "kao2",
       "latinPron": "kào",
       "example": [],
@@ -13847,6 +14452,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥/",
       "pron": "guo1",
       "latinPron": "gúo",
       "example": [],
@@ -13866,6 +14472,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥/",
       "pron": "juo1",
       "latinPron": "júo",
       "example": [],
@@ -13885,6 +14492,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.bɯ˥˧/",
       "pron": "juo1 buo3",
       "latinPron": "júobûo",
       "example": [],
@@ -13904,6 +14512,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.d͡ʒɯ˥˥/",
       "pron": "mail2 juo1",
       "latinPron": "màiljúo",
       "example": [],
@@ -13923,6 +14532,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃil˨˨/",
       "pron": "qil2",
       "latinPron": "qìl",
       "example": [],
@@ -13951,6 +14561,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥/",
       "pron": "qao1",
       "latinPron": "qáo",
       "example": [],
@@ -13988,6 +14599,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒo˥˧/",
       "pron": "jo3",
       "latinPron": "jô",
       "example": [],
@@ -14007,6 +14619,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥/",
       "pron": "ku1",
       "latinPron": "kú",
       "example": [],
@@ -14026,6 +14639,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˨˨.kɯ˥˥/",
       "pron": "gu2 ku1",
       "latinPron": "gùkú",
       "example": [],
@@ -14045,6 +14659,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɛ˨˨.kɯ˥˥/",
       "pron": "ye2 ku1",
       "latinPron": "yèkú",
       "example": [],
@@ -14064,6 +14679,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.kɯ˥˥/",
       "pron": "main2 ku1",
       "latinPron": "màinkú",
       "example": [],
@@ -14083,6 +14699,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.kɯ˥˥.la˨˨/",
       "pron": "main2 ku1 lai2",
       "latinPron": "màinkú'lài",
       "example": [],
@@ -14102,6 +14719,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˥˧.ma˨˨/",
       "pron": "sang3 mail2",
       "latinPron": "sângmàil",
       "example": [],
@@ -14131,6 +14749,7 @@
           ]
         }
       ],
+      "ipa": "/kɯ˥˥.t͡ʃɯ˥˧.ma˨˨/",
       "pron": "ku1 quo3 mail2",
       "latinPron": "kúqûo'màil",
       "example": [],
@@ -14150,6 +14769,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.kɯ˥˥/",
       "pron": "qao1 ku1",
       "latinPron": "qáokú",
       "example": [],
@@ -14169,6 +14789,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˥˥.ma˨˨/",
       "pron": "kaing1 mail2",
       "latinPron": "káingmàil",
       "example": [],
@@ -14188,6 +14809,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˨˨.ma˨˨/",
       "pron": "yao2 mail2",
       "latinPron": "yào'màil",
       "example": [],
@@ -14207,6 +14829,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.a˨˨/",
       "pron": "jua1 ail2",
       "latinPron": "júaàil",
       "example": [],
@@ -14235,6 +14858,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˥/",
       "pron": "cail1",
       "latinPron": "cáil",
       "example": [],
@@ -14254,6 +14878,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˥.a˨˨/",
       "pron": "cail1 ail2",
       "latinPron": "cáil'àil",
       "example": [],
@@ -14273,6 +14898,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨/",
       "pron": "pais2",
       "latinPron": "pàis",
       "example": [],
@@ -14292,6 +14918,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨.d͡ʒɯ˥˥/",
       "pron": "pais2 jua1",
       "latinPron": "pàisjúa",
       "example": [],
@@ -14311,6 +14938,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨.d͡ʒɯ˥˥.a˨˨/",
       "pron": "pais2 jua1 ail2",
       "latinPron": "pàisjúaàil",
       "example": [],
@@ -14339,6 +14967,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨.βɯl˥˧/",
       "pron": "pais2 vul3",
       "latinPron": "pàisvûl",
       "example": [],
@@ -14358,6 +14987,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥/",
       "pron": "gua1",
       "latinPron": "gúa",
       "example": [],
@@ -14377,6 +15007,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ho˥˧.gɯ˥˥/",
       "pron": "ho3 gua1",
       "latinPron": "hôgúa",
       "example": [],
@@ -14405,6 +15036,7 @@
         }
       ],
       "append": [],
+      "ipa": "/das˥˥.gɯ˥˥/",
       "pron": "das1 gua1",
       "latinPron": "dásgúa",
       "example": [],
@@ -14424,6 +15056,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˥.das˥˥/",
       "pron": "gua1 das1",
       "latinPron": "gúadás",
       "example": [],
@@ -14443,6 +15076,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˨˨.gɯ˥˥/",
       "pron": "tang2 gua1",
       "latinPron": "tànggúa",
       "example": [],
@@ -14471,6 +15105,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨/",
       "pron": "tu2",
       "latinPron": "tù",
       "example": [],
@@ -14490,6 +15125,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨.nɛs˨˨/",
       "pron": "tu2 nes2",
       "latinPron": "tù'nès",
       "example": [],
@@ -14518,6 +15154,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˥/",
       "pron": "qua1",
       "latinPron": "qúa",
       "example": [],
@@ -14537,6 +15174,7 @@
         }
       ],
       "append": [],
+      "ipa": "/don˨˨.t͡ʃɯ˥˥/",
       "pron": "don2 qua1",
       "latinPron": "dònqúa",
       "example": [],
@@ -14556,6 +15194,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˥.βɯl˥˧/",
       "pron": "qua1 vul3",
       "latinPron": "qúavûl",
       "example": [],
@@ -14575,6 +15214,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˥.βɯl˥˧.ha˥˥/",
       "pron": "qua1 vul3 ha1",
       "latinPron": "qúavûlhá",
       "example": [],
@@ -14594,6 +15234,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˥.bɯn˨˨/",
       "pron": "qua1 bun2",
       "latinPron": "qúabùn",
       "example": [],
@@ -14623,6 +15264,7 @@
           ]
         }
       ],
+      "ipa": "/ʃal˥˧/",
       "pron": "xal3",
       "latinPron": "xâl",
       "example": [],
@@ -14651,6 +15293,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃal˥˧.ha˥˥/",
       "pron": "xal3 ha1",
       "latinPron": "xâlhá",
       "example": [],
@@ -14670,6 +15313,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˧/",
       "pron": "pa3",
       "latinPron": "pâ",
       "example": [],
@@ -14689,6 +15333,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˧.bɯn˨˨.ha˥˥/",
       "pron": "pa3 bun2 ha1",
       "latinPron": "pâbùnhá",
       "example": [],
@@ -14708,6 +15353,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˧.lɯ˥˧/",
       "pron": "pa3 luong3",
       "latinPron": "pâ'lûong",
       "example": [],
@@ -14727,6 +15373,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˨˨/",
       "pron": "bua2",
       "latinPron": "bùa",
       "example": [],
@@ -14746,6 +15393,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˨˨/",
       "pron": "paong2",
       "latinPron": "pàong",
       "example": [],
@@ -14783,6 +15431,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˨˨/",
       "pron": "puon2",
       "latinPron": "pùon",
       "example": [],
@@ -14802,6 +15451,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˨˨.gɛ˥˧/",
       "pron": "puon2 ge3",
       "latinPron": "pùongê",
       "example": [],
@@ -14834,6 +15484,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lim˥˥/",
       "pron": "lim1",
       "latinPron": "lím",
       "example": [],
@@ -14853,6 +15504,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lim˥˥.ha˥˥/",
       "pron": "lim1 ha1",
       "latinPron": "límhá",
       "example": [],
@@ -14881,6 +15533,7 @@
         }
       ],
       "append": [],
+      "ipa": "/di˨˨/",
       "pron": "di2",
       "latinPron": "dì",
       "example": [],
@@ -14900,6 +15553,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧.di˨˨/",
       "pron": "muos3 di2",
       "latinPron": "mûosdì",
       "example": [],
@@ -14919,6 +15573,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨/",
       "pron": "lua2",
       "latinPron": "lùa",
       "example": [],
@@ -14938,6 +15593,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨.nɯn˨˨/",
       "pron": "lua2 nun2",
       "latinPron": "lùa'nùn",
       "example": [],
@@ -14957,6 +15613,7 @@
         }
       ],
       "append": [],
+      "ipa": "/zom˥˧.nɯn˨˨/",
       "pron": "zom3 nun2",
       "latinPron": "zômnùn",
       "example": [],
@@ -14976,6 +15633,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.nɯn˨˨/",
       "pron": "mail2 nun2",
       "latinPron": "màilnùn",
       "example": [],
@@ -15005,6 +15663,7 @@
           ]
         }
       ],
+      "ipa": "/ʃos˨˨/",
       "pron": "xos2",
       "latinPron": "xòs",
       "example": [],
@@ -15024,6 +15683,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɛ˥˧/",
       "pron": "ge3",
       "latinPron": "gê",
       "example": [],
@@ -15053,6 +15713,7 @@
           ]
         }
       ],
+      "ipa": "/mɯ˥˥/",
       "pron": "muo1",
       "latinPron": "múo",
       "example": [],
@@ -15081,6 +15742,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pis˥˧/",
       "pron": "pis3",
       "latinPron": "pîs",
       "example": [],
@@ -15100,6 +15762,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pis˥˧.t͡sɛn˥˥/",
       "pron": "pis3 cen1",
       "latinPron": "pîscén",
       "example": [],
@@ -15119,6 +15782,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˨˨/",
       "pron": "quom2",
       "latinPron": "qùom",
       "example": [],
@@ -15138,6 +15802,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˨˨.sa˨˨/",
       "pron": "quom2 sao2",
       "latinPron": "qùomsào",
       "example": [],
@@ -15157,6 +15822,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˨˨.ha˥˥/",
       "pron": "quom2 ha1",
       "latinPron": "qùomhá",
       "example": [],
@@ -15185,6 +15851,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥/",
       "pron": "hai1",
       "latinPron": "hái",
       "example": [],
@@ -15204,6 +15871,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɛ˥˥/",
       "pron": "je1",
       "latinPron": "jé",
       "example": [],
@@ -15223,6 +15891,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛ˨˨/",
       "pron": "he2",
       "latinPron": "hè",
       "example": [],
@@ -15242,6 +15911,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛ˨˨.hil˥˧/",
       "pron": "he2 hil3",
       "latinPron": "hèhîl",
       "example": [],
@@ -15261,6 +15931,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛ˨˨.gɛ˥˧/",
       "pron": "he2 ge3",
       "latinPron": "hègê",
       "example": [],
@@ -15294,6 +15965,7 @@
           ]
         }
       ],
+      "ipa": "/na˨˨/",
       "pron": "nao2",
       "latinPron": "nào",
       "example": [],
@@ -15322,6 +15994,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡so˥˧/",
       "pron": "co3",
       "latinPron": "cô",
       "example": [],
@@ -15341,6 +16014,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡so˥˧.gim˥˥/",
       "pron": "co3 gim1",
       "latinPron": "côgím",
       "example": [],
@@ -15360,6 +16034,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛl˨˨/",
       "pron": "wel2",
       "latinPron": "wèl",
       "example": [],
@@ -15379,6 +16054,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨/",
       "pron": "cua2",
       "latinPron": "cùa",
       "example": [],
@@ -15398,6 +16074,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯn˨˨.t͡sɯ˨˨/",
       "pron": "nun2 cua2",
       "latinPron": "nùncùa",
       "example": [],
@@ -15417,6 +16094,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɛ˨˨.nɯn˨˨/",
       "pron": "he2 nun2",
       "latinPron": "hè'nùn",
       "example": [],
@@ -15436,6 +16114,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˨˨.t͡sɯ˨˨/",
       "pron": "lua2 cua2",
       "latinPron": "lùacùa",
       "example": [],
@@ -15455,6 +16134,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛ˥˧/",
       "pron": "we3",
       "latinPron": "wê",
       "example": [],
@@ -15474,6 +16154,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛ˥˧.ha˥˥/",
       "pron": "we3 ha1",
       "latinPron": "wêhá",
       "example": [],
@@ -15502,6 +16183,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˥˥/",
       "pron": "cuam1",
       "latinPron": "cúam",
       "example": [],
@@ -15521,6 +16203,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nim˥˧/",
       "pron": "nim3",
       "latinPron": "nîm",
       "example": [],
@@ -15540,6 +16223,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nim˥˧.gɛ˥˧/",
       "pron": "nim3 ge3",
       "latinPron": "nîmgê",
       "example": [],
@@ -15559,6 +16243,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nim˥˧.bɯn˨˨/",
       "pron": "nim3 bun2",
       "latinPron": "nîmbùn",
       "example": [],
@@ -15578,6 +16263,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨/",
       "pron": "cung2",
       "latinPron": "cùng",
       "example": [],
@@ -15597,6 +16283,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨.ba˨˨/",
       "pron": "cung2 baon2",
       "latinPron": "cùngbàon",
       "example": [],
@@ -15616,6 +16303,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛs˨˨/",
       "pron": "xes2",
       "latinPron": "xès",
       "example": [],
@@ -15635,6 +16323,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛs˨˨.na˨˨/",
       "pron": "xes2 nao2",
       "latinPron": "xèsnào",
       "example": [],
@@ -15654,6 +16343,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨/",
       "pron": "mai2",
       "latinPron": "mài",
       "example": [],
@@ -15673,6 +16363,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.ha˥˥/",
       "pron": "mai2 ha1",
       "latinPron": "màihá",
       "example": [],
@@ -15692,6 +16383,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˥˥/",
       "pron": "cuo1",
       "latinPron": "cúo",
       "example": [],
@@ -15720,6 +16412,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˥˧/",
       "pron": "yuas3",
       "latinPron": "yûas",
       "example": [],
@@ -15743,10 +16436,41 @@
         }
       ],
       "append": [],
+      "ipa": "/βal˨˨/",
       "pron": "val2",
       "latinPron": "vàl",
       "example": [],
       "num": "310"
+    },
+    {
+      "word": "新年",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "新年。新しい年。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "語法",
+          "explanation": [
+            {
+              "translate": "年末年始などに新しい年の全てを指して用いられる。「正月」のような年始のみの意味は持たない。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "ipa": "/βal˨˨.βa˨˨/",
+      "pron": "val2 vais2",
+      "latinPron": "vàlvàis",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "肌",
@@ -15762,6 +16486,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯ˨˨/",
       "pron": "fua2",
       "latinPron": "fùa",
       "example": [],
@@ -15791,6 +16516,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sa˨˨.ɸɯ˨˨/",
       "pron": "cai2 fua2",
       "latinPron": "càifùa",
       "example": [],
@@ -15810,6 +16536,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˥˥/",
       "pron": "ka1",
       "latinPron": "ká",
       "example": [],
@@ -15848,6 +16575,7 @@
           ]
         }
       ],
+      "ipa": "/lɯs˥˧.ka˥˥/",
       "pron": "lus3 ka1",
       "latinPron": "lûská",
       "example": [],
@@ -15875,6 +16603,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kal˨˨/",
       "pron": "kal2",
       "latinPron": "kàl",
       "example": [],
@@ -15894,6 +16623,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.bɯ˥˥/",
       "pron": "ke1 buos1",
       "latinPron": "kébúos",
       "example": [],
@@ -15913,6 +16643,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˥.kɛ˥˥/",
       "pron": "buos1 ke1",
       "latinPron": "búoské",
       "example": [],
@@ -15932,6 +16663,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˥/",
       "pron": "caos1",
       "latinPron": "cáos",
       "example": [],
@@ -15961,6 +16693,7 @@
           ]
         }
       ],
+      "ipa": "/na˨˨.ka˥˥/",
       "pron": "nail2 kao1",
       "latinPron": "nàilkáo",
       "example": [],
@@ -15999,6 +16732,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sa˥˥.ka˥˥/",
       "pron": "caos1 kao1",
       "latinPron": "cáoskáo",
       "example": [],
@@ -16037,6 +16771,7 @@
           ]
         }
       ],
+      "ipa": "/tɛm˥˧.ka˥˥/",
       "pron": "tem3 kao1",
       "latinPron": "têmkáo",
       "example": [],
@@ -16065,6 +16800,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˧/",
       "pron": "jua3",
       "latinPron": "jûa",
       "example": [],
@@ -16084,6 +16820,7 @@
         }
       ],
       "append": [],
+      "ipa": "/go˥˧.kɛ˥˥/",
       "pron": "go3 ke1",
       "latinPron": "gôké",
       "example": [],
@@ -16103,6 +16840,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˥.go˥˧/",
       "pron": "ke1 go3",
       "latinPron": "kégô",
       "example": [],
@@ -16122,6 +16860,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɛ˥˧/",
       "pron": "ve3",
       "latinPron": "vê",
       "example": [],
@@ -16150,6 +16889,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɛ˨˨/",
       "pron": "me2",
       "latinPron": "mè",
       "example": [],
@@ -16177,6 +16917,7 @@
         }
       ],
       "append": [],
+      "ipa": "/do˨˨/",
       "pron": "do2",
       "latinPron": "dò",
       "example": [],
@@ -16196,6 +16937,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˥˥/",
       "pron": "fail1",
       "latinPron": "fáil",
       "example": [],
@@ -16234,6 +16976,7 @@
           ]
         }
       ],
+      "ipa": "/lɯs˥˧.do˨˨/",
       "pron": "lus3 do2",
       "latinPron": "lûsdò",
       "example": [],
@@ -16261,6 +17004,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˥/",
       "pron": "nua1",
       "latinPron": "núa",
       "example": [],
@@ -16280,6 +17024,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.nɯ˥˥/",
       "pron": "juo1 nua1",
       "latinPron": "júo'núa",
       "example": [],
@@ -16309,6 +17054,7 @@
           ]
         }
       ],
+      "ipa": "/d͡ʒɯ˥˥.nɯ˥˥.ha˥˥/",
       "pron": "juo1 nua1 ha1",
       "latinPron": "júo'núahá",
       "example": [],
@@ -16328,6 +17074,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˨˨/",
       "pron": "cai2",
       "latinPron": "cài",
       "example": [],
@@ -16347,6 +17094,7 @@
         }
       ],
       "append": [],
+      "ipa": "/him˨˨.t͡sa˨˨/",
       "pron": "him2 cai2",
       "latinPron": "hìmcài",
       "example": [],
@@ -16374,6 +17122,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˨˨.t͡sa˨˨/",
       "pron": "sao2 cai2",
       "latinPron": "sàocài",
       "example": [],
@@ -16401,6 +17150,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.t͡sa˨˨.ha˥˥/",
       "pron": "sua3 cai2 ha1",
       "latinPron": "sûacàihá",
       "example": [],
@@ -16420,6 +17170,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒi˥˧/",
       "pron": "ji3",
       "latinPron": "jî",
       "example": [],
@@ -16439,6 +17190,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˨˨/",
       "pron": "fao2",
       "latinPron": "fào",
       "example": [],
@@ -16458,6 +17210,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˨˨/",
       "pron": "kua2",
       "latinPron": "kùa",
       "example": [],
@@ -16496,6 +17249,7 @@
           ]
         }
       ],
+      "ipa": "/sas˨˨/",
       "pron": "sas2",
       "latinPron": "sàs",
       "example": [],
@@ -16523,6 +17277,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sas˨˨.lɯ˥˧/",
       "pron": "sas2 luong3",
       "latinPron": "sàslûong",
       "example": [],
@@ -16542,6 +17297,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˧/",
       "pron": "bais3",
       "latinPron": "bâis",
       "example": [],
@@ -16561,6 +17317,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˧.ba˥˧/",
       "pron": "bais3 bais3",
       "latinPron": "bâisbâis",
       "example": [],
@@ -16580,6 +17337,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wa˥˧/",
       "pron": "wao3",
       "latinPron": "wâo",
       "example": [],
@@ -16599,6 +17357,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˥/",
       "pron": "pail1",
       "latinPron": "páil",
       "example": [],
@@ -16618,6 +17377,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˥˥/",
       "pron": "sa1",
       "latinPron": "sá",
       "example": [],
@@ -16641,6 +17401,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˥˥/",
       "pron": "kaim1",
       "latinPron": "káim",
       "example": [],
@@ -16660,6 +17421,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˧.ka˥˥/",
       "pron": "taos3 kaim1",
       "latinPron": "tâoskáim",
       "example": [],
@@ -16679,6 +17441,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˥˥.ka˥˥/",
       "pron": "yuas1 kaim1",
       "latinPron": "yúaskáim",
       "example": [],
@@ -16698,6 +17461,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jo˥˧/",
       "pron": "yo3",
       "latinPron": "yô",
       "example": [],
@@ -16717,6 +17481,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯm˨˨/",
       "pron": "cum2",
       "latinPron": "cùm",
       "example": [],
@@ -16736,6 +17501,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥/",
       "pron": "kuol1",
       "latinPron": "kúol",
       "example": [],
@@ -16755,6 +17521,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˧/",
       "pron": "huon3",
       "latinPron": "hûon",
       "example": [],
@@ -16774,6 +17541,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɛ˥˧/",
       "pron": "qe3",
       "latinPron": "qê",
       "example": [],
@@ -16793,6 +17561,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥/",
       "pron": "qais1",
       "latinPron": "qáis",
       "example": [],
@@ -16812,6 +17581,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˧/",
       "pron": "cao3",
       "latinPron": "câo",
       "example": [],
@@ -16840,6 +17610,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nol˨˨/",
       "pron": "nol2",
       "latinPron": "nòl",
       "example": [],
@@ -16859,6 +17630,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˨˨.nol˨˨/",
       "pron": "ail2 nol2",
       "latinPron": "àilnòl",
       "example": [],
@@ -16878,6 +17650,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nol˨˨.a˨˨/",
       "pron": "nol2 ail2",
       "latinPron": "nòl'àil",
       "example": [],
@@ -16897,6 +17670,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nol˨˨.jɛ˥˧/",
       "pron": "nol2 ye3",
       "latinPron": "nòlyê",
       "example": [],
@@ -16925,6 +17699,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧/",
       "pron": "suol3",
       "latinPron": "sûol",
       "example": [],
@@ -16944,6 +17719,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˨˨/",
       "pron": "guo2",
       "latinPron": "gùo",
       "example": [],
@@ -16963,6 +17739,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tim˨˨/",
       "pron": "tim2",
       "latinPron": "tìm",
       "example": [],
@@ -16992,6 +17769,7 @@
           ]
         }
       ],
+      "ipa": "/hɯ˨˨/",
       "pron": "hu2",
       "latinPron": "hù",
       "example": [],
@@ -17021,6 +17799,7 @@
           ]
         }
       ],
+      "ipa": "/jɯ˥˥/",
       "pron": "yuo1",
       "latinPron": "yúo",
       "example": [],
@@ -17044,6 +17823,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˥˥.bɯn˨˨/",
       "pron": "yuo1 bun2",
       "latinPron": "yúobùn",
       "example": [],
@@ -17072,6 +17852,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sin˥˥/",
       "pron": "sin1",
       "latinPron": "sín",
       "example": [],
@@ -17091,6 +17872,7 @@
         }
       ],
       "append": [],
+      "ipa": "/don˨˨/",
       "pron": "don2",
       "latinPron": "dòn",
       "example": [],
@@ -17110,6 +17892,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥/",
       "pron": "taim1",
       "latinPron": "táim",
       "example": [],
@@ -17129,6 +17912,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥/",
       "pron": "laol1",
       "latinPron": "láol",
       "example": [],
@@ -17148,6 +17932,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˧/",
       "pron": "mua3",
       "latinPron": "mûa",
       "example": [],
@@ -17180,6 +17965,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˥˧/",
       "pron": "xua3",
       "latinPron": "xûa",
       "example": [],
@@ -17208,6 +17994,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˨˨/",
       "pron": "ke2",
       "latinPron": "kè",
       "example": [],
@@ -17227,6 +18014,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥.sɯ˥˥/",
       "pron": "lao1 suam1",
       "latinPron": "láo'súam",
       "example": [],
@@ -17255,6 +18043,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧.bɯ˥˥/",
       "pron": "lo3 bua1",
       "latinPron": "lôbúa",
       "example": [],
@@ -17274,6 +18063,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dol˥˧/",
       "pron": "dol3",
       "latinPron": "dôl",
       "example": [],
@@ -17293,6 +18083,7 @@
         }
       ],
       "append": [],
+      "ipa": "/him˨˨.dol˥˧/",
       "pron": "him2 dol3",
       "latinPron": "hìmdôl",
       "example": [],
@@ -17312,6 +18103,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.dol˥˧/",
       "pron": "ju1 dol3",
       "latinPron": "júdôl",
       "example": [],
@@ -17331,6 +18123,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒa˨˨.dol˥˧/",
       "pron": "jai2 dol3",
       "latinPron": "jàidôl",
       "example": [],
@@ -17360,6 +18153,7 @@
           ]
         }
       ],
+      "ipa": "/dom˨˨.dol˥˧/",
       "pron": "dom2 dol3",
       "latinPron": "dòmdôl",
       "example": [],
@@ -17389,6 +18183,7 @@
           ]
         }
       ],
+      "ipa": "/la˥˥.dol˥˧/",
       "pron": "lai1 dol3",
       "latinPron": "láidôl",
       "example": [],
@@ -17417,6 +18212,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dom˨˨/",
       "pron": "dom2",
       "latinPron": "dòm",
       "example": [],
@@ -17436,6 +18232,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧.jol˥˥/",
       "pron": "lo3 yol1",
       "latinPron": "lôyól",
       "example": [],
@@ -17469,6 +18266,7 @@
           ]
         }
       ],
+      "ipa": "/pa˥˧/",
       "pron": "pang3",
       "latinPron": "pâng",
       "example": [],
@@ -17496,6 +18294,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃon˥˥/",
       "pron": "qon1",
       "latinPron": "qón",
       "example": [],
@@ -17519,6 +18318,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥/",
       "pron": "xaing1",
       "latinPron": "xáing",
       "example": [],
@@ -17538,6 +18338,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βas˥˥.ʃa˥˥/",
       "pron": "vas1 xaing1",
       "latinPron": "vásxáing",
       "example": [],
@@ -17557,6 +18358,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯn˥˥.ʃa˥˥/",
       "pron": "cun1 xaing1",
       "latinPron": "cúnxáing",
       "example": [],
@@ -17580,6 +18382,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˨˨/",
       "pron": "lao2",
       "latinPron": "lào",
       "example": [],
@@ -17599,6 +18402,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ko˥˧/",
       "pron": "kong3",
       "latinPron": "kông",
       "example": [],
@@ -17618,6 +18422,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥/",
       "pron": "juom1",
       "latinPron": "júom",
       "example": [],
@@ -17641,6 +18446,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛ˨˨/",
       "pron": "ne2",
       "latinPron": "nè",
       "example": [],
@@ -17660,6 +18466,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛ˨˨.so˥˧/",
       "pron": "ne2 so3",
       "latinPron": "nè'sô",
       "example": [],
@@ -17679,6 +18486,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛ˨˨.t͡ʃa˥˥/",
       "pron": "ne2 qain1",
       "latinPron": "nèqáin",
       "example": [],
@@ -17698,6 +18506,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˨˨/",
       "pron": "bai2",
       "latinPron": "bài",
       "example": [],
@@ -17721,6 +18530,7 @@
         }
       ],
       "append": [],
+      "ipa": "/o˥˧/",
       "pron": "o3",
       "latinPron": "ô",
       "example": [],
@@ -17740,6 +18550,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧/",
       "pron": "hai3",
       "latinPron": "hâi",
       "example": [],
@@ -17759,6 +18570,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˧.d͡ʒɯ˥˥/",
       "pron": "hai3 juo1",
       "latinPron": "hâijúo",
       "example": [],
@@ -17778,6 +18590,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˧/",
       "pron": "duo3",
       "latinPron": "dûo",
       "example": [],
@@ -17797,6 +18610,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˥/",
       "pron": "buom1",
       "latinPron": "búom",
       "example": [],
@@ -17816,6 +18630,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥.wa˥˧.bɯ˥˥/",
       "pron": "lao1 wao3 buom1",
       "latinPron": "láowâobúom",
       "example": [],
@@ -17835,6 +18650,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dol˥˧.bɯ˥˥/",
       "pron": "dol3 buom1",
       "latinPron": "dôlbúom",
       "example": [],
@@ -17854,6 +18670,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.bɯ˥˥/",
       "pron": "ku1 buom1",
       "latinPron": "kúbúom",
       "example": [],
@@ -17873,6 +18690,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.bɯ˥˥.a˨˨/",
       "pron": "ku1 buom1 ail2",
       "latinPron": "kúbúom'àil",
       "example": [],
@@ -17901,6 +18719,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃi˥˥/",
       "pron": "xing1",
       "latinPron": "xíng",
       "example": [],
@@ -17920,6 +18739,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lo˥˧.ʃi˥˥/",
       "pron": "lo3 xing1",
       "latinPron": "lôxíng",
       "example": [],
@@ -17939,6 +18759,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.ʃi˥˥/",
       "pron": "yaom1 xing1",
       "latinPron": "yáomxíng",
       "example": [],
@@ -17968,6 +18789,7 @@
           ]
         }
       ],
+      "ipa": "/βɯ˨˨/",
       "pron": "vu2",
       "latinPron": "vù",
       "example": [],
@@ -17995,6 +18817,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˨˨.ʃa˥˧/",
       "pron": "vu2 xao3",
       "latinPron": "vùxâo",
       "example": [],
@@ -18014,6 +18837,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˥.βɯ˨˨.wa˥˥/",
       "pron": "vao1 vu2 wai1",
       "latinPron": "váovùwái",
       "example": [],
@@ -18033,6 +18857,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˨˨.βɯ˨˨.wa˥˥/",
       "pron": "nuo2 vu2 wai1",
       "latinPron": "nùovùwái",
       "example": [],
@@ -18052,6 +18877,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˥˥/",
       "pron": "ga1",
       "latinPron": "gá",
       "example": [],
@@ -18071,6 +18897,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.ga˥˥/",
       "pron": "qim3 ga1",
       "latinPron": "qîmgá",
       "example": [],
@@ -18090,6 +18917,7 @@
         }
       ],
       "append": [],
+      "ipa": "/i˨˨/",
       "pron": "i2",
       "latinPron": "ì",
       "example": [],
@@ -18109,6 +18937,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.i˨˨/",
       "pron": "qim3 i2",
       "latinPron": "qîm'ì",
       "example": [],
@@ -18128,6 +18957,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛs˨˨/",
       "pron": "wes2",
       "latinPron": "wès",
       "example": [],
@@ -18147,6 +18977,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.wɛs˨˨/",
       "pron": "qim3 wes2",
       "latinPron": "qîmwès",
       "example": [],
@@ -18166,6 +18997,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧/",
       "pron": "yaos3",
       "latinPron": "yâos",
       "example": [],
@@ -18185,6 +19017,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨/",
       "pron": "vai2",
       "latinPron": "vài",
       "example": [],
@@ -18204,6 +19037,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.sɯ˥˧/",
       "pron": "vai2 suo3",
       "latinPron": "vài'sûo",
       "example": [],
@@ -18223,6 +19057,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.lɯ˨˨/",
       "pron": "vai2 lung2",
       "latinPron": "vài'lùng",
       "example": [],
@@ -18242,6 +19077,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.an˥˧/",
       "pron": "vai2 an3",
       "latinPron": "vàiân",
       "example": [],
@@ -18261,6 +19097,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.pa˥˥/",
       "pron": "vai2 paon1",
       "latinPron": "vàipáon",
       "example": [],
@@ -18294,6 +19131,7 @@
           ]
         }
       ],
+      "ipa": "/so˨˨/",
       "pron": "so2",
       "latinPron": "sò",
       "example": [],
@@ -18313,6 +19151,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˨˨.βa˨˨/",
       "pron": "so2 vai2",
       "latinPron": "sòvài",
       "example": [],
@@ -18332,6 +19171,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˨˨.βo˥˥/",
       "pron": "so2 vo1",
       "latinPron": "sòvó",
       "example": [],
@@ -18351,6 +19191,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛm˥˥.so˨˨.βo˥˥/",
       "pron": "xem1 so2 vo1",
       "latinPron": "xémsòvó",
       "example": [],
@@ -18370,6 +19211,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨/",
       "pron": "xuam2",
       "latinPron": "xùam",
       "example": [],
@@ -18399,6 +19241,7 @@
           ]
         }
       ],
+      "ipa": "/wa˥˧/",
       "pron": "wai3",
       "latinPron": "wâi",
       "example": [],
@@ -18418,6 +19261,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˨˨.wa˥˧/",
       "pron": "baon2 wai3",
       "latinPron": "bàonwâi",
       "example": [],
@@ -18447,6 +19291,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃa˥˥/",
       "pron": "qa1",
       "latinPron": "qá",
       "example": [],
@@ -18475,6 +19320,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.wa˥˧/",
       "pron": "qa1 wai3",
       "latinPron": "qáwâi",
       "example": [],
@@ -18494,6 +19340,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˥/",
       "pron": "puo1",
       "latinPron": "púo",
       "example": [],
@@ -18513,6 +19360,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˨˨.pɯ˥˥/",
       "pron": "li2 puo1",
       "latinPron": "lìpúo",
       "example": [],
@@ -18532,6 +19380,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˨˨.pɯ˥˥/",
       "pron": "baon2 puo1",
       "latinPron": "bàonpúo",
       "example": [],
@@ -18561,6 +19410,7 @@
           ]
         }
       ],
+      "ipa": "/ta˥˥.ʃɯ˨˨/",
       "pron": "tai1 xu2",
       "latinPron": "táixù",
       "example": [],
@@ -18580,6 +19430,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨.t͡ʃa˥˥.wa˥˧/",
       "pron": "xu2 qa1 wai3",
       "latinPron": "xùqáwâi",
       "example": [],
@@ -18599,6 +19450,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.sɛ˥˧/",
       "pron": "tai1 se3",
       "latinPron": "tái'sê",
       "example": [],
@@ -18618,6 +19470,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˥.ʃɯ˨˨/",
       "pron": "puo1 xuam2",
       "latinPron": "púoxùam",
       "example": [],
@@ -18637,6 +19490,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˥.wa˥˧/",
       "pron": "buos1 wai3",
       "latinPron": "búoswâi",
       "example": [],
@@ -18656,6 +19510,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.a˨˨/",
       "pron": "qa1 ail2",
       "latinPron": "qáàil",
       "example": [],
@@ -18675,6 +19530,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.t͡ʃa˥˥/",
       "pron": "main2 qa1",
       "latinPron": "màinqá",
       "example": [],
@@ -18694,6 +19550,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˧/",
       "pron": "fun3",
       "latinPron": "fûn",
       "example": [],
@@ -18713,6 +19570,7 @@
         }
       ],
       "append": [],
+      "ipa": "/go˥˧.ɸɯn˥˧/",
       "pron": "go3 fun3",
       "latinPron": "gôfûn",
       "example": [],
@@ -18732,6 +19590,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɯn˥˧.d͡ʒa˥˥/",
       "pron": "fun3 ja1",
       "latinPron": "fûnjá",
       "example": [],
@@ -18755,6 +19614,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˧/",
       "pron": "caon3",
       "latinPron": "câon",
       "example": [],
@@ -18774,6 +19634,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˧.d͡ʒa˨˨/",
       "pron": "caon3 jao2",
       "latinPron": "câonjào",
       "example": [],
@@ -18793,6 +19654,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˧.d͡ʒa˥˥/",
       "pron": "caon3 ja1",
       "latinPron": "câonjá",
       "example": [],
@@ -18812,6 +19674,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sal˨˨.kɛ˥˥.d͡ʒa˥˥/",
       "pron": "sal2 ke1 ja1",
       "latinPron": "sàlkéjá",
       "example": [],
@@ -18831,6 +19694,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.kɛ˥˥/",
       "pron": "main2 ke1",
       "latinPron": "màinké",
       "example": [],
@@ -18850,6 +19714,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βo˥˥/",
       "pron": "vo1",
       "latinPron": "vó",
       "example": [],
@@ -18869,6 +19734,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˧.βo˥˥/",
       "pron": "vu3 vo1",
       "latinPron": "vûvó",
       "example": [],
@@ -18888,6 +19754,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βo˥˥.βa˥˧/",
       "pron": "vo1 vain3",
       "latinPron": "vóvâin",
       "example": [],
@@ -18917,6 +19784,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sɯ˨˨.kɛ˥˥.d͡ʒa˥˥/",
       "pron": "cuo2 ke1 ja1",
       "latinPron": "cùokéjá",
       "example": [],
@@ -18944,6 +19812,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˥/",
       "pron": "muong1",
       "latinPron": "múong",
       "example": [],
@@ -18963,6 +19832,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.bɯ˥˥.wa˥˧/",
       "pron": "tai1 buos1 wai3",
       "latinPron": "táibúoswâi",
       "example": [],
@@ -18982,6 +19852,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˧.ja˥˧/",
       "pron": "ling3 yaos3",
       "latinPron": "lîngyâos",
       "example": [],
@@ -19001,6 +19872,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˧.bɯ˨˨/",
       "pron": "ling3 bua2",
       "latinPron": "lîngbùa",
       "example": [],
@@ -19020,6 +19892,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˨˨/",
       "pron": "dao2",
       "latinPron": "dào",
       "example": [],
@@ -19039,6 +19912,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˧/",
       "pron": "ba3",
       "latinPron": "bâ",
       "example": [],
@@ -19058,6 +19932,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨/",
       "pron": "cuom2",
       "latinPron": "cùom",
       "example": [],
@@ -19077,6 +19952,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˥.ɸɯ˨˨/",
       "pron": "muong1 fuon2",
       "latinPron": "múongfùon",
       "example": [],
@@ -19096,6 +19972,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɯ˥˥.na˨˨/",
       "pron": "muong1 na2",
       "latinPron": "múongnà",
       "example": [],
@@ -19124,6 +20001,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛm˥˥/",
       "pron": "xem1",
       "latinPron": "xém",
       "example": [],
@@ -19153,6 +20031,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛm˥˥.ho˥˧/",
       "pron": "xem1 ho3",
       "latinPron": "xémhô",
       "example": [],
@@ -19172,6 +20051,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛm˥˥.na˥˥/",
       "pron": "xem1 na1",
       "latinPron": "xémná",
       "example": [],
@@ -19201,6 +20081,7 @@
           ]
         }
       ],
+      "ipa": "/ʃa˥˥/",
       "pron": "xai1",
       "latinPron": "xái",
       "example": [],
@@ -19228,6 +20109,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥.nɛl˥˥/",
       "pron": "xai1 nel1",
       "latinPron": "xái'nél",
       "example": [],
@@ -19247,6 +20129,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛl˥˥.ʃa˥˥/",
       "pron": "nel1 xai1",
       "latinPron": "nélxái",
       "example": [],
@@ -19266,6 +20149,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛl˥˥.ʃa˥˥.a˨˨/",
       "pron": "nel1 xai1 ail2",
       "latinPron": "nélxáiàil",
       "example": [],
@@ -19294,6 +20178,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˥/",
       "pron": "so1",
       "latinPron": "só",
       "example": [],
@@ -19313,6 +20198,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˥.ta˥˥/",
       "pron": "so1 tai1",
       "latinPron": "sótái",
       "example": [],
@@ -19332,6 +20218,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˥.nɛl˥˥/",
       "pron": "so1 nel1",
       "latinPron": "só'nél",
       "example": [],
@@ -19351,6 +20238,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˥.wa˥˧/",
       "pron": "so1 wai3",
       "latinPron": "sówâi",
       "example": [],
@@ -19370,6 +20258,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛm˥˥.lɯ˥˧/",
       "pron": "xem1 luong3",
       "latinPron": "xémlûong",
       "example": [],
@@ -19389,6 +20278,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˥.so˥˥/",
       "pron": "kuang1 so1",
       "latinPron": "kúangsó",
       "example": [],
@@ -19408,6 +20298,7 @@
         }
       ],
       "append": [],
+      "ipa": "/so˥˥.ʃa˥˥/",
       "pron": "so1 xaing1",
       "latinPron": "sóxáing",
       "example": [],
@@ -19427,6 +20318,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥.ta˥˧/",
       "pron": "xai1 taos3",
       "latinPron": "xáitâos",
       "example": [],
@@ -19446,6 +20338,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥.t͡sɯ˨˨/",
       "pron": "xai1 cuo2",
       "latinPron": "xáicùo",
       "example": [],
@@ -19465,6 +20358,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˧/",
       "pron": "kuon3",
       "latinPron": "kûon",
       "example": [],
@@ -19484,6 +20378,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˨˨.ʃɯ˨˨/",
       "pron": "baon2 xu2",
       "latinPron": "bàonxù",
       "example": [],
@@ -19513,6 +20408,7 @@
           ]
         }
       ],
+      "ipa": "/ɸo˨˨.dol˥˧/",
       "pron": "fo2 dol3",
       "latinPron": "fòdôl",
       "example": [],
@@ -19532,6 +20428,7 @@
         }
       ],
       "append": [],
+      "ipa": "/a˥˥/",
       "pron": "ais1",
       "latinPron": "áis",
       "example": [],
@@ -19551,6 +20448,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sɯ˨˨.a˥˥/",
       "pron": "cung2 ais1",
       "latinPron": "cùngáis",
       "example": [],
@@ -19570,6 +20468,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧/",
       "pron": "suom3",
       "latinPron": "sûom",
       "example": [],
@@ -19589,6 +20488,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧.ha˥˧/",
       "pron": "suom3 hai3",
       "latinPron": "sûomhâi",
       "example": [],
@@ -19608,6 +20508,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˧/",
       "pron": "dua3",
       "latinPron": "dûa",
       "example": [],
@@ -19637,6 +20538,7 @@
           ]
         }
       ],
+      "ipa": "/ʃa˥˥.dɯ˥˧/",
       "pron": "xai1 dua3",
       "latinPron": "xáidûa",
       "example": [],
@@ -19656,6 +20558,7 @@
         }
       ],
       "append": [],
+      "ipa": "/la˥˥.sin˥˥/",
       "pron": "lao1 sin1",
       "latinPron": "láo'sín",
       "example": [],
@@ -19675,6 +20578,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hɯ˥˥.dɯ˥˧/",
       "pron": "huo1 dua3",
       "latinPron": "húodûa",
       "example": [],
@@ -19703,6 +20607,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˥˧/",
       "pron": "uo3",
       "latinPron": "ûo",
       "example": [],
@@ -19722,6 +20627,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˨˨.ɯ˥˧/",
       "pron": "tuo2 uo3",
       "latinPron": "tùoûo",
       "example": [],
@@ -19741,6 +20647,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃon˥˥.ɯ˥˧/",
       "pron": "qon1 uo3",
       "latinPron": "qón'ûo",
       "example": [],
@@ -19760,6 +20667,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.ɯ˥˧/",
       "pron": "nao2 uo3",
       "latinPron": "nàoûo",
       "example": [],
@@ -19779,6 +20687,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃim˥˧.ɯ˥˧.ha˥˥/",
       "pron": "qim3 uo3 ha1",
       "latinPron": "qîm'ûohá",
       "example": [],
@@ -19798,6 +20707,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨/",
       "pron": "naim2",
       "latinPron": "nàim",
       "example": [],
@@ -19827,6 +20737,7 @@
           ]
         }
       ],
+      "ipa": "/na˨˨.na˨˨/",
       "pron": "naim2 naim2",
       "latinPron": "nàimnàim",
       "example": [],
@@ -19846,6 +20757,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.so˨˨/",
       "pron": "naim2 so2",
       "latinPron": "nàimsò",
       "example": [],
@@ -19874,6 +20786,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˧/",
       "pron": "nu3",
       "latinPron": "nû",
       "example": [],
@@ -19893,6 +20806,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˧.βal˨˨.βa˨˨/",
       "pron": "nu3 val2 vais2",
       "latinPron": "nûvàlvàis",
       "example": [],
@@ -19912,6 +20826,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˧/",
       "pron": "vung3",
       "latinPron": "vûng",
       "example": [],
@@ -19941,6 +20856,7 @@
           ]
         }
       ],
+      "ipa": "/dɛl˥˥/",
       "pron": "del1",
       "latinPron": "dél",
       "example": [],
@@ -19973,6 +20889,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pi˥˥/",
       "pron": "pi1",
       "latinPron": "pí",
       "example": [],
@@ -19992,6 +20909,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pi˥˥.mis˥˥/",
       "pron": "pi1 mis1",
       "latinPron": "pí'mís",
       "example": [],
@@ -20011,6 +20929,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.pi˥˥/",
       "pron": "nang2 pi1",
       "latinPron": "nàngpí",
       "example": [],
@@ -20030,6 +20949,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pi˥˥.gɯ˨˨/",
       "pron": "pi1 gu2",
       "latinPron": "pígù",
       "example": [],
@@ -20049,6 +20969,7 @@
         }
       ],
       "append": [],
+      "ipa": "/min˥˥.gɯ˨˨.jɛ˥˥/",
       "pron": "min1 gu2 ye1",
       "latinPron": "míngùyé",
       "example": [],
@@ -20068,6 +20989,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.jɛ˥˥/",
       "pron": "va2 ye1",
       "latinPron": "vàyé",
       "example": [],
@@ -20087,6 +21009,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wɛ˥˥/",
       "pron": "we1",
       "latinPron": "wé",
       "example": [],
@@ -20110,6 +21033,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˧/",
       "pron": "duon3",
       "latinPron": "dûon",
       "example": [],
@@ -20129,6 +21053,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸa˨˨.dɯ˥˧/",
       "pron": "fa2 duon3",
       "latinPron": "fàdûon",
       "example": [],
@@ -20148,6 +21073,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɛl˥˥.dɯ˥˧/",
       "pron": "nel1 duon3",
       "latinPron": "néldûon",
       "example": [],
@@ -20167,6 +21093,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˥˥/",
       "pron": "kao1",
       "latinPron": "káo",
       "example": [],
@@ -20186,6 +21113,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ba˥˧.mis˥˥/",
       "pron": "baim3 mis1",
       "latinPron": "bâimmís",
       "example": [],
@@ -20205,6 +21133,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˥˥/",
       "pron": "ung1",
       "latinPron": "úng",
       "example": [],
@@ -20224,6 +21153,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˥˥.ton˨˨/",
       "pron": "ung1 ton2",
       "latinPron": "úngtòn",
       "example": [],
@@ -20243,6 +21173,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃa˥˥/",
       "pron": "xaos1",
       "latinPron": "xáos",
       "example": [],
@@ -20262,6 +21193,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˨˨/",
       "pron": "buo2",
       "latinPron": "bùo",
       "example": [],
@@ -20291,6 +21223,7 @@
           ]
         }
       ],
+      "ipa": "/ma˨˨.bɯ˨˨.a˨˨/",
       "pron": "main2 buo2 ail2",
       "latinPron": "màinbùoàil",
       "example": [],
@@ -20329,6 +21262,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sɯ˨˨.t͡ʃa˨˨.ma˨˨.bɯ˨˨.a˨˨/",
       "pron": "cua2 qai2 main2 buo2 ail2",
       "latinPron": "cùaqài'màinbùoàil",
       "example": [],
@@ -20348,6 +21282,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.bɯ˨˨/",
       "pron": "naim2 buo2",
       "latinPron": "nàimbùo",
       "example": [],
@@ -20367,6 +21302,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˨˨.bɯ˨˨/",
       "pron": "nao2 buo2",
       "latinPron": "nàobùo",
       "example": [],
@@ -20386,6 +21322,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒo˥˧.bɯ˨˨/",
       "pron": "jo3 buo2",
       "latinPron": "jôbùo",
       "example": [],
@@ -20405,6 +21342,7 @@
         }
       ],
       "append": [],
+      "ipa": "/na˥˥.bɯ˨˨/",
       "pron": "na1 buo2",
       "latinPron": "nábùo",
       "example": [],
@@ -20424,6 +21362,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˨˨.mis˥˥/",
       "pron": "buo2 mis1",
       "latinPron": "bùo'mís",
       "example": [],
@@ -20443,6 +21382,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛm˥˥.mis˥˥/",
       "pron": "xem1 mis1",
       "latinPron": "xémmís",
       "example": [],
@@ -20462,6 +21402,7 @@
         }
       ],
       "append": [],
+      "ipa": "/wa˥˥.lo˥˧/",
       "pron": "wai1 lo3",
       "latinPron": "wái'lô",
       "example": [],
@@ -20500,6 +21441,7 @@
           ]
         }
       ],
+      "ipa": "/t͡so˨˨/",
       "pron": "co2",
       "latinPron": "cò",
       "example": [],
@@ -20528,6 +21470,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥/",
       "pron": "tao1",
       "latinPron": "táo",
       "example": [],
@@ -20575,6 +21518,7 @@
           ]
         }
       ],
+      "ipa": "/nɯ˥˧/",
       "pron": "nua3",
       "latinPron": "nûa",
       "example": [],
@@ -20613,6 +21557,7 @@
           ]
         }
       ],
+      "ipa": "/nɯ˥˧.nɛs˨˨/",
       "pron": "nua3 nes2",
       "latinPron": "nûa'nès",
       "example": [],
@@ -20632,6 +21577,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˧.βo˨˨/",
       "pron": "nua3 vo2",
       "latinPron": "nûavò",
       "example": [],
@@ -20651,6 +21597,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sis˥˧/",
       "pron": "cis3",
       "latinPron": "cîs",
       "example": [],
@@ -20674,6 +21621,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˧/",
       "pron": "pua3",
       "latinPron": "pûa",
       "example": [],
@@ -20693,6 +21641,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˧.ha˥˥/",
       "pron": "pua3 ha1",
       "latinPron": "pûahá",
       "example": [],
@@ -20712,6 +21661,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɛl˥˥/",
       "pron": "mel1",
       "latinPron": "mél",
       "example": [],
@@ -20731,6 +21681,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃon˨˨/",
       "pron": "xon2",
       "latinPron": "xòn",
       "example": [],
@@ -20759,6 +21710,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥/",
       "pron": "jual1",
       "latinPron": "júal",
       "example": [],
@@ -20778,6 +21730,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɛ˥˧.bɯn˨˨/",
       "pron": "ge3 bun2",
       "latinPron": "gêbùn",
       "example": [],
@@ -20797,6 +21750,7 @@
         }
       ],
       "append": [],
+      "ipa": "/go˥˧.d͡ʒɯ˥˥/",
       "pron": "go3 juom1",
       "latinPron": "gôjúom",
       "example": [],
@@ -20825,6 +21779,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˥/",
       "pron": "dual1",
       "latinPron": "dúal",
       "example": [],
@@ -20863,6 +21818,7 @@
           ]
         }
       ],
+      "ipa": "/ʃa˨˨.t͡sa˥˥/",
       "pron": "xao2 cai1",
       "latinPron": "xàocái",
       "example": [],
@@ -20895,6 +21851,7 @@
         }
       ],
       "append": [],
+      "ipa": "/lɯ˥˧/",
       "pron": "lua3",
       "latinPron": "lûa",
       "example": [],
@@ -20914,6 +21871,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˨˨.lɯ˥˧/",
       "pron": "vai2 lua3",
       "latinPron": "vài'lûa",
       "example": [],
@@ -20933,6 +21891,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˨˨.ɸɯ˨˨.lɯ˥˧/",
       "pron": "juan2 fuon2 lua3",
       "latinPron": "jùanfùonlûa",
       "example": [],
@@ -20952,6 +21911,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃa˥˥.t͡sɯ˨˨/",
       "pron": "qao1 cua2",
       "latinPron": "qáocùa",
       "example": [],
@@ -20971,6 +21931,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.t͡ʃa˥˥.t͡sɯ˨˨/",
       "pron": "tail1 qao1 cua2",
       "latinPron": "táilqáocùa",
       "example": [],
@@ -20990,6 +21951,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.ɸa˥˥.t͡ʃa˥˥.t͡sɯ˨˨/",
       "pron": "tail1 fai1 qao1 cua2",
       "latinPron": "táilfáiqáocùa",
       "example": [],
@@ -21009,6 +21971,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯ˥˧.t͡ʃa˥˥.t͡sɯ˨˨/",
       "pron": "buan3 qao1 cua2",
       "latinPron": "bûanqáocùa",
       "example": [],
@@ -21038,6 +22001,7 @@
           ]
         }
       ],
+      "ipa": "/ba˥˧.t͡ʃa˥˥.t͡sɯ˨˨/",
       "pron": "bao3 qao1 cua2",
       "latinPron": "bâoqáocùa",
       "example": [],
@@ -21066,6 +22030,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jos˨˨/",
       "pron": "yos2",
       "latinPron": "yòs",
       "example": [],
@@ -21095,6 +22060,7 @@
           ]
         }
       ],
+      "ipa": "/sa˥˧/",
       "pron": "sai3",
       "latinPron": "sâi",
       "example": [],
@@ -21114,6 +22080,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˧.sa˥˧/",
       "pron": "pang3 sai3",
       "latinPron": "pângsâi",
       "example": [],
@@ -21133,6 +22100,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jos˨˨.sa˥˧/",
       "pron": "yos2 sai3",
       "latinPron": "yòssâi",
       "example": [],
@@ -21152,6 +22120,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˥˥/",
       "pron": "mo1",
       "latinPron": "mó",
       "example": [],
@@ -21171,6 +22140,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˥˥.ja˥˥/",
       "pron": "mo1 yai1",
       "latinPron": "móyái",
       "example": [],
@@ -21190,6 +22160,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡ʃɯ˥˧.ta˨˨/",
       "pron": "quo3 tang2",
       "latinPron": "qûotàng",
       "example": [],
@@ -21209,6 +22180,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˥˥.ta˨˨.sa˥˧/",
       "pron": "mo1 tang2 sai3",
       "latinPron": "mótàngsâi",
       "example": [],
@@ -21228,6 +22200,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sa˥˧.lɯ˥˧/",
       "pron": "sai3 luong3",
       "latinPron": "sâi'lûong",
       "example": [],
@@ -21247,6 +22220,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mo˥˥.mo˨˨/",
       "pron": "mo1 mo2",
       "latinPron": "mó'mò",
       "example": [],
@@ -21266,6 +22240,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˨˨/",
       "pron": "juan2",
       "latinPron": "jùan",
       "example": [],
@@ -21285,6 +22260,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gan˨˨/",
       "pron": "gan2",
       "latinPron": "gàn",
       "example": [],
@@ -21304,6 +22280,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.gan˨˨/",
       "pron": "mail2 gan2",
       "latinPron": "màilgàn",
       "example": [],
@@ -21323,6 +22300,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɛ˥˧/",
       "pron": "je3",
       "latinPron": "jê",
       "example": [],
@@ -21342,6 +22320,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɛ˥˧.pi˥˥/",
       "pron": "je3 pi1",
       "latinPron": "jêpí",
       "example": [],
@@ -21361,6 +22340,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ka˨˨/",
       "pron": "ka2",
       "latinPron": "kà",
       "example": [],
@@ -21380,6 +22360,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˥/",
       "pron": "vu1",
       "latinPron": "vú",
       "example": [],
@@ -21399,6 +22380,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˥.ho˥˧/",
       "pron": "vu1 ho3",
       "latinPron": "vúhô",
       "example": [],
@@ -21418,6 +22400,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɛl˨˨/",
       "pron": "jel2",
       "latinPron": "jèl",
       "example": [],
@@ -21437,6 +22420,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɛl˨˨.ɯ˥˥/",
       "pron": "jel2 uas1",
       "latinPron": "jèl'úas",
       "example": [],
@@ -21456,6 +22440,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒi˥˧/",
       "pron": "jing3",
       "latinPron": "jîng",
       "example": [],
@@ -21475,6 +22460,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˨˨/",
       "pron": "bi2",
       "latinPron": "bì",
       "example": [],
@@ -21494,6 +22480,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˧/",
       "pron": "kuan3",
       "latinPron": "kûan",
       "example": [],
@@ -21513,6 +22500,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒo˥˧.t͡ʃa˥˧/",
       "pron": "jo3 qang3",
       "latinPron": "jôqâng",
       "example": [],
@@ -21532,6 +22520,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˧.bɯ˥˧/",
       "pron": "kuan3 buo3",
       "latinPron": "kûanbûo",
       "example": [],
@@ -21551,6 +22540,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɯ˥˧.tɯ˨˨.a˨˨/",
       "pron": "kuan3 tua2 ail2",
       "latinPron": "kûantùaàil",
       "example": [],
@@ -21580,6 +22570,7 @@
           ]
         }
       ],
+      "ipa": "/dom˨˨.dɯ˥˥/",
       "pron": "dom2 duo1",
       "latinPron": "dòmdúo",
       "example": [],
@@ -21599,6 +22590,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒɯ˥˥.dɯ˥˥/",
       "pron": "ju1 duo1",
       "latinPron": "júdúo",
       "example": [],
@@ -21618,6 +22610,7 @@
         }
       ],
       "append": [],
+      "ipa": "/da˨˨.kɯ˥˧/",
       "pron": "dail2 kuan3",
       "latinPron": "dàilkûan",
       "example": [],
@@ -21637,6 +22630,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˥/",
       "pron": "duo1",
       "latinPron": "dúo",
       "example": [],
@@ -21656,6 +22650,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βas˥˥.dɯ˥˥/",
       "pron": "vas1 duo1",
       "latinPron": "vásdúo",
       "example": [],
@@ -21689,6 +22684,7 @@
           ]
         }
       ],
+      "ipa": "/βas˥˥.jɛ˥˥/",
       "pron": "vas1 ye1",
       "latinPron": "vásyé",
       "example": [],
@@ -21708,6 +22704,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˨˨.d͡ʒa˨˨/",
       "pron": "main2 jao2",
       "latinPron": "màinjào",
       "example": [],
@@ -21727,6 +22724,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˥˥.ho˥˧/",
       "pron": "duo1 ho3",
       "latinPron": "dúohô",
       "example": [],
@@ -21756,6 +22754,7 @@
           ]
         }
       ],
+      "ipa": "/βɯ˥˥/",
       "pron": "vuo1",
       "latinPron": "vúo",
       "example": [],
@@ -21785,6 +22784,7 @@
           ]
         }
       ],
+      "ipa": "/βɯ˥˥.jɯ˨˨/",
       "pron": "vuo1 yuo2",
       "latinPron": "vúoyùo",
       "example": [],
@@ -21804,6 +22804,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βɯ˥˥.ʃɛm˥˥/",
       "pron": "vuo1 xem1",
       "latinPron": "vúoxém",
       "example": [],
@@ -21823,6 +22824,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥/",
       "pron": "taom1",
       "latinPron": "táom",
       "example": [],
@@ -21842,6 +22844,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.nɯn˨˨/",
       "pron": "taom1 nun2",
       "latinPron": "táomnùn",
       "example": [],
@@ -21861,6 +22864,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.bɯn˨˨/",
       "pron": "taom1 bun2",
       "latinPron": "táombùn",
       "example": [],
@@ -21889,6 +22893,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.nim˥˧/",
       "pron": "taom1 nim3",
       "latinPron": "táomnîm",
       "example": [],
@@ -21912,6 +22917,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˧/",
       "pron": "keng3",
       "latinPron": "kêng",
       "example": [],
@@ -21940,6 +22946,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˧.t͡ʃa˥˥/",
       "pron": "keng3 qai1",
       "latinPron": "kêngqái",
       "example": [],
@@ -21969,6 +22976,7 @@
           ]
         }
       ],
+      "ipa": "/zɯ˥˥/",
       "pron": "zua1",
       "latinPron": "zúa",
       "example": [],
@@ -22007,6 +23015,7 @@
           ]
         }
       ],
+      "ipa": "/za˨˨/",
       "pron": "zao2",
       "latinPron": "zào",
       "example": [],
@@ -22035,6 +23044,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˧/",
       "pron": "guo3",
       "latinPron": "gûo",
       "example": [],
@@ -22063,6 +23073,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˧.bɯn˨˨/",
       "pron": "guo3 bun2",
       "latinPron": "gûobùn",
       "example": [],
@@ -22082,6 +23093,7 @@
         }
       ],
       "append": [],
+      "ipa": "/gɯ˥˧.kɛ˥˥.ʃa˥˧/",
       "pron": "guo3 ke1 xao3",
       "latinPron": "gûokéxâo",
       "example": [],
@@ -22101,6 +23113,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨.kɛ˥˥.ʃa˥˧/",
       "pron": "xua2 ke1 xao3",
       "latinPron": "xùakéxâo",
       "example": [],
@@ -22134,6 +23147,7 @@
           ]
         }
       ],
+      "ipa": "/βa˥˧/",
       "pron": "vai3",
       "latinPron": "vâi",
       "example": [],
@@ -22153,6 +23167,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ho˥˧.βa˥˧/",
       "pron": "ho3 vai3",
       "latinPron": "hôvâi",
       "example": [],
@@ -22181,6 +23196,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɯ˨˨/",
       "pron": "xua2",
       "latinPron": "xùa",
       "example": [],
@@ -22214,6 +23230,7 @@
           ]
         }
       ],
+      "ipa": "/ga˥˥/",
       "pron": "gaos1",
       "latinPron": "gáos",
       "example": [],
@@ -22233,6 +23250,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸɛs˨˨.ga˥˥/",
       "pron": "fes2 gaos1",
       "latinPron": "fèsgáos",
       "example": [],
@@ -22252,6 +23270,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˥/",
       "pron": "vai1",
       "latinPron": "vái",
       "example": [],
@@ -22281,6 +23300,7 @@
           ]
         }
       ],
+      "ipa": "/βa˥˥.wɛl˨˨/",
       "pron": "vai1 wel2",
       "latinPron": "váiwèl",
       "example": [],
@@ -22308,6 +23328,7 @@
         }
       ],
       "append": [],
+      "ipa": "/kɛ˥˧/",
       "pron": "ke3",
       "latinPron": "kê",
       "example": [],
@@ -22337,6 +23358,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sa˥˥/",
       "pron": "ca1",
       "latinPron": "cá",
       "example": [],
@@ -22364,6 +23386,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.t͡sa˥˥/",
       "pron": "yao1 ca1",
       "latinPron": "yáocá",
       "example": [],
@@ -22393,6 +23416,7 @@
           ]
         }
       ],
+      "ipa": "/βa˥˥.t͡sa˥˥/",
       "pron": "vai1 ca1",
       "latinPron": "váicá",
       "example": [],
@@ -22421,6 +23445,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯ˥˧/",
       "pron": "su3",
       "latinPron": "sû",
       "example": [],
@@ -22440,6 +23465,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒil˥˥/",
       "pron": "jil1",
       "latinPron": "jíl",
       "example": [],
@@ -22463,6 +23489,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˥/",
       "pron": "nuan1",
       "latinPron": "núan",
       "example": [],
@@ -22496,6 +23523,7 @@
           ]
         }
       ],
+      "ipa": "/ma˥˥/",
       "pron": "mao1",
       "latinPron": "máo",
       "example": [],
@@ -22519,6 +23547,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˥/",
       "pron": "bi1",
       "latinPron": "bí",
       "example": [],
@@ -22538,6 +23567,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˥.wi˥˧/",
       "pron": "bi1 wi3",
       "latinPron": "bíwî",
       "example": [],
@@ -22557,6 +23587,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˥.gan˨˨/",
       "pron": "bi1 gan2",
       "latinPron": "bígàn",
       "example": [],
@@ -22576,6 +23607,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βi˥˥.bi˥˥/",
       "pron": "vi1 bi1",
       "latinPron": "víbí",
       "example": [],
@@ -22595,6 +23627,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧.bi˥˥/",
       "pron": "ya3 bi1",
       "latinPron": "yâbí",
       "example": [],
@@ -22614,6 +23647,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˧.bi˥˥/",
       "pron": "ling3 bi1",
       "latinPron": "lîngbí",
       "example": [],
@@ -22633,6 +23667,7 @@
         }
       ],
       "append": [],
+      "ipa": "/jɯ˥˧.bi˥˥/",
       "pron": "yuas3 bi1",
       "latinPron": "yûasbí",
       "example": [],
@@ -22652,6 +23687,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˥.kɯ˥˥/",
       "pron": "bi1 kuang1",
       "latinPron": "bíkúang",
       "example": [],
@@ -22671,6 +23707,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˥.jɯ˨˨/",
       "pron": "bi1 yuon2",
       "latinPron": "bíyùon",
       "example": [],
@@ -22700,6 +23737,7 @@
           ]
         }
       ],
+      "ipa": "/ɸa˨˨/",
       "pron": "fai2",
       "latinPron": "fài",
       "example": [],
@@ -22727,6 +23765,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɛ˥˥/",
       "pron": "e1",
       "latinPron": "é",
       "example": [],
@@ -22755,6 +23794,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dɯ˨˨/",
       "pron": "duang2",
       "latinPron": "dùang",
       "example": [],
@@ -22784,6 +23824,7 @@
           ]
         }
       ],
+      "ipa": "/dɯ˨˨.βas˥˥/",
       "pron": "duang2 vas1",
       "latinPron": "dùangvás",
       "example": [],
@@ -22803,6 +23844,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˧/",
       "pron": "bi3",
       "latinPron": "bî",
       "example": [],
@@ -22822,6 +23864,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˧.so˥˧.a˨˨/",
       "pron": "bi3 so3 ail2",
       "latinPron": "bî'sôàil",
       "example": [],
@@ -22841,6 +23884,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bi˥˧.d͡ʒa˨˨/",
       "pron": "bi3 jao2",
       "latinPron": "bîjào",
       "example": [],
@@ -22860,6 +23904,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˧/",
       "pron": "puong3",
       "latinPron": "pûong",
       "example": [],
@@ -22879,6 +23924,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˧.pɯ˥˧/",
       "pron": "nua3 puong3",
       "latinPron": "nûapûong",
       "example": [],
@@ -22898,6 +23944,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˧.si˥˥/",
       "pron": "puong3 sing1",
       "latinPron": "pûongsíng",
       "example": [],
@@ -22917,6 +23964,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˥˧.d͡ʒa˨˨/",
       "pron": "puong3 jao2",
       "latinPron": "pûongjào",
       "example": [],
@@ -22955,6 +24003,7 @@
           ]
         }
       ],
+      "ipa": "/d͡ʒa˨˨/",
       "pron": "jao2",
       "latinPron": "jào",
       "example": [],
@@ -23002,6 +24051,7 @@
           ]
         }
       ],
+      "ipa": "/sa˥˧/",
       "pron": "sang3",
       "latinPron": "sâng",
       "example": [],
@@ -23021,6 +24071,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nan˥˥/",
       "pron": "nan1",
       "latinPron": "nán",
       "example": [],
@@ -23040,6 +24091,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pil˥˥/",
       "pron": "pil1",
       "latinPron": "píl",
       "example": [],
@@ -23068,6 +24120,7 @@
         }
       ],
       "append": [],
+      "ipa": "/go˥˥/",
       "pron": "go1",
       "latinPron": "gó",
       "example": [],
@@ -23100,6 +24153,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˧/",
       "pron": "taing3",
       "latinPron": "tâing",
       "example": [],
@@ -23119,6 +24173,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˥˥.ta˥˧/",
       "pron": "mai1 taing3",
       "latinPron": "máitâing",
       "example": [],
@@ -23138,6 +24193,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˥˥.nɯn˨˨/",
       "pron": "mai1 nun2",
       "latinPron": "mái'nùn",
       "example": [],
@@ -23157,6 +24213,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ma˥˥.bɯn˨˨/",
       "pron": "mai1 bun2",
       "latinPron": "máibùn",
       "example": [],
@@ -23176,6 +24233,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pɯ˨˨.ta˥˧/",
       "pron": "puon2 taing3",
       "latinPron": "pùontâing",
       "example": [],
@@ -23195,6 +24253,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sa˥˥.ta˥˧/",
       "pron": "cail1 taing3",
       "latinPron": "cáiltâing",
       "example": [],
@@ -23214,6 +24273,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡sis˥˧.sɯ˥˧/",
       "pron": "cis3 su3",
       "latinPron": "cîssû",
       "example": [],
@@ -23233,6 +24293,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃon˨˨.sɯ˥˧/",
       "pron": "xon2 su3",
       "latinPron": "xònsû",
       "example": [],
@@ -23252,6 +24313,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ta˥˥.mɯ˥˧/",
       "pron": "tao1 muos3",
       "latinPron": "táo'mûos",
       "example": [],
@@ -23271,6 +24333,7 @@
         }
       ],
       "append": [],
+      "ipa": "/mɛl˥˥.mɯ˥˧/",
       "pron": "mel1 muos3",
       "latinPron": "mélmûos",
       "example": [],
@@ -23290,6 +24353,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˥˧/",
       "pron": "tu3",
       "latinPron": "tû",
       "example": [],
@@ -23309,6 +24373,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯm˨˨/",
       "pron": "num2",
       "latinPron": "nùm",
       "example": [],
@@ -23328,6 +24393,7 @@
         }
       ],
       "append": [],
+      "ipa": "/bɯn˨˨.nɯm˨˨/",
       "pron": "bun2 num2",
       "latinPron": "bùnnùm",
       "example": [],
@@ -23347,6 +24413,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˥/",
       "pron": "nu1",
       "latinPron": "nú",
       "example": [],
@@ -23366,6 +24433,7 @@
         }
       ],
       "append": [],
+      "ipa": "/nɯ˥˥.kɛ˥˥/",
       "pron": "nu1 ke1",
       "latinPron": "núké",
       "example": [],
@@ -23394,6 +24462,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˨˨/",
       "pron": "gao2",
       "latinPron": "gào",
       "example": [],
@@ -23413,6 +24482,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ga˨˨.t͡sɛl˨˨/",
       "pron": "gao2 cel2",
       "latinPron": "gàocèl",
       "example": [],
@@ -23441,6 +24511,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˥˥/",
       "pron": "uas1",
       "latinPron": "úas",
       "example": [],
@@ -23460,6 +24531,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˥˥.ha˥˥/",
       "pron": "uas1 ha1",
       "latinPron": "úashá",
       "example": [],
@@ -23489,6 +24561,7 @@
           ]
         }
       ],
+      "ipa": "/da˥˧/",
       "pron": "dai3",
       "latinPron": "dâi",
       "example": [],
@@ -23526,6 +24599,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃo˨˨/",
       "pron": "qo2",
       "latinPron": "qò",
       "example": [],
@@ -23555,6 +24629,7 @@
           ]
         }
       ],
+      "ipa": "/ɸɯ˥˧/",
       "pron": "fu3",
       "latinPron": "fû",
       "example": [],
@@ -23584,6 +24659,7 @@
           ]
         }
       ],
+      "ipa": "/lɯ˥˥.βas˥˥.ɸɯ˥˧/",
       "pron": "luong1 vas1 fu3",
       "latinPron": "lúongvásfû",
       "example": [],
@@ -23612,6 +24688,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˧/",
       "pron": "pao3",
       "latinPron": "pâo",
       "example": [],
@@ -23631,6 +24708,7 @@
         }
       ],
       "append": [],
+      "ipa": "/pa˥˧.kɛ˥˥/",
       "pron": "pao3 ke1",
       "latinPron": "pâoké",
       "example": [],
@@ -23650,6 +24728,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˥.pa˥˧.βas˥˥/",
       "pron": "yao1 pao3 vas1",
       "latinPron": "yáopâovás",
       "example": [],
@@ -23679,6 +24758,7 @@
           ]
         }
       ],
+      "ipa": "/pa˥˧.βas˥˥.na˨˨/",
       "pron": "pao3 vas1 naim2",
       "latinPron": "pâovásnàim",
       "example": [],
@@ -23717,6 +24797,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tas˥˥/",
       "pron": "tas1",
       "latinPron": "tás",
       "example": [],
@@ -23764,6 +24845,7 @@
           ]
         }
       ],
+      "ipa": "/no˨˨/",
       "pron": "no2",
       "latinPron": "nò",
       "example": [],
@@ -23809,6 +24891,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɯ˥˧/",
       "pron": "ua3",
       "latinPron": "ûa",
       "example": [],
@@ -23838,6 +24921,7 @@
           ]
         }
       ],
+      "ipa": "/na˨˨.ɯ˥˧/",
       "pron": "na2 ua3",
       "latinPron": "nàûa",
       "example": [],
@@ -23857,6 +24941,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˨˨/",
       "pron": "hang2",
       "latinPron": "hàng",
       "example": [],
@@ -23895,6 +24980,7 @@
           ]
         }
       ],
+      "ipa": "/jɯm˥˥/",
       "pron": "yum1",
       "latinPron": "yúm",
       "example": [],
@@ -23932,6 +25018,7 @@
           ]
         }
       ],
+      "ipa": "/jɯm˥˥.ja˥˥/",
       "pron": "yum1 yaom1",
       "latinPron": "yúmyáom",
       "example": [],
@@ -23961,6 +25048,7 @@
           ]
         }
       ],
+      "ipa": "/nɯn˨˨.jɯm˥˥/",
       "pron": "nun2 yum1",
       "latinPron": "nùnyúm",
       "example": [],
@@ -23990,6 +25078,7 @@
           ]
         }
       ],
+      "ipa": "/ga˥˥/",
       "pron": "gai1",
       "latinPron": "gái",
       "example": [],
@@ -24019,6 +25108,7 @@
           ]
         }
       ],
+      "ipa": "/ga˥˥.ha˥˥/",
       "pron": "gai1 ha1",
       "latinPron": "gáihá",
       "example": [],
@@ -24048,6 +25138,7 @@
           ]
         }
       ],
+      "ipa": "/ga˥˥.tɯ˨˨/",
       "pron": "gai1 tua2",
       "latinPron": "gáitùa",
       "example": [],
@@ -24077,6 +25168,7 @@
           ]
         }
       ],
+      "ipa": "/ga˥˥.ja˥˥/",
       "pron": "gai1 yai1",
       "latinPron": "gáiyái",
       "example": [],
@@ -24119,6 +25211,7 @@
           ]
         }
       ],
+      "ipa": "/lɯ˥˥/",
       "pron": "lua1",
       "latinPron": "lúa",
       "example": [],
@@ -24158,6 +25251,7 @@
           ]
         }
       ],
+      "ipa": "/li˥˧.lɯ˥˥/",
       "pron": "ling3 lua1",
       "latinPron": "lînglúa",
       "example": [],
@@ -24187,6 +25281,7 @@
           ]
         }
       ],
+      "ipa": "/ka˨˨/",
       "pron": "kaom2",
       "latinPron": "kàom",
       "example": [],
@@ -24233,6 +25328,7 @@
           ]
         }
       ],
+      "ipa": "/ja˥˥.ka˨˨/",
       "pron": "yaom1 kaom2",
       "latinPron": "yáomkàom",
       "example": [],
@@ -24262,6 +25358,7 @@
           ]
         }
       ],
+      "ipa": "/ton˨˨.ja˥˥.ka˨˨/",
       "pron": "ton2 yaom1 kaom2",
       "latinPron": "tònyáomkàom",
       "example": [],
@@ -24295,6 +25392,7 @@
           ]
         }
       ],
+      "ipa": "/ga˨˨/",
       "pron": "gaim2",
       "latinPron": "gàim",
       "example": [],
@@ -24332,6 +25430,7 @@
           ]
         }
       ],
+      "ipa": "/tɯl˥˥/",
       "pron": "tul1",
       "latinPron": "túl",
       "example": [],
@@ -24353,6 +25452,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯl˥˥.tas˥˥/",
       "pron": "tul1 tas1",
       "latinPron": "túltás",
       "example": [],
@@ -24382,6 +25482,7 @@
           ]
         }
       ],
+      "ipa": "/tam˥˥/",
       "pron": "tam1",
       "latinPron": "tám",
       "example": [],
@@ -24419,6 +25520,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sa˥˧/",
       "pron": "cai3",
       "latinPron": "câi",
       "example": [],
@@ -24448,6 +25550,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sa˥˧.βas˥˥/",
       "pron": "cai3 vas1",
       "latinPron": "câivás",
       "example": [],
@@ -24477,6 +25580,7 @@
           ]
         }
       ],
+      "ipa": "/ba˨˨/",
       "pron": "bao2",
       "latinPron": "bào",
       "example": [],
@@ -24523,6 +25627,7 @@
           ]
         }
       ],
+      "ipa": "/βa˥˥/",
       "pron": "va1",
       "latinPron": "vá",
       "example": [],
@@ -24542,6 +25647,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˥.las˨˨/",
       "pron": "va1 las2",
       "latinPron": "vá'làs",
       "example": [],
@@ -24561,6 +25667,7 @@
         }
       ],
       "append": [],
+      "ipa": "/βa˥˥.gim˥˥/",
       "pron": "va1 gim1",
       "latinPron": "vágím",
       "example": [],
@@ -24589,6 +25696,7 @@
         }
       ],
       "append": [],
+      "ipa": "/li˥˧.βa˥˥/",
       "pron": "ling3 va1",
       "latinPron": "lîngvá",
       "example": [],
@@ -24625,6 +25733,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ja˥˧.βa˥˥/",
       "pron": "ya3 va1",
       "latinPron": "yâvá",
       "example": [],
@@ -24661,6 +25770,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥/",
       "pron": "hain1",
       "latinPron": "háin",
       "example": [],
@@ -24680,6 +25790,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒo˥˧.kɯ˥˥/",
       "pron": "jo3 ku1",
       "latinPron": "jôkú",
       "example": [],
@@ -24699,6 +25810,7 @@
         }
       ],
       "append": [],
+      "ipa": "/d͡ʒo˥˧.kɯ˥˥.dol˥˧/",
       "pron": "jo3 ku1 dol3",
       "latinPron": "jôkúdôl",
       "example": [],
@@ -24718,6 +25830,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ha˥˥.kɯ˥˥/",
       "pron": "hain1 ku1",
       "latinPron": "háinkú",
       "example": [],
@@ -24747,6 +25860,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sɛn˨˨/",
       "pron": "cen2",
       "latinPron": "cèn",
       "example": [],
@@ -24776,6 +25890,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sɛn˨˨.nɯm˨˨/",
       "pron": "cen2 num2",
       "latinPron": "cènnùm",
       "example": [],
@@ -24805,6 +25920,7 @@
           ]
         }
       ],
+      "ipa": "/t͡sɛn˨˨.mo˥˥/",
       "pron": "cen2 mo1",
       "latinPron": "cènmó",
       "example": [],
@@ -24843,6 +25959,7 @@
           ]
         }
       ],
+      "ipa": "/ʃa˨˨/",
       "pron": "xai2",
       "latinPron": "xài",
       "example": [],
@@ -24872,6 +25989,7 @@
           ]
         }
       ],
+      "ipa": "/ʃa˨˨.dɯ˥˥/",
       "pron": "xai2 duo1",
       "latinPron": "xàidúo",
       "example": [],
@@ -24909,6 +26027,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃa˥˧.dɯ˥˥/",
       "pron": "qai3 duo1",
       "latinPron": "qâidúo",
       "example": [],
@@ -24946,6 +26065,7 @@
           ]
         }
       ],
+      "ipa": "/ʃa˨˨.sa˨˨/",
       "pron": "xai2 sao2",
       "latinPron": "xài'sào",
       "example": [],
@@ -24975,6 +26095,7 @@
           ]
         }
       ],
+      "ipa": "/mɯl˨˨/",
       "pron": "mul2",
       "latinPron": "mùl",
       "example": [],
@@ -25004,6 +26125,7 @@
           ]
         }
       ],
+      "ipa": "/na˥˧/",
       "pron": "nao3",
       "latinPron": "nâo",
       "example": [],
@@ -25033,6 +26155,7 @@
           ]
         }
       ],
+      "ipa": "/na˥˧.pis˥˧/",
       "pron": "nao3 pis3",
       "latinPron": "nâopîs",
       "example": [],
@@ -25062,6 +26185,7 @@
           ]
         }
       ],
+      "ipa": "/si˥˥/",
       "pron": "si1",
       "latinPron": "sí",
       "example": [],
@@ -25097,6 +26221,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃi˥˥/",
       "pron": "qi1",
       "latinPron": "qí",
       "example": [],
@@ -25116,6 +26241,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃi˥˥.t͡ʃi˥˥/",
       "pron": "xing1 qi1",
       "latinPron": "xíngqí",
       "example": [],
@@ -25158,6 +26284,7 @@
           ]
         }
       ],
+      "ipa": "/ton˨˨/",
       "pron": "ton2",
       "latinPron": "tòn",
       "example": [],
@@ -25181,6 +26308,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ton˨˨.mɯ˥˥/",
       "pron": "ton2 mua1",
       "latinPron": "tònmúa",
       "example": [],
@@ -25210,6 +26338,7 @@
           ]
         }
       ],
+      "ipa": "/d͡ʒa˥˥/",
       "pron": "jao1",
       "latinPron": "jáo",
       "example": [],
@@ -25239,6 +26368,7 @@
           ]
         }
       ],
+      "ipa": "/d͡ʒa˥˥.si˥˥.d͡ʒa˥˧/",
       "pron": "jao1 sing1 jaim3",
       "latinPron": "jáo'síngjâim",
       "example": [],
@@ -25258,6 +26388,7 @@
         }
       ],
       "append": [],
+      "ipa": "/om˨˨/",
       "pron": "om2",
       "latinPron": "òm",
       "example": [],
@@ -25287,6 +26418,7 @@
           ]
         }
       ],
+      "ipa": "/dim˥˧/",
       "pron": "dim3",
       "latinPron": "dîm",
       "example": [],
@@ -25325,6 +26457,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃa˥˥.dim˥˧/",
       "pron": "qa1 dim3",
       "latinPron": "qádîm",
       "example": [],
@@ -25363,6 +26496,7 @@
           ]
         }
       ],
+      "ipa": "/ɸo˨˨.dol˥˧.t͡ʃa˥˥.dim˥˧/",
       "pron": "fo2 dol3 qa1 dim3",
       "latinPron": "fòdôlqádîm",
       "example": [],
@@ -25401,6 +26535,7 @@
           ]
         }
       ],
+      "ipa": "/ɛ˥˧.ɸo˨˨.dol˥˧.t͡ʃa˥˥.dim˥˧.ha˥˥/",
       "pron": "e3 fo2 dol3 qa1 dim3 ha1",
       "latinPron": "êfòdôlqádîmhá",
       "example": [],
@@ -25429,6 +26564,7 @@
         }
       ],
       "append": [],
+      "ipa": "/dim˥˧.nɛl˥˥/",
       "pron": "dim3 nel1",
       "latinPron": "dîmnél",
       "example": [],
@@ -25448,6 +26584,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ɸo˨˨/",
       "pron": "fo2",
       "latinPron": "fò",
       "example": [],
@@ -25486,6 +26623,7 @@
           ]
         }
       ],
+      "ipa": "/tɛl˥˥/",
       "pron": "tel1",
       "latinPron": "tél",
       "example": [],
@@ -25523,6 +26661,7 @@
           ]
         }
       ],
+      "ipa": "/gɯ˥˧/",
       "pron": "gua3",
       "latinPron": "gûa",
       "example": [],
@@ -25552,6 +26691,7 @@
           ]
         }
       ],
+      "ipa": "/za˨˨/",
       "pron": "zaos2",
       "latinPron": "zàos",
       "example": [],
@@ -25581,6 +26721,7 @@
           ]
         }
       ],
+      "ipa": "/lɛ˥˧/",
       "pron": "le3",
       "latinPron": "lê",
       "example": [],
@@ -25610,6 +26751,7 @@
           ]
         }
       ],
+      "ipa": "/ʃɛs˥˥/",
       "pron": "xes1",
       "latinPron": "xés",
       "example": [],
@@ -25629,6 +26771,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛs˥˥.bɛ˥˥/",
       "pron": "xes1 be1",
       "latinPron": "xésbé",
       "example": [],
@@ -25648,6 +26791,7 @@
         }
       ],
       "append": [],
+      "ipa": "/ʃɛs˥˥.ta˨˨/",
       "pron": "xes1 tang2",
       "latinPron": "xéstàng",
       "example": [],
@@ -25676,6 +26820,7 @@
         }
       ],
       "append": [],
+      "ipa": "/t͡si˨˨/",
       "pron": "ci2",
       "latinPron": "cì",
       "example": [],
@@ -25705,6 +26850,7 @@
           ]
         }
       ],
+      "ipa": "/no˥˧/",
       "pron": "no3",
       "latinPron": "nô",
       "example": [],
@@ -25733,6 +26879,7 @@
         }
       ],
       "append": [],
+      "ipa": "/no˥˧.t͡si˨˨/",
       "pron": "no3 ci2",
       "latinPron": "nôcì",
       "example": [],
@@ -25762,6 +26909,7 @@
           ]
         }
       ],
+      "ipa": "/zɯ˥˥/",
       "pron": "zuo1",
       "latinPron": "zúo",
       "example": [],
@@ -25791,6 +26939,7 @@
           ]
         }
       ],
+      "ipa": "/t͡ʃɯ˨˨/",
       "pron": "qua2",
       "latinPron": "qùa",
       "example": [],
@@ -25829,6 +26978,7 @@
           ]
         }
       ],
+      "ipa": "/ba˨˨/",
       "pron": "ba2",
       "latinPron": "bà",
       "example": [],
@@ -25848,6 +26998,7 @@
         }
       ],
       "append": [],
+      "ipa": "/sɯl˨˨/",
       "pron": "sul2",
       "latinPron": "sùl",
       "example": [],
@@ -25877,6 +27028,7 @@
           ]
         }
       ],
+      "ipa": "/pɯm˥˧/",
       "pron": "pum3",
       "latinPron": "pûm",
       "example": [],
@@ -25915,6 +27067,7 @@
           ]
         }
       ],
+      "ipa": "/ki˥˥.pɯm˥˧/",
       "pron": "ki1 pum3",
       "latinPron": "kípûm",
       "example": [],
@@ -25952,6 +27105,7 @@
         }
       ],
       "append": [],
+      "ipa": "/hin˨˨/",
       "pron": "hin2",
       "latinPron": "hìn",
       "example": [],
@@ -25981,6 +27135,7 @@
           ]
         }
       ],
+      "ipa": "/hin˨˨.ha˥˥/",
       "pron": "hin2 ha1",
       "latinPron": "hìnhá",
       "example": [],
@@ -26010,6 +27165,7 @@
           ]
         }
       ],
+      "ipa": "/hɯ˥˧/",
       "pron": "huan3",
       "latinPron": "hûan",
       "example": [],
@@ -26047,6 +27203,7 @@
           ]
         }
       ],
+      "ipa": "/ja˥˧/",
       "pron": "yai3",
       "latinPron": "yâi",
       "example": [],
@@ -26076,6 +27233,7 @@
           ]
         }
       ],
+      "ipa": "/zɛl˥˥/",
       "pron": "zel1",
       "latinPron": "zél",
       "example": [],
@@ -26105,6 +27263,7 @@
           ]
         }
       ],
+      "ipa": "/zɛl˥˥.gim˥˥/",
       "pron": "zel1 gim1",
       "latinPron": "zélgím",
       "example": [],
@@ -26133,6 +27292,7 @@
         }
       ],
       "append": [],
+      "ipa": "/tɯ˥˥/",
       "pron": "tuo1",
       "latinPron": "túo",
       "example": [],
@@ -26162,6 +27322,7 @@
           ]
         }
       ],
+      "ipa": "/tɯ˥˥.gɯ˥˧/",
       "pron": "tuo1 guo3",
       "latinPron": "túogûo",
       "example": [],
