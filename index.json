@@ -135,6 +135,15 @@
     "desc": "一片硬貨の裏の画像。"
   },
   {
+    "path": "img/abstract_uni.png",
+    "pathList": [
+      "img",
+      "abstract_uni.png"
+    ],
+    "title": "抽象的うに",
+    "desc": "抽象的なうに。"
+  },
+  {
     "path": "img/babel_index_logo.png",
     "pathList": [
       "img",
@@ -151,6 +160,15 @@
     ],
     "title": "雰絵文字 (草)",
     "desc": "雰字を図案化した絵文字。"
+  },
+  {
+    "path": "img/colexify.png",
+    "pathList": [
+      "img",
+      "colexify.png"
+    ],
+    "title": "ｺﾚｸｼﾌｬｲ!!!",
+    "desc": "colexify!"
   },
   {
     "path": "img/FesQai.png",
@@ -223,6 +241,42 @@
     ],
     "title": "かえるのロゴ (ス)",
     "desc": "反転・90°回転したかえるのアイコン。「ス」に見える。"
+  },
+  {
+    "path": "img/kpksptp.png",
+    "pathList": [
+      "img",
+      "kpksptp.png"
+    ],
+    "title": "kulupu pi kama sona pi toki pona",
+    "desc": "kulupu pi kama sona pi toki ponaのロゴ。"
+  },
+  {
+    "path": "img/matuli_ike.png",
+    "pathList": [
+      "img",
+      "matuli_ike.png"
+    ],
+    "title": "matuli ike",
+    "desc": "いけ祭り！"
+  },
+  {
+    "path": "img/matuli_pona.png",
+    "pathList": [
+      "img",
+      "matuli_pona.png"
+    ],
+    "title": "matuli pona",
+    "desc": "ぽな祭り！"
+  },
+  {
+    "path": "img/matuli_seli.png",
+    "pathList": [
+      "img",
+      "matuli seli"
+    ],
+    "title": "matuli seli",
+    "desc": "せり祭り！"
   },
   {
     "path": "img/MuosSao.png",
@@ -306,6 +360,15 @@
     "desc": "背景を透過した雰天国の国璽。"
   },
   {
+    "path": "img/phun_vais_125b.png",
+    "pathList": [
+      "img",
+      "phun_vais_125b.png"
+    ],
+    "title": "一二五乙・新年集集！",
+    "desc": "旭暦一二五乙年の新年会のロゴ。"
+  },
+  {
     "path": "img/Qon.png",
     "pathList": [
       "img",
@@ -324,6 +387,15 @@
     "desc": "雰字を図案化した絵文字。"
   },
   {
+    "path": "img/Tuokipona.png",
+    "pathList": [
+      "img",
+      "Tuokipona.png"
+    ],
+    "title": "TUOKIPONA",
+    "desc": "Tuoなトキポナ?"
+  },
+  {
     "path": "img/tuo_roll.gif",
     "pathList": [
       "img",
@@ -331,6 +403,15 @@
     ],
     "title": "ころが倫",
     "desc": "無限に転がるTuoはんこのGIFアニメ。"
+  },
+  {
+    "path": "img/tuu.png",
+    "pathList": [
+      "img",
+      "tuu.png"
+    ],
+    "title": "TUU",
+    "desc": "Tuo (9文字語)"
   },
   {
     "path": "img/vote_abstain.png",
