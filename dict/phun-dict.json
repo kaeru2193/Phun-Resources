@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-04-14T08:26:50.293Z",
+  "date": "2024-05-10T12:24:25.711Z",
   "data": [
     {
       "word": "人",
@@ -100,17 +100,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "最も一般的な一人称。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛ˥˧/",
       "pron": "xe3",
       "latinPron": "xê",
@@ -256,22 +246,13 @@
           "explanation": [
             {
               "translate": "食べ物。食事。",
-              "tag": []
+              "tag": [],
+              "meaning": "咀嚼して食べる物を指す。飲み物は含まない。調理の有無には関係なく、生野菜なども指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "咀嚼して食べる物を指す。飲み物は含まない。調理の有無には関係なく、生野菜なども指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/bɯa˥˥/",
       "pron": "bua1",
       "latinPron": "búa",
@@ -294,22 +275,13 @@
           "explanation": [
             {
               "translate": "果物。実。果実。",
-              "tag": []
+              "tag": [],
+              "meaning": "木などになる果実全般を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "木などになる果実全般を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/baon˨˨/",
       "pron": "baon2",
       "latinPron": "bàon",
@@ -328,22 +300,13 @@
             },
             {
               "translate": "りんご。",
-              "tag": []
+              "tag": [],
+              "meaning": "食べ頃の果実全般を指すが、特にりんごを指す場合も多い。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "食べ頃の果実全般を指すが、特にりんごを指す場合も多い。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βɯos˥˥.baon˨˨/",
       "pron": "vuos1 baon2",
       "latinPron": "vúosbàon",
@@ -552,22 +515,13 @@
           "explanation": [
             {
               "translate": "草。植物。雑草。",
-              "tag": []
+              "tag": [],
+              "meaning": "地面から生える短い植物の総称。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "地面から生える短い植物の総称。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sai˥˥/",
       "pron": "cai1",
       "latinPron": "cái",
@@ -643,22 +597,13 @@
             },
             {
               "translate": "星。天体。",
-              "tag": []
+              "tag": [],
+              "meaning": "惑星や衛星、恒星などをまとめて指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "星としては惑星や衛星、恒星などをまとめて指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βas˥˥/",
       "pron": "vas1",
       "latinPron": "vás",
@@ -913,21 +858,13 @@
           "explanation": [
             {
               "translate": "宇宙。ユニバース。",
-              "tag": []
+              "tag": [],
+              "meaning": "永球を含めた雰宇宙の全てを指す。"
             }
           ]
         }
       ],
       "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "永球を含めた雰宇宙の全てを指す。",
-              "tag": []
-            }
-          ]
-        },
         {
           "type": "世界観",
           "explanation": [
@@ -1248,7 +1185,8 @@
           "explanation": [
             {
               "translate": "話す。会話する。",
-              "tag": []
+              "tag": [],
+              "meaning": "複数人での会話を指す。一人での呟きなどは指さない。"
             }
           ]
         },
@@ -1262,17 +1200,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "複数人での会話を指す。一人での呟きなどは指さない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/bɯn˨˨/",
       "pron": "bun2",
       "latinPron": "bùn",
@@ -1478,22 +1406,13 @@
           "explanation": [
             {
               "translate": "上がる。上げる。",
-              "tag": []
+              "tag": [],
+              "meaning": "上方向に移動することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "上方向に移動することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jaom˥˥.liŋ˥˧/",
       "pron": "yaom1 ling3",
       "latinPron": "yáomlîng",
@@ -1537,22 +1456,13 @@
           "explanation": [
             {
               "translate": "下がる。下げる。",
-              "tag": []
+              "tag": [],
+              "meaning": "下方向に移動することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "下方向に移動することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jaom˥˥.ja˥˧/",
       "pron": "yaom1 ya3",
       "latinPron": "yáomyâ",
@@ -2121,22 +2031,13 @@
           "explanation": [
             {
               "translate": "現在。今の状態。",
-              "tag": []
+              "tag": [],
+              "meaning": "時間軸をある特定の基準で区切ったときの「現在」の部分を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "時間軸をある特定の基準で区切ったときの「現在」の部分を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɯa˥˥.tɯa˨˨/",
       "pron": "kua1 tua2",
       "latinPron": "kúatùa",
@@ -2199,22 +2100,13 @@
           "explanation": [
             {
               "translate": "この旬。今旬。",
-              "tag": []
+              "tag": [],
+              "meaning": "旭暦における今の旬を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "旭暦における今の旬を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɯa˥˥.gaos˥˥/",
       "pron": "kua1 gaos1",
       "latinPron": "kúagáos",
@@ -2229,22 +2121,13 @@
           "explanation": [
             {
               "translate": "この季。今季。",
-              "tag": []
+              "tag": [],
+              "meaning": "旭暦における今の季を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "旭暦における今の季を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɯa˥˥.βai˥˧/",
       "pron": "kua1 vai3",
       "latinPron": "kúavâi",
@@ -2288,22 +2171,13 @@
           "explanation": [
             {
               "translate": "～してある。～されている。",
-              "tag": []
+              "tag": [],
+              "meaning": "ある動作による結果が持続している状態を表す。例えば、「肉を切ってある」を「在刃肉」と表せる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "副詞としては、ある動作による結果が持続している状態を表す。例えば、「肉を切ってある」を「在刃肉」と表せる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/sɯo˨˨/",
       "pron": "suo2",
       "latinPron": "sùo",
@@ -2318,21 +2192,13 @@
           "explanation": [
             {
               "translate": "ある。いる。存在する。",
-              "tag": []
+              "tag": [],
+              "meaning": "話者から見て、その場に存在することを指す。"
             }
           ]
         }
       ],
       "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "話者から見て、その場に存在することを指す。",
-              "tag": []
-            }
-          ]
-        },
         {
           "type": "文法",
           "explanation": [
@@ -2474,22 +2340,13 @@
           "explanation": [
             {
               "translate": "アナログ時計。クロック。",
-              "tag": []
+              "tag": [],
+              "meaning": "日時計やアナログ時計など、平たい形をした時計を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "日時計やアナログ時計など、平たい形をした時計を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tɯa˨˨.ʃɯ˥˥/",
       "pron": "tua2 xu1",
       "latinPron": "tùaxú",
@@ -2699,22 +2556,13 @@
           "explanation": [
             {
               "translate": "飛ぶ。",
-              "tag": []
+              "tag": [],
+              "meaning": "陸上において、地面から離れた状態で移動することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "陸上において、地面から離れた状態で移動することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dail˨˨/",
       "pron": "dail2",
       "latinPron": "dàil",
@@ -2801,22 +2649,13 @@
           "explanation": [
             {
               "translate": "山。地面が大きく盛り上がった地形。",
-              "tag": []
+              "tag": [],
+              "meaning": "頂上が存在する、単一の山岳を指すことが多い。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "頂上が存在する、単一の山岳を指すことが多い。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/das˥˥/",
       "pron": "das1",
       "latinPron": "dás",
@@ -2839,22 +2678,13 @@
           "explanation": [
             {
               "translate": "山脈。山岳地帯。",
-              "tag": []
+              "tag": [],
+              "meaning": "山岳が連なった地形。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "山岳が連なった地形。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/das˥˥.gan˨˨/",
       "pron": "das1 gan2",
       "latinPron": "dásgàn",
@@ -2951,22 +2781,13 @@
           "explanation": [
             {
               "translate": "もしかすると。もしかしたら。ひょっとすると。もしや。あるいは。～かもしれない。",
-              "tag": []
+              "tag": [],
+              "meaning": "可能性が低い仮定などの状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "可能性が低い仮定などの状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/sao˨˨.ʃos˨˨/",
       "pron": "sao2 xos2",
       "latinPron": "sàoxòs",
@@ -3199,22 +3020,13 @@
           "explanation": [
             {
               "translate": "今。まさに今。丁度。",
-              "tag": []
+              "tag": [],
+              "meaning": "「～している」のような、進行相に相当する状態を表す。また、英語のように継続する習慣を指すことはない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "「～している」のような、進行相に相当する状態を表す。また、英語のように継続する習慣を指すことはない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βaim˥˥/",
       "pron": "vaim1",
       "latinPron": "váim",
@@ -3376,6 +3188,27 @@
       "ipa": "/gɯa˥˥.lɯoŋ˥˧/",
       "pron": "gua1 luong3",
       "latinPron": "gúa'lûong",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "飛憤",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "爆発する。破裂する。",
+              "tag": [],
+              "meaning": "急激な圧力によって物体が内部から破壊される現象。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dail˨˨.gɯa˥˥/",
+      "pron": "dail2 gua1",
+      "latinPron": "dàilgúa",
       "example": [],
       "num": "-"
     },
@@ -3728,22 +3561,13 @@
           "explanation": [
             {
               "translate": "（文の）章。セクション。段落。",
-              "tag": []
+              "tag": [],
+              "meaning": "文章の中で、内容のまとまりがある一部分。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "文章の中で、内容のまとまりがある一部分。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sɯaŋ˨˨.pi˥˥/",
       "pron": "cuang2 pi1",
       "latinPron": "cùangpí",
@@ -3858,22 +3682,13 @@
           "explanation": [
             {
               "translate": "句助詞。",
-              "tag": []
+              "tag": [],
+              "meaning": "句の区切りを表す助詞。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "句の区切りを表す助詞。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɛm˥˥/",
       "pron": "kem1",
       "latinPron": "kém",
@@ -3994,22 +3809,13 @@
           "explanation": [
             {
               "translate": "ごめんなさい。すみません。ごめん。",
-              "tag": []
+              "tag": [],
+              "meaning": "最も一般的な謝罪表現であり、主に対等な立場の相手に使われる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "最も一般的な謝罪表現であり、主に対等な立場の相手に使われる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hɛ˨˨.tɯo˨˨/",
       "pron": "he2 tuo2",
       "latinPron": "hètùo",
@@ -4113,21 +3919,13 @@
           "explanation": [
             {
               "translate": "足つぼマット。",
-              "tag": []
+              "tag": [],
+              "meaning": "足の裏をマッサージするために使う突起のついたマット。"
             }
           ]
         }
       ],
       "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "足の裏をマッサージするために使う突起のついたマット。",
-              "tag": []
-            }
-          ]
-        },
         {
           "type": "感想",
           "explanation": [
@@ -4676,7 +4474,8 @@
           "explanation": [
             {
               "translate": "切る。分ける。分割する。",
-              "tag": []
+              "tag": [],
+              "meaning": "完全に切断することを指す。"
             },
             {
               "translate": "割る。除算する。",
@@ -4685,17 +4484,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "完全に切断することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/na˥˥/",
       "pron": "na1",
       "latinPron": "ná",
@@ -5184,22 +4973,13 @@
           "explanation": [
             {
               "translate": "生まれる。生える。誕生する。",
-              "tag": []
+              "tag": [],
+              "meaning": "生物などが誕生することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "生物などが誕生することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zai˥˧/",
       "pron": "zai3",
       "latinPron": "zâi",
@@ -5509,7 +5289,8 @@
           "explanation": [
             {
               "translate": "場所。土地。地。敷地。ところ。",
-              "tag": []
+              "tag": [],
+              "meaning": "漠然とした「場所」を表すために使われる、意味範囲の広い単語。"
             }
           ]
         },
@@ -5518,31 +5299,13 @@
           "explanation": [
             {
               "translate": "支配する。統べる。統制する。まとめる。",
-              "tag": []
+              "tag": [],
+              "meaning": "動詞としては、組織の長が下の者を従わせることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "漠然とした「場所」を表すために使われる、意味範囲の広い単語。",
-              "tag": []
-            }
-          ]
-        },
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動詞としては、組織の長が下の者を従わせることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ba˥˥/",
       "pron": "ba1",
       "latinPron": "bá",
@@ -5565,22 +5328,13 @@
           "explanation": [
             {
               "translate": "管理する。管轄する。統制する。取り仕切る。",
-              "tag": []
+              "tag": [],
+              "meaning": "団体や集団を監督すること。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "団体や集団を監督すること。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ba˥˥.gao˨˨/",
       "pron": "ba1 gao2",
       "latinPron": "bágào",
@@ -5595,22 +5349,13 @@
           "explanation": [
             {
               "translate": "管理者。管理人。オーナー。",
-              "tag": []
+              "tag": [],
+              "meaning": "組織や施設を管理している人。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "組織や施設を管理している人。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ba˥˥.gao˨˨.ha˥˥/",
       "pron": "ba1 gao2 ha1",
       "latinPron": "bágàohá",
@@ -5625,22 +5370,13 @@
           "explanation": [
             {
               "translate": "統一する。統べる。征服する。",
-              "tag": []
+              "tag": [],
+              "meaning": "複数の国や地域をまとめ上げることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "複数の国や地域をまとめ上げることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/om˨˨.ba˥˥/",
       "pron": "om2 ba1",
       "latinPron": "òmbá",
@@ -5655,22 +5391,13 @@
           "explanation": [
             {
               "translate": "方言。訛り。",
-              "tag": []
+              "tag": [],
+              "meaning": "言語の系統に関係なく、翻訳を介さずに意図が伝わる程度の言語変種を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "言語の系統に関係なく、翻訳を介さずに意図が伝わる程度の言語変種を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ba˥˥.t͡sai˨˨/",
       "pron": "ba1 cai2",
       "latinPron": "bácài",
@@ -6011,22 +5738,13 @@
           "explanation": [
             {
               "translate": "統治する。治める。",
-              "tag": []
+              "tag": [],
+              "meaning": "国や組織を秩序によって安定させる行為を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動詞としては、国や組織を秩序によって安定させる行為を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/pɛ˨˨/",
       "pron": "pe2",
       "latinPron": "pè",
@@ -6207,17 +5925,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "前置詞としては、句を形成して主語の代わりとして用いることが出来る。主に受動文の主語として使われる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hɯ˥˧/",
       "pron": "hu3",
       "latinPron": "hû",
@@ -6304,14 +6012,41 @@
               "tag": []
             }
           ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "中立の存在。中間の存在。標準的な存在。",
+              "tag": []
+            }
+          ]
         }
       ],
-      "append": [],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "12進法における中央の数であることから、「中間」という語義も持つ。ただし[六]のみでこの意味を表すことは基本的になく、多くは熟語として現れる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
       "ipa": "/lis˥˧/",
       "pron": "lis3",
       "latinPron": "lîs",
       "example": [],
-      "num": "120"
+      "num": "120",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "平六"
+          ]
+        }
+      ]
     },
     {
       "word": "好",
@@ -6321,22 +6056,13 @@
           "explanation": [
             {
               "translate": "好く。好む。",
-              "tag": []
+              "tag": [],
+              "meaning": "ある物事に対して魅力を感じること。恋愛感情は含意しない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "ある物事に対して魅力を感じること。恋愛感情は含意しない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɛ˥˧/",
       "pron": "e3",
       "latinPron": "ê",
@@ -6351,22 +6077,13 @@
           "explanation": [
             {
               "translate": "愛好家。マニア。～好き。オタク。",
-              "tag": []
+              "tag": [],
+              "meaning": "特定の事物に対して用いる場合、「好～人」のような形を使う。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "特定の事物に対して用いる場合、「好～人」のような形を使う。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɛ˥˧.ha˥˥/",
       "pron": "e3 ha1",
       "latinPron": "êhá",
@@ -6381,22 +6098,13 @@
           "explanation": [
             {
               "translate": "作る。造る。創る。生み出す。",
-              "tag": []
+              "tag": [],
+              "meaning": "人などが能動的に何かを作り出すことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "人などが能動的に何かを作り出すことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/him˨˨/",
       "pron": "him2",
       "latinPron": "hìm",
@@ -6499,22 +6207,13 @@
           "explanation": [
             {
               "translate": "動物。獣。",
-              "tag": []
+              "tag": [],
+              "meaning": "特に陸生哺乳類を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "特に陸生哺乳類を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jol˥˥/",
       "pron": "yol1",
       "latinPron": "yól",
@@ -6562,22 +6261,13 @@
           "explanation": [
             {
               "translate": "肉。",
-              "tag": []
+              "tag": [],
+              "meaning": "（主に）食用にする生物の組織。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "（主に）食用にする生物の組織。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/naŋ˨˨/",
       "pron": "nang2",
       "latinPron": "nàng",
@@ -6709,7 +6399,8 @@
           "explanation": [
             {
               "translate": "回転する。回る。",
-              "tag": []
+              "tag": [],
+              "meaning": "コマのように軸を中心に回る運動を指す。"
             }
           ]
         },
@@ -6732,17 +6423,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "コマのように軸を中心に回る運動を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/pɛl˥˥/",
       "pron": "pel1",
       "latinPron": "pél",
@@ -6777,7 +6458,8 @@
           "explanation": [
             {
               "translate": "年。1年。",
-              "tag": []
+              "tag": [],
+              "meaning": "永球において季節が一周する時間単位。永球の公転周期。また、ある紀年法で始点より経過した年数を書くときにも使われる。"
             },
             {
               "translate": "年齢。",
@@ -6787,15 +6469,6 @@
         }
       ],
       "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "永球において季節が一周する時間単位。永球の公転周期。また、ある紀年法で始点より経過した年数を書くときにも使われる。",
-              "tag": []
-            }
-          ]
-        },
         {
           "type": "世界観",
           "explanation": [
@@ -6854,17 +6527,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "元素名につく接尾語としても使われる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/d͡ʒaim˥˧/",
       "pron": "jaim3",
       "latinPron": "jâim",
@@ -7219,22 +6882,13 @@
           "explanation": [
             {
               "translate": "豚。",
-              "tag": []
+              "tag": [],
+              "meaning": "現界の豚に類似した、おいしい肉が取れる食用の家畜。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "現界の豚に類似した、おいしい肉が取れる食用の家畜。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛ˥˥/",
       "pron": "xe1",
       "latinPron": "xé",
@@ -7282,22 +6936,13 @@
             },
             {
               "translate": "線。ライン。",
-              "tag": []
+              "tag": [],
+              "meaning": "細長く連続するもの。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "細長く連続するもの。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/las˨˨/",
       "pron": "las2",
       "latinPron": "làs",
@@ -7312,22 +6957,13 @@
           "explanation": [
             {
               "translate": "三角形。トライアングル。",
-              "tag": []
+              "tag": [],
+              "meaning": "三本の線分と三つの角からなる多角形。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "三本の線分と三つの角からなる多角形。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gaol˥˧.las˨˨.dai˥˧/",
       "pron": "gaol3 las2 dai3",
       "latinPron": "gâollàsdâi",
@@ -7342,22 +6978,13 @@
           "explanation": [
             {
               "translate": "正三角形。",
-              "tag": []
+              "tag": [],
+              "meaning": "三辺の長さが等しい三角形。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "三辺の長さが等しい三角形。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/mɯos˥˧.gaol˥˧.las˨˨.dai˥˧/",
       "pron": "muos3 gaol3 las2 dai3",
       "latinPron": "mûosgâollàsdâi",
@@ -7372,22 +6999,13 @@
           "explanation": [
             {
               "translate": "四角形。スクエア。",
-              "tag": []
+              "tag": [],
+              "meaning": "四本の線分と四つの角からなる多角形。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "四本の線分と四つの角からなる多角形。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɸai˥˥.las˨˨.dai˥˧/",
       "pron": "fai1 las2 dai3",
       "latinPron": "fái'làsdâi",
@@ -7402,22 +7020,13 @@
           "explanation": [
             {
               "translate": "五角形。ペンタゴン。",
-              "tag": []
+              "tag": [],
+              "meaning": "五本の線分と五つの角からなる多角形。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "五本の線分と五つの角からなる多角形。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɯoŋ˥˥.las˨˨.dai˥˧/",
       "pron": "luong1 las2 dai3",
       "latinPron": "lúonglàsdâi",
@@ -7589,22 +7198,13 @@
           "explanation": [
             {
               "translate": "稲。稲穂。イネ。",
-              "tag": []
+              "tag": [],
+              "meaning": "米がたくさんついた植物。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "米がたくさんついた植物。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛ˨˨/",
       "pron": "xe2",
       "latinPron": "xè",
@@ -7627,22 +7227,13 @@
           "explanation": [
             {
               "translate": "米。ダオ。ライス。",
-              "tag": []
+              "tag": [],
+              "meaning": "現界の米に類似した、楼岑州で主に主食とされる穀物。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "現界の米に類似した、楼岑州で主に主食とされる穀物。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dao˥˧/",
       "pron": "dao3",
       "latinPron": "dâo",
@@ -7717,22 +7308,13 @@
           "explanation": [
             {
               "translate": "粒。",
-              "tag": []
+              "tag": [],
+              "meaning": "小さい物体。単数を指すことが多い。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "小さい物体。単数を指すことが多い。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dɯol˨˨/",
       "pron": "duol2",
       "latinPron": "dùol",
@@ -7767,22 +7349,13 @@
           "explanation": [
             {
               "translate": "立つ。",
-              "tag": []
+              "tag": [],
+              "meaning": "支えなしでも倒れたり崩れたりしない状態。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "支えなしでも倒れたり崩れたりしない状態。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃɯo˥˧/",
       "pron": "quo3",
       "latinPron": "qûo",
@@ -7875,22 +7448,13 @@
           "explanation": [
             {
               "translate": "不満。クレーム。苦情。",
-              "tag": []
+              "tag": [],
+              "meaning": "納得できないことや不公平なことに対しての怒り。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "納得できないことや不公平なことに対しての怒り。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gon˨˨.gɯa˥˥/",
       "pron": "gon2 gua1",
       "latinPron": "gòngúa",
@@ -8052,22 +7616,13 @@
           "explanation": [
             {
               "translate": "惑星。",
-              "tag": []
+              "tag": [],
+              "meaning": "恒星の周りを回る十分に大きい天体。灼陽系には8つが存在する。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "恒星の周りを回る十分に大きい天体。灼陽系には8つが存在する。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dao˥˥.βas˥˥/",
       "pron": "dao1 vas1",
       "latinPron": "dáovás",
@@ -8213,22 +7768,13 @@
           "explanation": [
             {
               "translate": "いきなり。突然に。急に。",
-              "tag": []
+              "tag": [],
+              "meaning": "考えになかった出来事が起こることを指す。出来事が短い時間で起こったかは含意しない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "考えになかった出来事が起こることを指す。出来事が短い時間で起こったかは含意しない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/go˥˧.tɯ˨˨/",
       "pron": "go3 tu2",
       "latinPron": "gôtù",
@@ -8263,7 +7809,8 @@
           "explanation": [
             {
               "translate": "横断する。越える。超える。",
-              "tag": []
+              "tag": [],
+              "meaning": "幅のある場所や時間を通り抜けることを指す。そのため、「（川を）越える」は[越]、「（国境を）越える」は[跨]と訳される。"
             },
             {
               "translate": "飛ばす。省く。スキップする。",
@@ -8281,17 +7828,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動詞として用いる場合、幅のある場所や時間を通り抜けることを指す。そのため、「（川を）越える」は[越]、「（国境を）越える」は[跨]と訳される。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βɯa˥˥/",
       "pron": "vua1",
       "latinPron": "vúa",
@@ -8423,22 +7960,13 @@
           "explanation": [
             {
               "translate": "皿。",
-              "tag": []
+              "tag": [],
+              "meaning": "料理を盛る平たい食器。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "料理を盛る平たい食器。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/pɯaŋ˥˥/",
       "pron": "puang1",
       "latinPron": "púang",
@@ -8473,22 +8001,13 @@
           "explanation": [
             {
               "translate": "基盤。土台。ボード。",
-              "tag": []
+              "tag": [],
+              "meaning": "何かの基になる土台。形状や大きさは問わない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "何かの基になる土台。形状や大きさは問わない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɯ˥˥/",
       "pron": "xu1",
       "latinPron": "xú",
@@ -8531,22 +8050,13 @@
           "explanation": [
             {
               "translate": "軍盤。",
-              "tag": []
+              "tag": [],
+              "meaning": "雰国で広く遊ばれる伝統的なボードゲーム。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "雰国で広く遊ばれる伝統的なボードゲーム。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɯŋ˥˧.ʃɯ˥˥/",
       "pron": "xung3 xu1",
       "latinPron": "xûngxú",
@@ -8699,22 +8209,13 @@
           "explanation": [
             {
               "translate": "風邪。熱。",
-              "tag": []
+              "tag": [],
+              "meaning": "様々な感染症を纏めて言う言葉。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "様々な感染症を纏めて言う言葉。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/sɯo˥˧.t͡sɯn˥˥/",
       "pron": "suo3 cun1",
       "latinPron": "sûocún",
@@ -8749,22 +8250,13 @@
           "explanation": [
             {
               "translate": "大河。",
-              "tag": []
+              "tag": [],
+              "meaning": "川の中でも特に幅が広く水量が多いもの。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "川の中でも特に幅が広く水量が多いもの。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dɯa˥˥.hɯo˨˨/",
       "pron": "dua1 huo2",
       "latinPron": "dúahùo",
@@ -8779,22 +8271,13 @@
           "explanation": [
             {
               "translate": "台地。高地。丘。",
-              "tag": []
+              "tag": [],
+              "meaning": "一つの山に限定せず、広範囲が周りより高くなっているような地形を主に指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "一つの山に限定せず、広範囲が周りより高くなっているような地形を主に指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zo˥˧/",
       "pron": "zo3",
       "latinPron": "zô",
@@ -8817,22 +8300,13 @@
           "explanation": [
             {
               "translate": "高野。高原。",
-              "tag": []
+              "tag": [],
+              "meaning": "標高が高い場所にある平野。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "標高が高い場所にある平野。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛm˥˥.zo˥˧/",
       "pron": "xem1 zo3",
       "latinPron": "xémzô",
@@ -8916,22 +8390,13 @@
           "explanation": [
             {
               "translate": "布。シート。フィルム。",
-              "tag": []
+              "tag": [],
+              "meaning": "薄く曲げることのできる物体。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "薄く曲げることのできる物体。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jɛ˥˥/",
       "pron": "ye1",
       "latinPron": "yé",
@@ -9128,22 +8593,13 @@
             },
             {
               "translate": "留まる。待つ。滞在する。ステイする。",
-              "tag": []
+              "tag": [],
+              "meaning": "一定時間に渡って一箇所に留まることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "一定時間に渡って一箇所に留まることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ma˥˧/",
       "pron": "ma3",
       "latinPron": "mâ",
@@ -9206,22 +8662,13 @@
           "explanation": [
             {
               "translate": "おめでとう。",
-              "tag": []
+              "tag": [],
+              "meaning": "褒め言葉。字の通り「何かを成し遂げた」ときに使う語。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "褒め言葉。字の通り「何かを成し遂げた」ときに使う語。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɯs˥˧.ɸɛs˨˨.hil˥˧/",
       "pron": "kus3 fes2 hil3",
       "latinPron": "kûsfèshîl",
@@ -9236,22 +8683,13 @@
           "explanation": [
             {
               "translate": "おめでとう。おめでとうございます。",
-              "tag": []
+              "tag": [],
+              "meaning": "祝いの挨拶。相手の身に喜ばしいことがあったときに使う挨拶。目上から対等まで幅広く使える。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "祝いの挨拶。相手の身に喜ばしいことがあったときに使う挨拶。目上から対等まで幅広く使える。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hai˨˨.nɯo˨˨.nɯ˥˧/",
       "pron": "hai2 nuo2 nu3",
       "latinPron": "hài'nùo'nû",
@@ -9583,17 +9021,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "代名詞としては、目上の相手に対して使う二人称。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hao˨˨/",
       "pron": "hao2",
       "latinPron": "hào",
@@ -9733,10 +9161,10 @@
           ]
         },
         {
-          "type": "名詞",
+          "type": "接尾辞",
           "explanation": [
             {
-              "translate": "～回。繰り返される事象の数を表す接尾辞。",
+              "translate": "～回。繰り返される事象の数を表す。",
               "tag": []
             }
           ]
@@ -9796,7 +9224,8 @@
           "explanation": [
             {
               "translate": "あ。あー。",
-              "tag": []
+              "tag": [],
+              "meaning": "驚きや感嘆の感情表現。"
             }
           ]
         },
@@ -9810,17 +9239,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "驚きや感嘆の感情。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/a˥˧/",
       "pron": "a3",
       "latinPron": "â",
@@ -9904,7 +9323,8 @@
           "explanation": [
             {
               "translate": "人が少ない。無人の。閑静な。静かな。",
-              "tag": []
+              "tag": [],
+              "meaning": "人気がない様子を指す。"
             }
           ]
         },
@@ -9918,17 +9338,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "人気がない様子を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/waiŋ˥˥/",
       "pron": "waing1",
       "latinPron": "wáing",
@@ -9943,22 +9353,13 @@
           "explanation": [
             {
               "translate": "お断りします。ご遠慮します。",
-              "tag": []
+              "tag": [],
+              "meaning": "比較的フォーマルな断りの表現。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "比較的フォーマルな断りの表現。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛ˥˧.waiŋ˥˥.t͡sɛn˥˥/",
       "pron": "xe3 waing1 cen1",
       "latinPron": "xêwáingcén",
@@ -10030,22 +9431,13 @@
           "explanation": [
             {
               "translate": "絶対に。確実に。必ず。",
-              "tag": []
+              "tag": [],
+              "meaning": "話し手が真であると確信している状態を表す。肯定文にも否定文にも使うことが出来る。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "話し手が真であると確信している状態を表す。肯定文にも否定文にも使うことが出来る。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ao˥˥.lɯa˥˧/",
       "pron": "ao1 lua3",
       "latinPron": "áo'lûa",
@@ -10339,22 +9731,13 @@
           "explanation": [
             {
               "translate": "見本。模型。サンプル。バックアップ。レプリカ。",
-              "tag": []
+              "tag": [],
+              "meaning": "何らかの用途で複製した、本物とは異なるもの。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "何らかの用途で複製した、本物とは異なるもの。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hɛs˨˨.sɯa˥˥/",
       "pron": "hes2 sua1",
       "latinPron": "hèssúa",
@@ -10568,22 +9951,13 @@
           "explanation": [
             {
               "translate": "陽教。",
-              "tag": []
+              "tag": [],
+              "meaning": "雰国で主に信仰されている宗教。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "雰国で主に信仰されている宗教。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/mi˥˥.mai˥˥/",
       "pron": "mi1 mai1",
       "latinPron": "mí'mái",
@@ -10598,22 +9972,13 @@
           "explanation": [
             {
               "translate": "清潔な。綺麗な。きれいな。清い。衛生的な。",
-              "tag": []
+              "tag": [],
+              "meaning": "病気などを引き起こす原因にならない状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "病気などを引き起こす原因にならない状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/d͡ʒai˥˥/",
       "pron": "jai1",
       "latinPron": "jái",
@@ -10914,22 +10279,13 @@
           "explanation": [
             {
               "translate": "泡。気泡。あぶく。バブル。",
-              "tag": []
+              "tag": [],
+              "meaning": "液体などの中で上に向かって浮上する空気の塊。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "液体などの中で上に向かって浮上する空気の塊。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/sɛ˥˧/",
       "pron": "se3",
       "latinPron": "sê",
@@ -11341,22 +10697,13 @@
           "explanation": [
             {
               "translate": "包む。蓋をする。密閉する。",
-              "tag": []
+              "tag": [],
+              "meaning": "3次元的に隙間なく閉じることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "3次元的に隙間なく閉じることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/bɯos˥˥/",
       "pron": "buos1",
       "latinPron": "búos",
@@ -11379,22 +10726,13 @@
           "explanation": [
             {
               "translate": "封じる。封入する。閉じ込める。封じ込める。封印する。",
-              "tag": []
+              "tag": [],
+              "meaning": "出入り口などを塞ぎ、対象をある場所から出られない状況にすることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "出入り口などを塞ぎ、対象をある場所から出られない状況にすることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/bɯos˥˥.d͡ʒɯom˥˥/",
       "pron": "buos1 juom1",
       "latinPron": "búosjúom",
@@ -11609,7 +10947,8 @@
           "explanation": [
             {
               "translate": "作られる。生み出される。できる。発生する。",
-              "tag": []
+              "tag": [],
+              "meaning": "意識に関係なく、自然に作られることを指す。"
             }
           ]
         },
@@ -11623,17 +10962,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "意識に関係なく、自然に作られることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɛs˥˧/",
       "pron": "les3",
       "latinPron": "lês",
@@ -12961,7 +12290,7 @@
       "num": "-"
     },
     {
-      "word": "雷力車",
+      "word": "雷働力車",
       "mean": [
         {
           "type": "名詞",
@@ -12974,9 +12303,9 @@
         }
       ],
       "append": [],
-      "ipa": "/main˨˨.nai˨˨.jɛ˥˧/",
-      "pron": "main2 nai2 ye3",
-      "latinPron": "màinnàiyê",
+      "ipa": "/main˨˨.kaiŋ˥˥.nai˨˨.jɛ˥˧/",
+      "pron": "main2 kaing1 nai2 ye3",
+      "latinPron": "màinkáingnàiyê",
       "example": [],
       "num": "-"
     },
@@ -12988,22 +12317,13 @@
           "explanation": [
             {
               "translate": "鉄道。電車。汽車。機関車。",
-              "tag": []
+              "tag": [],
+              "meaning": "線路に沿って走る大型の車両を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "線路に沿って走る大型の車両を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gim˥˥.jɛ˥˧/",
       "pron": "gim1 ye3",
       "latinPron": "gímyê",
@@ -13078,22 +12398,13 @@
           "explanation": [
             {
               "translate": "機械。マシーン。",
-              "tag": []
+              "tag": [],
+              "meaning": "何らかの仕組みで動く道具。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "何らかの仕組みで動く道具。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ail˨˨/",
       "pron": "ail2",
       "latinPron": "àil",
@@ -13328,22 +12639,13 @@
           "explanation": [
             {
               "translate": "机。デスク。テーブル。カウンター。",
-              "tag": []
+              "tag": [],
+              "meaning": "上半身の高さで使う様々な用途の台を指す。高さと直接的には関係ないため、座った状態で使う低い机もこれに該当する。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "上半身の高さで使う様々な用途の台を指す。高さと直接的には関係ないため、座った状態で使う低い机もこれに該当する。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/las˥˧/",
       "pron": "las3",
       "latinPron": "lâs",
@@ -13366,22 +12668,13 @@
           "explanation": [
             {
               "translate": "座席。椅子。台。踏み台。",
-              "tag": []
+              "tag": [],
+              "meaning": "下半身を乗せるための台を包括的に指す。椅子や座布団、ベッドなどが含まれる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "下半身を乗せるための台を包括的に指す。椅子や座布団、ベッドなどが含まれる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɯo˥˧/",
       "pron": "luo3",
       "latinPron": "lûo",
@@ -13404,22 +12697,13 @@
           "explanation": [
             {
               "translate": "踏み台。足場。",
-              "tag": []
+              "tag": [],
+              "meaning": "高い場所のものを取ったりするために足場として使う存在を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "高い場所のものを取ったりするために足場として使う存在を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃɯo˥˧.lɯo˥˧/",
       "pron": "quo3 luo3",
       "latinPron": "qûo'lûo",
@@ -13832,22 +13116,13 @@
           "explanation": [
             {
               "translate": "言う。喋る。呟く。",
-              "tag": []
+              "tag": [],
+              "meaning": "一人で呟いたり、意味のない声を出したりする様子。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "一人で呟いたり、意味のない声を出したりする様子。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/wɛ˨˨/",
       "pron": "we2",
       "latinPron": "wè",
@@ -14123,22 +13398,13 @@
           "explanation": [
             {
               "translate": "知らせる。伝える。広める。流布する。広く知らせる。",
-              "tag": []
+              "tag": [],
+              "meaning": "特定の人物に限らず、広範囲へ事柄を広めることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "特定の人物に限らず、広範囲へ事柄を広めることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βɯl˥˧/",
       "pron": "vul3",
       "latinPron": "vûl",
@@ -14385,7 +13651,16 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "働く。～のために働く。～に貢献する。",
+              "translate": "働く。労働する。動作する。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "接尾辞",
+          "explanation": [
+            {
+              "translate": "～動の。～動力の。～を動力として動く。",
               "tag": []
             }
           ]
@@ -14397,6 +13672,26 @@
       "latinPron": "káing",
       "example": [],
       "num": "268"
+    },
+    {
+      "word": "雷働",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "電動の。電気動力の。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/main˨˨.kaiŋ˥˥/",
+      "pron": "main2 kaing1",
+      "latinPron": "màinkáing",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "技",
@@ -14733,22 +14028,13 @@
           "explanation": [
             {
               "translate": "財団法人。財団。",
-              "tag": []
+              "tag": [],
+              "meaning": "基金を基盤にした機関を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "基金を基盤にした機関を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɯ˥˥.t͡ʃɯo˥˧.mail˨˨/",
       "pron": "ku1 quo3 mail2",
       "latinPron": "kúqûo'màil",
@@ -15248,22 +14534,13 @@
           "explanation": [
             {
               "translate": "教える。説明する。解説する。理解させる。教え込む。",
-              "tag": []
+              "tag": [],
+              "meaning": "ある事柄を他者に理解させるために詳しく説明することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "ある事柄を他者に理解させるために詳しく説明することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃal˥˧/",
       "pron": "xal3",
       "latinPron": "xâl",
@@ -15648,6 +14925,10 @@
             {
               "translate": "～のような。～のように。",
               "tag": []
+            },
+            {
+              "translate": "～という。～と呼ばれる。事物の名称についての情報を付加する。",
+              "tag": []
             }
           ]
         }
@@ -15815,7 +15096,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "一般人。凡人。常人。",
+              "translate": "一般人。庶民。",
               "tag": []
             }
           ]
@@ -15945,7 +15226,8 @@
           "explanation": [
             {
               "translate": "消す。無くす。廃止する。",
-              "tag": []
+              "tag": [],
+              "meaning": "元々はあったものを無くすことを指す。"
             },
             {
               "translate": "引く。減算する。",
@@ -15954,17 +15236,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "元々はあったものを無くすことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nao˨˨/",
       "pron": "nao2",
       "latinPron": "nào",
@@ -16450,22 +15722,13 @@
           "explanation": [
             {
               "translate": "新年。新しい年。",
-              "tag": []
+              "tag": [],
+              "meaning": "年末年始などに新しい年の全てを指して用いられる。「正月」のような年始のみの意味は持たない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "年末年始などに新しい年の全てを指して用いられる。「正月」のような年始のみの意味は持たない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βal˨˨.βais˨˨/",
       "pron": "val2 vais2",
       "latinPron": "vàlvàis",
@@ -16500,22 +15763,13 @@
           "explanation": [
             {
               "translate": "概要。話の全体像。",
-              "tag": []
+              "tag": [],
+              "meaning": "主に話の前に置かれるものを指し、最後に示される結論やまとめは含まない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "主に話の前に置かれるものを指し、最後に示される結論やまとめは含まない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sai˨˨.ɸɯa˨˨/",
       "pron": "cai2 fua2",
       "latinPron": "càifùa",
@@ -16559,22 +15813,13 @@
           "explanation": [
             {
               "translate": "恥をかく。恥ずかしい。",
-              "tag": []
+              "tag": [],
+              "meaning": "体裁が悪く感じる様を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "体裁が悪く感じる様を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɯs˥˧.ka˥˥/",
       "pron": "lus3 ka1",
       "latinPron": "lûská",
@@ -16677,22 +15922,13 @@
           "explanation": [
             {
               "translate": "固体。ソリッド。",
-              "tag": []
+              "tag": [],
+              "meaning": "物質の状態の一つ。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物質の状態の一つ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nail˨˨.kao˥˥/",
       "pron": "nail2 kao1",
       "latinPron": "nàilkáo",
@@ -16716,22 +15952,13 @@
           "explanation": [
             {
               "translate": "液体。リキッド。",
-              "tag": []
+              "tag": [],
+              "meaning": "物質の状態の一つ。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物質の状態の一つ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡saos˥˥.kao˥˥/",
       "pron": "caos1 kao1",
       "latinPron": "cáoskáo",
@@ -16755,22 +15982,13 @@
           "explanation": [
             {
               "translate": "気体。ガス。",
-              "tag": []
+              "tag": [],
+              "meaning": "物質の状態の一つ。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物質の状態の一つ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tɛm˥˧.kao˥˥/",
       "pron": "tem3 kao1",
       "latinPron": "têmkáo",
@@ -16960,22 +16178,13 @@
           "explanation": [
             {
               "translate": "恥ずかしい。",
-              "tag": []
+              "tag": [],
+              "meaning": "照れくさく感じる様を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "照れくさく感じる様を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɯs˥˧.do˨˨/",
       "pron": "lus3 do2",
       "latinPron": "lûsdò",
@@ -17038,22 +16247,13 @@
           "explanation": [
             {
               "translate": "滑舌が悪い人。言葉をうまく話せない人。",
-              "tag": []
+              "tag": [],
+              "meaning": "少し悪いニュアンスが含まれるので注意。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "少し悪いニュアンスが含まれるので注意。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/d͡ʒɯo˥˥.nɯa˥˥.ha˥˥/",
       "pron": "juo1 nua1 ha1",
       "latinPron": "júo'núahá",
@@ -17233,22 +16433,13 @@
           "explanation": [
             {
               "translate": "飲む。液体などを噛まずに飲み込む。",
-              "tag": []
+              "tag": [],
+              "meaning": "液体などを咀嚼せずに飲み込むことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "液体などを咀嚼せずに飲み込むことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/sas˨˨/",
       "pron": "sas2",
       "latinPron": "sàs",
@@ -17753,22 +16944,13 @@
           "explanation": [
             {
               "translate": "叩く。打つ。しなやかなもので衝撃を与える。",
-              "tag": []
+              "tag": [],
+              "meaning": "石や拳など、固いもので殴ることは指さない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "石や拳など、固いもので殴ることは指さない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hɯ˨˨/",
       "pron": "hu2",
       "latinPron": "hù",
@@ -18137,22 +17319,13 @@
           "explanation": [
             {
               "translate": "夕ごはん。夕食。",
-              "tag": []
+              "tag": [],
+              "meaning": "夕方、つまり八～九雰時ごろに食べる食事を指す。これより遅いものは夜餐となる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "夕方、つまり八～九雰時ごろに食べる食事を指す。これより遅いものは夜餐となる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dom˨˨.dol˥˧/",
       "pron": "dom2 dol3",
       "latinPron": "dòmdôl",
@@ -18167,22 +17340,13 @@
           "explanation": [
             {
               "translate": "夜食。",
-              "tag": []
+              "tag": [],
+              "meaning": "完全に日が沈んだ甲雰時～翌一雰時の食事を指す。これより早いものは夕餐となる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "完全に日が沈んだ甲雰時～翌一雰時の食事を指す。これより早いものは夕餐となる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lai˥˥.dol˥˧/",
       "pron": "lai1 dol3",
       "latinPron": "láidôl",
@@ -18246,7 +17410,8 @@
           "explanation": [
             {
               "translate": "吹く。吹き出す。力強く息を吐き出す。",
-              "tag": []
+              "tag": [],
+              "meaning": "気体などを力強く吹き出すことを指すが、風が吹くことを指す場合は[風]を動詞として用いる。"
             },
             {
               "translate": "発射する。噴射する。飛ばす。固体や液体、気体を高速で射出する。",
@@ -18255,17 +17420,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "[吹]は気体などを力強く吹き出すことを指すが、風が吹くことを指す場合は[風]を動詞として用いる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/paŋ˥˧/",
       "pron": "pang3",
       "latinPron": "pâng",
@@ -18773,22 +17928,13 @@
           "explanation": [
             {
               "translate": "生きる。生き延びる。暮らす。過ごす。",
-              "tag": []
+              "tag": [],
+              "meaning": "生命が存続している状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "生命が存続している状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βɯ˨˨/",
       "pron": "vu2",
       "latinPron": "vù",
@@ -19122,7 +18268,7 @@
       ],
       "append": [
         {
-          "type": "語法",
+          "type": "補足",
           "explanation": [
             {
               "translate": "「周りに巻く」と「それ自体を丸める」の2つの意味で使われる。",
@@ -19225,22 +18371,13 @@
           "explanation": [
             {
               "translate": "パン。ナン。",
-              "tag": []
+              "tag": [],
+              "meaning": "粉状にした麦や米などの穀物を練って焼いた食品の総称。発酵工程が含まれるかどうかに関係なく使うことができる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "粉状にした麦や米などの穀物を練って焼いた食品の総称。発酵工程が含まれるかどうかに関係なく使うことができる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/wai˥˧/",
       "pron": "wai3",
       "latinPron": "wâi",
@@ -19275,22 +18412,13 @@
           "explanation": [
             {
               "translate": "焼く。焦がす。炙る。煎る。ローストする。",
-              "tag": []
+              "tag": [],
+              "meaning": "主に食品を熱して調理することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "主に食品を熱して調理することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃa˥˥/",
       "pron": "qa1",
       "latinPron": "qá",
@@ -19394,22 +18522,13 @@
           "explanation": [
             {
               "translate": "バター。マーガリン。",
-              "tag": []
+              "tag": [],
+              "meaning": "本来は動物由来の油脂成分を指すが、近年ではマーガリンなどバターに類するものも含まれるようになっている。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "本来は動物由来の油脂成分を指すが、近年ではマーガリンなどバターに類するものも含まれるようになっている。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tai˥˥.ʃɯ˨˨/",
       "pron": "tai1 xu2",
       "latinPron": "táixù",
@@ -19711,6 +18830,15 @@
               "tag": []
             }
           ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "刺す。刺さる。",
+              "tag": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -19768,22 +18896,13 @@
           "explanation": [
             {
               "translate": "顕微鏡。マイクロスコープ。",
-              "tag": []
+              "tag": [],
+              "meaning": "微生物など肉眼で見えない対象に使う器具を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "微生物など肉眼で見えない対象に使う器具を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sɯo˨˨.kɛ˥˥.d͡ʒa˥˥/",
       "pron": "cuo2 ke1 ja1",
       "latinPron": "cùokéjá",
@@ -20008,6 +19127,35 @@
       "num": "384"
     },
     {
+      "word": "平六",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "中間の。普通の。中立の。どっちつかずの。",
+              "tag": [],
+              "meaning": "[遍]はありふれており一般的な性質を指すが、[平六]は一般的かどうかに関わらず特定の方向に偏っていない性質を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɛm˥˥.lis˥˧/",
+      "pron": "xem1 lis3",
+      "latinPron": "xémlîs",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "遍"
+          ]
+        }
+      ]
+    },
+    {
       "word": "平地",
       "mean": [
         {
@@ -20015,22 +19163,13 @@
           "explanation": [
             {
               "translate": "平野。平地。平原。",
-              "tag": []
+              "tag": [],
+              "meaning": "広範囲にわたって起伏が少ない地形。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "広範囲にわたって起伏が少ない地形。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛm˥˥.ho˥˧/",
       "pron": "xem1 ho3",
       "latinPron": "xémhô",
@@ -20065,22 +19204,13 @@
           "explanation": [
             {
               "translate": "洗う。汚れを落とす。きれいにする。",
-              "tag": []
+              "tag": [],
+              "meaning": "汚れを落としたり、洗ったりすることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "汚れを落としたり、洗ったりすることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃai˥˥/",
       "pron": "xai1",
       "latinPron": "xái",
@@ -20522,22 +19652,13 @@
           "explanation": [
             {
               "translate": "掃除する。一つのものを全体的にきれいにする。",
-              "tag": []
+              "tag": [],
+              "meaning": "「対象の全体をきれいにする」という意味で使う。一部を洗ったり磨いたりする動作は指さない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "「対象の全体をきれいにする」という意味で使う。一部を洗ったり磨いたりする動作は指さない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃai˥˥.dɯa˥˧/",
       "pron": "xai1 dua3",
       "latinPron": "xáidûa",
@@ -20702,6 +19823,10 @@
             {
               "translate": "集まる。集める。たくさんの人や物が一箇所に集中する。",
               "tag": []
+            },
+            {
+              "translate": "足す。加算する。",
+              "tag": []
             }
           ]
         }
@@ -20721,22 +19846,13 @@
           "explanation": [
             {
               "translate": "パーティー。会。宴会。祭り。フェスティバル。",
-              "tag": []
+              "tag": [],
+              "meaning": "規模に関わらず、複数人が集まって楽しむイベントを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "規模に関わらず、複数人が集まって楽しむイベントを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/naim˨˨.naim˨˨/",
       "pron": "naim2 naim2",
       "latinPron": "nàimnàim",
@@ -20840,22 +19956,13 @@
           "explanation": [
             {
               "translate": "～しろ。～だ。～ぞ。～であれ。",
-              "tag": []
+              "tag": [],
+              "meaning": "相手に対する呼びかけや強調を表現する。命令文の末尾に付く場合も多い。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "相手に対する呼びかけや強調を表現する。命令文の末尾に付く場合も多い。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dɛl˥˥/",
       "pron": "del1",
       "latinPron": "dél",
@@ -21207,22 +20314,13 @@
           "explanation": [
             {
               "translate": "電子計算機。電卓。",
-              "tag": []
+              "tag": [],
+              "meaning": "主に比較的簡単な計算を行う小型計算機を指す。コンピュータは[雷脳]と呼んで区別される。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "主に比較的簡単な計算を行う小型計算機を指す。コンピュータは[雷脳]と呼んで区別される。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/main˨˨.bɯo˨˨.ail˨˨/",
       "pron": "main2 buo2 ail2",
       "latinPron": "màinbùoàil",
@@ -21246,22 +20344,13 @@
           "explanation": [
             {
               "translate": "関数電卓。高機能電卓。",
-              "tag": []
+              "tag": [],
+              "meaning": "[雷算機]のうち、科学技術用途の計算に特化した複雑な計算機能を持つ物を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "[雷算機]のうち、科学技術用途の計算に特化した複雑な計算機能を持つ物を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sɯa˨˨.t͡ʃai˨˨.main˨˨.bɯo˨˨.ail˨˨/",
       "pron": "cua2 qai2 main2 buo2 ail2",
       "latinPron": "cùaqài'màinbùoàil",
@@ -21432,7 +20521,7 @@
       ],
       "append": [
         {
-          "type": "語法",
+          "type": "補足",
           "explanation": [
             {
               "translate": "#3f31f7に近い色。",
@@ -21484,7 +20573,8 @@
           "explanation": [
             {
               "translate": "豊かな。十分な。満たされた。豊潤な。",
-              "tag": []
+              "tag": [],
+              "meaning": "物資などが十分にある様子。"
             }
           ]
         },
@@ -21507,17 +20597,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物資などが十分にある様子。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nɯa˥˧/",
       "pron": "nua3",
       "latinPron": "nûa",
@@ -21532,7 +20612,8 @@
           "explanation": [
             {
               "translate": "満足な。十分な。満足した。",
-              "tag": []
+              "tag": [],
+              "meaning": "十分に快く、これ以上行動しようと思わない様子。"
             }
           ]
         },
@@ -21546,17 +20627,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "十分に快く、これ以上行動しようと思わない様子。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nɯa˥˧.nɛs˨˨/",
       "pron": "nua3 nes2",
       "latinPron": "nûa'nès",
@@ -22395,6 +21466,10 @@
             {
               "translate": "もらう。貰う。頂く。受け取る。他から物事を受け取る。",
               "tag": []
+            },
+            {
+              "translate": "受ける。浴びる。（病気に）罹る。災難や損害に遭う。",
+              "tag": []
             }
           ]
         }
@@ -22738,22 +21813,13 @@
           "explanation": [
             {
               "translate": "裏返す。捲る。めくる。裏側が見えるようにする。",
-              "tag": []
+              "tag": [],
+              "meaning": "カードをめくるなどの動作を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "カードをめくるなどの動作を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βɯo˥˥/",
       "pron": "vuo1",
       "latinPron": "vúo",
@@ -22768,22 +21834,13 @@
           "explanation": [
             {
               "translate": "裏返す。返す。内側と外側を入れ替える。",
-              "tag": []
+              "tag": [],
+              "meaning": "内側を引きずり出す動作を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "内側を引きずり出す動作を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βɯo˥˥.jɯo˨˨/",
       "pron": "vuo1 yuo2",
       "latinPron": "vúoyùo",
@@ -23006,7 +22063,7 @@
       ],
       "append": [
         {
-          "type": "語法",
+          "type": "補足",
           "explanation": [
             {
               "translate": "#3aba90に近い色。",
@@ -23131,22 +22188,13 @@
             },
             {
               "translate": "季。1季。",
-              "tag": []
+              "tag": [],
+              "meaning": "旭暦の計時単位の一つ。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "旭暦の計時単位の一つ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βai˥˧/",
       "pron": "vai3",
       "latinPron": "vâi",
@@ -23210,7 +22258,8 @@
           "explanation": [
             {
               "translate": "旬。1旬。",
-              "tag": []
+              "tag": [],
+              "meaning": "旭暦の計時単位の一つ。"
             },
             {
               "translate": "期間。時代。時期。特定の時間のまとまり。",
@@ -23219,17 +22268,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "旭暦の計時単位の一つ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gaos˥˥/",
       "pron": "gaos1",
       "latinPron": "gáos",
@@ -23284,22 +22323,13 @@
           "explanation": [
             {
               "translate": "いやだ。嫌だ。だめ。無理。",
-              "tag": []
+              "tag": [],
+              "meaning": "最も簡潔、かつ最も直接的な断りの表現。特に親しい間柄のみで使われることがほとんどである。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "最も簡潔、かつ最も直接的な断りの表現。特に親しい間柄のみで使われることがほとんどである。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βai˥˥.wɛl˨˨/",
       "pron": "vai1 wel2",
       "latinPron": "váiwèl",
@@ -23342,22 +22372,13 @@
           "explanation": [
             {
               "translate": "説明する。解説する。弁明する。筋道を立てて話す。",
-              "tag": []
+              "tag": [],
+              "meaning": "ある事柄の理由や過程を説明することのみを指し、[訓]のような他者に教えるニュアンスは含まない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "ある事柄の理由や過程を説明することのみを指し、[訓]のような他者に教えるニュアンスは含まない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sa˥˥/",
       "pron": "ca1",
       "latinPron": "cá",
@@ -23400,22 +22421,13 @@
           "explanation": [
             {
               "translate": "理不尽な。不条理な。不合理な。",
-              "tag": []
+              "tag": [],
+              "meaning": "道理や理屈に沿っていない、筋が通らない状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "道理や理屈に沿っていない、筋が通らない状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βai˥˥.t͡sa˥˥/",
       "pron": "vai1 ca1",
       "latinPron": "váicá",
@@ -23538,9 +22550,14 @@
             {
               "translate": "順序。順番。序列。",
               "tag": []
-            },
+            }
+          ]
+        },
+        {
+          "type": "接尾辞",
+          "explanation": [
             {
-              "translate": "～番目の。～つめの。順序を表す接尾辞。",
+              "translate": "～番目の。～つめの。順序を表す。",
               "tag": []
             }
           ]
@@ -23677,10 +22694,10 @@
       "word": "序日",
       "mean": [
         {
-          "type": "名詞",
+          "type": "接尾辞",
           "explanation": [
             {
-              "translate": "～日目の。日付の順序を表す接尾辞。",
+              "translate": "～日目の。日付の順序を表す。",
               "tag": []
             }
           ]
@@ -23697,10 +22714,10 @@
       "word": "序追",
       "mean": [
         {
-          "type": "名詞",
+          "type": "接尾辞",
           "explanation": [
             {
-              "translate": "～回目。～回目の。繰り返される事象の順序を表す接尾辞。",
+              "translate": "～回目。～回目の。繰り返される事象の順序を表す。",
               "tag": []
             }
           ]
@@ -23721,22 +22738,13 @@
           "explanation": [
             {
               "translate": "きっと。もうすぐ。～だろう。～しそうだ。",
-              "tag": []
+              "tag": [],
+              "meaning": "[可]は未来の出来事について可能性の高い推量を表し、将然相に当たる意味を持つ。これに対して[概]は、単純に可能性が半分より高い推量を表す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "[可]は未来の出来事について可能性の高い推量を表し、将然相に当たる意味を持つ。これに対して[概]は、単純に可能性が半分より高い推量を表す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɸai˨˨/",
       "pron": "fai2",
       "latinPron": "fài",
@@ -23978,7 +22986,8 @@
           "explanation": [
             {
               "translate": "書き記す。書き残す。記録する。",
-              "tag": []
+              "tag": [],
+              "meaning": "情報を記し、それを先のために保存することを指す。"
             }
           ]
         },
@@ -23992,17 +23001,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "情報を記し、それを先のために保存することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/d͡ʒao˨˨/",
       "pron": "jao2",
       "latinPron": "jào",
@@ -24042,7 +23041,7 @@
       ],
       "append": [
         {
-          "type": "語法",
+          "type": "補足",
           "explanation": [
             {
               "translate": "名詞としては「売り買い」を指すが、動詞としては「売る」ことを指す。",
@@ -24545,22 +23544,13 @@
           "explanation": [
             {
               "translate": "囲む。封じる。包囲する。ある領域を閉じる。",
-              "tag": []
+              "tag": [],
+              "meaning": "2次元的に領域を閉じることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "2次元的に領域を閉じることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dai˥˧/",
       "pron": "dai3",
       "latinPron": "dâi",
@@ -24583,22 +23573,13 @@
           "explanation": [
             {
               "translate": "～ちゃん。～たん。",
-              "tag": []
+              "tag": [],
+              "meaning": "語尾に付けて愛称を形成する。指小辞。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "語尾に付けて愛称を形成する。指小辞。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃo˨˨/",
       "pron": "qo2",
       "latinPron": "qò",
@@ -24613,22 +23594,13 @@
           "explanation": [
             {
               "translate": "しるし。印。マーク。ロゴ。",
-              "tag": []
+              "tag": [],
+              "meaning": "何らかの意味を持つ記号や図形を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "何らかの意味を持つ記号や図形を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɸɯ˥˧/",
       "pron": "fu3",
       "latinPron": "fû",
@@ -24643,22 +23615,13 @@
           "explanation": [
             {
               "translate": "五天紋。",
-              "tag": []
+              "tag": [],
+              "meaning": "雰天国の国旗の中心に描かれる、陽教の五元素を象徴した五角形のシンボル。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "雰天国の国旗の中心に描かれる、陽教の五元素を象徴した五角形のシンボル。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɯoŋ˥˥.βas˥˥.ɸɯ˥˧/",
       "pron": "luong1 vas1 fu3",
       "latinPron": "lúongvásfû",
@@ -24742,22 +23705,13 @@
           "explanation": [
             {
               "translate": "砕天集。灼陽系小惑星帯。",
-              "tag": []
+              "tag": [],
+              "meaning": "瀧星軌道と穀星軌道の中間に存在する、小惑星が多数集まった領域。太陽系の小惑星帯に相当する。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "瀧星軌道と穀星軌道の中間に存在する、小惑星が多数集まった領域。太陽系の小惑星帯に相当する。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/pao˥˧.βas˥˥.naim˨˨/",
       "pron": "pao3 vas1 naim2",
       "latinPron": "pâovásnàim",
@@ -24811,7 +23765,8 @@
           "explanation": [
             {
               "translate": "～がある。～が存在する。～というものがある。～を持つ。",
-              "tag": []
+              "tag": [],
+              "meaning": "その場に存在するかに関係なく対象がどこかに存在するものであることを指す。"
             }
           ]
         },
@@ -24820,31 +23775,13 @@
           "explanation": [
             {
               "translate": "～ことがある。昔～した。",
-              "tag": []
+              "tag": [],
+              "meaning": "経験を表す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動詞としては、その場に存在するかに関係なく対象がどこかに存在するものであることを指す。",
-              "tag": []
-            }
-          ]
-        },
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "副詞としては、経験を表す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/no˨˨/",
       "pron": "no2",
       "latinPron": "nò",
@@ -24905,22 +23842,13 @@
           "explanation": [
             {
               "translate": "穴の空いた。中空の。",
-              "tag": []
+              "tag": [],
+              "meaning": "穴が貫通している状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "穴が貫通している状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/na˨˨.ɯa˥˧/",
       "pron": "na2 ua3",
       "latinPron": "nàûa",
@@ -24969,17 +23897,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動詞として用いる場合、時間や空間において基準点や境界線を越えることを指す。「年を越す」のような表現にはこれが用いられる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jɯm˥˥/",
       "pron": "yum1",
       "latinPron": "yúm",
@@ -25002,22 +23920,13 @@
           "explanation": [
             {
               "translate": "越える。超える。進入する。入る。",
-              "tag": []
+              "tag": [],
+              "meaning": "物理的または数値的な基準点や境界線を越えることを指す。「年を越す」のような表現にはこれが用いられる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物理的または数値的な境界線を越えることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jɯm˥˥.jaom˥˥/",
       "pron": "yum1 yaom1",
       "latinPron": "yúmyáom",
@@ -25032,22 +23941,13 @@
           "explanation": [
             {
               "translate": "国境。国境線。",
-              "tag": []
+              "tag": [],
+              "meaning": "国家の領土間に存在する仮想的な線。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "国家の領土間に存在する仮想的な線。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nɯn˨˨.jɯm˥˥/",
       "pron": "nun2 yum1",
       "latinPron": "nùnyúm",
@@ -25062,22 +23962,13 @@
           "explanation": [
             {
               "translate": "何かの。ある。某。",
-              "tag": []
+              "tag": [],
+              "meaning": "名詞を修飾し、不特定のものを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "名詞を修飾し、不特定のものを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gai˥˥/",
       "pron": "gai1",
       "latinPron": "gái",
@@ -25092,22 +23983,13 @@
           "explanation": [
             {
               "translate": "誰か。ある人。",
-              "tag": []
+              "tag": [],
+              "meaning": "不特定の人物を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "不特定の人物を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gai˥˥.ha˥˥/",
       "pron": "gai1 ha1",
       "latinPron": "gáihá",
@@ -25122,22 +24004,13 @@
           "explanation": [
             {
               "translate": "ある時。いつか。",
-              "tag": []
+              "tag": [],
+              "meaning": "不特定の時間を指す。過去か未来かは含意しない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "不特定の時間を指す。過去か未来かは含意しない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gai˥˥.tɯa˨˨/",
       "pron": "gai1 tua2",
       "latinPron": "gáitùa",
@@ -25152,22 +24025,13 @@
           "explanation": [
             {
               "translate": "あるところ。どこか。",
-              "tag": []
+              "tag": [],
+              "meaning": "不特定の場所を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "不特定の場所を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gai˥˥.jai˥˥/",
       "pron": "gai1 yai1",
       "latinPron": "gáiyái",
@@ -25182,35 +24046,18 @@
           "explanation": [
             {
               "translate": "伝える。言う。伝達する。教える。",
-              "tag": []
+              "tag": [],
+              "meaning": "他者にある事柄を伝えることを指す。[報]よりも特定の人へ向けるニュアンスが強く、[訓]よりも特定の事柄を伝えるニュアンスが強い。"
             },
             {
               "translate": "～だそうだ。～らしい。～だって。",
-              "tag": []
+              "tag": [],
+              "meaning": "目的語に従属節を取り、他者からの伝聞を表すこともある。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "他者にある事柄を伝えることを指す。[報]よりも特定の人へ向けるニュアンスが強く、[訓]よりも特定の事柄を伝えるニュアンスが強い。",
-              "tag": []
-            }
-          ]
-        },
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "目的語に従属節を取り、他者からの伝聞を表すこともある。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɯa˥˥/",
       "pron": "lua1",
       "latinPron": "lúa",
@@ -25235,22 +24082,13 @@
           "explanation": [
             {
               "translate": "報告する。告げる。上申する。告げ口する。通報する。",
-              "tag": []
+              "tag": [],
+              "meaning": "主に、立場が高い者に対してある内容を伝えることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "主に、立場が高い者に対してある内容を伝えることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/liŋ˥˧.lɯa˥˥/",
       "pron": "ling3 lua1",
       "latinPron": "lînglúa",
@@ -25265,22 +24103,13 @@
           "explanation": [
             {
               "translate": "買う。購入する。払う。手に入れる。",
-              "tag": []
+              "tag": [],
+              "meaning": "対価を払って商品やサービスを手に入れることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "対価を払って商品やサービスを手に入れることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kaom˨˨/",
       "pron": "kaom2",
       "latinPron": "kàom",
@@ -25312,22 +24141,13 @@
           "explanation": [
             {
               "translate": "買い物をする。買う。買い出しする。",
-              "tag": []
+              "tag": [],
+              "meaning": "店などに出かけて商品を買うことを指す。日常の買い物を指す場合が多い。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "店などに出かけて商品を買うことを指す。日常の買い物を指す場合が多い。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jaom˥˥.kaom˨˨/",
       "pron": "yaom1 kaom2",
       "latinPron": "yáomkàom",
@@ -25342,22 +24162,13 @@
           "explanation": [
             {
               "translate": "ネットショッピング。通販。EC。",
-              "tag": []
+              "tag": [],
+              "meaning": "インターネットを用いて商品を売買するシステム。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "インターネットを用いて商品を売買するシステム。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ton˨˨.jaom˥˥.kaom˨˨/",
       "pron": "ton2 yaom1 kaom2",
       "latinPron": "tònyáomkàom",
@@ -25372,7 +24183,8 @@
           "explanation": [
             {
               "translate": "汚い。不潔な。不衛生な。汚れた。",
-              "tag": []
+              "tag": [],
+              "meaning": "不快なほど汚れており、触れたくない状態を指す。"
             },
             {
               "translate": "闇深い。卑劣な。裏のある。",
@@ -25381,17 +24193,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "不快なほど汚れており、触れたくない状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gaim˨˨/",
       "pron": "gaim2",
       "latinPron": "gàim",
@@ -25414,22 +24216,13 @@
           "explanation": [
             {
               "translate": "柑橘。シトラス。みかん。",
-              "tag": []
+              "tag": [],
+              "meaning": "ミカン属に含まれる、橙色の果実をつける果樹を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "ミカン属に含まれる、橙色の果実をつける果樹を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tɯl˥˥/",
       "pron": "tul1",
       "latinPron": "túl",
@@ -25466,22 +24259,13 @@
           "explanation": [
             {
               "translate": "恐らく。おそらく。多分。きっと。～だろう。～であろう。",
-              "tag": []
+              "tag": [],
+              "meaning": "可能性が半分より高い状態を表す。時間軸には関係なく、過去や未来の出来事に対しても使う。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "可能性が半分より高い状態を表す。時間軸には関係なく、過去や未来の出来事に対しても使う。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tam˥˥/",
       "pron": "tam1",
       "latinPron": "tám",
@@ -25504,22 +24288,13 @@
           "explanation": [
             {
               "translate": "従う。ついていく。従順にする。",
-              "tag": []
+              "tag": [],
+              "meaning": "相手の言ったことに聞き従うことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "相手の言ったことに聞き従うことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sai˥˧/",
       "pron": "cai3",
       "latinPron": "câi",
@@ -25534,22 +24309,13 @@
           "explanation": [
             {
               "translate": "衛星。サテライト。",
-              "tag": []
+              "tag": [],
+              "meaning": "惑星や準惑星、小惑星の周りを公転する天体。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "惑星や準惑星、小惑星の周りを公転する天体。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sai˥˧.βas˥˥/",
       "pron": "cai3 vas1",
       "latinPron": "câivás",
@@ -25569,17 +24335,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "へりくだった一人称代名詞。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/bao˨˨/",
       "pron": "bao2",
       "latinPron": "bào",
@@ -25611,22 +24367,13 @@
           "explanation": [
             {
               "translate": "寄りかかる。もたれる。",
-              "tag": []
+              "tag": [],
+              "meaning": "何かしらに自身の体重を掛けて体を支えることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動詞としては、何かしらに自身の体重を掛けて体を支えることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/βa˥˥/",
       "pron": "va1",
       "latinPron": "vá",
@@ -25844,22 +24591,13 @@
           "explanation": [
             {
               "translate": "準備する。備える。こしらえる。用意する。",
-              "tag": []
+              "tag": [],
+              "meaning": "その後に必要になるものを前もって手に入れておくことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "その後に必要になるものを前もって手に入れておくことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sɛn˨˨/",
       "pron": "cen2",
       "latinPron": "cèn",
@@ -25874,22 +24612,13 @@
           "explanation": [
             {
               "translate": "覚悟する。腹をくくる。決心する。心構えをする。",
-              "tag": []
+              "tag": [],
+              "meaning": "あらかじめ心を準備することを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "あらかじめ心を準備することを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sɛn˨˨.nɯm˨˨/",
       "pron": "cen2 num2",
       "latinPron": "cènnùm",
@@ -25904,22 +24633,13 @@
           "explanation": [
             {
               "translate": "備え付けの。デフォルトの。",
-              "tag": []
+              "tag": [],
+              "meaning": "何か手を加えずとも既に用意されている状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "何か手を加えずとも既に用意されている状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡sɛn˨˨.mo˥˥/",
       "pron": "cen2 mo1",
       "latinPron": "cènmó",
@@ -25934,7 +24654,8 @@
           "explanation": [
             {
               "translate": "深い。奥まった。長い。",
-              "tag": []
+              "tag": [],
+              "meaning": "表面部分から入る方向に長く続いている様子。"
             }
           ]
         },
@@ -25948,17 +24669,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "表面部分から入る方向に長く続いている様子。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃai˨˨/",
       "pron": "xai2",
       "latinPron": "xài",
@@ -25973,22 +24684,13 @@
           "explanation": [
             {
               "translate": "澄んだ夜空。快晴の夜空。",
-              "tag": []
+              "tag": [],
+              "meaning": "雲ひとつ無い夜の空。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "雲ひとつ無い夜の空。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃai˨˨.dɯo˥˥/",
       "pron": "xai2 duo1",
       "latinPron": "xàidúo",
@@ -26011,22 +24713,13 @@
           "explanation": [
             {
               "translate": "青空。",
-              "tag": []
+              "tag": [],
+              "meaning": "よく晴れた日中の空。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "よく晴れた日中の空。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃai˥˧.dɯo˥˥/",
       "pron": "qai3 duo1",
       "latinPron": "qâidúo",
@@ -26049,22 +24742,13 @@
           "explanation": [
             {
               "translate": "熟考する。考え込む。",
-              "tag": []
+              "tag": [],
+              "meaning": "深く考えること。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "深く考えること。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃai˨˨.sao˨˨/",
       "pron": "xai2 sao2",
       "latinPron": "xài'sào",
@@ -26079,22 +24763,13 @@
           "explanation": [
             {
               "translate": "覚える。記憶する。",
-              "tag": []
+              "tag": [],
+              "meaning": "物事や感情を心に留めておくことを指す。技能の習得などは指さない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物事や感情を心に留めておくことを指す。技能の習得などは指さない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/mɯl˨˨/",
       "pron": "mul2",
       "latinPron": "mùl",
@@ -26114,17 +24789,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "動作の原因や手段を表す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nao˥˧/",
       "pron": "nao3",
       "latinPron": "nâo",
@@ -26144,17 +24809,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "原因を示す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/nao˥˧.pis˥˧/",
       "pron": "nao3 pis3",
       "latinPron": "nâopîs",
@@ -26174,17 +24829,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "目下に対して使う二人称代名詞。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/si˥˥/",
       "pron": "si1",
       "latinPron": "sí",
@@ -26199,7 +24844,8 @@
           "explanation": [
             {
               "translate": "仲間。類。グループ。",
-              "tag": []
+              "tag": [],
+              "meaning": "近い関係にあるものの集まりを指す。"
             },
             {
               "translate": "類。",
@@ -26210,17 +24856,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "近い関係にあるものの集まりを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃi˥˥/",
       "pron": "qi1",
       "latinPron": "qí",
@@ -26255,35 +24891,18 @@
           "explanation": [
             {
               "translate": "つる。蔓。",
-              "tag": []
+              "tag": [],
+              "meaning": "細長く伸びて他の物に巻き付く植物。"
             },
             {
               "translate": "インターネット。ネット。",
-              "tag": []
+              "tag": [],
+              "meaning": "[雷蔓]の略としてインターネット関連の用語に使われる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "細長く伸びて他の物に巻き付く植物。",
-              "tag": []
-            }
-          ]
-        },
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "[雷蔓]の略としてインターネット関連の用語に使われる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ton˨˨/",
       "pron": "ton2",
       "latinPron": "tòn",
@@ -26322,22 +24941,13 @@
           "explanation": [
             {
               "translate": "貝。貝殻。シェル。",
-              "tag": []
+              "tag": [],
+              "meaning": "固い貝殻を持つ軟体動物の総称。殻を指す場合もある。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "固い貝殻を持つ軟体動物の総称。殻を指す場合もある。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/d͡ʒao˥˥/",
       "pron": "jao1",
       "latinPron": "jáo",
@@ -26402,22 +25012,13 @@
           "explanation": [
             {
               "translate": "くるむ。巻く。包む。挟む。丸める。",
-              "tag": []
+              "tag": [],
+              "meaning": "布や紙などの柔らかい素材で物体を覆うことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "布や紙などの柔らかい素材で物体を覆うことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dim˥˧/",
       "pron": "dim3",
       "latinPron": "dîm",
@@ -26612,17 +25213,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "前置詞としては、範囲の終点となる場所や時間を示す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tɛl˥˥/",
       "pron": "tel1",
       "latinPron": "tél",
@@ -26645,22 +25236,13 @@
           "explanation": [
             {
               "translate": "～だけ。～のみ。ただ。",
-              "tag": []
+              "tag": [],
+              "meaning": "限定を表す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "限定を表す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/gɯa˥˧/",
       "pron": "gua3",
       "latinPron": "gûa",
@@ -26675,22 +25257,13 @@
           "explanation": [
             {
               "translate": "穴。あな。",
-              "tag": []
+              "tag": [],
+              "meaning": "物の表面に存在するくぼみ。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "物の表面に存在するくぼみ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zaos˨˨/",
       "pron": "zaos2",
       "latinPron": "zàos",
@@ -26705,22 +25278,13 @@
           "explanation": [
             {
               "translate": "～して。～で。～て。～したら。",
-              "tag": []
+              "tag": [],
+              "meaning": "順接か逆接かを問わない接続詞。[追]が単純な文の並列を表すのに対し、[而]は前後の文同士を因果関係に従って連結するために用いられる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "順接か逆接かを問わない接続詞。[追]が単純な文の並列を表すのに対し、[而]は前後の文同士を因果関係に従って連結するために用いられる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lɛ˥˧/",
       "pron": "le3",
       "latinPron": "lê",
@@ -26735,22 +25299,13 @@
           "explanation": [
             {
               "translate": "組み立てる。組む。建てる。構築する。建築する。作る。",
-              "tag": []
+              "tag": [],
+              "meaning": "複数の材料を物理的に組むことで何らかのものを作る作業を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "複数の材料を物理的に組むことで何らかのものを作る作業を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ʃɛs˥˥/",
       "pron": "xes1",
       "latinPron": "xés",
@@ -26834,27 +25389,39 @@
           "explanation": [
             {
               "translate": "奇妙な。理解の及ばない。おかしい。",
-              "tag": []
+              "tag": [],
+              "meaning": "珍しいことではなく、理解が及ばない奇妙な状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "珍しいことではなく、理解が及ばない奇妙な状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/no˥˧/",
       "pron": "no3",
       "latinPron": "nô",
       "example": [],
       "num": "495"
+    },
+    {
+      "word": "怪力",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "魔法。超能力。",
+              "tag": [],
+              "meaning": "自然法則で理解できないような不思議な力を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/no˥˧.nai˨˨/",
+      "pron": "no3 nai2",
+      "latinPron": "nô'nài",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "怪恐",
@@ -26893,22 +25460,13 @@
           "explanation": [
             {
               "translate": "願う。祈る。祈祷する。希う。",
-              "tag": []
+              "tag": [],
+              "meaning": "神格化された存在に対し、ある物事の実現を願うことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "神格化された存在に対し、ある物事の実現を願うことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zɯo˥˥/",
       "pron": "zuo1",
       "latinPron": "zúo",
@@ -26923,22 +25481,13 @@
           "explanation": [
             {
               "translate": "許す。赦す。容認する。見逃す。看過する。",
-              "tag": []
+              "tag": [],
+              "meaning": "過失や失敗を罰さないことを指す。「許可」のような意味は含まない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "過失や失敗を罰さないことを指す。「許可」のような意味は含まない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃɯa˨˨/",
       "pron": "qua2",
       "latinPron": "qùa",
@@ -26953,21 +25502,13 @@
           "explanation": [
             {
               "translate": "～になる。～に変わる。～に変化する。～となる。",
-              "tag": []
+              "tag": [],
+              "meaning": "状態が移り変わること。"
             }
           ]
         }
       ],
       "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "状態が移り変わること。",
-              "tag": []
-            }
-          ]
-        },
         {
           "type": "文法",
           "explanation": [
@@ -27012,22 +25553,13 @@
           "explanation": [
             {
               "translate": "足りない。不足した。不十分な。不完全な。欠けた。",
-              "tag": []
+              "tag": [],
+              "meaning": "必要な部分や要素が存在しない状態を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "必要な部分や要素が存在しない状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/pɯm˥˧/",
       "pron": "pum3",
       "latinPron": "pûm",
@@ -27042,7 +25574,8 @@
           "explanation": [
             {
               "translate": "完全な。完璧な。充足した。",
-              "tag": []
+              "tag": [],
+              "meaning": "欠けた部分が全くない状態を指す。"
             }
           ]
         },
@@ -27056,17 +25589,7 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "欠けた部分が全くない状態を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ki˥˥.pɯm˥˧/",
       "pron": "ki1 pum3",
       "latinPron": "kípûm",
@@ -27119,22 +25642,13 @@
           "explanation": [
             {
               "translate": "他人。",
-              "tag": []
+              "tag": [],
+              "meaning": "自分以外の人。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "自分以外の人。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hin˨˨.ha˥˥/",
       "pron": "hin2 ha1",
       "latinPron": "hìnhá",
@@ -27149,22 +25663,13 @@
           "explanation": [
             {
               "translate": "捕まえる。捕らえる。捕獲する。拘束する。",
-              "tag": []
+              "tag": [],
+              "meaning": "対象を自由に動けない状況にすることを指す。[包入]は空間に閉じ込めることを指すが、[拘]は空間が閉じているかを含意しない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "対象を自由に動けない状況にすることを指す。[包入]は空間に閉じ込めることを指すが、[拘]は空間が閉じているかを含意しない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/hɯan˥˧/",
       "pron": "huan3",
       "latinPron": "hûan",
@@ -27187,22 +25692,13 @@
           "explanation": [
             {
               "translate": "しまう。収納する。詰める。入れる。しまい込む。",
-              "tag": []
+              "tag": [],
+              "meaning": "ある場所に対象を収めておくことを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "ある場所に対象を収めておくことを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/jai˥˧/",
       "pron": "yai3",
       "latinPron": "yâi",
@@ -27217,22 +25713,13 @@
           "explanation": [
             {
               "translate": "掘る。掘削する。掘り進む。",
-              "tag": []
+              "tag": [],
+              "meaning": "主に地面を削ってくぼみを作ることを指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "主に地面を削ってくぼみを作ることを指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zɛl˥˥/",
       "pron": "zel1",
       "latinPron": "zél",
@@ -27247,22 +25734,13 @@
           "explanation": [
             {
               "translate": "トンネル。隧道。",
-              "tag": []
+              "tag": [],
+              "meaning": "地面を貫いて作る道を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "地面を貫いて作る道を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zɛl˥˥.gim˥˥/",
       "pron": "zel1 gim1",
       "latinPron": "zélgím",
@@ -27306,27 +25784,48 @@
           "explanation": [
             {
               "translate": "ピンク。ピンク色。桃色。桜色。",
-              "tag": []
+              "tag": [],
+              "meaning": "薄く明るい赤色を指す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "語法",
-          "explanation": [
-            {
-              "translate": "薄く明るい赤色を指す。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/tɯo˥˥.gɯo˥˧/",
       "pron": "tuo1 guo3",
       "latinPron": "túogûo",
       "example": [],
       "num": "-"
+    },
+    {
+      "word": "間",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "中間の。間の。",
+              "tag": [],
+              "meaning": "二つの物事の間や、幅を持った区間の内部を指す。時間的にも空間的にも用いることが可能である。"
+            }
+          ]
+        },
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～の間に。（区間）中に。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɯ˥˥/",
+      "pron": "tu1",
+      "latinPron": "tú",
+      "example": [],
+      "num": "506"
     }
   ]
 }
