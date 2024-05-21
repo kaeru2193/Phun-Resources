@@ -28534,5 +28534,91 @@
         ]
       }
     ]
+  },
+  {
+    "chara": "強",
+    "id": "507",
+    "data": [
+      {
+        "name": "転写",
+        "value": "強"
+      },
+      {
+        "name": "PhunID",
+        "value": "507"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "de2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=強"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "悾",
+    "id": "508",
+    "data": [
+      {
+        "name": "転写",
+        "value": "悾"
+      },
+      {
+        "name": "PhunID",
+        "value": "508"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "xual3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=悾"
+          }
+        ]
+      }
+    ]
   }
 ]

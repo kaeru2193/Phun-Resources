@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-05-10T12:24:25.711Z",
+  "date": "2024-05-21T11:23:25.765Z",
   "data": [
     {
       "word": "人",
@@ -1937,7 +1937,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "戻す。戻る。バックする。",
+              "translate": "戻す。戻る。帰る。バックする。",
               "tag": []
             }
           ]
@@ -2893,7 +2893,7 @@
       "num": "66"
     },
     {
-      "word": "家網",
+      "word": "庵蔓",
       "mean": [
         {
           "type": "名詞",
@@ -2906,10 +2906,15 @@
         }
       ],
       "append": [],
-      "ipa": "/bɛ˥˥.mɯa˥˥/",
-      "pron": "be1 mua1",
-      "latinPron": "bé'múa",
-      "example": [],
+      "ipa": "/ʃiŋ˥˥.ton˨˨/",
+      "pron": "xing1 ton2",
+      "latinPron": "xíngtòn",
+      "example": [
+        {
+          "pn": "曰侶能目庵蔓。",
+          "ja": "彼にはWi-Fiが見えるらしい。"
+        }
+      ],
       "num": "-"
     },
     {
@@ -4018,7 +4023,7 @@
           "type": "前置詞",
           "explanation": [
             {
-              "translate": "～のために。～に対して。～へ。～から。",
+              "translate": "～のために。～に対して。～について。",
               "tag": []
             }
           ]
@@ -4162,8 +4167,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "雰国の首都以外の都市。",
-              "tag": []
+              "translate": "都市。街。町。市。",
+              "tag": [],
+              "meaning": "一定以上の人口が集中した地域を指す。"
             }
           ]
         }
@@ -4415,7 +4421,15 @@
       "pron": "i3",
       "latinPron": "î",
       "example": [],
-      "num": "96"
+      "num": "96",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "伴"
+          ]
+        }
+      ]
     },
     {
       "word": "要",
@@ -5021,7 +5035,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "臓器。人間の体の中の器官。",
+              "translate": "内臓。臓器。はらわた。",
               "tag": []
             }
           ]
@@ -5033,6 +5047,36 @@
       "latinPron": "dàis",
       "example": [],
       "num": "103"
+    },
+    {
+      "word": "臓痛",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "腹痛。",
+              "tag": [],
+              "meaning": "消化器官をはじめとした腹部に感じる痛みや不快感。"
+            }
+          ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "腹が痛む。腹痛がする。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dais˨˨.ɯo˨˨/",
+      "pron": "dais2 uo2",
+      "latinPron": "dàis'ùo",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "氷",
@@ -6460,9 +6504,14 @@
               "translate": "年。1年。",
               "tag": [],
               "meaning": "永球において季節が一周する時間単位。永球の公転周期。また、ある紀年法で始点より経過した年数を書くときにも使われる。"
-            },
+            }
+          ]
+        },
+        {
+          "type": "助数詞",
+          "explanation": [
             {
-              "translate": "年齢。",
+              "translate": "～歳。～才。",
               "tag": []
             }
           ]
@@ -7563,11 +7612,12 @@
           ]
         },
         {
-          "type": "助動詞",
+          "type": "副詞",
           "explanation": [
             {
-              "translate": "～しよう。勧誘。",
-              "tag": []
+              "translate": "～だといいな。～であれ。～したい。",
+              "tag": [],
+              "meaning": "[欲]は自身の行動など直接干渉できるものに対して意思を表すのに対し、[伴]は将来の出来事など干渉できないものに対しての願いを表す。"
             }
           ]
         }
@@ -12800,6 +12850,27 @@
       "num": "256"
     },
     {
+      "word": "集帳家",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "図書館。書庫。ライブラリー。",
+              "tag": [],
+              "meaning": "主に書籍などを収集・保管し、利用者にそれらを提供する施設。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/naim˨˨.sɯs˥˧.bɛ˥˥/",
+      "pron": "naim2 sus3 be1",
+      "latinPron": "nàimsûsbé",
+      "example": [],
+      "num": "-"
+    },
+    {
       "word": "内帳",
       "mean": [
         {
@@ -13672,6 +13743,26 @@
       "latinPron": "káing",
       "example": [],
       "num": "268"
+    },
+    {
+      "word": "人働",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "手動の。人力の。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ha˥˥.kaiŋ˥˥/",
+      "pron": "ha1 kaing1",
+      "latinPron": "hákáing",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "雷働",
@@ -14557,6 +14648,27 @@
       ]
     },
     {
+      "word": "訓宗",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "布教する。宣教する。伝道する。",
+              "tag": [],
+              "meaning": "宗教や主義を伝え広めること。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃal˥˧.mai˥˥/",
+      "pron": "xal3 mai1",
+      "latinPron": "xâlmái",
+      "example": [],
+      "num": "-"
+    },
+    {
       "word": "訓人",
       "mean": [
         {
@@ -15142,7 +15254,7 @@
       "word": "被",
       "mean": [
         {
-          "type": "助動詞",
+          "type": "副詞",
           "explanation": [
             {
               "translate": "～される。受け身。",
@@ -15645,7 +15757,7 @@
       "word": "遣",
       "mean": [
         {
-          "type": "助動詞",
+          "type": "副詞",
           "explanation": [
             {
               "translate": "～させる。使役。",
@@ -15732,6 +15844,27 @@
       "ipa": "/βal˨˨.βais˨˨/",
       "pron": "val2 vais2",
       "latinPron": "vàlvàis",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "新日",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "元日。元旦。",
+              "tag": [],
+              "meaning": "新年最初の一日。旭暦における1季1旬1日である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βal˨˨.kɯaŋ˥˥/",
+      "pron": "val2 kuang1",
+      "latinPron": "vàlkúang",
       "example": [],
       "num": "-"
     },
@@ -16746,7 +16879,8 @@
           "explanation": [
             {
               "translate": "腹。お腹。腹部。胴体の前面下部。",
-              "tag": []
+              "tag": [],
+              "meaning": "日本語の「お腹」は内臓も含めて指すことがあるが、[腹]はあくまで表面部分としての腹部を指す語である。「内蔵」の意味では[臓]を用いる。"
             }
           ]
         }
@@ -16975,7 +17109,7 @@
           "type": "世界観",
           "explanation": [
             {
-              "translate": "永球人も地球人と同じく一般的には手足ともに5本である。",
+              "translate": "永球人も地球人と同じく一般的には手足ともに5本の指を持つ。",
               "tag": []
             }
           ]
@@ -17250,6 +17384,27 @@
       "latinPron": "dôl",
       "example": [],
       "num": "351"
+    },
+    {
+      "word": "小餐",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "おやつ。軽食。菓子。スナック。",
+              "tag": [],
+              "meaning": "小腹を満たすために取る少量の食事。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jao˥˥.dol˥˧/",
+      "pron": "yao1 dol3",
+      "latinPron": "yáodôl",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "造餐",
@@ -20120,7 +20275,69 @@
       "pron": "we1",
       "latinPron": "wé",
       "example": [],
-      "num": "397"
+      "num": "397",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "動行"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "動行",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "運動する。",
+              "tag": [
+                "物"
+              ],
+              "meaning": "物理学において、物体が速度を持って移動する現象。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wɛ˥˥.jaom˥˥/",
+      "pron": "we1 yaom1",
+      "latinPron": "wéyáom",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "動行力",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "運動エネルギー。",
+              "tag": [
+                "物"
+              ],
+              "meaning": "運動する物体が持つエネルギー。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wɛ˥˥.jaom˥˥.nai˨˨/",
+      "pron": "we1 yaom1 nai2",
+      "latinPron": "wéyáomnài",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "動行"
+          ]
+        }
+      ]
     },
     {
       "word": "籠",
@@ -21710,6 +21927,27 @@
       "latinPron": "dúo",
       "example": [],
       "num": "425"
+    },
+    {
+      "word": "宇火",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "花火。",
+              "tag": [],
+              "meaning": "火薬などを用いて鑑賞のために空に打ち上げるもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɯo˥˥.taŋ˨˨/",
+      "pron": "duo1 tang2",
+      "latinPron": "dúotàng",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "天宇",
@@ -25662,9 +25900,14 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "捕まえる。捕らえる。捕獲する。拘束する。",
+              "translate": "捕まえる。捕らえる。固定する。捕獲する。拘束する。",
               "tag": [],
               "meaning": "対象を自由に動けない状況にすることを指す。[包入]は空間に閉じ込めることを指すが、[拘]は空間が閉じているかを含意しない。"
+            },
+            {
+              "translate": "熱中する。のめり込む。熱狂する。ハマる。",
+              "tag": [],
+              "meaning": "ある物事に、そこから抜け出せなくなるほど夢中になること。"
             }
           ]
         }
@@ -25683,6 +25926,50 @@
           ]
         }
       ]
+    },
+    {
+      "word": "湛拘",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "保持する。内包する。",
+              "tag": [],
+              "meaning": "あるものを持ち続けている状態。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃao˥˥.hɯan˥˧/",
+      "pron": "qao1 huan3",
+      "latinPron": "qáohûan",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "湛拘力",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "位置エネルギー。",
+              "tag": [
+                "物"
+              ],
+              "meaning": "物理学において、物体の位置によって決まるエネルギー。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃao˥˥.hɯan˥˧.nai˨˨/",
+      "pron": "qao1 huan3 nai2",
+      "latinPron": "qáohûannài",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "函",
@@ -25826,6 +26113,80 @@
       "latinPron": "tú",
       "example": [],
       "num": "506"
+    },
+    {
+      "word": "強",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "強い。しっかりしている。パワフルな。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "激しく。力強く。きつく。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɛ˨˨/",
+      "pron": "de2",
+      "latinPron": "dè",
+      "example": [],
+      "num": "507"
+    },
+    {
+      "word": "強指",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "親指。",
+              "tag": []
+            },
+            {
+              "translate": "要。主軸。屋台骨。キーパーソン。",
+              "tag": [],
+              "meaning": "ある物事の中で、最も重要な役割を果たす部分や人物。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɛ˨˨.jɯo˥˥/",
+      "pron": "de2 yuo1",
+      "latinPron": "dèyúo",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "悾",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "ある特定のカテゴリ内で中途半端な立ち位置に存在し、他と比べてあまり目立たず不安定な要素に対して感じる神秘的かつ魅力的な感情。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɯal˥˧/",
+      "pron": "xual3",
+      "latinPron": "xûal",
+      "example": [],
+      "num": "508"
     }
   ]
 }
