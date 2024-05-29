@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-05-21T11:23:25.765Z",
+  "date": "2024-05-29T11:29:19.323Z",
   "data": [
     {
       "word": "人",
@@ -95,7 +95,8 @@
           "explanation": [
             {
               "translate": "私。わたし。僕。",
-              "tag": []
+              "tag": [],
+              "meaning": "最も一般的な一人称。"
             }
           ]
         }
@@ -111,6 +112,34 @@
         }
       ],
       "num": "4"
+    },
+    {
+      "word": "我衆",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "私たち。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɛ˥˧.mail˨˨/",
+      "pron": "xe3 mail2",
+      "latinPron": "xê'màil",
+      "example": [],
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "団"
+          ]
+        }
+      ]
     },
     {
       "word": "木",
@@ -300,8 +329,7 @@
             },
             {
               "translate": "りんご。",
-              "tag": [],
-              "meaning": "食べ頃の果実全般を指すが、特にりんごを指す場合も多い。"
+              "tag": []
             }
           ]
         }
@@ -320,7 +348,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "あなた。第二人称。",
+              "translate": "あなた。二人称。",
               "tag": []
             }
           ]
@@ -332,6 +360,26 @@
       "latinPron": "kûs",
       "example": [],
       "num": "10"
+    },
+    {
+      "word": "汝衆",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "あなたたち。あなたがた。二人称複数。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯs˥˧.mail˨˨/",
+      "pron": "kus3 mail2",
+      "latinPron": "kûsmàil",
+      "example": [],
+      "num": "-"
     },
     {
       "word": "大",
@@ -597,8 +645,7 @@
             },
             {
               "translate": "星。天体。",
-              "tag": [],
-              "meaning": "惑星や衛星、恒星などをまとめて指す。"
+              "tag": []
             }
           ]
         }
@@ -2429,8 +2476,9 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "直後の。次の。すぐ後ろの。",
-              "tag": []
+              "translate": "後の。次の。後ろの。",
+              "tag": [],
+              "meaning": "時間的な未来を指す。"
             }
           ]
         }
@@ -4488,8 +4536,7 @@
           "explanation": [
             {
               "translate": "切る。分ける。分割する。",
-              "tag": [],
-              "meaning": "完全に切断することを指す。"
+              "tag": []
             },
             {
               "translate": "割る。除算する。",
@@ -5964,7 +6011,8 @@
           "explanation": [
             {
               "translate": "～によって。～により。",
-              "tag": []
+              "tag": [],
+              "meaning": "句を形成して主語の代わりとして用いることが出来る。主に受動文の主語として使われる。"
             }
           ]
         }
@@ -6502,8 +6550,7 @@
           "explanation": [
             {
               "translate": "年。1年。",
-              "tag": [],
-              "meaning": "永球において季節が一周する時間単位。永球の公転周期。また、ある紀年法で始点より経過した年数を書くときにも使われる。"
+              "tag": []
             }
           ]
         },
@@ -6512,7 +6559,8 @@
           "explanation": [
             {
               "translate": "～歳。～才。",
-              "tag": []
+              "tag": [],
+              "meaning": "雰文化圏においては生まれた時点で1歳とし、誕生日を迎えるたびに1歳ずつ加算する年齢計算が一般的である。暦法や進法も地球とは異なるため、計算には注意が必要である。"
             }
           ]
         }
@@ -6571,7 +6619,8 @@
           "explanation": [
             {
               "translate": "～素。元素名の接尾辞。",
-              "tag": []
+              "tag": [],
+              "meaning": "元素名につく接尾語として使われる。"
             }
           ]
         }
@@ -6985,8 +7034,7 @@
             },
             {
               "translate": "線。ライン。",
-              "tag": [],
-              "meaning": "細長く連続するもの。"
+              "tag": []
             }
           ]
         }
@@ -7550,6 +7598,15 @@
               "tag": []
             }
           ]
+        },
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～も。～も含めて。～と一緒に。",
+              "tag": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -7859,8 +7916,7 @@
           "explanation": [
             {
               "translate": "横断する。越える。超える。",
-              "tag": [],
-              "meaning": "幅のある場所や時間を通り抜けることを指す。そのため、「（川を）越える」は[越]、「（国境を）越える」は[跨]と訳される。"
+              "tag": []
             },
             {
               "translate": "飛ばす。省く。スキップする。",
@@ -8643,8 +8699,7 @@
             },
             {
               "translate": "留まる。待つ。滞在する。ステイする。",
-              "tag": [],
-              "meaning": "一定時間に渡って一箇所に留まることを指す。"
+              "tag": []
             }
           ]
         }
@@ -9066,7 +9121,8 @@
           "explanation": [
             {
               "translate": "あなた。あなた様。貴殿。",
-              "tag": []
+              "tag": [],
+              "meaning": "目上の相手に対して使う二人称。"
             }
           ]
         }
@@ -12287,7 +12343,8 @@
           "explanation": [
             {
               "translate": "車。車輪がついた乗り物。",
-              "tag": []
+              "tag": [],
+              "meaning": "この語単体では「乗り物」程度の意味しか示さない。乗用車を指す場合は[力車]を用いる必要がある。"
             }
           ]
         }
@@ -12306,7 +12363,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "自動車。",
+              "translate": "自動車。乗用車。一般車。",
               "tag": []
             }
           ]
@@ -13016,15 +13073,6 @@
       "word": "温",
       "mean": [
         {
-          "type": "名詞",
-          "explanation": [
-            {
-              "translate": "お湯。温かい水。",
-              "tag": []
-            }
-          ]
-        },
-        {
           "type": "形容詞",
           "explanation": [
             {
@@ -13048,8 +13096,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "湯船。バスタブ。",
-              "tag": []
+              "translate": "湯船。バスタブ。風呂。",
+              "tag": [],
+              "meaning": "風呂場で湯を溜めることが出来る入れ物。"
             }
           ]
         }
@@ -13059,7 +13108,15 @@
       "pron": "qain1 paon1",
       "latinPron": "qáinpáon",
       "example": [],
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "浄処"
+          ]
+        }
+      ]
     },
     {
       "word": "海杯",
@@ -13702,8 +13759,9 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "私たち。一人称複数。",
-              "tag": []
+              "translate": "我等。われら。我々。私たち。一人称複数。",
+              "tag": [],
+              "meaning": "[我衆]が「自分と複数人」のように口語的でカジュアルな表現であるのに対し、[団]は「結束した自分たちの集団」のように集団全体を指すやや文語的な語である。"
             }
           ]
         }
@@ -13713,7 +13771,15 @@
       "pron": "puo3",
       "latinPron": "pûo",
       "example": [],
-      "num": "267"
+      "num": "267",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "我衆"
+          ]
+        }
+      ]
     },
     {
       "word": "働",
@@ -14655,8 +14721,7 @@
           "explanation": [
             {
               "translate": "布教する。宣教する。伝道する。",
-              "tag": [],
-              "meaning": "宗教や主義を伝え広めること。"
+              "tag": []
             }
           ]
         }
@@ -15311,22 +15376,43 @@
       "num": "-"
     },
     {
-      "word": "違事",
+      "word": "違言",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
               "translate": "うそ。嘘。フェイク。",
+              "tag": [],
+              "meaning": "意図的に他人へ不利益をもたらすために真実と異なって言及されたもの。悪いニュアンスが強い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɛ˨˨.bɯn˨˨/",
+      "pron": "he2 bun2",
+      "latinPron": "hèbùn",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "違言人",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "嘘つき。嘘吐き。ホラ吹き。",
               "tag": []
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/hɛ˨˨.gɛ˥˧/",
-      "pron": "he2 ge3",
-      "latinPron": "hègê",
+      "ipa": "/hɛ˨˨.bɯn˨˨.ha˥˥/",
+      "pron": "he2 bun2 ha1",
+      "latinPron": "hèbùnhá",
       "example": [],
       "num": "-"
     },
@@ -15338,8 +15424,7 @@
           "explanation": [
             {
               "translate": "消す。無くす。廃止する。",
-              "tag": [],
-              "meaning": "元々はあったものを無くすことを指す。"
+              "tag": []
             },
             {
               "translate": "引く。減算する。",
@@ -17565,8 +17650,7 @@
           "explanation": [
             {
               "translate": "吹く。吹き出す。力強く息を吐き出す。",
-              "tag": [],
-              "meaning": "気体などを力強く吹き出すことを指すが、風が吹くことを指す場合は[風]を動詞として用いる。"
+              "tag": []
             },
             {
               "translate": "発射する。噴射する。飛ばす。固体や液体、気体を高速で射出する。",
@@ -19270,6 +19354,16 @@
             {
               "translate": "（幾何学での）面。",
               "tag": []
+            }
+          ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "伏せる。倒れる。寝転がる。",
+              "tag": [],
+              "meaning": "物体が直立していない様子を指す。"
             }
           ]
         }
@@ -22426,8 +22520,7 @@
             },
             {
               "translate": "季。1季。",
-              "tag": [],
-              "meaning": "旭暦の計時単位の一つ。"
+              "tag": []
             }
           ]
         }
@@ -22496,8 +22589,7 @@
           "explanation": [
             {
               "translate": "旬。1旬。",
-              "tag": [],
-              "meaning": "旭暦の計時単位の一つ。"
+              "tag": []
             },
             {
               "translate": "期間。時代。時期。特定の時間のまとまり。",
@@ -24284,13 +24376,11 @@
           "explanation": [
             {
               "translate": "伝える。言う。伝達する。教える。",
-              "tag": [],
-              "meaning": "他者にある事柄を伝えることを指す。[報]よりも特定の人へ向けるニュアンスが強く、[訓]よりも特定の事柄を伝えるニュアンスが強い。"
+              "tag": []
             },
             {
               "translate": "～だそうだ。～らしい。～だって。",
-              "tag": [],
-              "meaning": "目的語に従属節を取り、他者からの伝聞を表すこともある。"
+              "tag": []
             }
           ]
         }
@@ -24421,8 +24511,7 @@
           "explanation": [
             {
               "translate": "汚い。不潔な。不衛生な。汚れた。",
-              "tag": [],
-              "meaning": "不快なほど汚れており、触れたくない状態を指す。"
+              "tag": []
             },
             {
               "translate": "闇深い。卑劣な。裏のある。",
@@ -24568,7 +24657,8 @@
           "explanation": [
             {
               "translate": "私。わたくし。",
-              "tag": []
+              "tag": [],
+              "meaning": "へりくだった一人称代名詞。"
             }
           ]
         }
@@ -25022,7 +25112,8 @@
           "explanation": [
             {
               "translate": "～で。～によって。～を用いて。～から。",
-              "tag": []
+              "tag": [],
+              "meaning": "動作の原因や手段を表す。"
             }
           ]
         }
@@ -25042,7 +25133,8 @@
           "explanation": [
             {
               "translate": "なぜなら。～ため。～ゆえ。",
-              "tag": []
+              "tag": [],
+              "meaning": "原因を示す。"
             }
           ]
         }
@@ -25062,7 +25154,8 @@
           "explanation": [
             {
               "translate": "お前。君。貴様。",
-              "tag": []
+              "tag": [],
+              "meaning": "目下に対して使う二人称代名詞。"
             }
           ]
         }
@@ -25082,8 +25175,7 @@
           "explanation": [
             {
               "translate": "仲間。類。グループ。",
-              "tag": [],
-              "meaning": "近い関係にあるものの集まりを指す。"
+              "tag": []
             },
             {
               "translate": "類。",
@@ -25129,13 +25221,11 @@
           "explanation": [
             {
               "translate": "つる。蔓。",
-              "tag": [],
-              "meaning": "細長く伸びて他の物に巻き付く植物。"
+              "tag": []
             },
             {
               "translate": "インターネット。ネット。",
-              "tag": [],
-              "meaning": "[雷蔓]の略としてインターネット関連の用語に使われる。"
+              "tag": []
             }
           ]
         }
@@ -25446,7 +25536,8 @@
           "explanation": [
             {
               "translate": "～まで。～へ。",
-              "tag": []
+              "tag": [],
+              "meaning": "範囲の終点となる場所や時間を示す。"
             }
           ]
         }
@@ -25470,12 +25561,22 @@
       "word": "唯",
       "mean": [
         {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "～だけ。～のみ。～に限り。",
+              "tag": [],
+              "meaning": "特定の事物に対しての限定を表す。"
+            }
+          ]
+        },
+        {
           "type": "副詞",
           "explanation": [
             {
-              "translate": "～だけ。～のみ。ただ。",
+              "translate": "～だけ。～のみ。ただ～のみ。",
               "tag": [],
-              "meaning": "限定を表す。"
+              "meaning": "特定の行動に対しての限定を表す。"
             }
           ]
         }
@@ -25901,13 +26002,11 @@
           "explanation": [
             {
               "translate": "捕まえる。捕らえる。固定する。捕獲する。拘束する。",
-              "tag": [],
-              "meaning": "対象を自由に動けない状況にすることを指す。[包入]は空間に閉じ込めることを指すが、[拘]は空間が閉じているかを含意しない。"
+              "tag": []
             },
             {
               "translate": "熱中する。のめり込む。熱狂する。ハマる。",
-              "tag": [],
-              "meaning": "ある物事に、そこから抜け出せなくなるほど夢中になること。"
+              "tag": []
             }
           ]
         }
@@ -26150,13 +26249,12 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "親指。",
+              "translate": "親指。第一指。",
               "tag": []
             },
             {
               "translate": "要。主軸。屋台骨。キーパーソン。",
-              "tag": [],
-              "meaning": "ある物事の中で、最も重要な役割を果たす部分や人物。"
+              "tag": []
             }
           ]
         }
@@ -26165,6 +26263,86 @@
       "ipa": "/dɛ˨˨.jɯo˥˥/",
       "pron": "de2 yuo1",
       "latinPron": "dèyúo",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "取指",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "人差し指。第二指。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɛ˥˧.jɯo˥˥/",
+      "pron": "je3 yuo1",
+      "latinPron": "jêyúo",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "軸指",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "中指。第三指。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gao˨˨.jɯo˥˥/",
+      "pron": "gao2 yuo1",
+      "latinPron": "gàoyúo",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "平指",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "薬指。第四指。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɛm˥˥.jɯo˥˥/",
+      "pron": "xem1 yuo1",
+      "latinPron": "xémyúo",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "弱指",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "小指。第五指。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯl˨˨.jɯo˥˥/",
+      "pron": "sul2 yuo1",
+      "latinPron": "sùlyúo",
       "example": [],
       "num": "-"
     },
@@ -26187,6 +26365,97 @@
       "latinPron": "xûal",
       "example": [],
       "num": "508"
+    },
+    {
+      "word": "菜",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "野菜。蔬菜。青果。青菜。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯl˥˧/",
+      "pron": "jul3",
+      "latinPron": "jûl",
+      "example": [],
+      "num": "509",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "菜草"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "菜草",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "野菜。蔬菜。青果。青菜。葉物。",
+              "tag": [],
+              "meaning": "食用になる植物の総称。栽培されているか自生かは含意しない。[菜]とほぼ同義語であるが、日常会話では[菜草]が多く用いられる傾向にある。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯl˥˧.t͡sai˥˥/",
+      "pron": "jul3 cai1",
+      "latinPron": "jûlcái",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "菜田",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "畑。耕作地。",
+              "tag": [],
+              "meaning": "野菜や穀物を栽培するための耕作地。特に野菜のものを指すことが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯl˥˧.t͡sin˨˨/",
+      "pron": "jul3 cin2",
+      "latinPron": "jûlcìn",
+      "example": [],
+      "num": "-"
+    },
+    {
+      "word": "悉",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "～の全体。～の全部。全ての。全部の。",
+              "tag": [],
+              "meaning": "[万]が存在する全てのものを表すのに対し、[悉]は特定の事物の全体を表す。例えば[万国]は世界の全ての国を指すが、[悉国]は一国の領域全体を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɯo˥˥/",
+      "pron": "xuo1",
+      "latinPron": "xúo",
+      "example": [],
+      "num": "510"
     }
   ]
 }
