@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-06-16T03:05:58.268Z",
+  "date": "2024-06-26T10:42:22.793Z",
   "data": [
     {
       "word": "人",
@@ -57,7 +57,8 @@
             {
               "translate": "手。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "手首及びその下の腕部分は含まない。"
             }
           ]
         }
@@ -1123,7 +1124,7 @@
       "word": "月",
       "mean": [
         {
-          "type": "動詞",
+          "type": "名詞",
           "explanation": [
             {
               "translate": "永球月。おつきさま。",
@@ -3767,9 +3768,10 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "彼。男性三人称。",
+              "translate": "彼。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "男性三人称。"
             }
           ]
         }
@@ -3787,9 +3789,10 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "彼女。女性三人称。",
+              "translate": "彼女。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "女性三人称。"
             }
           ]
         }
@@ -3916,7 +3919,7 @@
           "type": "副詞",
           "explanation": [
             {
-              "translate": "良く。",
+              "translate": "上手に。上手く。良く。",
               "tag": [],
               "example": []
             }
@@ -4472,6 +4475,26 @@
       "pron": "huas3",
       "latinPron": "hûas",
       "num": "94"
+    },
+    {
+      "word": "来元",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "帰る。戻る。帰還する。復元する。復活する。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯas˥˧.ʃo˥˧/",
+      "pron": "huas3 xo3",
+      "latinPron": "hûasxô",
+      "num": "-"
     },
     {
       "word": "字",
@@ -7793,6 +7816,12 @@
               "tag": [],
               "example": [],
               "meaning": "[欲]は自身の行動など直接干渉できるものに対して意思を表すのに対し、[伴]は将来の出来事など干渉できないものに対しての願いを表す。"
+            },
+            {
+              "translate": "～しよう。ぜひ～してください。～しませんか。",
+              "tag": [],
+              "example": [],
+              "meaning": "勧誘や要望を表す。"
             }
           ]
         }
@@ -9878,6 +9907,17 @@
               "example": []
             }
           ]
+        },
+        {
+          "type": "感動詞",
+          "explanation": [
+            {
+              "translate": "げこげこ。",
+              "tag": [],
+              "example": [],
+              "meaning": "蛙の鳴き声。"
+            }
+          ]
         }
       ],
       "append": [
@@ -11419,6 +11459,32 @@
       "num": "231"
     },
     {
+      "word": "通行",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "貫通する。貫く。通り抜ける。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "掘道通行其山。",
+                  "ja": "トンネルはその山を貫通している。",
+                  "pnPron": "zel1 gim1 faong3 yaom1 cen1 das1。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸaoŋ˥˧.jaom˥˥/",
+      "pron": "faong3 yaom1",
+      "latinPron": "fâongyáom",
+      "num": "-"
+    },
+    {
       "word": "通日",
       "mean": [
         {
@@ -12786,7 +12852,7 @@
       "num": "-"
     },
     {
-      "word": "熱機",
+      "word": "気熱機",
       "mean": [
         {
           "type": "名詞",
@@ -12800,13 +12866,13 @@
         }
       ],
       "append": [],
-      "ipa": "/sɯo˥˧.ail˨˨/",
-      "pron": "suo3 ail2",
-      "latinPron": "sûoàil",
+      "ipa": "/siŋ˥˥.sɯo˥˧.ail˨˨/",
+      "pron": "sing1 suo3 ail2",
+      "latinPron": "síngsûoàil",
       "num": "-"
     },
     {
-      "word": "燃機",
+      "word": "燃力機",
       "mean": [
         {
           "type": "名詞",
@@ -12820,9 +12886,9 @@
         }
       ],
       "append": [],
-      "ipa": "/lɯs˥˧.ail˨˨/",
-      "pron": "lus3 ail2",
-      "latinPron": "lûs'àil",
+      "ipa": "/lɯs˥˧.nai˨˨.ail˨˨/",
+      "pron": "lus3 nai2 ail2",
+      "latinPron": "lûsnàiàil",
       "num": "-"
     },
     {
@@ -12832,7 +12898,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "エアコン。",
+              "translate": "エアコン。空調。クーラー。",
               "tag": [],
               "example": []
             }
@@ -13376,7 +13442,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "風呂に入る。",
+              "translate": "入浴する。風呂に入る。",
               "tag": [],
               "example": []
             }
@@ -14206,6 +14272,31 @@
       "pron": "qil2",
       "latinPron": "qìl",
       "num": "273"
+    },
+    {
+      "word": "与名",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "命名する。名付ける。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "呼称する。～と呼ぶ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃil˨˨.d͡ʒɯal˥˥/",
+      "pron": "qil2 jual1",
+      "latinPron": "qìljúal",
+      "num": "-"
     },
     {
       "word": "湛",
@@ -21253,9 +21344,10 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "満月。月の全面が光に照らされた状態。",
+              "translate": "満月。望月。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "永球から見た淑月の全面が灼陽光に照らされている状態。"
             }
           ]
         }
@@ -21264,7 +21356,44 @@
       "ipa": "/kaiŋ˨˨.βo˨˨/",
       "pron": "kaing2 vo2",
       "latinPron": "kàingvò",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "黒月"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "黒月",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "新月。朔。",
+              "tag": [],
+              "example": [],
+              "meaning": "淑月の灼陽光に照らされた部分が永球から見えない状態。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɯa˨˨.βo˨˨/",
+      "pron": "xua2 vo2",
+      "latinPron": "xùavò",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "白月"
+          ]
+        }
+      ]
     },
     {
       "word": "夏",
@@ -22162,6 +22291,26 @@
       "num": "421"
     },
     {
+      "word": "賜病",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "病気に罹る。罹患する。感染する。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɛl˨˨.t͡sɯn˥˥/",
+      "pron": "jel2 cun1",
+      "latinPron": "jèlcún",
+      "num": "-"
+    },
+    {
       "word": "賜善",
       "mean": [
         {
@@ -22693,9 +22842,10 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "のろのろ歩く。ゆっくり歩く。",
+              "translate": "道草を食う。のろのろ歩く。横道にそれる。脱線する。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "ある行動や会話の途中で、関係ない物事に時間を費やすことを指す。"
             }
           ]
         },
@@ -24552,6 +24702,12 @@
               "translate": "～が無い。存在しない。",
               "tag": [],
               "example": []
+            },
+            {
+              "translate": "消滅する。消失する。失踪する。",
+              "tag": [],
+              "example": [],
+              "meaning": "跡形もなく消える様子を指す。"
             }
           ]
         },
@@ -26114,6 +26270,33 @@
       "num": "493"
     },
     {
+      "word": "建字",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "活字。",
+              "tag": [],
+              "example": [],
+              "meaning": "活版印刷に用いられる文字型。"
+            },
+            {
+              "translate": "フォント。書体。字体。",
+              "tag": [],
+              "example": [],
+              "meaning": "コンピュータ上で用いられる書体のデータ。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɛs˥˥.t͡ʃo˥˧/",
+      "pron": "xes1 qo3",
+      "latinPron": "xésqô",
+      "num": "-"
+    },
+    {
       "word": "建家",
       "mean": [
         {
@@ -26952,6 +27135,27 @@
       "ipa": "/ʃɯo˥˥.βɯ˨˨/",
       "pron": "xuo1 vu2",
       "latinPron": "xúovù",
+      "num": "-"
+    },
+    {
+      "word": "悉豊",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "いっぱいの。満杯の。満員の。満タンの。",
+              "tag": [],
+              "example": [],
+              "meaning": "既に満たされており、新たに物を入れることが出来ない状態。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɯo˥˥.nɯa˥˧/",
+      "pron": "xuo1 nua3",
+      "latinPron": "xúo'nûa",
       "num": "-"
     },
     {
