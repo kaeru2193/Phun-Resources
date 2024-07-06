@@ -90,6 +90,15 @@
     "desc": ""
   },
   {
+    "path": "font-publish/Bosval-latest.zip",
+    "pathList": [
+      "font-publish",
+      "Bosval-latest.zip"
+    ],
+    "title": "Bosval-latest.zip",
+    "desc": ""
+  },
+  {
     "path": "font-publish/Cagit-latest.zip",
     "pathList": [
       "font-publish",
@@ -273,7 +282,7 @@
     "path": "img/matuli_seli.png",
     "pathList": [
       "img",
-      "matuli seli"
+      "matuli_seli.png"
     ],
     "title": "matuli seli",
     "desc": "せり祭り！"
