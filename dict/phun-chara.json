@@ -11369,7 +11369,7 @@
         "data": [
           {
             "name": "発音",
-            "value": "li3"
+            "value": "lu3"
           },
           {
             "name": "意味",
@@ -28489,6 +28489,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=桜"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tʰʊ˧˥"
+          }
+        ]
       }
     ]
   },
@@ -28530,6 +28539,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=間"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tɯ˥˥"
           }
         ]
       }
@@ -28575,6 +28593,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=強"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "de˨˨"
+          }
+        ]
       }
     ]
   },
@@ -28616,6 +28643,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=悾"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃəlt ̚˧˩"
           }
         ]
       }
@@ -28661,6 +28697,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=菜"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡ʒɯlp ̚˥˧"
+          }
+        ]
       }
     ]
   },
@@ -28702,6 +28747,15 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=悉"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "ʃʊ˧˥"
           }
         ]
       }
@@ -28747,6 +28801,15 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=忘"
           }
         ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "d͡zaŋk ̚˥"
+          }
+        ]
       }
     ]
   },
@@ -28788,6 +28851,230 @@
             "value": "雰和辞典",
             "type": "link",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=逃"
+          }
+        ]
+      },
+      {
+        "lang": "中古雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "lɔp ̚˧˩"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "尋",
+    "id": "513",
+    "data": [
+      {
+        "name": "転写",
+        "value": "尋"
+      },
+      {
+        "name": "PhunID",
+        "value": "513"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "fu2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=尋"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "未",
+    "id": "514",
+    "data": [
+      {
+        "name": "転写",
+        "value": "未"
+      },
+      {
+        "name": "PhunID",
+        "value": "514"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "tum3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=未"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "解",
+    "id": "515",
+    "data": [
+      {
+        "name": "転写",
+        "value": "解"
+      },
+      {
+        "name": "PhunID",
+        "value": "515"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wim1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=解"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "北",
+    "id": "516",
+    "data": [
+      {
+        "name": "転写",
+        "value": "北"
+      },
+      {
+        "name": "PhunID",
+        "value": "516"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pon2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=北"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "巨",
+    "id": "517",
+    "data": [
+      {
+        "name": "転写",
+        "value": "巨"
+      },
+      {
+        "name": "PhunID",
+        "value": "517"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nual2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=巨"
           }
         ]
       }
