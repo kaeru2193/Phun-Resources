@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-07-29T12:55:16.483Z",
+  "date": "2024-08-11T06:33:06.207Z",
   "data": [
     {
       "word": "人",
@@ -916,6 +916,142 @@
       "ipa": "/βas˥.nɛs˨/",
       "pron": "vas1 nes2",
       "latinPron": "vásnès",
+      "num": "-"
+    },
+    {
+      "word": "天慶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "星節。惑星節。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "雰国で最重視される祭日である[水天節]、[土天節]、[火天節]、[気天節]、[木天節]の5つの総称であり、古くから知られる灼陽系の惑星の名が与えられている。現代ではこれらの日を中心とした大型連休が設定されている。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "ipa": "/βas˥.nɯ˥˧/",
+      "pron": "vas1 nu3",
+      "latinPron": "vásnû",
+      "num": "-"
+    },
+    {
+      "word": "水天慶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "瀧星節。",
+              "tag": [],
+              "example": [],
+              "meaning": "雰国において最も重要な祭日である[天慶]の一つ。立冬(秋分と冬至の中間)に置かれる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/so˥˧.βas˥.nɯ˥˧/",
+      "pron": "so3 vas1 nu3",
+      "latinPron": "sôvásnû",
+      "num": "-"
+    },
+    {
+      "word": "土天慶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "穀星節。",
+              "tag": [],
+              "example": [],
+              "meaning": "雰国において最も重要な祭日である[天慶]の一つ。立秋(夏至と秋分の中間)に置かれる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ao˥˧.βas˥.nɯ˥˧/",
+      "pron": "ao3 vas1 nu3",
+      "latinPron": "âovásnû",
+      "num": "-"
+    },
+    {
+      "word": "火天慶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "焔星節。",
+              "tag": [],
+              "example": [],
+              "meaning": "雰国において最も重要な祭日である[天慶]の一つ。立夏(春分と夏至の中間)に置かれる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/taŋ˨.βas˥.nɯ˥˧/",
+      "pron": "tang2 vas1 nu3",
+      "latinPron": "tàngvásnû",
+      "num": "-"
+    },
+    {
+      "word": "気天慶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "霞星節。",
+              "tag": [],
+              "example": [],
+              "meaning": "雰国において最も重要な祭日である[天慶]の一つ。立春(冬至と春分の中間)に置かれる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/siŋ˥.βas˥.nɯ˥˧/",
+      "pron": "sing1 vas1 nu3",
+      "latinPron": "síngvásnû",
+      "num": "-"
+    },
+    {
+      "word": "木天慶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "森星節。",
+              "tag": [],
+              "example": [],
+              "meaning": "雰国において最も重要な祭日である[天慶]の一つ。春分、つまり旭暦における元日の周辺に置かれる(元日は春分ちょうどとは限らない)。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɯŋ˨.βas˥.nɯ˥˧/",
+      "pron": "lung2 vas1 nu3",
+      "latinPron": "lùngvásnû",
       "num": "-"
     },
     {
@@ -5344,6 +5480,26 @@
       "pron": "pu2",
       "latinPron": "pù",
       "num": "105"
+    },
+    {
+      "word": "雲雲",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "ふわふわの。ふかふかの。やわらかい。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɯ˨˦.pɯ˨/",
+      "pron": "pu2 pu2",
+      "latinPron": "pùpù",
+      "num": "-"
     },
     {
       "word": "門",
@@ -11618,6 +11774,36 @@
       "pron": "wai1",
       "latinPron": "wái",
       "num": "227"
+    },
+    {
+      "word": "穏穏",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "まったりした。ゆったりした。緩やかな。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "まったりと。ゆったりと。ゆっくりと。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wai˥.wai˥/",
+      "pron": "wai1 wai1",
+      "latinPron": "wáiwái",
+      "num": "-"
     },
     {
       "word": "医",
@@ -20882,7 +21068,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "うれしい。",
+              "translate": "めでたい。うれしい。喜ばしい。",
               "tag": [],
               "example": []
             }
@@ -25854,6 +26040,16 @@
               "meaning": "相手の言ったことに聞き従うことを指す。"
             }
           ]
+        },
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～に従って。～に合わせて。～の通り。～と同時に。",
+              "tag": [],
+              "example": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -28327,6 +28523,26 @@
       "pron": "ye2",
       "latinPron": "yè",
       "num": "518"
+    },
+    {
+      "word": "尾",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "尻尾。尾。しっぽ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mol˥/",
+      "pron": "mol1",
+      "latinPron": "mól",
+      "num": "519"
     }
   ]
 }
