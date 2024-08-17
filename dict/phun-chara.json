@@ -29165,5 +29165,177 @@
         ]
       }
     ]
+  },
+  {
+    "chara": "端",
+    "id": "520",
+    "data": [
+      {
+        "name": "転写",
+        "value": "端"
+      },
+      {
+        "name": "PhunID",
+        "value": "520"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "zeng1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=端"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "刺",
+    "id": "521",
+    "data": [
+      {
+        "name": "転写",
+        "value": "刺"
+      },
+      {
+        "name": "PhunID",
+        "value": "521"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "din2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=刺"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "糊",
+    "id": "522",
+    "data": [
+      {
+        "name": "転写",
+        "value": "糊"
+      },
+      {
+        "name": "PhunID",
+        "value": "522"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "aom1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=糊"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "蜘",
+    "id": "523",
+    "data": [
+      {
+        "name": "転写",
+        "value": "蜘"
+      },
+      {
+        "name": "PhunID",
+        "value": "523"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "wos3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=蜘"
+          }
+        ]
+      }
+    ]
   }
 ]

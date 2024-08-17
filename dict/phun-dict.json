@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-08-11T06:33:06.207Z",
+  "date": "2024-08-17T11:41:54.688Z",
   "data": [
     {
       "word": "人",
@@ -6449,28 +6449,18 @@
           ]
         },
         {
-          "type": "名詞",
+          "type": "造語成分",
           "explanation": [
             {
               "translate": "中立の存在。中間の存在。標準的な存在。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "12進法における中央の数であることから、「中間」というニュアンスを持つ。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "12進法における中央の数であることから、「中間」という語義も持つ。ただし[六]のみでこの意味を表すことは基本的になく、多くは熟語として現れる。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lis˥˧/",
       "pron": "lis3",
       "latinPron": "lîs",
@@ -6761,9 +6751,10 @@
           "type": "前置詞",
           "explanation": [
             {
-              "translate": "～の周辺で。",
+              "translate": "～の周辺で。～の周りで。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "対象に近い外側の領域を指す。境界に近い内側の部分は[端]で表される。"
             }
           ]
         },
@@ -8359,7 +8350,7 @@
               "translate": "横断する。越える。超える。",
               "tag": [],
               "example": [],
-              "meaning": "幅のある場所や時間を通り抜けることを指す。そのため、「（川を）越える」は[越]、「（国境を）越える」は[跨]と訳される。"
+              "meaning": "幅のある場所や時間をまたぐことを指す。そのため、「（川を）越える」は[越]、「（国境を）越える」は[跨行]と訳される。"
             },
             {
               "translate": "飛ばす。省く。スキップする。",
@@ -9841,7 +9832,7 @@
           ]
         },
         {
-          "type": "接尾辞",
+          "type": "助数詞",
           "explanation": [
             {
               "translate": "～回。繰り返される事象の数を表す。",
@@ -11872,7 +11863,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "通る。穴などを通過する。あるものに沿って移動する。",
+              "translate": "通る。ある場所を通り過ぎる。",
               "tag": [],
               "example": []
             }
@@ -13775,6 +13766,16 @@
               "example": []
             }
           ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
+            {
+              "translate": "入れ物。容器。",
+              "tag": [],
+              "example": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -14529,6 +14530,16 @@
       "word": "働",
       "mean": [
         {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "仕事。業務。労働。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
           "type": "動詞",
           "explanation": [
             {
@@ -14554,6 +14565,26 @@
       "pron": "kaing1",
       "latinPron": "káing",
       "num": "268"
+    },
+    {
+      "word": "田働",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "農業。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sin˨.kaiŋ˥/",
+      "pron": "cin2 kaing1",
+      "latinPron": "cìnkáing",
+      "num": "-"
     },
     {
       "word": "人働",
@@ -14734,6 +14765,26 @@
       "pron": "qil2",
       "latinPron": "qìl",
       "num": "273"
+    },
+    {
+      "word": "与力",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "助ける。手伝う。手助けする。助力する。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃil˨˦.nai˨/",
+      "pron": "qil2 nai2",
+      "latinPron": "qìlnài",
+      "num": "-"
     },
     {
       "word": "与名",
@@ -15984,23 +16035,13 @@
             {
               "translate": "ならば。もし。仮に。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "条件や仮定を表す。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "文法",
-          "explanation": [
-            {
-              "translate": "「A模B」で「AならばB」を表す。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/mɯo˥/",
       "pron": "muo1",
       "latinPron": "múo",
@@ -16700,17 +16741,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "終わる。終了する。完了する。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        },
-        {
-          "type": "前置詞",
-          "explanation": [
-            {
-              "translate": "～の後に。",
+              "translate": "終わる。終了する。完結する。完了する。",
               "tag": [],
               "example": []
             }
@@ -22080,6 +22111,16 @@
               "example": []
             }
           ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "熟練した。手慣れた。慣れた。",
+              "tag": [],
+              "example": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -22087,6 +22128,26 @@
       "pron": "mel1",
       "latinPron": "mél",
       "num": "408"
+    },
+    {
+      "word": "秋兵",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "古兵。老兵。古強者。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɛl˥.nal˥˧/",
+      "pron": "mel1 nal3",
+      "latinPron": "mélnâl",
+      "num": "-"
     },
     {
       "word": "冬",
@@ -22369,7 +22430,7 @@
       "num": "-"
     },
     {
-      "word": "珠周",
+      "word": "珠端",
       "mean": [
         {
           "type": "名詞",
@@ -22385,13 +22446,13 @@
         }
       ],
       "append": [],
-      "ipa": "/d͡ʒɯan˨˦.ɸɯon˨/",
-      "pron": "juan2 fuon2",
-      "latinPron": "jùanfùon",
+      "ipa": "/d͡ʒɯan˨.zɛŋ˥/",
+      "pron": "juan2 zeng1",
+      "latinPron": "jùanzéng",
       "num": "-"
     },
     {
-      "word": "珠周定",
+      "word": "珠端数",
       "mean": [
         {
           "type": "名詞",
@@ -22407,9 +22468,9 @@
         }
       ],
       "append": [],
-      "ipa": "/d͡ʒɯan˨˦.ɸɯon˨.lɯa˥˧/",
-      "pron": "juan2 fuon2 lua3",
-      "latinPron": "jùanfùonlûa",
+      "ipa": "/d͡ʒɯan˨.zɛŋ˥.mis˥/",
+      "pron": "juan2 zeng1 mis1",
+      "latinPron": "jùanzéngmís",
       "num": "-"
     },
     {
@@ -22625,6 +22686,27 @@
       "ipa": "/paŋ˥˧.sai˥˧/",
       "pron": "pang3 sai3",
       "latinPron": "pângsâi",
+      "num": "-"
+    },
+    {
+      "word": "吹拘",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "引き金。トリガー。",
+              "tag": [],
+              "example": [],
+              "meaning": "銃器を発砲する際に引く金具。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/paŋ˥˧.hɯan˥˧/",
+      "pron": "pang3 huan3",
+      "latinPron": "pânghûan",
       "num": "-"
     },
     {
@@ -24113,7 +24195,7 @@
           ]
         },
         {
-          "type": "接尾辞",
+          "type": "助数詞",
           "explanation": [
             {
               "translate": "～番目の。～つめの。順序を表す。",
@@ -24322,7 +24404,7 @@
       "word": "序追",
       "mean": [
         {
-          "type": "接尾辞",
+          "type": "助数詞",
           "explanation": [
             {
               "translate": "～回目。～回目の。繰り返される事象の順序を表す。",
@@ -25269,6 +25351,18 @@
               "meaning": "2次元的に領域を閉じることを指す。"
             }
           ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "図形。",
+              "tag": [
+                "数"
+              ],
+              "example": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -25540,7 +25634,13 @@
             {
               "translate": "～が無い。存在しない。",
               "tag": [],
-              "example": []
+              "example": [
+                {
+                  "pn": "其言虚。",
+                  "ja": "そんな話は無い。",
+                  "pnPron": "cen1 bun2 ua3。"
+                }
+              ]
             },
             {
               "translate": "消滅する。消失する。失踪する。",
@@ -25556,7 +25656,13 @@
             {
               "translate": "存在しない。虚偽の。偽りの。",
               "tag": [],
-              "example": []
+              "example": [
+                {
+                  "pn": "其言為虚。",
+                  "ja": "その話は虚偽である。",
+                  "pnPron": "cen1 bun2 xel3 ua3。"
+                }
+              ]
             }
           ]
         }
@@ -25656,7 +25762,7 @@
               "translate": "越える。超える。進入する。入る。",
               "tag": [],
               "example": [],
-              "meaning": "物理的または数値的な基準点や境界線を越えることを指す。「年を越す」のような表現にはこれが用いられる。"
+              "meaning": "基準点や境界線を越えることを指す。「年を越す」のような表現にはこれが用いられる。"
             }
           ]
         }
@@ -26609,10 +26715,10 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "仲間。類。グループ。",
+              "translate": "種類。仲間。類。グループ。",
               "tag": [],
               "example": [],
-              "meaning": "近い関係にあるものの集まりを指す。"
+              "meaning": "何かしらの分類で近い関係にあるものの集まりを指す。"
             },
             {
               "translate": "類。",
@@ -27942,7 +28048,8 @@
             {
               "translate": "野菜。蔬菜。青果。青菜。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "口語では専ら[菜草]が用いられる。"
             }
           ]
         }
@@ -27971,7 +28078,7 @@
               "translate": "野菜。蔬菜。青果。青菜。葉物。",
               "tag": [],
               "example": [],
-              "meaning": "食用になる植物の総称。栽培されているか自生かは含意しない。[菜]とほぼ同義語であるが、日常会話では[菜草]が多く用いられる傾向にある。"
+              "meaning": "食用になる植物の総称。栽培されているか自生かは含意しない。[菜]とほぼ同義語。"
             }
           ]
         }
@@ -28242,7 +28349,7 @@
               "example": [
                 {
                   "pn": "於其人我尋、名為何如。",
-                  "ja": "私はその人に、名前はなんですか、と聞いた。",
+                  "ja": "私はその人に、名前はなんですかと聞いた。",
                   "pnPron": "e1 cen1 ha1 xe3 fu2、 jual1 xel3 naol3 lol1。"
                 }
               ]
@@ -28324,6 +28431,27 @@
       "pron": "wim1",
       "latinPron": "wím",
       "num": "515"
+    },
+    {
+      "word": "解行",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "探検する。探査する。調査する。",
+              "tag": [],
+              "example": [],
+              "meaning": "未知の場所に踏み込み調べることを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wim˥.jaom˥/",
+      "pron": "wim1 yaom1",
+      "latinPron": "wímyáom",
+      "num": "-"
     },
     {
       "word": "北",
@@ -28543,6 +28671,412 @@
       "pron": "mol1",
       "latinPron": "mól",
       "num": "519"
+    },
+    {
+      "word": "機尾",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "（機械や機器などの）電源コード。",
+              "tag": [
+                "俗"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ail˨.mol˥/",
+      "pron": "ail2 mol1",
+      "latinPron": "àilmól",
+      "num": "-"
+    },
+    {
+      "word": "有尾",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "（機械や機器などが）有線の。",
+              "tag": [
+                "俗"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/no˨.mol˥/",
+      "pron": "no2 mol1",
+      "latinPron": "nò'mól",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "機尾"
+          ]
+        },
+        {
+          "type": "対義語",
+          "explanation": [
+            "虚尾"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "虚尾",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "（機械や機器などが）無線の。",
+              "tag": [
+                "俗"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯa˥˧.mol˥/",
+      "pron": "ua3 mol1",
+      "latinPron": "ûa'mól",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "機尾"
+          ]
+        },
+        {
+          "type": "対義語",
+          "explanation": [
+            "有尾"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "端",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "端。縁。隅。角。へり。",
+              "tag": [],
+              "example": [],
+              "meaning": "事物が終わる境目の部分を指す。"
+            },
+            {
+              "translate": "限界。終わり。際限。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～の周りで。～の端で。～の外縁で。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "多兵居端其国。",
+                  "ja": "その国の国境付近には多くの兵が配置されている。",
+                  "pnPron": "jo3 nal3 baim3 zeng1 cen1 nun2。"
+                }
+              ],
+              "meaning": "境界に近い内側の部分を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zɛŋ˥/",
+      "pron": "zeng1",
+      "latinPron": "zéng",
+      "num": "520",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "周"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "囲端",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "周。図形を囲む線。",
+              "tag": [
+                "数"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dai˥˧.zɛŋ˥/",
+      "pron": "dai3 zeng1",
+      "latinPron": "dâizéng",
+      "num": "-"
+    },
+    {
+      "word": "虚端",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "無限の。限りない。終わりない。永遠の。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯa˥˧.zɛŋ˥/",
+      "pron": "ua3 zeng1",
+      "latinPron": "ûazéng",
+      "num": "-"
+    },
+    {
+      "word": "刺",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "刺す。突き刺す。突く。",
+              "tag": [],
+              "example": [],
+              "meaning": "[針]は細長いもので穴を開けることを指すのに対し、[刺]は主に尖った武器などで攻撃することを指す。"
+            },
+            {
+              "translate": "射抜く。（銃弾が）命中する。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "其人丸刺赤果元百杖遠。",
+                  "ja": "その人の弾丸は144杖 (約165m)の距離からりんごに命中した。",
+                  "pnPron": "cen1 ha1 luong3 din2 vuos1 baon2 xo3 pai2 qo1 sal2。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/din˨/",
+      "pron": "din2",
+      "latinPron": "dìn",
+      "num": "521"
+    },
+    {
+      "word": "少拠",
+      "mean": [
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～以下の。～已下の。",
+              "tag": [],
+              "example": [],
+              "meaning": "語源的には「～より小さい」であるが、基準を含んでそれより数量的に小さい範囲を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hain˥.t͡saŋ˨/",
+      "pron": "hain1 cang2",
+      "latinPron": "háincàng",
+      "num": "-"
+    },
+    {
+      "word": "多拠",
+      "mean": [
+        {
+          "type": "前置詞",
+          "explanation": [
+            {
+              "translate": "～以上の。～已上の。",
+              "tag": [],
+              "example": [],
+              "meaning": "語源的には「～より大きい」であるが、基準を含んでそれより数量的に大きい範囲を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒo˥˧.t͡saŋ˨/",
+      "pron": "jo3 cang2",
+      "latinPron": "jôcàng",
+      "num": "-"
+    },
+    {
+      "word": "糊",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "くっつく。付着する。ひっつく。こびりつく。粘着する。",
+              "tag": [],
+              "example": [],
+              "meaning": "[和]は二つのものが一つにまとまることを指すのに対し、[糊]は対象に他のものが着いて離れなくなることを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/aom˥/",
+      "pron": "aom1",
+      "latinPron": "áom",
+      "num": "522"
+    },
+    {
+      "word": "糊糊",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "べたべたした。べとべとの。ねばねばした。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/aom˥.aom˥/",
+      "pron": "aom1 aom1",
+      "latinPron": "áom'áom",
+      "num": "-"
+    },
+    {
+      "word": "二追動兵",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "駒を二回動かす。一石二鳥。一挙両得。",
+              "tag": [],
+              "example": [],
+              "meaning": "1度の行動で2つの利益を得ることを、[軍盤]で一回の手番に駒を二回動かすことに例えたことわざ。なお、この動作は反則である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bɯan˥˧.jɯon˨.wɛ˥.nal˥˧/",
+      "pron": "buan3 yuon2 we1 nal3",
+      "latinPron": "bûanyùonwé'nâl",
+      "num": "-"
+    },
+    {
+      "word": "蜘",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "蜘蛛。スパイダー。",
+              "tag": [],
+              "example": [],
+              "meaning": "口語では専ら[蜘虫]が用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wos˥˧/",
+      "pron": "wos3",
+      "latinPron": "wôs",
+      "num": "523"
+    },
+    {
+      "word": "蜘網拘蜘",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "蜘蛛が蜘蛛の巣にかかる。自縄自縛。自業自得。",
+              "tag": [],
+              "example": [],
+              "meaning": "自分の行動や策略に、却って自分が苦しめられることを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wos˥˧.mɯa˥.hɯan˥˧.wos˥˧/",
+      "pron": "wos3 mua1 huan3 wos3",
+      "latinPron": "wôsmúahûanwôs",
+      "num": "-"
+    },
+    {
+      "word": "蜘虫",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "蜘蛛。スパイダー。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wos˥˧.t͡sɯo˨/",
+      "pron": "wos3 cuo2",
+      "latinPron": "wôscùo",
+      "num": "-"
+    },
+    {
+      "word": "到天落地",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "一か八か。乾坤一擲。",
+              "tag": [],
+              "example": [],
+              "meaning": "運を天に任せて勝負に出ることを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɛl˥.βas˥.d͡ʒɯa˥˧.ho˥˧/",
+      "pron": "tel1 vas1 jua3 ho3",
+      "latinPron": "télvásjûahô",
+      "num": "-"
     }
   ]
 }
