@@ -29337,5 +29337,263 @@
         ]
       }
     ]
+  },
+  {
+    "chara": "霞",
+    "id": "524",
+    "data": [
+      {
+        "name": "転写",
+        "value": "霞"
+      },
+      {
+        "name": "PhunID",
+        "value": "524"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "pes1"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=霞"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "煙",
+    "id": "525",
+    "data": [
+      {
+        "name": "転写",
+        "value": "煙"
+      },
+      {
+        "name": "PhunID",
+        "value": "525"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "vail2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=煙"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "太",
+    "id": "526",
+    "data": [
+      {
+        "name": "転写",
+        "value": "太"
+      },
+      {
+        "name": "PhunID",
+        "value": "526"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "te2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=太"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "蔔",
+    "id": "527",
+    "data": [
+      {
+        "name": "転写",
+        "value": "蔔"
+      },
+      {
+        "name": "PhunID",
+        "value": "527"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "nom2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=蔔"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "燦",
+    "id": "528",
+    "data": [
+      {
+        "name": "転写",
+        "value": "燦"
+      },
+      {
+        "name": "PhunID",
+        "value": "528"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "cal3"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=燦"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chara": "細",
+    "id": "529",
+    "data": [
+      {
+        "name": "転写",
+        "value": "細"
+      },
+      {
+        "name": "PhunID",
+        "value": "529"
+      },
+      {
+        "name": "画数",
+        "value": "-"
+      },
+      {
+        "name": "部首",
+        "value": "-"
+      }
+    ],
+    "langs": [
+      {
+        "lang": "雰語",
+        "data": [
+          {
+            "name": "発音",
+            "value": "sam2"
+          },
+          {
+            "name": "意味",
+            "value": "リンク先を参照。"
+          },
+          {
+            "name": "リンク",
+            "value": "雰和辞典",
+            "type": "link",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=細"
+          }
+        ]
+      }
+    ]
   }
 ]

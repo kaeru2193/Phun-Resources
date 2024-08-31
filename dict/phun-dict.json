@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-08-17T11:41:54.688Z",
+  "date": "2024-08-31T14:13:23.040Z",
   "data": [
     {
       "word": "人",
@@ -899,7 +899,7 @@
       "num": "-"
     },
     {
-      "word": "天心",
+      "word": "天魂",
       "mean": [
         {
           "type": "名詞",
@@ -913,9 +913,9 @@
         }
       ],
       "append": [],
-      "ipa": "/βas˥.nɛs˨/",
-      "pron": "vas1 nes2",
-      "latinPron": "vásnès",
+      "ipa": "/βas˥.nɯm˨/",
+      "pron": "vas1 num2",
+      "latinPron": "vásnùm",
       "num": "-"
     },
     {
@@ -4100,6 +4100,37 @@
       "num": "84"
     },
     {
+      "word": "倫強",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "健康な。大丈夫な。健全な。良好な。",
+              "tag": [],
+              "example": [],
+              "meaning": "病や憂いがない状態を指すほか、問題なく機能する様子として生物以外にも使用される。"
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "健康。健全。安泰。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɯo˨˦.dɛ˨/",
+      "pron": "tuo2 de2",
+      "latinPron": "tùodè",
+      "num": "-"
+    },
+    {
       "word": "違倫",
       "mean": [
         {
@@ -6608,6 +6639,36 @@
       "num": "123"
     },
     {
+      "word": "道行",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "旅行。旅。トリップ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "旅する。旅行する。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gim˥.jaom˥/",
+      "pron": "gim1 yaom1",
+      "latinPron": "gímyáom",
+      "num": "-"
+    },
+    {
       "word": "元",
       "mean": [
         {
@@ -7916,9 +7977,16 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "嫌う。恨む。憎む。対象に嫌な感情を持つ。",
+              "translate": "嫌う。避ける。恨む。厭う。",
               "tag": [],
-              "example": []
+              "example": [
+                {
+                  "pn": "万人不恨菜草拠侶。",
+                  "ja": "彼ほど野菜を嫌う人はいない。",
+                  "pnPron": "ao1 ha1 ki1 gon2 jul3 cai1 cang2 duo2。"
+                }
+              ],
+              "meaning": "対象を好まず、意図的に避ける状態を指す。"
             }
           ]
         },
@@ -7926,7 +7994,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "嫌いな。不仲な。仲の悪い。",
+              "translate": "嫌いな。苦手な。",
               "tag": [],
               "example": []
             }
@@ -10387,6 +10455,26 @@
       "num": "200"
     },
     {
+      "word": "田人",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "農民。農夫。百姓。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sin˨.ha˥/",
+      "pron": "cin2 ha1",
+      "latinPron": "cìnhá",
+      "num": "-"
+    },
+    {
       "word": "永",
       "mean": [
         {
@@ -12403,7 +12491,7 @@
               "example": []
             },
             {
-              "translate": "大切な。大事な。",
+              "translate": "大切な。大事な。重要な。",
               "tag": [],
               "example": []
             }
@@ -13587,7 +13675,7 @@
       "word": "求",
       "mean": [
         {
-          "type": "情詞",
+          "type": "副詞",
           "explanation": [
             {
               "translate": "～してください。要請。",
@@ -14633,7 +14721,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "技術。テクノロジー。",
+              "translate": "技術。技能。技量。スキル。",
               "tag": [],
               "example": []
             }
@@ -15706,6 +15794,26 @@
       "num": "285"
     },
     {
+      "word": "夫妻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "夫婦。夫妻。めおと。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/paoŋ˨˦.haŋ˨/",
+      "pron": "paong2 hang2",
+      "latinPron": "pàonghàng",
+      "num": "-"
+    },
+    {
       "word": "古",
       "mean": [
         {
@@ -16701,7 +16809,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "ひったくり。盗人。怪盗。強盗。",
+              "translate": "ひったくり。盗人。泥棒。怪盗。強盗。",
               "tag": [],
               "example": []
             }
@@ -22388,6 +22496,27 @@
       "num": "412"
     },
     {
+      "word": "定固",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "真面目な。誠実な。素直な。真摯な。頑固な。",
+              "tag": [],
+              "example": [],
+              "meaning": "妥協や横着をせず、物事に対して真剣に向かう態度を指す。文脈によっては「融通が利かない」のような否定的なニュアンスを持つことがあるので注意。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɯa˥˧.nail˨/",
+      "pron": "lua3 nail2",
+      "latinPron": "lûa'nàil",
+      "num": "-"
+    },
+    {
       "word": "測定",
       "mean": [
         {
@@ -24711,6 +24840,32 @@
       ]
     },
     {
+      "word": "万悉録",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "百科事典。百科全書。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "（特定の分野の）大事典。大図鑑。",
+              "tag": [],
+              "example": [],
+              "meaning": "一般名詞ではなく、主に学問名と組み合わせて書名の一部として使われる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ao˥.ʃɯo˥.d͡ʒao˨/",
+      "pron": "ao1 xuo1 jao2",
+      "latinPron": "áoxúojào",
+      "num": "-"
+    },
+    {
       "word": "商",
       "mean": [
         {
@@ -25104,7 +25259,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "心。精神。意識。人間のこころ。",
+              "translate": "心。精神。意識。感情。人間のこころ。",
               "tag": [],
               "example": []
             }
@@ -29077,6 +29232,236 @@
       "pron": "tel1 vas1 jua3 ho3",
       "latinPron": "télvásjûahô",
       "num": "-"
+    },
+    {
+      "word": "霞",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "霧。霞。靄。",
+              "tag": [],
+              "example": [],
+              "meaning": "空気中に水滴が浮かび、遠くが鮮明に見えなくなる気象現象。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɛs˥/",
+      "pron": "pes1",
+      "latinPron": "pés",
+      "num": "524"
+    },
+    {
+      "word": "熱霞",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "蒸気。水蒸気。湯気。スチーム。",
+              "tag": [],
+              "example": [],
+              "meaning": "気体としての水蒸気から液体の霧としての湯気までを包括して指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯo˥˧.pɛs˥/",
+      "pron": "suo3 pes1",
+      "latinPron": "sûopés",
+      "num": "-"
+    },
+    {
+      "word": "熱霞働車",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "蒸気機関車。機関車。蒸気車。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯo˥˧.pɛs˥.kaiŋ˥.jɛ˥˧/",
+      "pron": "suo3 pes1 kaing1 ye3",
+      "latinPron": "sûopéskáingyê",
+      "num": "-"
+    },
+    {
+      "word": "煙",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "煙。スモーク。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βail˨/",
+      "pron": "vail2",
+      "latinPron": "vàil",
+      "num": "525"
+    },
+    {
+      "word": "太",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "太い。直径が大きい。周長が長い。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "太った。肥えた。肥満した。",
+              "tag": [],
+              "example": [],
+              "meaning": "生物の体重が標準より大きい様子。"
+            },
+            {
+              "translate": "（音が）低い。低音の。周波数が低い。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɛ˨/",
+      "pron": "te2",
+      "latinPron": "tè",
+      "num": "526",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "細"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "蔔",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "大根。カブ。蕪。ラディッシュ。",
+              "tag": [],
+              "example": [],
+              "meaning": "特に蕪を指す場合には[丸蔔]が用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nom˨/",
+      "pron": "nom2",
+      "latinPron": "nòm",
+      "num": "527"
+    },
+    {
+      "word": "丸蔔",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "カブ。蕪。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɯoŋ˥˧.nom˨/",
+      "pron": "luong3 nom2",
+      "latinPron": "lûongnòm",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "蔔"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "燦",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "きらきらした。ぴかぴかした。つやつやの。輝く。光沢のある。",
+              "tag": [],
+              "example": [],
+              "meaning": "[透]や[明]と異なり、主に物体の反射光が美しく光る様子を指す。意味範囲は広く、水面などが断続的に輝く様子から艶のある果物の様子まで指すことが出来る。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sal˥˧/",
+      "pron": "cal3",
+      "latinPron": "câl",
+      "num": "528"
+    },
+    {
+      "word": "細",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "細い。直径が小さい。周長が短い。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "痩せた。痩せこけた。",
+              "tag": [],
+              "example": [],
+              "meaning": "生物の体重が標準より小さい様子。"
+            },
+            {
+              "translate": "（音が）高い。高音の。周波数が高い。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sam˨/",
+      "pron": "sam2",
+      "latinPron": "sàm",
+      "num": "529",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "太"
+          ]
+        }
+      ]
     }
   ]
 }
