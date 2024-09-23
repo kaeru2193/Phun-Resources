@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-08-31T14:13:23.040Z",
+  "date": "2024-09-23T09:09:48.055Z",
   "data": [
     {
       "word": "人",
@@ -1383,7 +1383,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "言葉。言語。～語。",
+              "translate": "言葉。言語。",
               "tag": [],
               "example": []
             }
@@ -1393,10 +1393,10 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "話す。会話する。",
+              "translate": "言う。話す。申す。発言する。",
               "tag": [],
               "example": [],
-              "meaning": "複数人での会話を指す。一人での呟きなどは指さない。"
+              "meaning": "口から意味のある声を出す行為を全体的に指す。呟きや呻きは[声]、会話は[談]を用いて表現される。"
             }
           ]
         },
@@ -1421,7 +1421,9 @@
           "type": "類語",
           "explanation": [
             "声",
-            "曰"
+            "談",
+            "曰",
+            "論"
           ]
         }
       ]
@@ -2519,6 +2521,16 @@
       "word": "内",
       "mean": [
         {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "内側。内部。内。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
           "type": "前置詞",
           "explanation": [
             {
@@ -2534,6 +2546,62 @@
       "pron": "yuo2",
       "latinPron": "yùo",
       "num": "49"
+    },
+    {
+      "word": "内衣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "下着。肌着。インナー。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɯo˨.nɛl˥/",
+      "pron": "yuo2 nel1",
+      "latinPron": "yùo'nél",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "外衣"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "外衣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "上着。外套。アウター。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hin˨.nɛl˥/",
+      "pron": "hin2 nel1",
+      "latinPron": "hìnnél",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "内衣"
+          ]
+        }
+      ]
     },
     {
       "word": "含",
@@ -2836,6 +2904,12 @@
               "tag": [],
               "example": [],
               "meaning": "陸上において、地面から離れた状態で移動することを指す。"
+            },
+            {
+              "translate": "放送する。発信する。流す。放映する。ストリームする。",
+              "tag": [],
+              "example": [],
+              "meaning": "映像や音声などを、広範囲に同時に発信する行為。"
             }
           ]
         }
@@ -3075,7 +3149,7 @@
       "num": "-"
     },
     {
-      "word": "衆論",
+      "word": "衆談",
       "mean": [
         {
           "type": "名詞",
@@ -3099,9 +3173,9 @@
         }
       ],
       "append": [],
-      "ipa": "/mail˨.t͡sa˥/",
-      "pron": "mail2 ca1",
-      "latinPron": "màilcá",
+      "ipa": "/mail˨˦.ʃi˨/",
+      "pron": "mail2 xi2",
+      "latinPron": "màilxì",
       "num": "-"
     },
     {
@@ -4059,6 +4133,11 @@
               "translate": "清潔な。整った。",
               "tag": [],
               "example": []
+            },
+            {
+              "translate": "ぴったりの。丁度の。過不足ない。",
+              "tag": [],
+              "example": []
             }
           ]
         }
@@ -4850,6 +4929,16 @@
               "example": []
             }
           ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
+            {
+              "translate": "止める。やめる。終わる。",
+              "tag": [],
+              "example": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -4959,9 +5048,14 @@
               "translate": "雷。稲妻。",
               "tag": [],
               "example": []
-            },
+            }
+          ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
             {
-              "translate": "電気のこと。電気にかかわる熟語につく。",
+              "translate": "電気。電気に関わる熟語に用いる。",
               "tag": [],
               "example": []
             }
@@ -4973,6 +5067,99 @@
       "pron": "main2",
       "latinPron": "màin",
       "num": "100"
+    },
+    {
+      "word": "雷高",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "電圧。ボルテージ。",
+              "tag": [
+                "物"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/main˨.wiŋ˥˧/",
+      "pron": "main2 wing3",
+      "latinPron": "màinwîng",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "雷強",
+            "雷阻"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "雷重",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "電流。",
+              "tag": [
+                "物"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/main˨.an˥˧/",
+      "pron": "main2 an3",
+      "latinPron": "màin'ân",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "雷重",
+            "雷阻"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "雷阻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "電気抵抗。抵抗。",
+              "tag": [
+                "物"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/main˨.zɛm˥/",
+      "pron": "main2 zem1",
+      "latinPron": "màinzém",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "雷重",
+            "雷強"
+          ]
+        }
+      ]
     },
     {
       "word": "雷記",
@@ -4995,7 +5182,7 @@
       "num": "-"
     },
     {
-      "word": "雷紙",
+      "word": "録紙",
       "mean": [
         {
           "type": "名詞",
@@ -5009,9 +5196,9 @@
         }
       ],
       "append": [],
-      "ipa": "/main˨˦.jɛ˨/",
-      "pron": "main2 ye2",
-      "latinPron": "màinyè",
+      "ipa": "/d͡ʒao˨˦.jɛ˨/",
+      "pron": "jao2 ye2",
+      "latinPron": "jàoyè",
       "num": "-"
     },
     {
@@ -5075,7 +5262,7 @@
       "num": "-"
     },
     {
-      "word": "帳脳",
+      "word": "行脳",
       "mean": [
         {
           "type": "名詞",
@@ -5089,9 +5276,9 @@
         }
       ],
       "append": [],
-      "ipa": "/sɯs˥˧.ha˥˧/",
-      "pron": "sus3 ha3",
-      "latinPron": "sûshâ",
+      "ipa": "/jaom˥.ha˥˧/",
+      "pron": "yaom1 ha3",
+      "latinPron": "yáomhâ",
       "num": "-"
     },
     {
@@ -5115,7 +5302,7 @@
       "num": "-"
     },
     {
-      "word": "行言機",
+      "word": "行談機",
       "mean": [
         {
           "type": "名詞",
@@ -5129,29 +5316,30 @@
         }
       ],
       "append": [],
-      "ipa": "/jaom˥.bɯn˨˦.ail˨/",
-      "pron": "yaom1 bun2 ail2",
-      "latinPron": "yáombùn'àil",
+      "ipa": "/jaom˥.ʃi˨˦.ail˨/",
+      "pron": "yaom1 xi2 ail2",
+      "latinPron": "yáomxìàil",
       "num": "-"
     },
     {
-      "word": "行言",
+      "word": "行談",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "行言機の略称。携帯電話。",
+              "translate": "携帯電話。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "[行談機]の縮約。"
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/jaom˥.bɯn˨/",
-      "pron": "yaom1 bun2",
-      "latinPron": "yáombùn",
+      "ipa": "/jaom˥.ʃi˨/",
+      "pron": "yaom1 xi2",
+      "latinPron": "yáomxì",
       "num": "-"
     },
     {
@@ -5175,7 +5363,7 @@
       "num": "-"
     },
     {
-      "word": "雷言",
+      "word": "算序言",
       "mean": [
         {
           "type": "名詞",
@@ -5189,13 +5377,13 @@
         }
       ],
       "append": [],
-      "ipa": "/main˨˦.bɯn˨/",
-      "pron": "main2 bun2",
-      "latinPron": "màinbùn",
+      "ipa": "/bɯo˨.bi˥.bɯn˨/",
+      "pron": "buo2 bi1 bun2",
+      "latinPron": "bùobíbùn",
       "num": "-"
     },
     {
-      "word": "雷言記",
+      "word": "算序",
       "mean": [
         {
           "type": "名詞",
@@ -5209,9 +5397,9 @@
         }
       ],
       "append": [],
-      "ipa": "/main˨˦.bɯn˨˦.t͡sɯaŋ˨/",
-      "pron": "main2 bun2 cuang2",
-      "latinPron": "màinbùncùang",
+      "ipa": "/bɯo˨.bi˥/",
+      "pron": "buo2 bi1",
+      "latinPron": "bùobí",
       "num": "-"
     },
     {
@@ -5669,7 +5857,12 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "開く。通れなかった部分が通れるようになる。",
+              "translate": "始まる。開始する。スタートする。行う。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "（出来事が）起こる。発生する。",
               "tag": [],
               "example": []
             }
@@ -6971,7 +7164,15 @@
       "ipa": "/pɛl˥/",
       "pron": "pel1",
       "latinPron": "pél",
-      "num": "128"
+      "num": "128",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "廻"
+          ]
+        }
+      ]
     },
     {
       "word": "通則",
@@ -8714,6 +8915,37 @@
       "num": "161"
     },
     {
+      "word": "整数",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "整数。",
+              "tag": [
+                "数"
+              ],
+              "example": [],
+              "meaning": "零、自然数、負数の総称。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lao˥.mis˥/",
+      "pron": "lao1 mis1",
+      "latinPron": "láo'mís",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "雑数"
+          ]
+        }
+      ]
+    },
+    {
       "word": "体",
       "mean": [
         {
@@ -9481,7 +9713,7 @@
       "num": "-"
     },
     {
-      "word": "目画",
+      "word": "銀影",
       "mean": [
         {
           "type": "名詞",
@@ -9505,13 +9737,13 @@
         }
       ],
       "append": [],
-      "ipa": "/kɛ˥.ʃao˥˧/",
-      "pron": "ke1 xao3",
-      "latinPron": "kéxâo",
+      "ipa": "/tɯo˥˧.hi˨/",
+      "pron": "tuo3 hi2",
+      "latinPron": "tûohì",
       "num": "-"
     },
     {
-      "word": "目機",
+      "word": "影機",
       "mean": [
         {
           "type": "名詞",
@@ -9525,13 +9757,13 @@
         }
       ],
       "append": [],
-      "ipa": "/kɛ˥.ail˨/",
-      "pron": "ke1 ail2",
-      "latinPron": "kéàil",
+      "ipa": "/hi˨˦.ail˨/",
+      "pron": "hi2 ail2",
+      "latinPron": "hìàil",
       "num": "-"
     },
     {
-      "word": "目報",
+      "word": "飛影",
       "mean": [
         {
           "type": "名詞",
@@ -9550,9 +9782,9 @@
         }
       ],
       "append": [],
-      "ipa": "/kɛ˥.βɯl˥˧/",
-      "pron": "ke1 vul3",
-      "latinPron": "kévûl",
+      "ipa": "/dail˨˦.hi˨/",
+      "pron": "dail2 hi2",
+      "latinPron": "dàilhì",
       "num": "-"
     },
     {
@@ -12435,6 +12667,32 @@
       "num": "239"
     },
     {
+      "word": "香薬",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "スパイス。ハーブ。薬草。香草。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "十昆香薬遣成倫強於汝。",
+                  "ja": "12種類のスパイスがあなたを健康にします。",
+                  "pnPron": "tail1 qi1 guol1 vain3 cuo1 ba2 tuo2 de2 e1 kus3。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gɯol˥.βain˥˧/",
+      "pron": "guol1 vain3",
+      "latinPron": "gúolvâin",
+      "num": "-"
+    },
+    {
       "word": "香杖",
       "mean": [
         {
@@ -12651,9 +12909,10 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "美しい。綺麗な。",
+              "translate": "美しい。綺麗な。きれいな。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "人物の容貌や景観、物品など様々なものの美しさを形容できる。"
             }
           ]
         }
@@ -13453,7 +13712,7 @@
       "num": "-"
     },
     {
-      "word": "言機",
+      "word": "遠談機",
       "mean": [
         {
           "type": "名詞",
@@ -13467,13 +13726,13 @@
         }
       ],
       "append": [],
-      "ipa": "/bɯn˨˦.ail˨/",
-      "pron": "bun2 ail2",
-      "latinPron": "bùn'àil",
+      "ipa": "/sal˨˦.ʃi˨˦.ail˨/",
+      "pron": "sal2 xi2 ail2",
+      "latinPron": "sàlxìàil",
       "num": "-"
     },
     {
-      "word": "機言",
+      "word": "機談",
       "mean": [
         {
           "type": "動詞",
@@ -13487,9 +13746,9 @@
         }
       ],
       "append": [],
-      "ipa": "/ail˨˦.bɯn˨/",
-      "pron": "ail2 bun2",
-      "latinPron": "àilbùn",
+      "ipa": "/ail˨˦.ʃi˨/",
+      "pron": "ail2 xi2",
+      "latinPron": "àilxì",
       "num": "-"
     },
     {
@@ -14096,7 +14355,7 @@
       ]
     },
     {
-      "word": "声報",
+      "word": "飛談",
       "mean": [
         {
           "type": "名詞",
@@ -14115,9 +14374,9 @@
         }
       ],
       "append": [],
-      "ipa": "/wɛ˨.βɯl˥˧/",
-      "pron": "we2 vul3",
-      "latinPron": "wèvûl",
+      "ipa": "/dail˨˦.ʃi˨/",
+      "pron": "dail2 xi2",
+      "latinPron": "dàilxì",
       "num": "-"
     },
     {
@@ -14161,7 +14420,7 @@
       "num": "263"
     },
     {
-      "word": "整数知",
+      "word": "算和知",
       "mean": [
         {
           "type": "名詞",
@@ -14175,9 +14434,9 @@
         }
       ],
       "append": [],
-      "ipa": "/lao˥.mis˥.t͡ʃai˨/",
-      "pron": "lao1 mis1 qai2",
-      "latinPron": "láo'mísqài",
+      "ipa": "/bɯo˨˦.om˨˦.t͡ʃai˨/",
+      "pron": "buo2 om2 qai2",
+      "latinPron": "bùoòmqài",
       "num": "-"
     },
     {
@@ -14347,7 +14606,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "知らせ。お知らせ。",
+              "translate": "お知らせ。報道。",
               "tag": [],
               "example": []
             }
@@ -14357,7 +14616,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "知らせる。伝える。広める。流布する。広く知らせる。",
+              "translate": "知らせる。伝える。広める。流布する。",
               "tag": [],
               "example": [],
               "meaning": "特定の人物に限らず、広範囲へ事柄を広めることを指す。"
@@ -15519,7 +15778,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "隠れる。潜む。",
+              "translate": "隠れる。潜む。隠す。秘密にする。",
               "tag": [],
               "example": []
             }
@@ -15541,26 +15800,6 @@
       "pron": "qua1",
       "latinPron": "qúa",
       "num": "281"
-    },
-    {
-      "word": "故隠",
-      "mean": [
-        {
-          "type": "動詞",
-          "explanation": [
-            {
-              "translate": "隠す。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        }
-      ],
-      "append": [],
-      "ipa": "/don˨.t͡ʃɯa˥/",
-      "pron": "don2 qua1",
-      "latinPron": "dònqúa",
-      "num": "-"
     },
     {
       "word": "隠報",
@@ -15985,7 +16224,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "大統領。首相。王。元首。国の最高権力者。",
+              "translate": "王。皇帝。大統領。首相。元首。国の最高権力者。",
               "tag": [],
               "example": []
             }
@@ -15999,7 +16238,27 @@
       "num": "289"
     },
     {
-      "word": "帝国",
+      "word": "帝政軸思",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "君主主義。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɯa˨˦.pɛ˨˦.gao˨˦.sao˨/",
+      "pron": "lua2 pe2 gao2 sao2",
+      "latinPron": "lùapègào'sào",
+      "num": "-"
+    },
+    {
+      "word": "帝政国",
       "mean": [
         {
           "type": "名詞",
@@ -16013,19 +16272,19 @@
         }
       ],
       "append": [],
-      "ipa": "/lɯa˨˦.nɯn˨/",
-      "pron": "lua2 nun2",
-      "latinPron": "lùa'nùn",
+      "ipa": "/lɯa˨˦.pɛ˨˦.nɯn˨/",
+      "pron": "lua2 pe2 nun2",
+      "latinPron": "lùapè'nùn",
       "num": "-"
     },
     {
-      "word": "民国",
+      "word": "民政軸思",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "共和国。民主国。国民主体の国家。民主主義国家。",
+              "translate": "民主主義。共和主義。",
               "tag": [],
               "example": []
             }
@@ -16033,19 +16292,19 @@
         }
       ],
       "append": [],
-      "ipa": "/zom˥˧.nɯn˨/",
-      "pron": "zom3 nun2",
-      "latinPron": "zômnùn",
+      "ipa": "/zom˥˧.pɛ˨˦.gao˨˦.sao˨/",
+      "pron": "zom3 pe2 gao2 sao2",
+      "latinPron": "zômpègào'sào",
       "num": "-"
     },
     {
-      "word": "衆国",
+      "word": "民政国",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "社会主義国家。共産主義国家。",
+              "translate": "民主主義国家。共和主義国家。",
               "tag": [],
               "example": []
             }
@@ -16053,9 +16312,49 @@
         }
       ],
       "append": [],
-      "ipa": "/mail˨˦.nɯn˨/",
-      "pron": "mail2 nun2",
-      "latinPron": "màilnùn",
+      "ipa": "/zom˥˧.pɛ˨˦.nɯn˨/",
+      "pron": "zom3 pe2 nun2",
+      "latinPron": "zômpè'nùn",
+      "num": "-"
+    },
+    {
+      "word": "衆持軸思",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "共産主義。社会主義。コミュニズム。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mail˨.pɛŋ˥˧.gao˨˦.sao˨/",
+      "pron": "mail2 peng3 gao2 sao2",
+      "latinPron": "màilpênggào'sào",
+      "num": "-"
+    },
+    {
+      "word": "衆持軸思国",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "共産主義国家。社会主義国家。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mail˨.pɛŋ˥˧.gao˨˦.sao˨˦.nɯn˨/",
+      "pron": "mail2 peng3 gao2 sao2 nun2",
+      "latinPron": "màilpênggào'sào'nùn",
       "num": "-"
     },
     {
@@ -16141,10 +16440,16 @@
           "type": "接続詞",
           "explanation": [
             {
-              "translate": "ならば。もし。仮に。",
+              "translate": "～ならば。～すれば。～のとき。もし。仮に。",
               "tag": [],
-              "example": [],
-              "meaning": "条件や仮定を表す。"
+              "example": [
+                {
+                  "pn": "歩在外白筋模汝可死。",
+                  "ja": "白線以外を歩けばあなたは死ぬだろう。",
+                  "pnPron": "qai1 suo2 hin2 kaing2 las2 muo1 kus3 fai2 sil3。"
+                }
+              ],
+              "meaning": "前に条件や仮定、後に結果を置く。"
             }
           ]
         }
@@ -17096,9 +17401,10 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "流れる。液体が流動する。",
+              "translate": "流れる。流動する。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "主には液体に対して用いるが、空気や電気、霊的な力など液体以外に用いられることも多い。"
             }
           ]
         }
@@ -18668,6 +18974,26 @@
       ]
     },
     {
+      "word": "吹薬",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "火薬。爆薬。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/paŋ˥˧.βain˥˧/",
+      "pron": "pang3 vain3",
+      "latinPron": "pângvâin",
+      "num": "-"
+    },
+    {
       "word": "悪",
       "mean": [
         {
@@ -19207,6 +19533,26 @@
       ]
     },
     {
+      "word": "活録",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "日記。日誌。ダイアリー。ログ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯ˨˦.d͡ʒao˨/",
+      "pron": "vu2 jao2",
+      "latinPron": "vùjào",
+      "num": "-"
+    },
+    {
       "word": "活体",
       "mean": [
         {
@@ -19234,9 +19580,10 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "動画。ビデオ。ムービー。",
+              "translate": "動画。映像。ビデオ。アニメ。ムービー。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "カメラで録画したものかどうかに関係なく、動きのある映像全般を指す。"
             }
           ]
         }
@@ -20013,7 +20360,7 @@
               "example": []
             },
             {
-              "translate": "開ける。人為的に開く。",
+              "translate": "開ける。開く。開封する。",
               "tag": [],
               "example": []
             }
@@ -20592,7 +20939,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "乾いた。水気のない。ドライな。",
+              "translate": "乾いた。水気のない。ドライな。乾燥した。",
               "tag": [],
               "example": []
             }
@@ -20602,7 +20949,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "乾かす。脱水する。",
+              "translate": "乾く。乾かす。脱水する。",
               "tag": [],
               "example": []
             }
@@ -20613,7 +20960,15 @@
       "ipa": "/so˥/",
       "pron": "so1",
       "latinPron": "só",
-      "num": "386"
+      "num": "386",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "霞"
+          ]
+        }
+      ]
     },
     {
       "word": "乾乳",
@@ -21334,7 +21689,9 @@
           "explanation": [
             {
               "translate": "分数。",
-              "tag": [],
+              "tag": [
+                "数"
+              ],
               "example": []
             }
           ]
@@ -21515,7 +21872,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "箱。ケース。蓋つきの容器。",
+              "translate": "箱。ケース。物を入れることができる容器。",
               "tag": [],
               "example": []
             },
@@ -23872,7 +24229,7 @@
       "num": "-"
     },
     {
-      "word": "彩目画",
+      "word": "彩銀影",
       "mean": [
         {
           "type": "名詞",
@@ -23886,13 +24243,13 @@
         }
       ],
       "append": [],
-      "ipa": "/gɯo˥˧.kɛ˥.ʃao˥˧/",
-      "pron": "guo3 ke1 xao3",
-      "latinPron": "gûokéxâo",
+      "ipa": "/gɯo˥˧.tɯo˥˧.hi˨/",
+      "pron": "guo3 tuo3 hi2",
+      "latinPron": "gûotûohì",
       "num": "-"
     },
     {
-      "word": "黒目画",
+      "word": "明暗銀影",
       "mean": [
         {
           "type": "名詞",
@@ -23906,9 +24263,9 @@
         }
       ],
       "append": [],
-      "ipa": "/ʃɯa˨.kɛ˥.ʃao˥˧/",
-      "pron": "xua2 ke1 xao3",
-      "latinPron": "xùakéxâo",
+      "ipa": "/nɯ˥.tɯ˨.tɯo˥˧.hi˨/",
+      "pron": "nu1 tu2 tuo3 hi2",
+      "latinPron": "nútùtûohì",
       "num": "-"
     },
     {
@@ -24948,7 +25305,7 @@
       "num": "451"
     },
     {
-      "word": "函冷籠",
+      "word": "恒冷籠",
       "mean": [
         {
           "type": "名詞",
@@ -24962,9 +25319,9 @@
         }
       ],
       "append": [],
-      "ipa": "/jai˥˧.pil˥.dɯon˥˧/",
-      "pron": "yai3 pil1 duon3",
-      "latinPron": "yâipíldûon",
+      "ipa": "/dɯaŋ˨.pil˥.dɯon˥˧/",
+      "pron": "duang2 pil1 duon3",
+      "latinPron": "dùangpíldûon",
       "num": "-"
     },
     {
@@ -25384,6 +25741,26 @@
       "num": "457"
     },
     {
+      "word": "軸思",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "主義。思想。信条。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gao˨˦.sao˨/",
+      "pron": "gao2 sao2",
+      "latinPron": "gào'sào",
+      "num": "-"
+    },
+    {
       "word": "軸手",
       "mean": [
         {
@@ -25625,7 +26002,15 @@
       "ipa": "/pao˥˧/",
       "pron": "pao3",
       "latinPron": "pâo",
-      "num": "462"
+      "num": "462",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "雑"
+          ]
+        }
+      ]
     },
     {
       "word": "砕目",
@@ -25737,7 +26122,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "～がある。～が存在する。～というものがある。～を持つ。",
+              "translate": "～がある。～が存在する。～を持つ。",
               "tag": [],
               "example": [],
               "meaning": "生物や物体の特徴として、あるものを備えていたり、ある性質を持っていたりすることを指す。"
@@ -25769,6 +26154,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "有福",
+      "mean": [
+        {
+          "type": "感動詞",
+          "explanation": [
+            {
+              "translate": "お元気で。お大事に。幸運を祈る。幸あれ。",
+              "tag": [],
+              "example": [],
+              "meaning": "相手の身に良いことが起こるよう祈る挨拶。主として相手が困難な状況に置かれているときに使われる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/no˨.hai˥/",
+      "pron": "no2 hai1",
+      "latinPron": "nòhái",
+      "num": "-"
     },
     {
       "word": "虚",
@@ -25956,7 +26362,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "何かの。ある。某。",
+              "translate": "何かの。ある。某。いずれかの。",
               "tag": [],
               "example": [],
               "meaning": "名詞を修飾し、不特定のものを指す。"
@@ -25967,7 +26373,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "何か。なにか。あるもの。",
+              "translate": "何か。なにか。いずれか。あるもの。",
               "tag": [],
               "example": []
             }
@@ -26876,6 +27282,11 @@
               "meaning": "何かしらの分類で近い関係にあるものの集まりを指す。"
             },
             {
+              "translate": "親族。氏族。民族。血統。",
+              "tag": [],
+              "example": []
+            },
+            {
               "translate": "類。",
               "tag": [
                 "生"
@@ -27545,7 +27956,7 @@
               "translate": "奇妙な。理解の及ばない。おかしい。",
               "tag": [],
               "example": [],
-              "meaning": "珍しいことではなく、理解が及ばない奇妙な状態を指す。"
+              "meaning": "珍しいことではなく、理解が及ばない奇妙な状態を指す。「変な」のような悪いニュアンスは含まない。"
             }
           ]
         }
@@ -27770,7 +28181,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "他の。その他の。",
+              "translate": "～以外の。他の。その他の。",
               "tag": [],
               "example": []
             }
@@ -27792,6 +28203,26 @@
       "pron": "hin2",
       "latinPron": "hìn",
       "num": "501"
+    },
+    {
+      "word": "外或",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "その他。諸々。エトセトラ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hin˨.gai˥/",
+      "pron": "hin2 gai1",
+      "latinPron": "hìngái",
+      "num": "-"
     },
     {
       "word": "外人",
@@ -28515,7 +28946,7 @@
               "example": []
             },
             {
-              "translate": "（インターネットを）検索する。",
+              "translate": "（インターネットを）検索する。ググる。",
               "tag": [],
               "example": []
             }
@@ -28548,8 +28979,14 @@
             {
               "translate": "まだ～ない。まだ～ではない。未だ。",
               "tag": [],
-              "example": [],
-              "meaning": "言及されている時点でまだ起きていない事象であることを表す。"
+              "example": [
+                {
+                  "pn": "入内函冷籠而少古、回未為冷。",
+                  "ja": "冷蔵庫に入れて少し経ったが、まだ冷たくない。",
+                  "pnPron": "juom1 yuo2 yai3 pil1 duon3 le3 hain1 puon2、 pel1 tum3 xel3 pil1。"
+                }
+              ],
+              "meaning": "言及されている時点でまだ起きていない事象であることを表す。否定を含意していることに注意。"
             }
           ]
         }
@@ -28561,13 +28998,34 @@
       "num": "514"
     },
     {
+      "word": "未解",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "未解決の。調査中の。",
+              "tag": [],
+              "example": [],
+              "meaning": "未だはっきりと答えが分かっていない状態を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɯm˥˧.wim˥/",
+      "pron": "tum3 wim1",
+      "latinPron": "tûmwím",
+      "num": "-"
+    },
+    {
       "word": "解",
       "mean": [
         {
           "type": "動詞",
           "explanation": [
             {
-              "translate": "解く。ほどく。開ける。開く。解き放つ。放つ。",
+              "translate": "解く。ほどく。開ける。開く。解き放つ。放つ。離す。",
               "tag": [],
               "example": [],
               "meaning": "何かを閉じ込めている道具や概念を取り払い、自由に動けるようにすることを指す。"
@@ -28973,6 +29431,75 @@
       ]
     },
     {
+      "word": "地端",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "地平線。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "水平。フラット。",
+              "tag": [],
+              "example": [],
+              "meaning": "[縦]や[横]が体の向きを基準とするのに対し、こちらは重力方向と垂直に交わる方向を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.zɛŋ˥/",
+      "pron": "ho3 zeng1",
+      "latinPron": "hôzéng",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "落立"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "落立",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "垂直。鉛直。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "解手模物落行落立。",
+                  "ja": "手を離すと物は垂直に落ちる。",
+                  "pnPron": "wim1 taos3 muo1 kao1 jua3 yaom1 jua3 quo3。"
+                }
+              ],
+              "meaning": "[縦]や[横]が体の向きを基準とするのに対し、こちらは重力が働く方向を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯa˥˧.t͡ʃɯo˥˧/",
+      "pron": "jua3 quo3",
+      "latinPron": "jûaqûo",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "地端"
+          ]
+        }
+      ]
+    },
+    {
       "word": "囲端",
       "mean": [
         {
@@ -28995,7 +29522,7 @@
       "num": "-"
     },
     {
-      "word": "虚端",
+      "word": "端虚",
       "mean": [
         {
           "type": "形容詞",
@@ -29009,9 +29536,9 @@
         }
       ],
       "append": [],
-      "ipa": "/ɯa˥˧.zɛŋ˥/",
-      "pron": "ua3 zeng1",
-      "latinPron": "ûazéng",
+      "ipa": "/zɛŋ˥.ɯa˥˧/",
+      "pron": "zeng1 ua3",
+      "latinPron": "zéngûa",
       "num": "-"
     },
     {
@@ -29246,13 +29773,57 @@
               "meaning": "空気中に水滴が浮かび、遠くが鮮明に見えなくなる気象現象。"
             }
           ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "湿った。濡れた。じめじめした。",
+              "tag": [],
+              "example": []
+            }
+          ]
         }
       ],
       "append": [],
       "ipa": "/pɛs˥/",
       "pron": "pes1",
       "latinPron": "pés",
-      "num": "524"
+      "num": "524",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "乾"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "乾霞",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "湿度。湿り気。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "之処然乾霞為五少。",
+                  "ja": "この場所の湿度は五少（約42%）だ。",
+                  "pnPron": "kua1 yai1 kem1 so1 pes1 xel3 luong1 hain1。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/so˥.pɛs˥/",
+      "pron": "so1 pes1",
+      "latinPron": "sópés",
+      "num": "-"
     },
     {
       "word": "熱霞",
@@ -29273,6 +29844,32 @@
       "ipa": "/sɯo˥˧.pɛs˥/",
       "pron": "suo3 pes1",
       "latinPron": "sûopés",
+      "num": "-"
+    },
+    {
+      "word": "霞糊",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "生暖かく湿り気のある。ぬるく湿った。じめじめした。生ぬるい。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "気持ち悪い。不快な。ゾッとする。不潔な。キモい。グロい。",
+              "tag": [],
+              "example": [],
+              "meaning": "生理的な不快感を誘発する事物の形容。主に極端に不衛生なものや「生物的」なものを含む。流血や暴力など、猟奇的な事物への不快さは含意しない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɛs˥.aom˥/",
+      "pron": "pes1 aom1",
+      "latinPron": "pés'áom",
       "num": "-"
     },
     {
@@ -29314,6 +29911,32 @@
       "pron": "vail2",
       "latinPron": "vàil",
       "num": "525"
+    },
+    {
+      "word": "曰煙",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "狼煙。のろし。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "合図。きっかけ。",
+              "tag": [],
+              "example": [],
+              "meaning": "比喩的に用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɯa˥.βail˨/",
+      "pron": "lua1 vail2",
+      "latinPron": "lúavàil",
+      "num": "-"
     },
     {
       "word": "太",
@@ -29422,7 +30045,36 @@
       "ipa": "/t͡sal˥˧/",
       "pron": "cal3",
       "latinPron": "câl",
-      "num": "528"
+      "num": "528",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "燦燦"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "燦燦",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "きらきらした。つやつやの。つやつやした。ぴかぴかの。",
+              "tag": [],
+              "example": [],
+              "meaning": "[燦]とほぼ同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sal˥˧.t͡sal˥˧/",
+      "pron": "cal3 cal3",
+      "latinPron": "câlcâl",
+      "num": "-"
     },
     {
       "word": "細",
@@ -29462,6 +30114,545 @@
           ]
         }
       ]
+    },
+    {
+      "word": "閉",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "閉じる。閉まる。閉める。封鎖する。閉鎖する。止める。止まる。",
+              "tag": [],
+              "example": [],
+              "meaning": "これまで通れた部分が通れなくなることを指す。[包]のような密閉する意、[阻]のような邪魔する意、[止]のような動きを止める意は含まない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/goŋ˥˧/",
+      "pron": "gong3",
+      "latinPron": "gông",
+      "num": "530"
+    },
+    {
+      "word": "閉架",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "縁を切る。絶交する。決別する。別れる。",
+              "tag": [],
+              "example": [],
+              "meaning": "人間関係を終わらせる行為。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/goŋ˥˧.lim˥/",
+      "pron": "gong3 lim1",
+      "latinPron": "gônglím",
+      "num": "-"
+    },
+    {
+      "word": "阻",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "塞ぐ。妨害する。邪魔する。遮る。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zɛm˥/",
+      "pron": "zem1",
+      "latinPron": "zém",
+      "num": "531"
+    },
+    {
+      "word": "阻壁",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "バリア。フェンス。バリケード。",
+              "tag": [],
+              "example": [],
+              "meaning": "人や動物が通ることを防ぐために設置する障害物。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zɛm˥.di˨/",
+      "pron": "zem1 di2",
+      "latinPron": "zémdì",
+      "num": "-"
+    },
+    {
+      "word": "影",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "影。陰影。シャドー。",
+              "tag": [],
+              "example": [],
+              "meaning": "光が遮られてできる黒い像。"
+            },
+            {
+              "translate": "像。想像。イメージ。理想。イデア。",
+              "tag": [],
+              "example": [],
+              "meaning": "心に思い描く事物のイメージ。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hi˨/",
+      "pron": "hi2",
+      "latinPron": "hì",
+      "num": "532"
+    },
+    {
+      "word": "廻",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "回る。周回する。ぐるぐる回る。ループする。",
+              "tag": [],
+              "example": [
+                {
+                  "pn": "我衆概廻在一処如？",
+                  "ja": "私たち、同じ場所を周り続けてない？",
+                  "pnPron": "xe3 mail2 tam1 fang1 suo2 vi1 yai1 lol1？"
+                }
+              ],
+              "meaning": "[回]が軸を中心に回転する動作を指すのに対し、[廻]はループした経路を何度も移動し続ける動作を指す。"
+            },
+            {
+              "translate": "迷い込む。道に迷う。彷徨う。遭難する。",
+              "tag": [],
+              "example": [],
+              "meaning": "自分の現在位置が分からず、進むべき方向が分からない状態。"
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "輪。輪っか。リング。ループ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸaŋ˥/",
+      "pron": "fang1",
+      "latinPron": "fáng",
+      "num": "533"
+    },
+    {
+      "word": "流廻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "電気回路。回路。",
+              "tag": [
+                "物"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡saos˥.ɸaŋ˥/",
+      "pron": "caos1 fang1",
+      "latinPron": "cáosfáng",
+      "num": "-"
+    },
+    {
+      "word": "廻深",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "悩む。迷う。困る。苦慮する。",
+              "tag": [],
+              "example": [],
+              "meaning": "解決が難しい特定の物事に囚われ、戸惑ったり心を痛めたりする様子。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸaŋ˥.ʃai˨/",
+      "pron": "fang1 xai2",
+      "latinPron": "fángxài",
+      "num": "-"
+    },
+    {
+      "word": "地回",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "自転。",
+              "tag": [],
+              "example": [],
+              "meaning": "天体がその内部の回転軸を中心に回転する運動。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.pɛl˥/",
+      "pron": "ho3 pel1",
+      "latinPron": "hôpél",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "地廻"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "地廻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "公転。",
+              "tag": [],
+              "example": [],
+              "meaning": "天体が別の天体を中心として回転する運動。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.ɸaŋ˥/",
+      "pron": "ho3 fang1",
+      "latinPron": "hôfáng",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "地回"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "談",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "会話。おしゃべり。会談。議論。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "会話する。話す。",
+              "tag": [],
+              "example": [],
+              "meaning": "複数人が言葉を交わして思考を伝え合う行為。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃi˨/",
+      "pron": "xi2",
+      "latinPron": "xì",
+      "num": "534"
+    },
+    {
+      "word": "庵談",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "雑談。おしゃべり。日常会話。",
+              "tag": [],
+              "example": [],
+              "meaning": "[談]の中でも、特に日常的な会話を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃiŋ˥.ʃi˨/",
+      "pron": "xing1 xi2",
+      "latinPron": "xíngxì",
+      "num": "-"
+    },
+    {
+      "word": "談書",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "筆談する。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "テキストチャットする。チャットする。喋る。話す。",
+              "tag": [],
+              "example": [],
+              "meaning": "主に[雷蔓]上で、文字のみを用いて会話する行為を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃi˨.sɯa˥˧/",
+      "pron": "xi2 sua3",
+      "latinPron": "xì'sûa",
+      "num": "-"
+    },
+    {
+      "word": "雑",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "残り。余り。余り物。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "余り。剰余。",
+              "tag": [
+                "数"
+              ],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "寄せ集めの。バラバラの。ちぐはぐの。多様な。",
+              "tag": [],
+              "example": [],
+              "meaning": "[砕]は細かい破片などが散在した状態を指すのに対し、[雑]は部分ごとに種類や属性が異なる状態を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃɯn˨/",
+      "pron": "qun2",
+      "latinPron": "qùn",
+      "num": "535"
+    },
+    {
+      "word": "雑数",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "小数。整数でない実数。",
+              "tag": [
+                "数"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃɯn˨.mis˥/",
+      "pron": "qun2 mis1",
+      "latinPron": "qùnmís",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "整数"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "雑餐",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "残飯。食べ残し。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃɯn˨.dol˥˧/",
+      "pron": "qun2 dol3",
+      "latinPron": "qùndôl",
+      "num": "-"
+    },
+    {
+      "word": "浮",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "浮く。浮かぶ。浮遊する。",
+              "tag": [],
+              "example": [],
+              "meaning": "水面や空中などを物体が移動することを指す。"
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "ぐらついた。不安定な。定まらない。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "無所属の。フリーな。自由な。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɯoŋ˨/",
+      "pron": "muong2",
+      "latinPron": "mùong",
+      "num": "536"
+    },
+    {
+      "word": "浮衣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "風船。気球。バルーン。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɯoŋ˨.nɛl˥/",
+      "pron": "muong2 nel1",
+      "latinPron": "mùongnél",
+      "num": "-"
+    },
+    {
+      "word": "島",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "島。島嶼。アイランド。",
+              "tag": [],
+              "example": [],
+              "meaning": "周囲を水で囲まれた小さい土地。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃo˥/",
+      "pron": "xo1",
+      "latinPron": "xó",
+      "num": "537"
+    },
+    {
+      "word": "島羅",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "列島。諸島。",
+              "tag": [],
+              "example": [],
+              "meaning": "多くの島が列状に並んだ地形。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃo˥.gan˨/",
+      "pron": "xo1 gan2",
+      "latinPron": "xógàn",
+      "num": "-"
+    },
+    {
+      "word": "砕島",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "諸島。群島。島々。",
+              "tag": [],
+              "example": [],
+              "meaning": "一定の区域内に多くの島が散在している地形。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pao˥˧.ʃo˥/",
+      "pron": "pao3 xo1",
+      "latinPron": "pâoxó",
+      "num": "-"
     }
   ]
 }

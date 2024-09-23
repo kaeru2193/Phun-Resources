@@ -12236,5 +12236,149 @@
         ]
       }
     }
+  },
+  {
+    "chara": "閉",
+    "id": "530",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "gong3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=閉"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "阻",
+    "id": "531",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "zem1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=阻"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "影",
+    "id": "532",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "hi2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=影"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "廻",
+    "id": "533",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "fang1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=廻"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "談",
+    "id": "534",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xi2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=談"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "雑",
+    "id": "535",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "qun2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=雑"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "浮",
+    "id": "536",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "muong2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=浮"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "島",
+    "id": "537",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xo1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=島"
+          }
+        ]
+      }
+    }
   }
 ]
