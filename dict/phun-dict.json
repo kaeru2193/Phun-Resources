@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-10-06T09:31:45.504Z",
+  "date": "2024-10-08T08:40:04.737Z",
   "data": [
     {
       "word": "人",
@@ -26,7 +26,36 @@
       "ipa": "/ha˥/",
       "pron": "ha1",
       "latinPron": "há",
-      "num": "1"
+      "num": "1",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "人衆"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "人衆",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "人類。人々。人間。ヒト。",
+              "tag": [],
+              "example": [],
+              "meaning": "個々の人格に注目しない集団としての人類を指す点で[人]と異なる。種としての永球人を全体的に指し、学術的な文脈でも多く用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ha˥.mail˨/",
+      "pron": "ha1 mail2",
+      "latinPron": "há'màil",
+      "num": "-"
     },
     {
       "word": "力",
@@ -656,13 +685,19 @@
             {
               "translate": "天空。陽教において神が住まうとされる場所。",
               "tag": [],
-              "example": [],
-              "meaning": "惑星や衛星、恒星などをまとめて指す。"
+              "example": []
             },
             {
               "translate": "星。天体。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "惑星や衛星、恒星などをまとめて指す。"
+            },
+            {
+              "translate": "気候。空気。空。空模様。",
+              "tag": [],
+              "example": [],
+              "meaning": "天気や気温などの気象現象について述べる場合に[天]が主語となる用法がある。"
             }
           ]
         }
@@ -1770,6 +1805,32 @@
       "num": "-"
     },
     {
+      "word": "来下",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "降りてくる。下がってくる。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "顕現する。降臨する。来臨する。来賓する。訪問する。",
+              "tag": [],
+              "example": [],
+              "meaning": "天上の神が姿を表すこと。転じて身分の高い者がやって来ることも指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯas˥˧.ja˥˧/",
+      "pron": "huas3 ya3",
+      "latinPron": "hûasyâ",
+      "num": "-"
+    },
+    {
       "word": "下人",
       "mean": [
         {
@@ -2332,12 +2393,13 @@
       "word": "之",
       "mean": [
         {
-          "type": "名詞",
+          "type": "代名詞",
           "explanation": [
             {
-              "translate": "これ。近称。近くにあるものを指す。",
+              "translate": "これ。この。これら。これらの。こちら。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "近称。話者から見て近くにあるものを指す。"
             }
           ]
         }
@@ -2398,6 +2460,46 @@
       "num": "-"
     },
     {
+      "word": "先日",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "明日。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/taol˥˧.kɯaŋ˥/",
+      "pron": "taol3 kuang1",
+      "latinPron": "tâolkúang",
+      "num": "-"
+    },
+    {
+      "word": "去日",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "昨日。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɛs˨.kɯaŋ˥/",
+      "pron": "fes2 kuang1",
+      "latinPron": "fèskúang",
+      "num": "-"
+    },
+    {
       "word": "之夜",
       "mean": [
         {
@@ -2439,6 +2541,48 @@
       "num": "-"
     },
     {
+      "word": "先旬",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "来旬。次の旬。",
+              "tag": [],
+              "example": [],
+              "meaning": "旭暦における一つ次の旬を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/taol˥˧.gaos˥/",
+      "pron": "taol3 gaos1",
+      "latinPron": "tâolgáos",
+      "num": "-"
+    },
+    {
+      "word": "去旬",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "昨旬。去旬。前の旬。",
+              "tag": [],
+              "example": [],
+              "meaning": "旭暦における一つ前の旬を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɛs˨.gaos˥/",
+      "pron": "fes2 gaos1",
+      "latinPron": "fèsgáos",
+      "num": "-"
+    },
+    {
       "word": "之季",
       "mean": [
         {
@@ -2460,6 +2604,48 @@
       "num": "-"
     },
     {
+      "word": "先季",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "来季。次の季。",
+              "tag": [],
+              "example": [],
+              "meaning": "旭暦における一つ次の季を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/taol˥˧.βai˥˧/",
+      "pron": "taol3 vai3",
+      "latinPron": "tâolvâi",
+      "num": "-"
+    },
+    {
+      "word": "去季",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "昨季。去季。前の季。",
+              "tag": [],
+              "example": [],
+              "meaning": "旭暦における一つ前の季を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɛs˨.βai˥˧/",
+      "pron": "fes2 vai3",
+      "latinPron": "fèsvâi",
+      "num": "-"
+    },
+    {
       "word": "之年",
       "mean": [
         {
@@ -2468,7 +2654,8 @@
             {
               "translate": "今年。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "旭暦における今の年を指す。"
             }
           ]
         }
@@ -2477,6 +2664,48 @@
       "ipa": "/kɯa˥.βais˨/",
       "pron": "kua1 vais2",
       "latinPron": "kúavàis",
+      "num": "-"
+    },
+    {
+      "word": "先年",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "来年。次の年。",
+              "tag": [],
+              "example": [],
+              "meaning": "旭暦における一つ次の年を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/taol˥˧.βais˨/",
+      "pron": "taol3 vais2",
+      "latinPron": "tâolvàis",
+      "num": "-"
+    },
+    {
+      "word": "去年",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "昨年。去年。前の年。",
+              "tag": [],
+              "example": [],
+              "meaning": "旭暦における一つ前の年を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɛs˨˦.βais˨/",
+      "pron": "fes2 vais2",
+      "latinPron": "fèsvàis",
       "num": "-"
     },
     {
@@ -2712,6 +2941,11 @@
         {
           "type": "名詞",
           "explanation": [
+            {
+              "translate": "時間。時。とき。頃。",
+              "tag": [],
+              "example": []
+            },
             {
               "translate": "（時間単位）～時。",
               "tag": [],
@@ -3010,12 +3244,13 @@
       "word": "其",
       "mean": [
         {
-          "type": "名詞",
+          "type": "代名詞",
           "explanation": [
             {
-              "translate": "それ。文章中で以前に出てきた概念を指す。",
+              "translate": "それ。その。それら。それらの。そちら。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "文章中で以前に出てきた概念を指す。"
             }
           ]
         }
@@ -3030,12 +3265,13 @@
       "word": "彼",
       "mean": [
         {
-          "type": "名詞",
+          "type": "代名詞",
           "explanation": [
             {
-              "translate": "あれ。遠称。比較的遠くにあるものを指す。",
+              "translate": "あれ。あの。あれら。あれらの。あちら。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "遠称。話者から見て比較的遠くにあるものを指す。"
             }
           ]
         }
@@ -3761,7 +3997,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "世界。ワールド。",
+              "translate": "世界。世の中。永球。ワールド。この世。",
               "tag": [],
               "example": []
             }
@@ -3772,7 +4008,36 @@
       "ipa": "/ɸɯa˥/",
       "pron": "fua1",
       "latinPron": "fúa",
-      "num": "74"
+      "num": "74",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "之世"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "之世",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "この世界。世界。この世。",
+              "tag": [],
+              "example": [],
+              "meaning": "[世]の中でも、特に話者が存在する世界を強調して言うもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯa˥.ɸɯa˥/",
+      "pron": "kua1 fua1",
+      "latinPron": "kúafúa",
+      "num": "-"
     },
     {
       "word": "世画",
@@ -23518,6 +23783,27 @@
       "num": "416"
     },
     {
+      "word": "珠花",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "菊。キク。",
+              "tag": [],
+              "example": [],
+              "meaning": "花びらが放射状に並んでいる、円形の花を持つ植物。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯan˨.ʃaos˥/",
+      "pron": "juan2 xaos1",
+      "latinPron": "jùanxáos",
+      "num": "-"
+    },
+    {
       "word": "羅",
       "mean": [
         {
@@ -25156,23 +25442,13 @@
             {
               "translate": "万歳。バンザイ。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "称えるときに相手に対して発する言葉。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "称えるときに相手に対して発する言葉。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/dɯaŋ˨.βas˥/",
       "pron": "duang2 vas1",
       "latinPron": "dùangvás",
