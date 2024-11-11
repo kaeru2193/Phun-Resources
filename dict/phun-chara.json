@@ -12506,5 +12506,113 @@
         ]
       }
     }
+  },
+  {
+    "chara": "筒",
+    "id": "545",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xum3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=筒"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "路",
+    "id": "546",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "kuo1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=路"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "幹",
+    "id": "547",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "von2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=幹"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "律",
+    "id": "548",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "gis1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=律"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "泰",
+    "id": "549",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "lo2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=泰"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "具",
+    "id": "550",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "fai3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=具"
+          }
+        ]
+      }
+    }
   }
 ]
