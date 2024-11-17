@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2024-11-11T09:38:30.505Z",
+  "date": "2024-11-17T07:13:55.906Z",
   "data": [
     {
       "word": "人",
@@ -13,9 +13,19 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "十七億人活在之丸。",
+                  "words": [
+                    "十",
+                    "七",
+                    "億",
+                    "人",
+                    "活",
+                    "在",
+                    "之",
+                    "丸",
+                    "。"
+                  ],
                   "ja": "この星には81億の人が住む。",
-                  "pnPron": "tail1 jaim1 tu3 ha1 vu2 suo2 kua1 luong3。"
+                  "pnPron": "táil jáim tû há vù sùo kúa lûong."
                 }
               ]
             }
@@ -134,9 +144,14 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "我為之機。",
+                  "words": [
+                    "我",
+                    "為",
+                    "之機",
+                    "。"
+                  ],
                   "ja": "私はかえるです。",
-                  "pnPron": "xe3 xel3 kua1 ail2。"
+                  "pnPron": "xê xêl kúaàil."
                 }
               ],
               "meaning": "最も一般的な一人称。"
@@ -238,9 +253,17 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "湛水杯居上机。",
+                  "words": [
+                    "湛",
+                    "水",
+                    "杯",
+                    "居",
+                    "上",
+                    "机",
+                    "。"
+                  ],
                   "ja": "水入りのコップが机の上にある。",
-                  "pnPron": "qao1 so3 paon1 baim3 ling3 las3。"
+                  "pnPron": "qáo sô páon bâim lîng lâs."
                 }
               ]
             },
@@ -735,6 +758,38 @@
       "latinPron": "vás",
       "weqo": "vaS",
       "num": "20"
+    },
+    {
+      "word": "天京",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "天京。ヴァスザ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "雰天国の首都であり、国内第3の規模を誇る都市である。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "ipa": "/βas˥.za˥˧/",
+      "pron": "vas1 za3",
+      "latinPron": "vászâ",
+      "weqo": "vaS za3",
+      "num": "-"
     },
     {
       "word": "日天",
@@ -1287,6 +1342,12 @@
               "tag": [],
               "example": [],
               "meaning": "特定の時間より後に位置する部分を指す。"
+            },
+            {
+              "translate": "今後。この先。これから。将来。これ以後。",
+              "tag": [],
+              "example": [],
+              "meaning": "現時点よりも未来に位置する時間軸を指す。"
             }
           ]
         }
@@ -2916,6 +2977,27 @@
       ]
     },
     {
+      "word": "居居",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "あちこち。至る所。一面に。くまなく。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/baim˥˧.baim˥˧/",
+      "pron": "baim3 baim3",
+      "latinPron": "bâimbâim",
+      "weqo": "bE3M bE3M",
+      "num": "-"
+    },
+    {
       "word": "持",
       "mean": [
         {
@@ -3763,9 +3845,16 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "曰侶能目庵蔓。",
+                  "words": [
+                    "曰",
+                    "侶",
+                    "能",
+                    "目",
+                    "庵蔓",
+                    "。"
+                  ],
                   "ja": "彼にはWi-Fiが見えるらしい。",
-                  "pnPron": "lua1 duo2 ail1 ke1 xing1 ton2。"
+                  "pnPron": "lúa dùo áil ké xíngtòn."
                 }
               ]
             }
@@ -5020,9 +5109,21 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "啊、去刈髪如？―不去刈。",
+                  "words": [
+                    "啊",
+                    "、",
+                    "去",
+                    "刈",
+                    "髪",
+                    "如",
+                    "？―",
+                    "不",
+                    "去",
+                    "刈",
+                    "。"
+                  ],
                   "ja": "あ、髪切ったの？―切ってないよ。",
-                  "pnPron": "a3、 fes2 mong2 wao3 lol1？ ― ki1 fes2 mong2。"
+                  "pnPron": "â, fès mòng wâo lól?, kí fès mòng."
                 }
               ]
             },
@@ -5716,7 +5817,7 @@
         {
           "type": "関連語",
           "explanation": [
-            "雷強",
+            "雷重",
             "雷阻"
           ]
         }
@@ -5748,7 +5849,7 @@
         {
           "type": "関連語",
           "explanation": [
-            "雷重",
+            "雷高",
             "雷阻"
           ]
         }
@@ -5785,6 +5886,48 @@
           ]
         }
       ]
+    },
+    {
+      "word": "静流雷",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "直流電流。直流。DC。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸi˥˧.t͡saos˥.main˨/",
+      "pron": "fi3 caos1 main2",
+      "latinPron": "fîcáosmàin",
+      "weqo": "fi3 cOS mE2N",
+      "num": "-"
+    },
+    {
+      "word": "揺流雷",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "交流電流。交流。AC。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯan˥˧.t͡saos˥.main˨/",
+      "pron": "kuan3 caos1 main2",
+      "latinPron": "kûancáosmàin",
+      "weqo": "kA3N cOS mE2N",
+      "num": "-"
     },
     {
       "word": "雷記",
@@ -6864,6 +7007,27 @@
       "latinPron": "bûo",
       "weqo": "bU3",
       "num": "110"
+    },
+    {
+      "word": "糸虚",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "全く～ない。全然～ない。これっぽっちも。一切。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bɯo˥˧.ɯa˥˧/",
+      "pron": "buo3 ua3",
+      "latinPron": "bûoûa",
+      "weqo": "bU3 A3",
+      "num": "-"
     },
     {
       "word": "草糸",
@@ -9024,9 +9188,18 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "万人不恨菜草拠侶。",
+                  "words": [
+                    "万",
+                    "人",
+                    "不",
+                    "恨",
+                    "菜草",
+                    "拠",
+                    "侶",
+                    "。"
+                  ],
                   "ja": "彼ほど野菜を嫌う人はいない。",
-                  "pnPron": "ao1 ha1 ki1 gon2 jul3 cai1 cang2 duo2。"
+                  "pnPron": "áo há kí gòn jûlcái càng dùo."
                 }
               ],
               "meaning": "対象を好まず、意図的に避ける状態を指す。"
@@ -12513,7 +12686,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "アルミニウム。いろいろな用途で使われる軽い金属。",
+              "translate": "ミョウバン。明礬。",
               "tag": [],
               "example": []
             },
@@ -12531,6 +12704,27 @@
       "latinPron": "mín",
       "weqo": "miN",
       "num": "215"
+    },
+    {
+      "word": "礬箔",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "アルミニウム。Al。軽銀。アルミ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/min˥.gɯ˨/",
+      "pron": "min1 gu2",
+      "latinPron": "míngù",
+      "weqo": "miN gu2",
+      "num": "-"
     },
     {
       "word": "黄",
@@ -13269,9 +13463,15 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "掘道通行其山。",
+                  "words": [
+                    "掘道",
+                    "通行",
+                    "其",
+                    "山",
+                    "。"
+                  ],
                   "ja": "トンネルはその山を貫通している。",
-                  "pnPron": "zel1 gim1 faong3 yaom1 cen1 das1。"
+                  "pnPron": "zélgím fâongyáom cén dás."
                 }
               ]
             }
@@ -13749,9 +13949,19 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "十昆香薬遣成倫強於汝。",
+                  "words": [
+                    "十",
+                    "昆",
+                    "香薬",
+                    "遣",
+                    "成",
+                    "倫強",
+                    "於",
+                    "汝",
+                    "。"
+                  ],
                   "ja": "12種類のスパイスがあなたを健康にします。",
-                  "pnPron": "tail1 qi1 guol1 vain3 cuo1 ba2 tuo2 de2 e1 kus3。"
+                  "pnPron": "táil qí gúolvâin cúo bà tùodè é kûs."
                 }
               ]
             }
@@ -15665,13 +15875,13 @@
       "num": "-"
     },
     {
-      "word": "言知",
+      "word": "事言知",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "言語学。語学。言語に関する学問全般。",
+              "translate": "言語学。博言学。",
               "tag": [],
               "example": []
             }
@@ -15679,14 +15889,14 @@
         }
       ],
       "append": [],
-      "ipa": "/bɯn˨˦.t͡ʃai˨/",
-      "pron": "bun2 qai2",
-      "latinPron": "bùnqài",
-      "weqo": "bu2N qE2",
+      "ipa": "/gɛ˥˧.bɯn˨˦.t͡ʃai˨/",
+      "pron": "ge3 bun2 qai2",
+      "latinPron": "gêbùnqài",
+      "weqo": "ge3 bu2N qE2",
       "num": "-"
     },
     {
-      "word": "思知",
+      "word": "魂思",
       "mean": [
         {
           "type": "名詞",
@@ -15700,10 +15910,10 @@
         }
       ],
       "append": [],
-      "ipa": "/sao˨˦.t͡ʃai˨/",
-      "pron": "sao2 qai2",
-      "latinPron": "sàoqài",
-      "weqo": "sO2 qE2",
+      "ipa": "/nɯm˨˦.sao˨/",
+      "pron": "num2 sao2",
+      "latinPron": "nùmsào",
+      "weqo": "nu2M sO2",
       "num": "-"
     },
     {
@@ -15725,6 +15935,48 @@
       "pron": "gis1 qai2",
       "latinPron": "gísqài",
       "weqo": "giS qE2",
+      "num": "-"
+    },
+    {
+      "word": "物律知",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "物理学。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kao˥.gis˥.t͡ʃai˨/",
+      "pron": "kao1 gis1 qai2",
+      "latinPron": "káogísqài",
+      "weqo": "kO giS qE2",
+      "num": "-"
+    },
+    {
+      "word": "薬律知",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "化学。ケミストリー。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βain˥˧.gis˥.t͡ʃai˨/",
+      "pron": "vain3 gis1 qai2",
+      "latinPron": "vâingísqài",
+      "weqo": "vE3N giS qE2",
       "num": "-"
     },
     {
@@ -17020,6 +17272,40 @@
       "num": "281"
     },
     {
+      "word": "並隠",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "こっそり。隠れて。密かに。忍んで。",
+              "tag": [],
+              "example": [
+                {
+                  "words": [
+                    "従",
+                    "於",
+                    "怪",
+                    "人",
+                    "並隠",
+                    "。"
+                  ],
+                  "ja": "奇妙な人物を密かに追跡する。",
+                  "pnPron": "câi é nô há sûolqúa."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯol˥˧.t͡ʃɯa˥/",
+      "pron": "suol3 qua1",
+      "latinPron": "sûolqúa",
+      "weqo": "sU3L qA",
+      "num": "-"
+    },
+    {
       "word": "隠報",
       "mean": [
         {
@@ -17690,9 +17976,20 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "歩在外白筋模汝可死。",
+                  "words": [
+                    "歩",
+                    "在",
+                    "外",
+                    "白",
+                    "筋",
+                    "模",
+                    "汝",
+                    "可",
+                    "死",
+                    "。"
+                  ],
                   "ja": "白線以外を歩けばあなたは死ぬだろう。",
-                  "pnPron": "qai1 suo2 hin2 kaing2 las2 muo1 kus3 fai2 sil3。"
+                  "pnPron": "qái sùo hìn kàing làs múo kûs fài sîl."
                 }
               ],
               "meaning": "前に条件や仮定、後に結果を置く。"
@@ -17966,10 +18263,10 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "消す。無くす。廃止する。",
+              "translate": "消す。消える。消去する。削る。鎮まる。",
               "tag": [],
               "example": [],
-              "meaning": "元々はあったものを無くすことを指す。"
+              "meaning": "[消]は「字を消す」や「火を消す」のように、ある物体から情報や属性を剥ぎ取る行為を指す。一方で[虚]は、物体の存在そのものが消失して知覚できなくなることを指す。"
             },
             {
               "translate": "引く。減算する。",
@@ -21927,6 +22224,43 @@
       "num": "378"
     },
     {
+      "word": "消天透",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "その時。その瞬間。まさにその時。とっさに。",
+              "tag": [],
+              "example": [
+                {
+                  "words": [
+                    "消天透",
+                    "、",
+                    "追",
+                    "氷",
+                    "下",
+                    "足",
+                    "砕",
+                    "。"
+                  ],
+                  "ja": "その瞬間、足下の氷が割れた。",
+                  "pnPron": "nàováslí, yùon húa yâ yúas pâo."
+                }
+              ],
+              "meaning": "直訳すると「星の輝きが消える」だが、それ以降の事象が起こるまでの時間が非常に短いことを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nao˨.βas˥.li˥/",
+      "pron": "nao2 vas1 li1",
+      "latinPron": "nàováslí",
+      "weqo": "nO2 vaS li",
+      "num": "-"
+    },
+    {
       "word": "拡録",
       "mean": [
         {
@@ -22886,9 +23220,23 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "侶曰「目之焉」、経握絞赤果以右手。",
+                  "words": [
+                    "侶",
+                    "曰",
+                    "「",
+                    "目",
+                    "之",
+                    "焉",
+                    "」、",
+                    "経",
+                    "握絞",
+                    "赤果",
+                    "以",
+                    "右手",
+                    "。"
+                  ],
                   "ja": "彼は「見てろよ」と言い、りんごを右手で握りつぶした。",
-                  "pnPron": "duo2 lua1「 ke1 kua1 del1」、 duo3 suom3 hai3 vuos1 baon2 nao3 van3 taos3。"
+                  "pnPron": "dùo lúa\" ké kúa dél\",, dûo sûomhâi vúosbàon nâo vântâos."
                 }
               ]
             }
@@ -23061,7 +23409,7 @@
       "num": "-"
     },
     {
-      "word": "消味",
+      "word": "虚味",
       "mean": [
         {
           "type": "形容詞",
@@ -23075,10 +23423,10 @@
         }
       ],
       "append": [],
-      "ipa": "/nao˨.ɯo˥˧/",
-      "pron": "nao2 uo3",
-      "latinPron": "nàoûo",
-      "weqo": "nO2 U3",
+      "ipa": "/ɯa˥˧.ɯo˥˧/",
+      "pron": "ua3 uo3",
+      "latinPron": "ûaûo",
+      "weqo": "A3 U3",
       "num": "-"
     },
     {
@@ -23264,7 +23612,22 @@
             {
               "translate": "～しろ。～だ。～ぞ。～であれ。",
               "tag": [],
-              "example": [],
+              "example": [
+                {
+                  "words": [
+                    "拡",
+                    "焉",
+                    "！",
+                    "団",
+                    "為",
+                    "天京",
+                    "恒泰",
+                    "！"
+                  ],
+                  "ja": "開けろ！天京市警だ！",
+                  "pnPron": "câon dél! pûo xêl vászâ dùanglò!"
+                }
+              ],
               "meaning": "相手に対する呼びかけや強調を表現する。命令文の末尾に付く場合も多い。"
             }
           ]
@@ -26462,6 +26825,35 @@
       "num": "440"
     },
     {
+      "word": "縦行",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "真っ直ぐな。直線的な。曲がっていない。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nɯan˥.jaom˥/",
+      "pron": "nuan1 yaom1",
+      "latinPron": "núanyáom",
+      "weqo": "nAN yOM",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "歪"
+          ]
+        }
+      ]
+    },
+    {
       "word": "横",
       "mean": [
         {
@@ -26629,9 +27021,10 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "最初の。初めの。先頭の。",
+              "translate": "最初の。初めの。先頭の。前方の。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "必ずしも先頭の要素を一つだけ指すとは限らず、始まりに近い部分をまとめて指すことも多い。"
             }
           ]
         }
@@ -26641,6 +27034,35 @@
       "pron": "vi1 bi1",
       "latinPron": "víbí",
       "weqo": "vi bi",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "後序"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "在一",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "まずは。最初に。初めに。第一に。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯo˨.βi˥/",
+      "pron": "suo2 vi1",
+      "latinPron": "sùoví",
+      "weqo": "sU2 vi",
       "num": "-"
     },
     {
@@ -26692,9 +27114,10 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "最後の。終わりの。ラストの。",
+              "translate": "最後の。終わりの。ラストの。後方の。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "[一序]と同じく、最後の要素を一つだけ指すとは限らず、終わりに近い部分をまとめて指すこともある。"
             }
           ]
         }
@@ -26704,7 +27127,15 @@
       "pron": "yuas3 bi1",
       "latinPron": "yûasbí",
       "weqo": "yA3S bi",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "一序"
+          ]
+        }
+      ]
     },
     {
       "word": "序日",
@@ -27503,9 +27934,19 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "爾不等魂之柑為倫味？",
+                  "words": [
+                    "爾",
+                    "不",
+                    "等",
+                    "魂",
+                    "之",
+                    "柑",
+                    "為",
+                    "倫味",
+                    "？"
+                  ],
                   "ja": "お前もこの蜜柑が美味しいと思わないか？",
-                  "pnPron": "si1 ki1 muos3 num2 kua1 tul1 xel3 tuo2 uo3？"
+                  "pnPron": "sí kí mûos nùm kúa túl xêl tùoûo?"
                 }
               ],
               "meaning": "[思]がある目的に向かって思考を巡らせることを指すのに対し、[魂]はある要因で主体の感情や思考が変化することを指す。"
@@ -27615,6 +28056,28 @@
       "num": "-"
     },
     {
+      "word": "解明",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "分かる。理解する。知る。把握する。判明する。",
+              "tag": [],
+              "example": [],
+              "meaning": "物事を正しく把握し理解すること。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wim˥.nɯ˥/",
+      "pron": "wim1 nu1",
+      "latinPron": "wímnú",
+      "weqo": "wiM nu",
+      "num": "-"
+    },
+    {
       "word": "軸",
       "mean": [
         {
@@ -27707,6 +28170,66 @@
       "latinPron": "hìntâos",
       "weqo": "hi2N tO3S",
       "num": "-"
+    },
+    {
+      "word": "左手",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "左手。弓手。",
+              "tag": [],
+              "example": [],
+              "meaning": "本人から見て左側の手である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯo˨.taos˥˧/",
+      "pron": "vuo2 taos3",
+      "latinPron": "vùotâos",
+      "weqo": "vU2 tO3S",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "右手"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "右手",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "右手。馬手。",
+              "tag": [],
+              "example": [],
+              "meaning": "本人から見て右側の手である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βan˥˧.taos˥˧/",
+      "pron": "van3 taos3",
+      "latinPron": "vântâos",
+      "weqo": "va3N tO3S",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "左手"
+          ]
+        }
+      ]
     },
     {
       "word": "軸都",
@@ -28119,9 +28642,14 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "其言虚。",
+                  "words": [
+                    "其",
+                    "談",
+                    "虚",
+                    "。"
+                  ],
                   "ja": "そんな話は無い。",
-                  "pnPron": "cen1 bun2 ua3。"
+                  "pnPron": "cén xì ûa."
                 }
               ]
             },
@@ -28141,9 +28669,15 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "其言為虚。",
+                  "words": [
+                    "其",
+                    "談",
+                    "為",
+                    "虚",
+                    "。"
+                  ],
                   "ja": "その話は虚偽である。",
-                  "pnPron": "cen1 bun2 xel3 ua3。"
+                  "pnPron": "cén xì xêl ûa."
                 }
               ]
             }
@@ -28155,7 +28689,15 @@
       "pron": "ua3",
       "latinPron": "ûa",
       "weqo": "A3",
-      "num": "465"
+      "num": "465",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "消*"
+          ]
+        }
+      ]
     },
     {
       "word": "央虚",
@@ -28580,7 +29122,37 @@
       "pron": "tul1",
       "latinPron": "túl",
       "weqo": "tuL",
-      "num": "472"
+      "num": "472",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "柑果"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "柑果",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "柑橘。シトラス。みかん。オレンジ。",
+              "tag": [],
+              "example": [],
+              "meaning": "[柑]と同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɯl˥.baon˨/",
+      "pron": "tul1 baon2",
+      "latinPron": "túlbàon",
+      "weqo": "tuL bO2N",
+      "num": "-"
     },
     {
       "word": "柑酸",
@@ -28630,7 +29202,7 @@
         {
           "type": "類語",
           "explanation": [
-            "可"
+            "可*"
           ]
         }
       ]
@@ -29295,9 +29867,15 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "欲買之昆衣。",
+                  "words": [
+                    "欲",
+                    "買",
+                    "之昆",
+                    "衣",
+                    "。"
+                  ],
                   "ja": "こんな服を買いたい。",
-                  "pnPron": "i3 kaom2 kua1 qi1 nel1。"
+                  "pnPron": "î kàom kúaqí nél."
                 }
               ],
               "meaning": "指しているものの様子を指す。"
@@ -29409,9 +29987,16 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "三貝人居其。",
+                  "words": [
+                    "三",
+                    "貝",
+                    "人",
+                    "居",
+                    "其",
+                    "。"
+                  ],
                   "ja": "三人の人がそこにいる。",
-                  "pnPron": "gaol3 jao1 ha1 baim3 cen1。"
+                  "pnPron": "gâol jáo há bâim cén."
                 }
               ],
               "meaning": "最も基本的な助数詞であり、人物や物体など幅広い事象に対して用いることができる。"
@@ -29812,6 +30397,28 @@
       "latinPron": "zàos",
       "weqo": "zO2S",
       "num": "491"
+    },
+    {
+      "word": "汲洞",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "井戸。井。井泉。",
+              "tag": [],
+              "example": [],
+              "meaning": "主に水を採取するために地下に掘られた穴を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bi˥˧.zaos˨/",
+      "pron": "bi3 zaos2",
+      "latinPron": "bîzàos",
+      "weqo": "bi3 zO2S",
+      "num": "-"
     },
     {
       "word": "而",
@@ -30422,7 +31029,7 @@
           "type": "動詞",
           "explanation": [
             {
-              "translate": "しまう。収納する。詰める。入れる。しまい込む。",
+              "translate": "しまう。収納する。詰める。片付ける。入れる。しまい込む。",
               "tag": [],
               "example": [],
               "meaning": "ある場所に対象を収めておくことを指す。"
@@ -30436,6 +31043,57 @@
       "latinPron": "yâi",
       "weqo": "yE3",
       "num": "503"
+    },
+    {
+      "word": "函机",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "棚。戸棚。ラック。ロッカー。収納。架。",
+              "tag": [],
+              "example": [],
+              "meaning": "板などの平面上に収納する物品を置いておく構造の収納具を指す。複数段になっているかや扉が付いているかなどは含意しない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jai˥˧.las˥˧/",
+      "pron": "yai3 las3",
+      "latinPron": "yâilâs",
+      "weqo": "yE3 la3S",
+      "num": "-"
+    },
+    {
+      "word": "帳函",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "本棚。書架。書箱。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯs˥˧.jai˥˧/",
+      "pron": "sus3 yai3",
+      "latinPron": "sûsyâi",
+      "weqo": "su3S yE3",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "函机"
+          ]
+        }
+      ]
     },
     {
       "word": "掘",
@@ -30973,9 +31631,18 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "我不忘其言跨悉活。",
+                  "words": [
+                    "我",
+                    "不",
+                    "忘",
+                    "其",
+                    "言",
+                    "跨",
+                    "悉活",
+                    "。"
+                  ],
                   "ja": "私はその言葉を一生忘れられない。",
-                  "pnPron": "xe3 ki1 zang1 cen1 bun2 yum1 xuo1 vu2。"
+                  "pnPron": "xê kí záng cén bùn yúm xúovù."
                 }
               ],
               "meaning": "[忘]は記憶がなく思い出せなくなることを指すのに対し、[逃心]は不注意などでうっかり忘れてしまうことを指す。"
@@ -31014,9 +31681,15 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "貨纏逃在去日。",
+                  "words": [
+                    "貨纏",
+                    "逃",
+                    "在",
+                    "去日",
+                    "。"
+                  ],
                   "ja": "昨日、財布を無くした。",
-                  "pnPron": "ku1 dim3 lao3 suo2 fes2 kuang1。"
+                  "pnPron": "kúdîm lâo sùo fèskúang."
                 }
               ],
               "meaning": "今まで持っていたものを、意図せず無い状態にすることを指す。"
@@ -31071,9 +31744,21 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "於其人我尋、名為何如。",
+                  "words": [
+                    "於",
+                    "其",
+                    "人",
+                    "我",
+                    "尋",
+                    "、",
+                    "名",
+                    "為",
+                    "何",
+                    "如",
+                    "。"
+                  ],
                   "ja": "私はその人に、名前はなんですかと聞いた。",
-                  "pnPron": "e1 cen1 ha1 xe3 fu2、 jual1 xel3 naol3 lol1。"
+                  "pnPron": "é cén há xê fù, júal xêl nâol lól."
                 }
               ]
             },
@@ -31119,9 +31804,22 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "入内恒冷籠而少古、回未為冷。",
+                  "words": [
+                    "入",
+                    "内",
+                    "恒冷籠",
+                    "而",
+                    "少",
+                    "古",
+                    "、",
+                    "回",
+                    "未",
+                    "為",
+                    "冷",
+                    "。"
+                  ],
                   "ja": "冷蔵庫に入れて少し経ったが、まだ冷たくない。",
-                  "pnPron": "juom1 yuo2 duang2 pil1 duon3 le3 hain1 puon2、 pel1 tum3 xel3 pil1。"
+                  "pnPron": "júom yùo dùangpíldûon lê háin pùon, pél tûm xêl píl."
                 }
               ],
               "meaning": "言及されている時点でまだ起きていない事象であることを表す。否定を含意していることに注意。"
@@ -31561,9 +32259,17 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "多兵居端其国。",
+                  "words": [
+                    "多",
+                    "兵",
+                    "居",
+                    "端",
+                    "其",
+                    "国",
+                    "。"
+                  ],
                   "ja": "その国の国境付近には多くの兵が配置されている。",
-                  "pnPron": "jo3 nal3 baim3 zeng1 cen1 nun2。"
+                  "pnPron": "jô nâl bâim zéng cén nùn."
                 }
               ],
               "meaning": "境界に近い内側の部分を指す。"
@@ -31632,9 +32338,18 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "解手模物落行落立。",
+                  "words": [
+                    "解",
+                    "手",
+                    "模",
+                    "物",
+                    "落",
+                    "行",
+                    "落立",
+                    "。"
+                  ],
                   "ja": "手を離すと物は垂直に落ちる。",
-                  "pnPron": "wim1 taos3 muo1 kao1 jua3 yaom1 jua3 quo3。"
+                  "pnPron": "wím tâos múo káo jûa yáom jûaqûo."
                 }
               ],
               "meaning": "[縦]や[横]が体の向きを基準とするのに対し、こちらは重力が働く方向を指す。"
@@ -31718,9 +32433,20 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "其人丸刺赤果元百杖遠。",
-                  "ja": "その人の弾丸は144杖 (約165m)の距離からりんごに命中した。",
-                  "pnPron": "cen1 ha1 luong3 din2 vuos1 baon2 xo3 pai2 qo1 sal2。"
+                  "words": [
+                    "其",
+                    "人",
+                    "丸",
+                    "刺",
+                    "赤果",
+                    "元",
+                    "百",
+                    "杖",
+                    "遠",
+                    "。"
+                  ],
+                  "ja": "その人の弾丸は144杖の距離からりんごに命中した。",
+                  "pnPron": "cén há lûong dìn vúosbàon xô pài qó sàl."
                 }
               ]
             }
@@ -31986,9 +32712,18 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "之処然乾霞為五少。",
+                  "words": [
+                    "之",
+                    "処",
+                    "然",
+                    "乾霞",
+                    "為",
+                    "五",
+                    "少",
+                    "。"
+                  ],
                   "ja": "この場所の湿度は五少（約42%）だ。",
-                  "pnPron": "kua1 yai1 kem1 so1 pes1 xel3 luong1 hain1。"
+                  "pnPron": "kúa yái kém sópés xêl lúong háin."
                 }
               ]
             }
@@ -32431,9 +33166,18 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "我衆概廻在一処如？",
+                  "words": [
+                    "我衆",
+                    "概",
+                    "廻",
+                    "在",
+                    "一",
+                    "処",
+                    "如",
+                    "？"
+                  ],
                   "ja": "私たち、同じ場所を周り続けてない？",
-                  "pnPron": "xe3 mail2 tam1 fang1 suo2 vi1 yai1 lol1？"
+                  "pnPron": "xêmàil tám fáng sùo ví yái lól?"
                 }
               ],
               "meaning": "[回]が軸を中心に回転する動作を指すのに対し、[廻]はループした経路を何度も移動し続ける動作を指す。"
@@ -32848,9 +33592,19 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "汝去浮知之銀影然怪事如？",
+                  "words": [
+                    "汝",
+                    "去",
+                    "浮知",
+                    "之",
+                    "銀影",
+                    "然",
+                    "怪事",
+                    "如",
+                    "？"
+                  ],
                   "ja": "あなたはこの写真のおかしさにお気づきだろうか？",
-                  "pnPron": "kus3 fes2 muong2 qai2 kua1 tuo3 hi2 kem1 no3 ge3 lol1？"
+                  "pnPron": "kûs fès mùongqài kúa tûohì kém nôgê lól?"
                 }
               ],
               "meaning": "今まで考えになかったものが直感的に思考と繋がることを指す。"
@@ -33117,7 +33871,15 @@
       "pron": "kas2",
       "latinPron": "kàs",
       "weqo": "ka2S",
-      "num": "539"
+      "num": "539",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "縦行"
+          ]
+        }
+      ]
     },
     {
       "word": "歪珠",
@@ -33174,9 +33936,17 @@
               "tag": [],
               "example": [
                 {
-                  "pn": "啊、其為奇瑠！",
+                  "words": [
+                    "啊",
+                    "、",
+                    "其",
+                    "為",
+                    "奇",
+                    "瑠",
+                    "！"
+                  ],
                   "ja": "おお、珍しい宝石だね！",
-                  "pnPron": "a3、 cen1 xel3 us1 ja1！"
+                  "pnPron": "â, cén xêl ús já!"
                 }
               ],
               "meaning": "周囲や一般の状態から外れている状態を指す。悪いニュアンスはあまり含意せず、「珍しい」といったポジティブな意味でも用いられる。"
@@ -33970,6 +34740,93 @@
       "latinPron": "dôlfâi",
       "weqo": "do3L fE3",
       "num": "-"
+    },
+    {
+      "word": "溢",
+      "mean": [
+        {
+          "type": "動詞",
+          "explanation": [
+            {
+              "translate": "溢れる。あふれる。余る。満ちる。",
+              "tag": [],
+              "example": [
+                {
+                  "words": [
+                    "溢",
+                    "事",
+                    "為",
+                    "態",
+                    "乏",
+                    "事",
+                    "。"
+                  ],
+                  "ja": "過ぎたるは猶及ばざるが如し。",
+                  "pnPron": "ùal gê xêl xòs pûm gê."
+                }
+              ],
+              "meaning": "必要以上に供給されて残りが出る状態を指す。"
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "～すぎる。あまりにも。実に。甚だしくも。めちゃくちゃ。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯal˨/",
+      "pron": "ual2",
+      "latinPron": "ùal",
+      "weqo": "A2L",
+      "num": "551"
+    },
+    {
+      "word": "且",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "～しようとする。～してみる。～を試みる。",
+              "tag": [],
+              "example": [
+                {
+                  "words": [
+                    "且",
+                    "食",
+                    "姉",
+                    "乾餅",
+                    "並隠",
+                    "、",
+                    "回",
+                    "被",
+                    "阻",
+                    "使",
+                    "姉",
+                    "。"
+                  ],
+                  "ja": "姉のクッキーをこっそり食べようとしたが、姉に止められた。",
+                  "pnPron": "dêm búa gúong sówâi sûolqúa, pél jé zém hû gúong."
+                }
+              ],
+              "meaning": "自らの意思で行動を起こすことを試みる様子。実際に行動を起こしたかは含意されないことに注意。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɛm˥˧/",
+      "pron": "dem3",
+      "latinPron": "dêm",
+      "weqo": "de3M",
+      "num": "552"
     }
   ]
 }

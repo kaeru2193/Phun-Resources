@@ -12614,5 +12614,41 @@
         ]
       }
     }
+  },
+  {
+    "chara": "溢",
+    "id": "551",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "ual2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=溢"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "且",
+    "id": "552",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "dem3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=且"
+          }
+        ]
+      }
+    }
   }
 ]
