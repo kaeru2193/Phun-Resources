@@ -12650,5 +12650,41 @@
         ]
       }
     }
+  },
+  {
+    "chara": "飾",
+    "id": "553",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "pom1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=飾"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "投",
+    "id": "554",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xil3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=投"
+          }
+        ]
+      }
+    }
   }
 ]
