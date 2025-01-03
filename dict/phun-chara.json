@@ -12686,5 +12686,149 @@
         ]
       }
     }
+  },
+  {
+    "chara": "習",
+    "id": "555",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "fuas1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=習"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "散",
+    "id": "556",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "cum3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=散"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "燧",
+    "id": "557",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "fil2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=燧"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "墨",
+    "id": "558",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "hos1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=墨"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "互",
+    "id": "559",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "bal3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=互"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "衝",
+    "id": "560",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "sain3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=衝"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "撃",
+    "id": "561",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "ji2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=撃"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "区",
+    "id": "562",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "ning1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=区"
+          }
+        ]
+      }
+    }
   }
 ]
