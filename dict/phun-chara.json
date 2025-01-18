@@ -12830,5 +12830,239 @@
         ]
       }
     }
+  },
+  {
+    "chara": "方",
+    "id": "563",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "zung2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=方"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "踏",
+    "id": "564",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "buo1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=踏"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "凝",
+    "id": "565",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "qao3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=凝"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "柱",
+    "id": "566",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "paom2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=柱"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "枯",
+    "id": "567",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "son3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=枯"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "羊",
+    "id": "568",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "cam1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=羊"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "馬",
+    "id": "569",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "ti3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=馬"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "茸",
+    "id": "570",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "juo3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=茸"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "垂",
+    "id": "571",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "huon2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=垂"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "釣",
+    "id": "572",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xuang2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=釣"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "灯",
+    "id": "573",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "feng3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=灯"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "苗",
+    "id": "574",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "weng2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=苗"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "chara": "曙",
+    "id": "575",
+    "strokes": "-",
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "zas3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=曙"
+          }
+        ]
+      }
+    }
   }
 ]
