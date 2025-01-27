@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2025-01-18T08:40:31.650Z",
+  "date": "2025-01-27T10:38:41.671Z",
   "data": [
     {
       "word": "人",
@@ -4698,6 +4698,56 @@
       "latinPron": "sûa",
       "weqo": "sA3",
       "num": "76"
+    },
+    {
+      "word": "書声字",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "表音文字。音標文字。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯa˥˧.wɛ˨.t͡ʃo˥˧/",
+      "pron": "sua3 we2 qo3",
+      "latinPron": "sûawèqô",
+      "weqo": "sA3 we2 qo3",
+      "num": "-"
+    },
+    {
+      "word": "書魂字",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "表意文字。表語文字。象形文字。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯa˥˧.nɯm˨.t͡ʃo˥˧/",
+      "pron": "sua3 num2 qo3",
+      "latinPron": "sûa'nùmqô",
+      "weqo": "sA3 nu2M qo3",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "言魂"
+          ]
+        }
+      ]
     },
     {
       "word": "書門",
