@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2025-01-27T10:38:41.671Z",
+  "date": "2025-02-01T02:20:35.252Z",
   "data": [
     {
       "word": "人",
@@ -3071,10 +3071,10 @@
       "word": "居居",
       "mean": [
         {
-          "type": "名詞",
+          "type": "副詞",
           "explanation": [
             {
-              "translate": "あちこち。至る所。一面に。くまなく。",
+              "translate": "あちこちに。至る所に。一面に。四方に。くまなく。",
               "tag": [],
               "example": []
             }
@@ -4318,6 +4318,27 @@
       "num": "71"
     },
     {
+      "word": "央夜",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "夜中。真夜中。夜更け。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/na˨.lai˥/",
+      "pron": "na2 lai1",
+      "latinPron": "nà'lái",
+      "weqo": "na2 lE",
+      "num": "-"
+    },
+    {
       "word": "丸",
       "mean": [
         {
@@ -4382,7 +4403,7 @@
       "num": "-"
     },
     {
-      "word": "粒央",
+      "word": "小粒央",
       "mean": [
         {
           "type": "名詞",
@@ -4396,10 +4417,10 @@
         }
       ],
       "append": [],
-      "ipa": "/dɯol˨˦.na˨/",
-      "pron": "duol2 na2",
-      "latinPron": "dùolnà",
-      "weqo": "dU2L na2",
+      "ipa": "/jao˥.dɯol˨˦.na˨/",
+      "pron": "yao1 duol2 na2",
+      "latinPron": "yáodùolnà",
+      "weqo": "yO dU2L na2",
       "num": "-"
     },
     {
@@ -4569,7 +4590,7 @@
       "num": "-"
     },
     {
-      "word": "世画",
+      "word": "領紙",
       "mean": [
         {
           "type": "名詞",
@@ -4583,10 +4604,10 @@
         }
       ],
       "append": [],
-      "ipa": "/ɸɯa˥.ʃao˥˧/",
-      "pron": "fua1 xao3",
-      "latinPron": "fúaxâo",
-      "weqo": "fA xO3",
+      "ipa": "/ba˥.jɛ˨/",
+      "pron": "ba1 ye2",
+      "latinPron": "báyè",
+      "weqo": "ba ye2",
       "num": "-"
     },
     {
@@ -5021,13 +5042,13 @@
             {
               "translate": "清潔な。整った。",
               "tag": [],
-              "example": [],
-              "meaning": "[整]は空間的や量的に過不足ない状態をさすが、それに対して[現]は時間的に「まさにその時刻」である状態を指す。"
+              "example": []
             },
             {
               "translate": "ぴったりの。丁度の。ちょうどの。過不足ない。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "[整]は空間的や量的に過不足ない状態をさすが、それに対して[現]は時間的に「まさにその時刻」である状態を指す。"
             }
           ]
         }
@@ -8521,7 +8542,7 @@
       ]
     },
     {
-      "word": "通則",
+      "word": "常則",
       "mean": [
         {
           "type": "名詞",
@@ -8535,10 +8556,10 @@
         }
       ],
       "append": [],
-      "ipa": "/ɸaoŋ˥˧.t͡sɯa˨/",
-      "pron": "faong3 cua2",
-      "latinPron": "fâongcùa",
-      "weqo": "fO3G cA2",
+      "ipa": "/ʃɯ˥˧.t͡sɯa˨/",
+      "pron": "xu3 cua2",
+      "latinPron": "xûcùa",
+      "weqo": "xu3 cA2",
       "num": "-"
     },
     {
@@ -10362,6 +10383,64 @@
       "num": "161"
     },
     {
+      "word": "上数",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "正数。正の数。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/liŋ˥˧.mis˥/",
+      "pron": "ling3 mis1",
+      "latinPron": "lîngmís",
+      "weqo": "li3G miS",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "下数"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "下数",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "負数。負の数。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ja˥˧.mis˥/",
+      "pron": "ya3 mis1",
+      "latinPron": "yâ'mís",
+      "weqo": "ya3 miS",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "上数"
+          ]
+        }
+      ]
+    },
+    {
       "word": "整数",
       "mean": [
         {
@@ -10811,7 +10890,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "世代。",
+              "translate": "世代。時代。期間。世。",
               "tag": [],
               "example": []
             }
@@ -13923,17 +14002,12 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "通る。ある場所を通り過ぎる。",
+              "translate": "通る。通過する。通り抜ける。通りすがる。",
               "tag": [],
               "example": []
-            }
-          ]
-        },
-        {
-          "type": "副詞",
-          "explanation": [
+            },
             {
-              "translate": "いつも。",
+              "translate": "貫く。貫通する。穿つ。",
               "tag": [],
               "example": []
             }
@@ -13945,30 +14019,48 @@
       "pron": "faong3",
       "latinPron": "fâong",
       "weqo": "fO3G",
-      "num": "231"
+      "num": "231",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "通越",
+            "通行"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "通越",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "通り過ぎる。通り抜ける。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸaoŋ˥˧.βɯa˥/",
+      "pron": "faong3 vua1",
+      "latinPron": "fâongvúa",
+      "weqo": "fO3G vA",
+      "num": "-"
     },
     {
       "word": "通行",
       "mean": [
         {
-          "type": "不及動詞",
+          "type": "及動詞",
           "explanation": [
             {
               "translate": "貫通する。貫く。通り抜ける。",
               "tag": [],
-              "example": [
-                {
-                  "words": [
-                    "掘道",
-                    "通行",
-                    "其",
-                    "山",
-                    "。"
-                  ],
-                  "ja": "トンネルはその山を貫通している。",
-                  "pnPron": "zélgím fâongyáom cén dás."
-                }
-              ]
+              "example": []
             }
           ]
         }
@@ -13981,7 +14073,7 @@
       "num": "-"
     },
     {
-      "word": "通日",
+      "word": "常日",
       "mean": [
         {
           "type": "副詞",
@@ -13995,14 +14087,14 @@
         }
       ],
       "append": [],
-      "ipa": "/ɸaoŋ˥˧.kɯaŋ˥/",
-      "pron": "faong3 kuang1",
-      "latinPron": "fâongkúang",
-      "weqo": "fO3G kAG",
+      "ipa": "/ʃɯ˥˧.kɯaŋ˥/",
+      "pron": "xu3 kuang1",
+      "latinPron": "xûkúang",
+      "weqo": "xu3 kAG",
       "num": "-"
     },
     {
-      "word": "通月",
+      "word": "常月",
       "mean": [
         {
           "type": "副詞",
@@ -14016,14 +14108,14 @@
         }
       ],
       "append": [],
-      "ipa": "/ɸaoŋ˥˧.βo˨/",
-      "pron": "faong3 vo2",
-      "latinPron": "fâongvò",
-      "weqo": "fO3G vo2",
+      "ipa": "/ʃɯ˥˧.βo˨/",
+      "pron": "xu3 vo2",
+      "latinPron": "xûvò",
+      "weqo": "xu3 vo2",
       "num": "-"
     },
     {
-      "word": "通年",
+      "word": "常年",
       "mean": [
         {
           "type": "副詞",
@@ -14037,10 +14129,10 @@
         }
       ],
       "append": [],
-      "ipa": "/ɸaoŋ˥˧.βais˨/",
-      "pron": "faong3 vais2",
-      "latinPron": "fâongvàis",
-      "weqo": "fO3G vE2S",
+      "ipa": "/ʃɯ˥˧.βais˨/",
+      "pron": "xu3 vais2",
+      "latinPron": "xûvàis",
+      "weqo": "xu3 vE2S",
       "num": "-"
     },
     {
@@ -15503,7 +15595,7 @@
       "num": "-"
     },
     {
-      "word": "気熱機",
+      "word": "温区機",
       "mean": [
         {
           "type": "名詞",
@@ -15517,20 +15609,20 @@
         }
       ],
       "append": [],
-      "ipa": "/siŋ˥.sɯo˥˧.ail˨/",
-      "pron": "sing1 suo3 ail2",
-      "latinPron": "síngsûoàil",
-      "weqo": "siG sU3 E2L",
+      "ipa": "/t͡ʃain˥.niŋ˥.ail˨/",
+      "pron": "qain1 ning1 ail2",
+      "latinPron": "qáinníngàil",
+      "weqo": "qEN niG E2L",
       "num": "-"
     },
     {
-      "word": "燃力機",
+      "word": "燃輪機",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "エンジン。原動機。",
+              "translate": "エンジン。原動機。発動機。熱機関。",
               "tag": [],
               "example": []
             }
@@ -15538,10 +15630,31 @@
         }
       ],
       "append": [],
-      "ipa": "/lɯs˥˧.nai˨˦.ail˨/",
-      "pron": "lus3 nai2 ail2",
-      "latinPron": "lûsnàiàil",
-      "weqo": "lu3S nE2 E2L",
+      "ipa": "/lɯs˥˧.kaos˨˦.ail˨/",
+      "pron": "lus3 kaos2 ail2",
+      "latinPron": "lûskàos'àil",
+      "weqo": "lu3S kO2S E2L",
+      "num": "-"
+    },
+    {
+      "word": "雷輪機",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "モーター。電動機。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/main˨˦.kaos˨˦.ail˨/",
+      "pron": "main2 kaos2 ail2",
+      "latinPron": "màinkàos'àil",
+      "weqo": "mE2N kO2S E2L",
       "num": "-"
     },
     {
@@ -16767,7 +16880,7 @@
       "num": "-"
     },
     {
-      "word": "通衣",
+      "word": "常衣",
       "mean": [
         {
           "type": "名詞",
@@ -16781,10 +16894,10 @@
         }
       ],
       "append": [],
-      "ipa": "/ɸaoŋ˥˧.nɛl˥/",
-      "pron": "faong3 nel1",
-      "latinPron": "fâongnél",
-      "weqo": "fO3G neL",
+      "ipa": "/ʃɯ˥˧.nɛl˥/",
+      "pron": "xu3 nel1",
+      "latinPron": "xû'nél",
+      "weqo": "xu3 neL",
       "num": "-"
     },
     {
@@ -18623,7 +18736,15 @@
       "pron": "quom2",
       "latinPron": "qùom",
       "weqo": "qU2M",
-      "num": "294"
+      "num": "294",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "平六*"
+          ]
+        }
+      ]
     },
     {
       "word": "遍思",
@@ -23059,13 +23180,13 @@
       "num": "379"
     },
     {
-      "word": "向針",
+      "word": "磁向",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "コンパス。方位磁針。",
+              "translate": "コンパス。方位磁石。方位磁針。羅針盤。",
               "tag": [],
               "example": []
             }
@@ -23073,10 +23194,10 @@
         }
       ],
       "append": [],
-      "ipa": "/βɯ˥˧.βo˥/",
-      "pron": "vu3 vo1",
-      "latinPron": "vûvó",
-      "weqo": "vu3 vo",
+      "ipa": "/βɯol˨.βɯ˥˧/",
+      "pron": "vuol2 vu3",
+      "latinPron": "vùolvû",
+      "weqo": "vU2L vu3",
       "num": "-"
     },
     {
@@ -23371,7 +23492,7 @@
               "translate": "中間の。普通の。中立の。どっちつかずの。",
               "tag": [],
               "example": [],
-              "meaning": "[遍]はありふれており一般的な性質を指すが、[平六]は一般的かどうかに関わらず特定の方向に偏っていない性質を指す。"
+              "meaning": "[遍]はありふれており一般的な様子、[常]は特に異常がなく変わりない様子、[平六]は一般的かどうかに関わらず特定の方向に偏っていない様子を指す。"
             }
           ]
         }
@@ -23386,7 +23507,8 @@
         {
           "type": "類語",
           "explanation": [
-            "遍"
+            "遍",
+            "常"
           ]
         }
       ]
@@ -26224,6 +26346,29 @@
       "num": "-"
     },
     {
+      "word": "数羅",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "数列。",
+              "tag": [
+                "数"
+              ],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mis˥.gan˨/",
+      "pron": "mis1 gan2",
+      "latinPron": "mísgàn",
+      "weqo": "miS ga2N",
+      "num": "-"
+    },
+    {
       "word": "取",
       "mean": [
         {
@@ -26403,9 +26548,10 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "南。南極点に向かう方向。",
+              "translate": "南。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "南極点に向かう方向。"
             }
           ]
         }
@@ -26458,27 +26604,6 @@
       "latinPron": "kûan",
       "weqo": "kA3N",
       "num": "424"
-    },
-    {
-      "word": "多乗",
-      "mean": [
-        {
-          "type": "不及動詞",
-          "explanation": [
-            {
-              "translate": "積み重なる。積もる。積む。たくさんのものが重なる。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        }
-      ],
-      "append": [],
-      "ipa": "/d͡ʒo˥˧.t͡ʃaŋ˥˧/",
-      "pron": "jo3 qang3",
-      "latinPron": "jôqâng",
-      "weqo": "jo3 qa3G",
-      "num": "-"
     },
     {
       "word": "揺糸",
@@ -26984,30 +27109,49 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "かえる。蛙。両生類の飛び跳ねる生き物。",
+              "translate": "かえる。カエル。蛙。両生類の飛び跳ねる生き物。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "製作者のかえるではない。日用語としては[蟾蛇]も多く用いられる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "製作者のかえるではない。",
-              "tag": [],
-              "example": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/zɯa˥/",
       "pron": "zua1",
       "latinPron": "zúa",
       "weqo": "zA",
       "num": "429"
+    },
+    {
+      "word": "蟾蛇",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "かえる。カエル。蛙。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zɯa˥.kɛŋ˥˧/",
+      "pron": "zua1 keng3",
+      "latinPron": "zúakêng",
+      "weqo": "zA ke3G",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "蟾"
+          ]
+        }
+      ]
     },
     {
       "word": "翠",
@@ -29450,6 +29594,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "虚湛",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "空っぽの。空の。すっからかんの。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯa˥˧.t͡ʃao˥/",
+      "pron": "ua3 qao1",
+      "latinPron": "ûaqáo",
+      "weqo": "A3 qO",
+      "num": "-"
     },
     {
       "word": "央虚",
@@ -32776,9 +32941,10 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "北。北極点に向かう方向。",
+              "translate": "北。",
               "tag": [],
-              "example": []
+              "example": [],
+              "meaning": "北極点に向かう方向。"
             }
           ]
         }
@@ -34613,7 +34779,7 @@
               "translate": "緊急の。非常の。変事の。",
               "tag": [],
               "example": [],
-              "meaning": "突発的に起こり、対処が必要な事態を指す。"
+              "meaning": "[外常]は、単に普段の様子と異なる状態を指す。対して[浮開]は、突発的に起こり、すぐに対処が必要な状態を指す。"
             }
           ]
         }
@@ -37634,6 +37800,357 @@
           ]
         }
       ]
+    },
+    {
+      "word": "常",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "いつも。常に。ずっと。いつでも。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "普通の。通常の。変わりない。いつもの。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃɯ˥˧/",
+      "pron": "xu3",
+      "latinPron": "xû",
+      "weqo": "xu3",
+      "num": "576",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "遍",
+            "平六*"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "外常",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "非常の。異常な。いつもと違う。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hin˨.ʃɯ˥˧/",
+      "pron": "hin2 xu3",
+      "latinPron": "hìnxû",
+      "weqo": "hi2N xu3",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "浮開*"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "輪",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "車輪。ホイール。",
+              "tag": [],
+              "example": []
+            },
+            {
+              "translate": "車。軸を中心に回る機構。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kaos˨/",
+      "pron": "kaos2",
+      "latinPron": "kàos",
+      "weqo": "kO2S",
+      "num": "577"
+    },
+    {
+      "word": "流輪",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "水車。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡saos˥.kaos˨/",
+      "pron": "caos1 kaos2",
+      "latinPron": "cáoskàos",
+      "weqo": "cOS kO2S",
+      "num": "-"
+    },
+    {
+      "word": "風輪",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "風車。ウインドミル。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɛm˥˧.kaos˨/",
+      "pron": "tem3 kaos2",
+      "latinPron": "têmkàos",
+      "weqo": "te3M kO2S",
+      "num": "-"
+    },
+    {
+      "word": "垂輪",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "滑車。プーリー。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯon˨˦.kaos˨/",
+      "pron": "huon2 kaos2",
+      "latinPron": "hùonkàos",
+      "weqo": "hU2N kO2S",
+      "num": "-"
+    },
+    {
+      "word": "累",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "重なる。積もる。積む。重ねる。積み重ねる。積み上げる。蓄積する。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "物が積み重なった小山。山積みの物。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wil˥/",
+      "pron": "wil1",
+      "latinPron": "wíl",
+      "weqo": "wiL",
+      "num": "578"
+    },
+    {
+      "word": "土累",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "築山。土手。土塁。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ao˥˧.wil˥/",
+      "pron": "ao3 wil1",
+      "latinPron": "âowíl",
+      "weqo": "O3 wiL",
+      "num": "-"
+    },
+    {
+      "word": "磁",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "磁石。マグネット。",
+              "tag": [],
+              "example": [],
+              "meaning": "磁場を発生させ鉄などを引き付ける物体。日用語としては[磁石]が多く用いられる。"
+            }
+          ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
+            {
+              "translate": "磁気に関する物事。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯol˨/",
+      "pron": "vuol2",
+      "latinPron": "vùol",
+      "weqo": "vU2L",
+      "num": "579"
+    },
+    {
+      "word": "磁石",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "磁石。マグネット。",
+              "tag": [],
+              "example": [],
+              "meaning": "[磁]と同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯol˨.hais˥˧/",
+      "pron": "vuol2 hais3",
+      "latinPron": "vùolhâis",
+      "weqo": "vU2L hE3S",
+      "num": "-"
+    },
+    {
+      "word": "雷磁石",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "電磁石。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/main˨˦.βɯol˨.hais˥˧/",
+      "pron": "main2 vuol2 hais3",
+      "latinPron": "màinvùolhâis",
+      "weqo": "mE2N vU2L hE3S",
+      "num": "-"
+    },
+    {
+      "word": "北磁",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "N極。（磁石の）正極。",
+              "tag": [],
+              "example": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pon˨˦.βɯol˨/",
+      "pron": "pon2 vuol2",
+      "latinPron": "pònvùol",
+      "weqo": "po2N vU2L",
+      "num": "-"
+    },
+    {
+      "word": "南磁",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "S極。（磁石の）負極。",
+              "tag": [],
+              "example": [
+                {
+                  "words": [
+                    "曰",
+                    "磁向",
+                    "然",
+                    "北磁",
+                    "向",
+                    "北端",
+                    "、",
+                    "故",
+                    "大丸",
+                    "然",
+                    "北端",
+                    "為",
+                    "南磁",
+                    "。",
+                    "廻怪",
+                    "啊",
+                    "！"
+                  ],
+                  "ja": "方位磁石のN極は北極を指すから、永球の北極はS極なんだって。ややこしいな！",
+                  "pnPron": "lúa vùolvû kém pònvùol vû pònzéng, dòn qîmlûong kém pònzéng xêl jîngvùol. fángnô â!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒiŋ˥˧.βɯol˨/",
+      "pron": "jing3 vuol2",
+      "latinPron": "jîngvùol",
+      "weqo": "ji3G vU2L",
+      "num": "-"
     }
   ]
 }

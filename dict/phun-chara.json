@@ -29001,7 +29001,7 @@
   {
     "chara": "互",
     "id": "559",
-    "strokes": 4,
+    "strokes": 7,
     "radical": "-",
     "langs": {
       "pn": {
@@ -29017,6 +29017,9 @@
     },
     "structure": {
       "strokes": [
+        "-",
+        "/",
+        ".",
         "/",
         ".",
         "-",
@@ -29035,7 +29038,7 @@
   {
     "chara": "衝",
     "id": "560",
-    "strokes": 9,
+    "strokes": 12,
     "radical": "-",
     "langs": {
       "pn": {
@@ -29080,7 +29083,7 @@
   {
     "chara": "撃",
     "id": "561",
-    "strokes": 12,
+    "strokes": 15,
     "radical": "-",
     "langs": {
       "pn": {
@@ -29728,6 +29731,186 @@
       },
       {
         "char": "赤",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "常",
+    "id": "576",
+    "strokes": 13,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xu3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=常"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "車",
+          "isNode": true
+        },
+        "second": {
+          "char": "宇",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "車",
+        "isNode": true
+      },
+      {
+        "char": "宇",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "輪",
+    "id": "577",
+    "strokes": 9,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "kaos2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=輪"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "軸",
+          "isNode": true
+        },
+        "second": {
+          "char": "車",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "軸",
+        "isNode": true
+      },
+      {
+        "char": "車",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "累",
+    "id": "578",
+    "strokes": 12,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "wil1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=累"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "多",
+          "isNode": true
+        },
+        "second": {
+          "char": "土",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "多",
+        "isNode": true
+      },
+      {
+        "char": "土",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "磁",
+    "id": "579",
+    "strokes": 19,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "vuol2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=磁"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "石",
+          "isNode": true
+        },
+        "second": {
+          "char": "纏",
+          "isNode": true
+        },
+        "type": "s",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "石",
+        "isNode": true
+      },
+      {
+        "char": "纏",
         "isNode": true
       }
     ],
