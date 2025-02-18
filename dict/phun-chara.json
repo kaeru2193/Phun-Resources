@@ -6772,7 +6772,7 @@
   {
     "chara": "材",
     "id": "131",
-    "strokes": 5,
+    "strokes": 8,
     "radical": "-",
     "langs": {
       "pn": {
@@ -6797,8 +6797,7 @@
         },
         "second": {
           "char": "糸",
-          "isNode": true,
-          "modify": "L"
+          "isNode": true
         },
         "type": "s",
         "isNode": false
@@ -6813,8 +6812,7 @@
       },
       {
         "char": "糸",
-        "isNode": true,
-        "modify": "L"
+        "isNode": true
       }
     ],
     "support": [
@@ -7781,7 +7779,7 @@
   {
     "chara": "長",
     "id": "150",
-    "strokes": 6,
+    "strokes": 9,
     "radical": "-",
     "langs": {
       "pn": {
@@ -7806,8 +7804,7 @@
         },
         "second": {
           "char": "糸",
-          "isNode": true,
-          "modify": "L"
+          "isNode": true
         },
         "type": "g",
         "isNode": false
@@ -7822,8 +7819,7 @@
       },
       {
         "char": "糸",
-        "isNode": true,
-        "modify": "L"
+        "isNode": true
       }
     ],
     "support": [
@@ -13507,7 +13503,7 @@
   {
     "chara": "杖",
     "id": "259",
-    "strokes": 10,
+    "strokes": 13,
     "radical": "-",
     "langs": {
       "pn": {
@@ -17781,7 +17777,7 @@
   {
     "chara": "腕",
     "id": "338",
-    "strokes": 10,
+    "strokes": 13,
     "radical": "-",
     "langs": {
       "pn": {
@@ -25413,7 +25409,7 @@
   {
     "chara": "蔓",
     "id": "484",
-    "strokes": 9,
+    "strokes": 12,
     "radical": "-",
     "langs": {
       "pn": {
@@ -29911,6 +29907,321 @@
       },
       {
         "char": "纏",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "引",
+    "id": "580",
+    "strokes": 13,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "te3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=引"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "馬",
+          "isNode": true
+        },
+        "second": {
+          "char": "手",
+          "isNode": true
+        },
+        "type": "s",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "馬",
+        "isNode": true
+      },
+      {
+        "char": "手",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "釘",
+    "id": "581",
+    "strokes": 12,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "hong2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=釘"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "箔",
+          "isNode": true
+        },
+        "second": {
+          "char": "矢",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "箔",
+        "isNode": true
+      },
+      {
+        "char": "矢",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "沙",
+    "id": "582",
+    "strokes": 10,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "fum1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=沙"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "石",
+          "isNode": true
+        },
+        "second": {
+          "char": "気",
+          "isNode": true
+        },
+        "type": "s",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "石",
+        "isNode": true
+      },
+      {
+        "char": "気",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "様",
+    "id": "583",
+    "strokes": 12,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "jom3",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=様"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "黒",
+          "isNode": true
+        },
+        "second": {
+          "char": "顔",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "黒",
+        "isNode": true
+      },
+      {
+        "char": "顔",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "士",
+    "id": "584",
+    "strokes": 5,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "la2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=士"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "人",
+          "isNode": true
+        },
+        "second": {
+          "char": "可",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "人",
+        "isNode": true
+      },
+      {
+        "char": "可",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "唔",
+    "id": "585",
+    "strokes": 9,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "um2",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=唔"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "口",
+          "isNode": true
+        },
+        "second": {
+          "char": "和",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "口",
+        "isNode": true
+      },
+      {
+        "char": "和",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "標",
+    "id": "586",
+    "strokes": 7,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "xaon1",
+        "mean": "リンク先を参照。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=標"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "木",
+          "isNode": true
+        },
+        "second": {
+          "char": "刃",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "木",
+        "isNode": true
+      },
+      {
+        "char": "刃",
         "isNode": true
       }
     ],
