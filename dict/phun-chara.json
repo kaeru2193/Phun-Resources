@@ -57,7 +57,7 @@
     "langs": {
       "pn": {
         "pron": "nai2",
-        "mean": "〈名詞〉力。パワー。エネルギー。",
+        "mean": "〈名詞〉力。パワー。エネルギー。◆[力]は物体や人を動かす力やエネルギー、[能]は人物の力量や能力を指すものとして使い分けられるため注意。例えば[落力]は物に働く力なので[力]を用いるが、[目能]は人が持つ能力であるため[能]が用いられる。",
         "links": [
           {
             "name": "雰和辞典",
@@ -852,7 +852,7 @@
     "langs": {
       "pn": {
         "pron": "cai1",
-        "mean": "〈名詞〉草。植物。雑草。◆地面から生える短い植物の総称。",
+        "mean": "〈名詞〉草。植物。雑草。◆地面から生える短い植物の総称。食用になる植物は[菜]で表される。",
         "links": [
           {
             "name": "雰和辞典",
@@ -2550,7 +2550,7 @@
     "langs": {
       "pn": {
         "pron": "gaing2",
-        "mean": "〈名詞〉今。現在。\n〈副詞〉今すぐに。ちょうど今。",
+        "mean": "〈名詞〉今。現在。◆時間軸上で、話者が存在するその時点。\n〈副詞〉今すぐに。ちょうど今。",
         "links": [
           {
             "name": "雰和辞典",
@@ -2726,7 +2726,7 @@
     "langs": {
       "pn": {
         "pron": "xo2",
-        "mean": "〈名詞〉神。",
+        "mean": "〈名詞〉神。◆特別な力を持つ、超自然的な存在。信仰の対象となっていることも多い。",
         "links": [
           {
             "name": "雰和辞典",
@@ -3725,7 +3725,7 @@
     "langs": {
       "pn": {
         "pron": "sing1",
-        "mean": "〈名詞〉 ㊀気体。ガス。目に見えない、空間を満たしているもの。 ㊁陽教の五元素の一つ。 ㊂原子番号7(N)の略称。",
+        "mean": "〈名詞〉 ㊀空気。エアー。大気。気体。ガス。◆目に見えない、空間を満たしている気体。「大気」という意味では[気風]も多く用いられる。 ㊁陽教の五元素の一つ。 ㊂原子番号7(N)の略称。",
         "links": [
           {
             "name": "雰和辞典",
@@ -6611,7 +6611,7 @@
     "langs": {
       "pn": {
         "pron": "pel1",
-        "mean": "〈不及動詞〉回転する。回る。◆コマのように軸を中心に回る運動を指す。\n〈接続詞〉逆接。しかし。が。\n〈副詞〉 ㊀また。再び。何度目かの。 ㊁何度も。何回も。再三。",
+        "mean": "〈不及動詞〉回転する。回る。◆コマのように軸を中心に回る運動を指す。\n〈接続詞〉逆接。しかし。が。\n〈副詞〉何度も。何回も。再三。",
         "links": [
           {
             "name": "雰和辞典",
@@ -7824,7 +7824,6 @@
     ],
     "support": [
       "pwrite",
-      "psans",
       "pdot"
     ]
   },
@@ -8831,7 +8830,6 @@
     ],
     "support": [
       "pwrite",
-      "psans",
       "pdot"
     ]
   },
@@ -9133,7 +9131,7 @@
     "langs": {
       "pn": {
         "pron": "ail1",
-        "mean": "〈副詞〉～できる。可能を表す。",
+        "mean": "〈副詞〉～できる。～可能である。◆可能を表す文法的副詞。\n〈造語成分〉力。能力。スキル。力量。才能。",
         "links": [
           {
             "name": "雰和辞典",
@@ -9809,7 +9807,7 @@
     "langs": {
       "pn": {
         "pron": "waing1",
-        "mean": "〈形容詞〉人が少ない。無人の。閑静な。静かな。◆人気がない様子を指す。\n〈不及動詞〉離れる。散る。遠ざかる。解散する。◆[遠]が対象から遠くに移動することを指すのに対し、[僻]は集団がまとまりを失い細かく分かれることを指す。また[散]は物体を広い範囲に散りばめることを指す。",
+        "mean": "〈形容詞〉人が少ない。無人の。閑静な。静かな。◆人気がない様子を指す。\n〈不及動詞〉離れる。散る。遠ざかる。解散する。別れる。隔たる。バラバラになる。◆[遠]が対象から遠くに移動することを指すのに対し、[僻]は集団がまとまりを失い細かく分かれることを指す。また[散]は物体を広い範囲に散りばめることを指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -13558,7 +13556,6 @@
     ],
     "support": [
       "pwrite",
-      "psans",
       "pdot"
     ]
   },
@@ -16192,7 +16189,7 @@
     "langs": {
       "pn": {
         "pron": "cuo1",
-        "mean": "〈副詞〉～させる。使役。",
+        "mean": "〈副詞〉[S が 於 に V] させる。～を強制する。するように命じる。◆使役を表す文法的副詞。",
         "links": [
           {
             "name": "雰和辞典",
@@ -17822,7 +17819,6 @@
     ],
     "support": [
       "pwrite",
-      "psans",
       "pdot"
     ]
   },
@@ -18722,7 +18718,7 @@
     "langs": {
       "pn": {
         "pron": "lao2",
-        "mean": "〈名詞〉 ㊀モンスター。怪物。人間に害を与える空想上の生物。 ㊁悪人などを形容して言う言葉。",
+        "mean": "〈名詞〉 ㊀モンスター。怪物。鬼。魔物。◆人間に害を与える空想上の生物。 ㊁悪人などを形容して言う言葉。",
         "links": [
           {
             "name": "雰和辞典",
@@ -20958,7 +20954,7 @@
     "langs": {
       "pn": {
         "pron": "we1",
-        "mean": "〈不及動詞〉動く。移動する。",
+        "mean": "〈不及動詞〉動く。移動する。◆[腕]が機械や身体などを意のままに動かすことを指すのに対して、[動]は物体を運んで位置を移動させることを指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -21233,7 +21229,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21284,7 +21281,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21335,7 +21333,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21386,7 +21385,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21437,7 +21437,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21488,7 +21489,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21551,7 +21553,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21614,7 +21617,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21667,7 +21671,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21728,7 +21733,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21789,7 +21795,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21840,7 +21847,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -21882,7 +21890,7 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "pdot"
     ]
   },
   {
@@ -21933,7 +21941,7 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "pdot"
     ]
   },
   {
@@ -21986,7 +21994,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22037,7 +22046,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22088,7 +22098,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22141,7 +22152,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22194,7 +22206,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22247,7 +22260,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22286,7 +22300,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22337,7 +22352,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22389,7 +22405,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22440,7 +22457,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22505,7 +22523,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22558,7 +22577,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22611,7 +22631,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22659,7 +22680,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22710,7 +22732,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22773,7 +22796,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22834,7 +22858,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22885,7 +22910,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22936,7 +22962,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -22987,7 +23014,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23030,7 +23058,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23070,7 +23099,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23121,7 +23151,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23132,7 +23163,7 @@
     "langs": {
       "pn": {
         "pron": "su3",
-        "mean": "〈副詞〉最も。一番。最上表現。\n〈形容詞〉トップの。最高の。最上の。",
+        "mean": "〈副詞〉最も。一番。最上表現。\n〈形容詞〉トップの。最高の。最上の。てっぺんの。",
         "links": [
           {
             "name": "雰和辞典",
@@ -23174,7 +23205,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23237,7 +23269,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23275,7 +23308,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23313,7 +23347,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23364,7 +23399,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23402,7 +23438,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23453,7 +23490,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23504,7 +23542,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23557,7 +23596,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23610,7 +23650,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23661,7 +23702,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23712,7 +23754,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23763,7 +23806,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23816,7 +23860,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23856,7 +23901,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23907,7 +23953,8 @@
     ],
     "support": [
       "pwrite",
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -23957,7 +24004,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24007,7 +24055,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24057,7 +24106,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24096,7 +24146,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24146,7 +24197,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24198,7 +24250,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24262,7 +24315,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24312,7 +24366,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24364,7 +24419,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24414,7 +24470,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24451,7 +24508,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24500,7 +24558,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24562,7 +24621,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24612,7 +24672,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24654,7 +24715,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24706,7 +24768,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24758,7 +24821,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24808,7 +24872,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24858,7 +24923,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24908,7 +24974,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -24958,7 +25025,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25008,7 +25076,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25058,7 +25127,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25110,7 +25180,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25162,7 +25233,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25212,7 +25284,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25264,7 +25337,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25303,7 +25377,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25353,7 +25428,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25403,7 +25479,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25453,7 +25530,7 @@
       }
     ],
     "support": [
-      "psans"
+      "pdot"
     ]
   },
   {
@@ -25492,7 +25569,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25533,7 +25611,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25595,7 +25674,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25647,7 +25727,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25697,7 +25778,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25747,7 +25829,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25797,7 +25880,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25847,7 +25931,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25858,7 +25943,7 @@
     "langs": {
       "pn": {
         "pron": "xes1",
-        "mean": "〈及動詞〉組み立てる。組む。建てる。構築する。建築する。作る。◆複数の材料を物理的に組むことで何らかのものを作る作業を指す。",
+        "mean": "〈及動詞〉組み立てる。組む。建てる。構築する。建設する。作る。◆複数の材料を物理的に組むことで何らかのものを作る作業を指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -25897,7 +25982,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25947,7 +26033,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -25999,7 +26086,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26051,7 +26139,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26101,7 +26190,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26144,7 +26234,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26208,7 +26299,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26270,7 +26362,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26324,7 +26417,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26376,7 +26470,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26415,7 +26510,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26467,7 +26563,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26529,7 +26626,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26571,7 +26669,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26621,7 +26720,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26671,7 +26771,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26721,7 +26822,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26771,7 +26873,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26821,7 +26924,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26871,7 +26975,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26918,7 +27023,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -26956,7 +27062,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27005,7 +27112,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27052,7 +27160,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27115,7 +27224,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27162,7 +27272,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27209,7 +27320,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27244,7 +27356,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27291,7 +27404,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27338,7 +27452,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27385,7 +27500,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27432,7 +27548,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27481,7 +27598,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27528,7 +27646,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27575,7 +27694,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27622,7 +27742,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27669,7 +27790,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27680,7 +27802,7 @@
     "langs": {
       "pn": {
         "pron": "gong3",
-        "mean": "〈不及動詞〉閉じる。閉まる。止まる。◆これまで通れた部分が通れなくなることを指す。[包]のような密閉する意、[阻]のような邪魔する意、[止]のような動きを止める意は含まない。",
+        "mean": "〈不及動詞〉閉じる。閉まる。止まる。塞がる。◆これまで通れた部分が通れなくなることを指す。[包]のような密閉する意、[阻]のような邪魔する意、[止]のような動きを止める意は含まない。",
         "links": [
           {
             "name": "雰和辞典",
@@ -27718,7 +27840,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27765,7 +27888,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27812,7 +27936,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27859,7 +27984,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27906,7 +28032,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -27953,7 +28080,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28000,7 +28128,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28047,7 +28176,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28094,7 +28224,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28130,7 +28261,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28177,7 +28309,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28214,7 +28347,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28261,7 +28395,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28308,7 +28443,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28355,7 +28491,8 @@
       }
     ],
     "support": [
-      "psans"
+      "psans",
+      "pdot"
     ]
   },
   {
@@ -28401,7 +28538,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "路",
@@ -28446,7 +28585,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "幹",
@@ -28456,7 +28597,7 @@
     "langs": {
       "pn": {
         "pron": "von2",
-        "mean": "〈名詞〉 ㊀根本。基礎。主流。源。 ㊁幹。茎。\n〈形容詞〉本来の。大本の。源の。\n〈前置詞〉～に基づいて。～を基に。～に則って。～に従って。",
+        "mean": "〈名詞〉 ㊀根本。基礎。主流。源。起源。 ㊁幹。茎。\n〈形容詞〉本来の。大本の。源の。\n〈前置詞〉～に基づいて。～を基に。～に則って。～に従って。",
         "links": [
           {
             "name": "雰和辞典",
@@ -28491,7 +28632,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "律",
@@ -28536,7 +28679,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "泰",
@@ -28581,7 +28726,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "具",
@@ -28626,7 +28773,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "溢",
@@ -28671,7 +28820,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "且",
@@ -28718,7 +28869,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "飾",
@@ -28763,7 +28916,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "投",
@@ -28810,7 +28965,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "習",
@@ -28855,7 +29012,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "散",
@@ -28900,7 +29059,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "燧",
@@ -28947,7 +29108,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "墨",
@@ -28992,7 +29155,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "互",
@@ -29029,7 +29194,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "衝",
@@ -29074,7 +29241,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "撃",
@@ -29121,7 +29290,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "区",
@@ -29168,7 +29339,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "方",
@@ -29208,7 +29381,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "踏",
@@ -29253,7 +29428,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "凝",
@@ -29300,7 +29477,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "柱",
@@ -29345,7 +29524,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "枯",
@@ -29390,7 +29571,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "羊",
@@ -29430,7 +29613,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "馬",
@@ -29469,7 +29654,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "茸",
@@ -29514,7 +29701,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "垂",
@@ -29558,7 +29747,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "釣",
@@ -29603,7 +29794,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "灯",
@@ -29650,7 +29843,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "苗",
@@ -29685,7 +29880,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "曙",
@@ -29730,7 +29927,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "常",
@@ -29775,7 +29974,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "輪",
@@ -29820,7 +30021,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "累",
@@ -29865,7 +30068,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "磁",
@@ -29910,7 +30115,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "引",
@@ -29955,7 +30162,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "釘",
@@ -30000,7 +30209,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "沙",
@@ -30045,7 +30256,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "様",
@@ -30090,7 +30303,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "士",
@@ -30135,7 +30350,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "唔",
@@ -30180,7 +30397,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "標",
@@ -30225,7 +30444,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "斉",
@@ -30270,7 +30491,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "薄",
@@ -30315,7 +30538,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "勺",
@@ -30347,7 +30572,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "匙",
@@ -30392,7 +30619,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "許",
@@ -30437,7 +30666,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "選",
@@ -30484,7 +30715,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "跡",
@@ -30529,7 +30762,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "酔",
@@ -30574,7 +30809,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "城",
@@ -30621,7 +30858,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "勇",
@@ -30666,7 +30905,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "折",
@@ -30711,7 +30952,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "位",
@@ -30756,7 +30999,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "塵",
@@ -30801,7 +31046,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "畳",
@@ -30846,7 +31093,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "葱",
@@ -30891,7 +31140,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "哀",
@@ -30936,7 +31187,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "客",
@@ -30981,7 +31234,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "伏",
@@ -31018,7 +31273,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "夢",
@@ -31063,7 +31320,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "錯",
@@ -31108,7 +31367,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "埋",
@@ -31153,7 +31414,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "浸",
@@ -31198,7 +31461,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "愛",
@@ -31245,7 +31510,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "覚",
@@ -31290,7 +31557,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "癒",
@@ -31335,7 +31604,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "易",
@@ -31380,7 +31651,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "奨",
@@ -31427,7 +31700,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "育",
@@ -31437,7 +31712,7 @@
     "langs": {
       "pn": {
         "pron": "yun1",
-        "mean": "〈不及動詞〉育つ。大きくなる。成長する。発達する。成熟する。",
+        "mean": "〈不及動詞〉育つ。大きくなる。成長する。発達する。成熟する。◆日用語としては[育膨]が多く用いられる。",
         "links": [
           {
             "name": "雰和辞典",
@@ -31472,7 +31747,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "唱",
@@ -31514,6 +31791,325 @@
       },
       {
         "char": "祈",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "檻",
+    "id": "616",
+    "strokes": 16,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "wo2",
+        "mean": "〈名詞〉檻。かご。囲い。ケージ。箱。◆動物や人間が逃げないように入れておく箱や部屋。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=檻"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "箔",
+          "isNode": true
+        },
+        "second": {
+          "char": "囲",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "箔",
+        "isNode": true
+      },
+      {
+        "char": "囲",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "膨",
+    "id": "617",
+    "strokes": 10,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "nong1",
+        "mean": "〈不及動詞〉 ㊀膨らむ。大きくなる。広がる。膨れる。◆物体の体積や面積などが大きくなること。 ㊁増える。増す。増加する。加わる。◆物体の数量が増すこと。単に数字が増えることは[行上]で表され区別される。 ㊂腫れる。腫れ上がる。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=膨"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "食",
+          "isNode": true
+        },
+        "second": {
+          "char": "函",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "食",
+        "isNode": true
+      },
+      {
+        "char": "函",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "肺",
+    "id": "618",
+    "strokes": 14,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "se2",
+        "mean": "〈名詞〉肺。肺臓。ルンゲ。◆脊椎動物に存在する、呼吸によって酸素と二酸化炭素の交換を行うための器官。日用語としては[肺臓]が多く用いられる。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=肺"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "生",
+          "isNode": true
+        },
+        "second": {
+          "char": "膨",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "生",
+        "isNode": true
+      },
+      {
+        "char": "膨",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "撮",
+    "id": "619",
+    "strokes": 13,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "cao1",
+        "mean": "〈及動詞〉つまむ。つまみとる。摘む。拾い上げる。取る。挟む。◆指でものを挟んだり、それを持ち上げて取る動作。\n〈不及動詞〉[S が 於 に] 触れる。触る。タッチする。接触する。◆元は「指でつつく」という意味から派生した用法であるが、現代では指に限らず体や物体が接触する行為の全般を指す。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=撮"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "手",
+          "isNode": true,
+          "modify": "L"
+        },
+        "second": {
+          "char": "沙",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "手",
+        "isNode": true,
+        "modify": "L"
+      },
+      {
+        "char": "沙",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "霊",
+    "id": "620",
+    "strokes": 10,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "duom2",
+        "mean": "〈名詞〉精霊。幽霊。魂。霊魂。心霊。お化け。◆文脈によって様々な意味を持つが、大方[神]は特別な力を持つ人智を超えた対象を指すのに対し、[霊]は死者の霊や妖怪、怪奇現象など、目に見えない超自然的な存在の全てを指す。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=霊"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "死",
+          "isNode": true
+        },
+        "second": {
+          "char": "神",
+          "isNode": true
+        },
+        "type": "s",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "死",
+        "isNode": true
+      },
+      {
+        "char": "神",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "臣",
+    "id": "621",
+    "strokes": 14,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "ze2",
+        "mean": "〈名詞〉家来。臣下。部下。召使い。下僕。従者。◆地位が高い人や権力を持つ人に仕える者を全般的に指す。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=臣"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "王",
+          "isNode": true
+        },
+        "second": {
+          "char": "周",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "王",
+        "isNode": true
+      },
+      {
+        "char": "周",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "昴",
+    "id": "622",
+    "strokes": 8,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "som2",
+        "mean": "〈名詞〉タローア星団。タロア星団。鼎昴。かなえすばる。◆永球の空に見られる散開星団であり、特に明るい三つを中心とした数十の恒星からなる。永球では古くから知られており、各地の神話や伝説に広く登場する。便宜上漢字転写は「昴」が当てられているが、本来の字義とは異なるので注意。日用語としては[昴天集]が多く用いられる。\n〈造語成分〉三～。三つの～。鼎。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=昴"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "和",
+          "isNode": true
+        },
+        "second": {
+          "char": "天",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "和",
+        "isNode": true
+      },
+      {
+        "char": "天",
         "isNode": true
       }
     ],

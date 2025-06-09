@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2025-05-18T06:39:07.326Z",
+  "date": "2025-06-09T12:42:59.139Z",
   "data": [
     {
       "word": "人",
@@ -59,7 +59,8 @@
           "explanation": [
             {
               "translate": "力。パワー。エネルギー。",
-              "tag": []
+              "tag": [],
+              "meaning": "[力]は物体や人を動かす力やエネルギー、[能]は人物の力量や能力を指すものとして使い分けられるため注意。例えば[落力]は物に働く力なので[力]を用いるが、[目能]は人が持つ能力であるため[能]が用いられる。"
             }
           ]
         }
@@ -610,7 +611,7 @@
             {
               "translate": "草。植物。雑草。",
               "tag": [],
-              "meaning": "地面から生える短い植物の総称。"
+              "meaning": "地面から生える短い植物の総称。食用になる植物は[菜]で表される。"
             }
           ]
         }
@@ -724,6 +725,27 @@
       "latinPron": "vás",
       "weqo": "vaS",
       "num": "20"
+    },
+    {
+      "word": "天集",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "星団。",
+              "tag": [],
+              "meaning": "狭い範囲に多くの恒星が集まった構造物。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βas˥.naim˨/",
+      "pron": "vas1 naim2",
+      "latinPron": "vásnàim",
+      "weqo": "vaS nE2M",
+      "num": "-"
     },
     {
       "word": "天京",
@@ -1858,6 +1880,12 @@
               "tag": [],
               "hidden": "上げる。",
               "meaning": "上方向に移動することを指す。"
+            },
+            {
+              "translate": "増える。増す。増加する。加わる。",
+              "tag": [],
+              "hidden": "増やす。加える。",
+              "meaning": "数値が大きくなること。[膨]が物体の量が増えることを指すのに対し、[行上]はカウンターの表示や割合などの単なる数字が増えることを指す。"
             }
           ]
         }
@@ -2516,6 +2544,27 @@
       "num": "44"
     },
     {
+      "word": "互目",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "[S が 伴 と] 会う。出会う。対面する。遭遇する。面会する。",
+              "tag": [],
+              "meaning": "複数人が同じ場所に集まって顔を合わせる行為。事前に予定していたかどうかは含意しない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bal˥˧.kɛ˥/",
+      "pron": "bal3 ke1",
+      "latinPron": "bâlké",
+      "weqo": "ba3L ke",
+      "num": "-"
+    },
+    {
       "word": "之",
       "mean": [
         {
@@ -3056,7 +3105,8 @@
           "explanation": [
             {
               "translate": "今。現在。",
-              "tag": []
+              "tag": [],
+              "meaning": "時間軸上で、話者が存在するその時点。"
             }
           ]
         },
@@ -3263,7 +3313,8 @@
           "explanation": [
             {
               "translate": "神。",
-              "tag": []
+              "tag": [],
+              "meaning": "特別な力を持つ、超自然的な存在。信仰の対象となっていることも多い。"
             }
           ]
         }
@@ -3273,7 +3324,15 @@
       "pron": "xo2",
       "latinPron": "xò",
       "weqo": "xo2",
-      "num": "54"
+      "num": "54",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "霊*"
+          ]
+        }
+      ]
     },
     {
       "word": "雨",
@@ -4429,8 +4488,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "気体。ガス。目に見えない、空間を満たしているもの。",
-              "tag": []
+              "translate": "空気。エアー。大気。気体。ガス。",
+              "tag": [],
+              "meaning": "目に見えない、空間を満たしている気体。「大気」という意味では[気風]も多く用いられる。"
             },
             {
               "translate": "陽教の五元素の一つ。",
@@ -4449,6 +4509,90 @@
       "latinPron": "síng",
       "weqo": "siG",
       "num": "73"
+    },
+    {
+      "word": "気風",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "空気。大気。エアー。",
+              "tag": [],
+              "meaning": "地上の空間を満たしている呼吸可能な気体。永球においては海面上でおよそ1.05気圧に保たれている。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/siŋ˥.tɛm˥˧/",
+      "pron": "sing1 tem3",
+      "latinPron": "síngtêm",
+      "weqo": "siG te3M",
+      "num": "-"
+    },
+    {
+      "word": "圧位",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "圧力。プレッシャー。",
+              "tag": [],
+              "meaning": "単位面積あたりに掛かる力を表す物理量。力を面積で割って算出される。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɯ˥.dɯn˨/",
+      "pron": "mu1 dun2",
+      "latinPron": "múdùn",
+      "weqo": "mu du2N",
+      "num": "-"
+    },
+    {
+      "word": "気圧位",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "気圧。大気圧。気体の圧力。",
+              "tag": [],
+              "meaning": "圧力のうち、特に気体によるもの。大気圧を指すことも多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/siŋ˥.mɯ˥.dɯn˨/",
+      "pron": "sing1 mu1 dun2",
+      "latinPron": "síngmúdùn",
+      "weqo": "siG mu du2N",
+      "num": "-"
+    },
+    {
+      "word": "水圧位",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "水圧。液体の圧力。",
+              "tag": [],
+              "meaning": "圧力のうち、特に水によるもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/so˥˧.mɯ˥.dɯn˨/",
+      "pron": "so3 mu1 dun2",
+      "latinPron": "sô'múdùn",
+      "weqo": "so3 mu du2N",
+      "num": "-"
     },
     {
       "word": "気思",
@@ -5718,6 +5862,27 @@
       "latinPron": "qô",
       "weqo": "qo3",
       "num": "95"
+    },
+    {
+      "word": "羅字",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "熟語。連語。句。",
+              "tag": [],
+              "meaning": "複数の雰字からなる単語。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gan˨.t͡ʃo˥˧/",
+      "pron": "gan2 qo3",
+      "latinPron": "gànqô",
+      "weqo": "ga2N qo3",
+      "num": "-"
     },
     {
       "word": "名字",
@@ -7984,12 +8149,12 @@
           "explanation": [
             {
               "translate": "社会。人々が活動を行うための集団。",
-              "tag": [],
-              "meaning": "主にインターネット上で、特定の趣味や業界などに関係する人々を指して言う。"
+              "tag": []
             },
             {
               "translate": "コミュニティ。界隈。派閥。",
-              "tag": []
+              "tag": [],
+              "meaning": "主にインターネット上で、特定の趣味や業界などに関係する人々を指して言う。"
             }
           ]
         }
@@ -8619,6 +8784,34 @@
       ]
     },
     {
+      "word": "獣昆",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "動物。アニマル。獣。鳥獣。生き物。",
+              "tag": [],
+              "meaning": "日用語としての用法では文脈によって指す対象の幅が大きく変わるが、概ね[獣]より広く[活体]より広い範囲の生物、脊椎動物から魚を除いた範囲を指すことが多い。"
+            },
+            {
+              "translate": "動物。動物界。",
+              "tag": [
+                "生"
+              ],
+              "meaning": "運動器官を持ち、他の生物が持つ有機物を取り込んで生きる全ての生物。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jol˥.t͡ʃi˥/",
+      "pron": "yol1 qi1",
+      "latinPron": "yólqí",
+      "weqo": "yoL qi",
+      "num": "-"
+    },
+    {
       "word": "奶獣",
       "mean": [
         {
@@ -8849,10 +9042,6 @@
           "type": "副詞",
           "explanation": [
             {
-              "translate": "また。再び。何度目かの。",
-              "tag": []
-            },
-            {
               "translate": "何度も。何回も。再三。",
               "tag": []
             }
@@ -8873,6 +9062,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "回生",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "復活する。蘇る。生まれ変わる。再生する。転生する。",
+              "tag": [],
+              "meaning": "一度死んだり滅んだりしたものが、再び実体を得て現れること。元の状態そのままで復活するか、完全に新しい肉体を得て復活するかは含意しない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɛl˥.zai˥˧/",
+      "pron": "pel1 zai3",
+      "latinPron": "pélzâi",
+      "weqo": "peL zE3",
+      "num": "-"
     },
     {
       "word": "常則",
@@ -9821,6 +10031,27 @@
       "num": "-"
     },
     {
+      "word": "幹基粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "素粒子。基本粒子。",
+              "tag": [],
+              "meaning": "原子より小さい単位で、物質を構成する最小の粒子。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βon˨.lɛn˥.dɯol˨/",
+      "pron": "von2 len1 duol2",
+      "latinPron": "vònléndùol",
+      "weqo": "vo2N leN dU2L",
+      "num": "-"
+    },
+    {
       "word": "架粒",
       "mean": [
         {
@@ -9957,7 +10188,7 @@
       "num": "-"
     },
     {
-      "word": "水粒",
+      "word": "基粒",
       "mean": [
         {
           "type": "名詞",
@@ -9972,10 +10203,10 @@
         }
       ],
       "append": [],
-      "ipa": "/so˥˧.dɯol˨/",
-      "pron": "so3 duol2",
-      "latinPron": "sôdùol",
-      "weqo": "so3 dU2L",
+      "ipa": "/lɛn˥.dɯol˨/",
+      "pron": "len1 duol2",
+      "latinPron": "léndùol",
+      "weqo": "leN dU2L",
       "num": "-"
     },
     {
@@ -11577,6 +11808,27 @@
       "num": "171"
     },
     {
+      "word": "隣糊",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "密着する。くっつく。密接する。",
+              "tag": [],
+              "meaning": "物と物が触れ合うほど近くに寄っている様子を指す。互いに押し合っているかなどは含意しない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mo˨.aom˥/",
+      "pron": "mo2 aom1",
+      "latinPron": "mòáom",
+      "weqo": "mo2 OM",
+      "num": "-"
+    },
+    {
       "word": "少隣",
       "mean": [
         {
@@ -11730,7 +11982,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "機能。技能。力量。性能。",
+              "translate": "機能。技能。力量。能力。性能。",
               "tag": []
             }
           ]
@@ -11865,6 +12117,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "画士",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "画家。絵師。イラストレーター。画伯。",
+              "tag": [],
+              "meaning": "絵を描くことを仕事にしている人。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃao˥˧.la˨/",
+      "pron": "xao3 la2",
+      "latinPron": "xâo'là",
+      "weqo": "xO3 la2",
+      "num": "-"
     },
     {
       "word": "画出",
@@ -12036,7 +12309,17 @@
           "type": "副詞",
           "explanation": [
             {
-              "translate": "～できる。可能を表す。",
+              "translate": "～できる。～可能である。",
+              "tag": [],
+              "meaning": "可能を表す文法的副詞。"
+            }
+          ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
+            {
+              "translate": "力。能力。スキル。力量。才能。",
               "tag": []
             }
           ]
@@ -12047,7 +12330,123 @@
       "pron": "ail1",
       "latinPron": "áil",
       "weqo": "EL",
-      "num": "175"
+      "num": "175",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "力*"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "透仙",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "（物事が）素晴らしい。輝かしい。素敵な。ものすごい。凄い。",
+              "tag": []
+            },
+            {
+              "translate": "（人が）天才的な。才能に溢れた。類稀な。",
+              "tag": [],
+              "meaning": "他に並ぶものが無いほど並外れた様子。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/li˥.taiŋ˥˧/",
+      "pron": "li1 taing3",
+      "latinPron": "lítâing",
+      "weqo": "li tE3G",
+      "num": "-"
+    },
+    {
+      "word": "透仙人",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "天才。秀才。逸材。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/li˥.taiŋ˥˧.ha˥/",
+      "pron": "li1 taing3 ha1",
+      "latinPron": "lítâinghá",
+      "weqo": "li tE3G ha",
+      "num": "-"
+    },
+    {
+      "word": "基能",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "才能。センス。才覚。素質。地頭。底力。",
+              "tag": [],
+              "meaning": "後天的な練習や勉強に関係なく発揮できる、生まれ持った能力や技術。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɛn˥.ail˥/",
+      "pron": "len1 ail1",
+      "latinPron": "lén'áil",
+      "weqo": "leN EL",
+      "num": "-"
+    },
+    {
+      "word": "目能",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "視力。目の良さ。",
+              "tag": [],
+              "meaning": "「目が良い」といった表現では形容詞[大]を用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɛ˥.ail˥/",
+      "pron": "ke1 ail1",
+      "latinPron": "kéáil",
+      "weqo": "ke EL",
+      "num": "-"
+    },
+    {
+      "word": "耳能",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "聴力。耳の良さ。",
+              "tag": [],
+              "meaning": "「耳が良い」といった表現では形容詞[大]を用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɛ˨.ail˥/",
+      "pron": "me2 ail1",
+      "latinPron": "mèáil",
+      "weqo": "me2 EL",
+      "num": "-"
     },
     {
       "word": "透",
@@ -12410,6 +12809,26 @@
       ]
     },
     {
+      "word": "廻追",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "再び。また。再度。改めて。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸaŋ˥.jɯon˨/",
+      "pron": "fang1 yuon2",
+      "latinPron": "fángyùon",
+      "weqo": "faG yU2N",
+      "num": "-"
+    },
+    {
       "word": "圧",
       "mean": [
         {
@@ -12556,9 +12975,9 @@
           "type": "不及動詞",
           "explanation": [
             {
-              "translate": "離れる。散る。遠ざかる。解散する。",
+              "translate": "離れる。散る。遠ざかる。解散する。別れる。隔たる。バラバラになる。",
               "tag": [],
-              "hidden": "遠ざける。",
+              "hidden": "遠ざける。隔てる。分ける。",
               "meaning": "[遠]が対象から遠くに移動することを指すのに対し、[僻]は集団がまとまりを失い細かく分かれることを指す。また[散]は物体を広い範囲に散りばめることを指す。"
             }
           ]
@@ -13540,8 +13959,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "メガネ。グラス。眼鏡。",
-              "tag": []
+              "translate": "メガネ。グラス。眼鏡。めがね。",
+              "tag": [],
+              "meaning": "レンズによって視力を矯正する器具。"
             }
           ]
         }
@@ -13551,7 +13971,44 @@
       "pron": "ke1 ja1",
       "latinPron": "kéjá",
       "weqo": "ke ja",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "隣糊目瑠"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "隣糊目瑠",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "コンタクトレンズ。コンタクト。",
+              "tag": [],
+              "meaning": "目に直接被せて使用する視力矯正のための器具。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mo˨.aom˥.kɛ˥.d͡ʒa˥/",
+      "pron": "mo2 aom1 ke1 ja1",
+      "latinPron": "mòáomkéjá",
+      "weqo": "mo2 OM ke ja",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "目瑠"
+          ]
+        }
+      ]
     },
     {
       "word": "泡",
@@ -14229,7 +14686,15 @@
       "pron": "za2",
       "latinPron": "zà",
       "weqo": "za2",
-      "num": "224"
+      "num": "224",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "膨"
+          ]
+        }
+      ]
     },
     {
       "word": "乳痘",
@@ -14238,7 +14703,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "にきび。",
+              "translate": "にきび。吹き出物。",
               "tag": []
             }
           ]
@@ -19918,6 +20383,26 @@
       "num": "304"
     },
     {
+      "word": "据魂",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "[S が 在 を] 知覚する。実感する。感じ取る。感知する。感じる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mo˥.nɯm˨/",
+      "pron": "mo1 num2",
+      "latinPron": "mó'nùm",
+      "weqo": "mo nu2M",
+      "num": "-"
+    },
+    {
       "word": "真居",
       "mean": [
         {
@@ -19997,6 +20482,90 @@
       "latinPron": "cùng",
       "weqo": "cu2G",
       "num": "305"
+    },
+    {
+      "word": "血粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "血球。血液細胞。",
+              "tag": [],
+              "meaning": "血液中に存在する白血球・赤血球・血小板の総称。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sɯŋ˨˦.dɯol˨/",
+      "pron": "cung2 duol2",
+      "latinPron": "cùngdùol",
+      "weqo": "cu2G dU2L",
+      "num": "-"
+    },
+    {
+      "word": "珠血粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "赤血球。",
+              "tag": [],
+              "meaning": "酸素を運ぶ血球の一種。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯan˨˦.t͡sɯŋ˨˦.dɯol˨/",
+      "pron": "juan2 cung2 duol2",
+      "latinPron": "jùancùngdùol",
+      "weqo": "jA2N cu2G dU2L",
+      "num": "-"
+    },
+    {
+      "word": "白血粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "白血球。",
+              "tag": [],
+              "meaning": "病原体の排除などを行う血球の一種。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kaiŋ˨˦.t͡sɯŋ˨˦.dɯol˨/",
+      "pron": "kaing2 cung2 duol2",
+      "latinPron": "kàingcùngdùol",
+      "weqo": "kE2G cu2G dU2L",
+      "num": "-"
+    },
+    {
+      "word": "閉血粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "血小板。",
+              "tag": [],
+              "meaning": "出血時に固まって止血する働きを持つ血球。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/goŋ˥˧.t͡sɯŋ˨˦.dɯol˨/",
+      "pron": "gong3 cung2 duol2",
+      "latinPron": "gôngcùngdùol",
+      "weqo": "go3G cu2G dU2L",
+      "num": "-"
     },
     {
       "word": "血果",
@@ -20166,8 +20735,9 @@
           "type": "副詞",
           "explanation": [
             {
-              "translate": "～させる。使役。",
-              "tag": []
+              "translate": "[S が 於 に V] させる。～を強制する。するように命じる。",
+              "tag": [],
+              "meaning": "使役を表す文法的副詞。"
             }
           ]
         }
@@ -20591,6 +21161,26 @@
       "latinPron": "jûa",
       "weqo": "jA3",
       "num": "315"
+    },
+    {
+      "word": "落力",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "重力。引力。グラビティ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯa˥˧.nai˨/",
+      "pron": "jua3 nai2",
+      "latinPron": "jûa'nài",
+      "weqo": "jA3 nE2",
+      "num": "-"
     },
     {
       "word": "跳目",
@@ -21445,6 +22035,26 @@
       "latinPron": "nòl",
       "weqo": "no2L",
       "num": "338"
+    },
+    {
+      "word": "腕脚",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "手足。四肢。両手両足。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nol˨.wo˥˧/",
+      "pron": "nol2 wo3",
+      "latinPron": "nòlwô",
+      "weqo": "no2L wo3",
+      "num": "-"
     },
     {
       "word": "腕車",
@@ -22319,8 +22929,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "モンスター。怪物。人間に害を与える空想上の生物。",
-              "tag": []
+              "translate": "モンスター。怪物。鬼。魔物。",
+              "tag": [],
+              "meaning": "人間に害を与える空想上の生物。"
             },
             {
               "translate": "悪人などを形容して言う言葉。",
@@ -22852,13 +23463,34 @@
       "num": "365"
     },
     {
+      "word": "庵癒",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "入院する。療養する。",
+              "tag": [],
+              "meaning": "病気の治療のために、病院などの施設に滞在して生活することを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃiŋ˥.hɯam˨/",
+      "pron": "xing1 huam2",
+      "latinPron": "xínghùam",
+      "weqo": "xiG hA2M",
+      "num": "-"
+    },
+    {
       "word": "眠庵",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "宿。ホテル。宿泊施設。",
+              "translate": "宿。ホテル。旅館。宿泊施設。",
               "tag": []
             }
           ]
@@ -22960,6 +23592,48 @@
       "pron": "vu2 vao3",
       "latinPron": "vùvâo",
       "weqo": "vu2 vO3",
+      "num": "-"
+    },
+    {
+      "word": "外天活体",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "宇宙人。エイリアン。異星人。地球外生命体。",
+              "tag": [],
+              "meaning": "永球の外に生息している生命の総称。雰界においても未だ想像上の存在であり、永球以外に由来する生命の存在が確認された事例はない。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hin˨.βas˥.βɯ˨.βao˥˧/",
+      "pron": "hin2 vas1 vu2 vao3",
+      "latinPron": "hìnvásvùvâo",
+      "weqo": "hi2N vaS vu2 vO3",
+      "num": "-"
+    },
+    {
+      "word": "外天飛機",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "UFO。未確認飛行物体。宇宙船。空飛ぶ円盤。",
+              "tag": [],
+              "meaning": "創作や都市伝説において、永球外から超自然現象や異星文明の力によって飛んでくる飛行物体の総称。厳密にはこの定義に当てはまらなくとも、同じく人智に理解不能な飛行存在をこう呼称することがある。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hin˨.βas˥.dail˨˦.ail˨/",
+      "pron": "hin2 vas1 dail2 ail2",
+      "latinPron": "hìnvásdàil'àil",
+      "weqo": "hi2N vaS dE2L E2L",
       "num": "-"
     },
     {
@@ -25434,7 +26108,8 @@
             {
               "translate": "動く。移動する。",
               "tag": [],
-              "hidden": "動かす。"
+              "hidden": "動かす。",
+              "meaning": "[腕]が機械や身体などを意のままに動かすことを指すのに対して、[動]は物体を運んで位置を移動させることを指す。"
             }
           ]
         }
@@ -25599,8 +26274,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "1以上の数。数のうち、物体の数として捉えられる集合。自然数。",
-              "tag": []
+              "translate": "自然数。",
+              "tag": [],
+              "meaning": "数のうち、物体の数として捉えられるもの。1以上の数を指すことが多い。"
             }
           ]
         }
@@ -27295,8 +27971,9 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "ちぎる。物体の一部に力を掛けて取り外す。",
-              "tag": []
+              "translate": "ちぎる。破る。ちぎり取る。",
+              "tag": [],
+              "meaning": "物体に力を掛けてその一部を取り外す動作。"
             }
           ]
         }
@@ -27306,7 +27983,15 @@
       "pron": "je3 pi1",
       "latinPron": "jêpí",
       "weqo": "je3 pi",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "撮取*"
+          ]
+        }
+      ]
     },
     {
       "word": "東",
@@ -28233,6 +28918,27 @@
       "num": "432"
     },
     {
+      "word": "倫季",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "好機。良い機会。良い頃合い。良いタイミング。チャンス。",
+              "tag": [],
+              "meaning": "人に何かを推奨したいときなどに「[之][為][倫季][向]～」というと柔らかい口調に聞こえるため、円滑なコミュニケーションのために是非覚えておきたい語である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɯo˨.βai˥˧/",
+      "pron": "tuo2 vai3",
+      "latinPron": "tùovâi",
+      "weqo": "tU2 vE3",
+      "num": "-"
+    },
+    {
       "word": "地季",
       "mean": [
         {
@@ -28527,7 +29233,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "トップの。最高の。最上の。",
+              "translate": "トップの。最高の。最上の。てっぺんの。",
               "tag": []
             }
           ]
@@ -29249,7 +29955,7 @@
           "type": "類語",
           "explanation": [
             "奨*",
-            "助力",
+            "与力",
             "有福"
           ]
         }
@@ -30346,7 +31052,7 @@
       "num": "-"
     },
     {
-      "word": "小砕天",
+      "word": "小砕遊天",
       "mean": [
         {
           "type": "名詞",
@@ -30359,20 +31065,20 @@
         }
       ],
       "append": [],
-      "ipa": "/jao˥.pao˥˧.βas˥/",
-      "pron": "yao1 pao3 vas1",
-      "latinPron": "yáopâovás",
-      "weqo": "yO pO3 vaS",
+      "ipa": "/jao˥.pao˥˧.dao˥.βas˥/",
+      "pron": "yao1 pao3 dao1 vas1",
+      "latinPron": "yáopâodáovás",
+      "weqo": "yO pO3 dO vaS",
       "num": "-"
     },
     {
-      "word": "砕天集",
+      "word": "砕遊天集",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "砕天集。灼陽系小惑星帯。",
+              "translate": "砕遊天集。灼陽系小惑星帯。",
               "tag": [],
               "meaning": "瀧星軌道と穀星軌道の中間に存在する、小惑星が多数集まった領域。太陽系の小惑星帯に相当する。"
             }
@@ -30380,10 +31086,10 @@
         }
       ],
       "append": [],
-      "ipa": "/pao˥˧.βas˥.naim˨/",
-      "pron": "pao3 vas1 naim2",
-      "latinPron": "pâovásnàim",
-      "weqo": "pO3 vaS nE2M",
+      "ipa": "/pao˥˧.dao˥.βas˥.naim˨/",
+      "pron": "pao3 dao1 vas1 naim2",
+      "latinPron": "pâodáovásnàim",
+      "weqo": "pO3 dO vaS nE2M",
       "num": "-"
     },
     {
@@ -30885,6 +31591,90 @@
           ]
         }
       ]
+    },
+    {
+      "word": "遠曰",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "通信する。やりとりする。文通する。伝える。",
+              "tag": [],
+              "meaning": "直接会話できない遠隔地にいる人々がコミュニケーションする行為の全般を指す。狼煙、手紙、電信、電話、オンラインチャットなどが含まれ、「二者が離れている」というニュアンスを強く含む。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sal˨.lɯa˥/",
+      "pron": "sal2 lua1",
+      "latinPron": "sàllúa",
+      "weqo": "sa2L lA",
+      "num": "-"
+    },
+    {
+      "word": "神臣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "天使。神の使い。精霊。",
+              "tag": [],
+              "meaning": "神と人間の中間に位置し、神の言葉を人間に伝える使い。ただし文脈となる宗教によっては意味が大きく変わるので注意。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃo˨˦.zɛ˨/",
+      "pron": "xo2 ze2",
+      "latinPron": "xòzè",
+      "weqo": "xo2 ze2",
+      "num": "-"
+    },
+    {
+      "word": "遠曰士",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "通信士。無線士。電信技士。",
+              "tag": [],
+              "meaning": "電信を初めとした無線通信によって、情報の伝達を行う者。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sal˨.lɯa˥.la˨/",
+      "pron": "sal2 lua1 la2",
+      "latinPron": "sàllúa'là",
+      "weqo": "sa2L lA la2",
+      "num": "-"
+    },
+    {
+      "word": "報兵",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "伝令。使い。使者。伝令使。メッセンジャー。",
+              "tag": [],
+              "meaning": "軍隊や政治などで、意思決定された内容を伝達する者。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯl˥˧.nal˥˧/",
+      "pron": "vul3 nal3",
+      "latinPron": "vûlnâl",
+      "weqo": "vu3L na3L",
+      "num": "-"
     },
     {
       "word": "上曰",
@@ -31647,6 +32437,27 @@
       "num": "480"
     },
     {
+      "word": "憶事",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "記憶。思い出。メモリー。",
+              "tag": [],
+              "meaning": "頭で記憶している内容。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɯl˨.gɛ˥˧/",
+      "pron": "mul2 ge3",
+      "latinPron": "mùlgê",
+      "weqo": "mu2L ge3",
+      "num": "-"
+    },
+    {
       "word": "憶顔",
       "mean": [
         {
@@ -31666,6 +32477,68 @@
       "latinPron": "mùlká",
       "weqo": "mu2L ka",
       "num": "-"
+    },
+    {
+      "word": "探憶",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "思い出す。思い返す。記憶を辿る。回想する。偲ぶ。",
+              "tag": [],
+              "meaning": "過去のことや忘れていたことを、記憶を辿って思い出そうと努力する行為。"
+            },
+            {
+              "translate": "（コンピューターが）ロードする。読み込む。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯŋ˥.mɯl˨/",
+      "pron": "ung1 mul2",
+      "latinPron": "úngmùl",
+      "weqo": "uG mu2L",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "憶覚"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "憶覚",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "思い出す。思い出される。想起する。記憶が甦る。彷彿とさせる。呼び覚ます。偲ばれる。",
+              "tag": [],
+              "meaning": "何かのきっかけで意図せず過去の記憶が思い起こされること。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mɯl˨˦.kai˨/",
+      "pron": "mul2 kai2",
+      "latinPron": "mùlkài",
+      "weqo": "mu2L kE2",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "探憶"
+          ]
+        }
+      ]
     },
     {
       "word": "以",
@@ -32243,23 +33116,14 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "チャディム。タコスやハンバーガーに似た、薄焼きのパンに肉などの具材を挟み込んだ料理。",
-              "tag": []
+              "translate": "チャディム。焼纏。",
+              "tag": [],
+              "meaning": "タコスやハンバーガーに似た、薄焼きのパンに肉などの具材を挟み込んだ料理。雰国では家庭的な料理として広く親しまれており、具材には多種多様なバリエーションが存在する。家の数だけ[焼纏]があるとも言われ、具の派閥によりしばしば論争の火種となる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "雰国では家庭的な料理として広く親しまれており、具材には多種多様なバリエーションが存在する。家の数だけ[焼纏]があるとも言われ、具の派閥によりしばしば論争の火種となる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/t͡ʃa˥.dim˥˧/",
       "pron": "qa1 dim3",
       "latinPron": "qádîm",
@@ -32270,7 +33134,7 @@
           "type": "関連語",
           "explanation": [
             "炸餐焼纏",
-            "好炸餐焼纏人"
+            "炸餐焼纏好人"
           ]
         }
       ]
@@ -32282,23 +33146,14 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "フォードルチャディム。揚げ物を挟んだチャディム。",
-              "tag": []
+              "translate": "フォードルチャディム。揚げ物チャディム。",
+              "tag": [],
+              "meaning": "揚げ物を挟んだチャディム。[焼纏]の中でもかなりの異端である。一度これを食べた者は二度と普通の[焼纏]に戻れなくなってしまうとされる。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "チャディムの中でもかなりの異端である。一度これを食べた者は二度と普通のチャディムに戻れなくなってしまうとされる。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɸo˨.dol˥˧.t͡ʃa˥.dim˥˧/",
       "pron": "fo2 dol3 qa1 dim3",
       "latinPron": "fòdôlqádîm",
@@ -32309,7 +33164,7 @@
           "type": "関連語",
           "explanation": [
             "焼纏",
-            "好炸餐焼纏人"
+            "炸餐焼纏好人"
           ]
         }
       ]
@@ -32321,23 +33176,14 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "フォードルチャディムを好んで食べる者。フォードルチャディム原理主義者。",
-              "tag": []
+              "translate": "フォードルチャディム原理主義者。炸餐焼纏原理主義者。",
+              "tag": [],
+              "meaning": "フォードルチャディムを好んで食べる者。普通の雰国民には敬遠される存在であり、雰国で[炸餐焼纏好人]であることを公言してしまえば、いきなり殴りかかられても文句は言えない。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "雰国民には敬遠される存在。雰国で[好炸餐焼纏人]であることを公言してしまえば、いきなり殴りかかられても文句は言えない。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/ɸo˨.dol˥˧.t͡ʃa˥.dim˥˧.ɛ˥˧.ha˥/",
       "pron": "fo2 dol3 qa1 dim3 e3 ha1",
       "latinPron": "fòdôlqádîm'êhá",
@@ -32537,7 +33383,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "組み立てる。組む。建てる。構築する。建築する。作る。",
+              "translate": "組み立てる。組む。建てる。構築する。建設する。作る。",
               "tag": [],
               "meaning": "複数の材料を物理的に組むことで何らかのものを作る作業を指す。"
             }
@@ -32550,6 +33396,27 @@
       "latinPron": "xés",
       "weqo": "xeS",
       "num": "493"
+    },
+    {
+      "word": "地建",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "建設する。工事する。建てる。建築する。",
+              "tag": [],
+              "meaning": "建物や道路、ダムなど、建造物を作る作業の全般を指す。一度作った建造物の補修や改築などの作業も含まれる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.ʃɛs˥/",
+      "pron": "ho3 xes1",
+      "latinPron": "hôxés",
+      "weqo": "ho3 xeS",
+      "num": "-"
     },
     {
       "word": "建材",
@@ -33175,6 +34042,27 @@
       "latinPron": "yâi",
       "weqo": "yE3",
       "num": "503"
+    },
+    {
+      "word": "函餐",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "弁当。ランチボックス。携行食。",
+              "tag": [],
+              "meaning": "持ち運びが簡単になるよう、箱などの容器に詰められた食品。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jai˥˧.dol˥˧/",
+      "pron": "yai3 dol3",
+      "latinPron": "yâidôl",
+      "weqo": "yE3 do3L",
+      "num": "-"
     },
     {
       "word": "函車",
@@ -35404,9 +36292,9 @@
           "type": "不及動詞",
           "explanation": [
             {
-              "translate": "閉じる。閉まる。止まる。",
+              "translate": "閉じる。閉まる。止まる。塞がる。",
               "tag": [],
-              "hidden": "閉める。封鎖する。閉鎖する。止める。",
+              "hidden": "閉める。封鎖する。閉鎖する。止める。塞ぐ。",
               "meaning": "これまで通れた部分が通れなくなることを指す。[包]のような密閉する意、[阻]のような邪魔する意、[止]のような動きを止める意は含まない。"
             }
           ]
@@ -35418,6 +36306,35 @@
       "latinPron": "gông",
       "weqo": "go3G",
       "num": "530"
+    },
+    {
+      "word": "閉道",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "通行止め。通行禁止。足止め。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "通行止めする。通行を規制する。足止めする。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/goŋ˥˧.gim˥/",
+      "pron": "gong3 gim1",
+      "latinPron": "gônggím",
+      "weqo": "go3G giM",
+      "num": "-"
     },
     {
       "word": "閉架",
@@ -37057,7 +37974,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "根本。基礎。主流。源。",
+              "translate": "根本。基礎。主流。源。起源。",
               "tag": []
             },
             {
@@ -37091,6 +38008,51 @@
       "latinPron": "vòn",
       "weqo": "vo2N",
       "num": "547"
+    },
+    {
+      "word": "上幹",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "祖先。先祖。始祖。",
+              "tag": []
+            },
+            {
+              "translate": "根源。起源。由来。来歴。由緒。",
+              "tag": [],
+              "meaning": "歴史的、また文化的な意味での起源。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/liŋ˥˧.βon˨/",
+      "pron": "ling3 von2",
+      "latinPron": "lîngvòn",
+      "weqo": "li3G vo2N",
+      "num": "-"
+    },
+    {
+      "word": "葉子",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "子孫。子どもたち。末裔。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɯa˥˧.gɯm˨/",
+      "pron": "pua3 gum2",
+      "latinPron": "pûagùm",
+      "weqo": "pA3 gu2M",
+      "num": "-"
     },
     {
       "word": "不幹",
@@ -37483,6 +38445,27 @@
       "pron": "vas1 gis1",
       "latinPron": "vásgís",
       "weqo": "vaS giS",
+      "num": "-"
+    },
+    {
+      "word": "暁天律",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "旭暦。暁旭紀元。",
+              "tag": [],
+              "meaning": "雰国で主に使われる紀年法であり、雰地域で最初の皇帝とされる暁旭の生年を元年とする。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mi˥.βas˥.gis˥/",
+      "pron": "mi1 vas1 gis1",
+      "latinPron": "mívásgís",
+      "weqo": "mi vaS giS",
       "num": "-"
     },
     {
@@ -38092,6 +39075,47 @@
       "latinPron": "fúas",
       "weqo": "fAS",
       "num": "555"
+    },
+    {
+      "word": "回習",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "復習する。再学習する。振り返る。おさらいする。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɛl˥.ɸɯas˥/",
+      "pron": "pel1 fuas1",
+      "latinPron": "pélfúas",
+      "weqo": "peL fAS",
+      "num": "-"
+    },
+    {
+      "word": "回習尋",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "練習問題。演習問題。ワーク。ドリル。小テスト。",
+              "tag": [],
+              "meaning": "知識を定着させるために取り組む問題、またそのような問題が多く収録された冊子を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/pɛl˥.ɸɯas˥.ɸɯ˨/",
+      "pron": "pel1 fuas1 fu2",
+      "latinPron": "pélfúasfù",
+      "weqo": "peL fAS fu2",
+      "num": "-"
     },
     {
       "word": "習帳",
@@ -42273,6 +43297,27 @@
       "num": "611"
     },
     {
+      "word": "癒字",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "訂正する。修正する。言い直す。書き直す。",
+              "tag": [],
+              "meaning": "言葉の誤りを直すこと。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯam˨.t͡ʃo˥˧/",
+      "pron": "huam2 qo3",
+      "latinPron": "hùamqô",
+      "weqo": "hA2M qo3",
+      "num": "-"
+    },
+    {
       "word": "癒家",
       "mean": [
         {
@@ -42536,7 +43581,8 @@
             {
               "translate": "育つ。大きくなる。成長する。発達する。成熟する。",
               "tag": [],
-              "hidden": "育てる。成長させる。育成する。栽培する。"
+              "hidden": "育てる。成長させる。育成する。栽培する。",
+              "meaning": "日用語としては[育膨]が多く用いられる。"
             }
           ]
         }
@@ -42630,6 +43676,659 @@
       "pron": "de2 kuo3",
       "latinPron": "dèkûo",
       "weqo": "de2 kU3",
+      "num": "-"
+    },
+    {
+      "word": "檻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "檻。かご。囲い。ケージ。箱。",
+              "tag": [],
+              "meaning": "動物や人間が逃げないように入れておく箱や部屋。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wo˨/",
+      "pron": "wo2",
+      "latinPron": "wò",
+      "weqo": "wo2",
+      "num": "616"
+    },
+    {
+      "word": "拘檻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "牢獄。監獄。檻。牢屋。刑務所。",
+              "tag": [],
+              "meaning": "罪人を隔離して閉じ込めておくための部屋や施設。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯan˥˧.wo˨/",
+      "pron": "huan3 wo2",
+      "latinPron": "hûanwò",
+      "weqo": "hA3N wo2",
+      "num": "-"
+    },
+    {
+      "word": "宝檻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "金庫。宝箱。金蔵。ロッカー。蔵。",
+              "tag": [],
+              "meaning": "貴重品や価値のあるものが盗み出されないように補強された、頑丈な収納具。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kao˨˦.wo˨/",
+      "pron": "kao2 wo2",
+      "latinPron": "kàowò",
+      "weqo": "kO2 wo2",
+      "num": "-"
+    },
+    {
+      "word": "檻画仙",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "檻の中の画家。知る人ぞ知る。孤独の天才。時代を先取りしすぎた。",
+              "tag": [],
+              "meaning": "非常に優れているにも関わらず、広く世間に知られていない人物や作品の例え。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wo˨.ʃao˥˧.taiŋ˥˧/",
+      "pron": "wo2 xao3 taing3",
+      "latinPron": "wòxâotâing",
+      "weqo": "wo2 xO3 tE3G",
+      "num": "-"
+    },
+    {
+      "word": "膨",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "膨らむ。大きくなる。広がる。膨れる。",
+              "tag": [],
+              "hidden": "膨らます。膨らす。",
+              "meaning": "物体の体積や面積などが大きくなること。"
+            },
+            {
+              "translate": "増える。増す。増加する。加わる。",
+              "tag": [],
+              "hidden": "増やす。加える。",
+              "meaning": "物体の数量が増すこと。単に数字が増えることは[行上]で表され区別される。"
+            },
+            {
+              "translate": "腫れる。腫れ上がる。",
+              "tag": [],
+              "hidden": "腫らす。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/noŋ˥/",
+      "pron": "nong1",
+      "latinPron": "nóng",
+      "weqo": "noG",
+      "num": "617",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "痘"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "膨位",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "体積。ボリューム。大きさ。嵩。かさ。量。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/noŋ˥.dɯn˨/",
+      "pron": "nong1 dun2",
+      "latinPron": "nóngdùn",
+      "weqo": "noG du2N",
+      "num": "-"
+    },
+    {
+      "word": "広位",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "面積。広さ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɯa˥.dɯn˨/",
+      "pron": "dua1 dun2",
+      "latinPron": "dúadùn",
+      "weqo": "dA du2N",
+      "num": "-"
+    },
+    {
+      "word": "海膨",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "満潮。満ち潮。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "潮が満ちる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gɯan˥.noŋ˥/",
+      "pron": "guan1 nong1",
+      "latinPron": "gúannóng",
+      "weqo": "gAN noG",
+      "num": "-"
+    },
+    {
+      "word": "育膨",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "育つ。成長する。発達する。成熟する。",
+              "tag": [],
+              "hidden": "育てる。成長させる。育成する。",
+              "meaning": "[育]とほぼ同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɯn˥.noŋ˥/",
+      "pron": "yun1 nong1",
+      "latinPron": "yúnnóng",
+      "weqo": "yuN noG",
+      "num": "-"
+    },
+    {
+      "word": "肺",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "肺。肺臓。ルンゲ。",
+              "tag": [],
+              "meaning": "脊椎動物に存在する、呼吸によって酸素と二酸化炭素の交換を行うための器官。日用語としては[肺臓]が多く用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɛ˨/",
+      "pron": "se2",
+      "latinPron": "sè",
+      "weqo": "se2",
+      "num": "618"
+    },
+    {
+      "word": "肺筒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "気道。気管。気管支。",
+              "tag": [],
+              "meaning": "咽頭から肺胞までを結ぶ、空気が通る管の全体。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɛ˨.ʃɯm˥/",
+      "pron": "se2 xum1",
+      "latinPron": "sèxúm",
+      "weqo": "se2 xuM",
+      "num": "-"
+    },
+    {
+      "word": "肺臓",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "肺。肺臓。ルンゲ。",
+              "tag": [],
+              "meaning": "[肺]とほぼ同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɛ˨˦.dais˨/",
+      "pron": "se2 dais2",
+      "latinPron": "sèdàis",
+      "weqo": "se2 dE2S",
+      "num": "-"
+    },
+    {
+      "word": "撮",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "つまむ。つまみとる。摘む。拾い上げる。取る。挟む。",
+              "tag": [],
+              "meaning": "指でものを挟んだり、それを持ち上げて取る動作。"
+            }
+          ]
+        },
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "[S が 於 に] 触れる。触る。タッチする。接触する。",
+              "tag": [],
+              "meaning": "元は「指でつつく」という意味から派生した用法であるが、現代では指に限らず体や物体が接触する行為の全般を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sao˥/",
+      "pron": "cao1",
+      "latinPron": "cáo",
+      "weqo": "cO",
+      "num": "619"
+    },
+    {
+      "word": "撮取",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "摘みとる。ちぎる。もぐ。もぎ取る。採る。採取する。取り外す。",
+              "tag": [],
+              "meaning": "物体をつまんで引っ張り、無理やり取り外す行為を指す。部分ごとに独立している物、例えば「果物をもぐ」という表現には[撮取]を使うのに対し、元が一体であるもの、例えば「紙をちぎる」という表現では[取片]を用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sao˥.d͡ʒɛ˥˧/",
+      "pron": "cao1 je3",
+      "latinPron": "cáojê",
+      "weqo": "cO je3",
+      "num": "-"
+    },
+    {
+      "word": "撮具",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "クリップ。ピン。洗濯バサミ。留め具。",
+              "tag": [],
+              "meaning": "バネなどの力を使い、挟み込む力で物体を固定するための道具の総称。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sao˥.ɸai˥˧/",
+      "pron": "cao1 fai3",
+      "latinPron": "cáofâi",
+      "weqo": "cO fE3",
+      "num": "-"
+    },
+    {
+      "word": "紙撮",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "クリップ。ペーパークリップ。",
+              "tag": [],
+              "meaning": "紙の束などを挟み込んで固定する道具。金属製のものが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɛ˨.t͡sao˥/",
+      "pron": "ye2 cao1",
+      "latinPron": "yècáo",
+      "weqo": "ye2 cO",
+      "num": "-"
+    },
+    {
+      "word": "髪撮",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "髪留め。ヘアピン。ピン。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wao˥˧.t͡sao˥/",
+      "pron": "wao3 cao1",
+      "latinPron": "wâocáo",
+      "weqo": "wO3 cO",
+      "num": "-"
+    },
+    {
+      "word": "霊",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "精霊。幽霊。魂。霊魂。心霊。お化け。",
+              "tag": [],
+              "meaning": "文脈によって様々な意味を持つが、大方[神]は特別な力を持つ人智を超えた対象を指すのに対し、[霊]は死者の霊や妖怪、怪奇現象など、目に見えない超自然的な存在の全てを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɯom˨/",
+      "pron": "duom2",
+      "latinPron": "dùom",
+      "weqo": "dU2M",
+      "num": "620"
+    },
+    {
+      "word": "霊鬼",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "妖怪。化け物。怪物。モンスター。幽霊。",
+              "tag": [],
+              "meaning": "超自然的な存在。主に人間に対して悪い影響をもたらすものに対して用いられる語である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɯom˨˦.lao˨/",
+      "pron": "duom2 lao2",
+      "latinPron": "dùomlào",
+      "weqo": "dU2M lO2",
+      "num": "-"
+    },
+    {
+      "word": "地霊",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "幽霊。お化け。死者の霊。",
+              "tag": [],
+              "meaning": "[霊]のうち、特に死者の霊を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.dɯom˨/",
+      "pron": "ho3 duom2",
+      "latinPron": "hôdùom",
+      "weqo": "ho3 dU2M",
+      "num": "-"
+    },
+    {
+      "word": "臣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "家来。臣下。部下。召使い。下僕。従者。",
+              "tag": [],
+              "meaning": "地位が高い人や権力を持つ人に仕える者を全般的に指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zɛ˨/",
+      "pron": "ze2",
+      "latinPron": "zè",
+      "weqo": "ze2",
+      "num": "621"
+    },
+    {
+      "word": "隣臣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "側近。侍従。懐刀。愛弟子。助手。片腕。",
+              "tag": [],
+              "meaning": "主君のすぐ近くに仕えており、信頼されている部下。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mo˨˦.zɛ˨/",
+      "pron": "mo2 ze2",
+      "latinPron": "mòzè",
+      "weqo": "mo2 ze2",
+      "num": "-"
+    },
+    {
+      "word": "下臣",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "使用人。下僕。召使い。下働き。",
+              "tag": [],
+              "meaning": "権力者の屋敷などで、家事や雑用を任せるために雇われた使用人。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ja˥˧.zɛ˨/",
+      "pron": "ya3 ze2",
+      "latinPron": "yâzè",
+      "weqo": "ya3 ze2",
+      "num": "-"
+    },
+    {
+      "word": "昴",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "タローア星団。タロア星団。鼎昴。かなえすばる。",
+              "tag": [],
+              "meaning": "永球の空に見られる散開星団であり、特に明るい三つを中心とした数十の恒星からなる。永球では古くから知られており、各地の神話や伝説に広く登場する。便宜上漢字転写は「昴」が当てられているが、本来の字義とは異なるので注意。日用語としては[昴天集]が多く用いられる。"
+            }
+          ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
+            {
+              "translate": "三～。三つの～。鼎。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/som˨/",
+      "pron": "som2",
+      "latinPron": "sòm",
+      "weqo": "so2M",
+      "num": "622"
+    },
+    {
+      "word": "昴天集",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "タローア星団。タロア星団。鼎昴。かなえすばる。",
+              "tag": [],
+              "meaning": "[昴]とほぼ同義。永球で見られる、数十の恒星からなる星団。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/som˨.βas˥.naim˨/",
+      "pron": "som2 vas1 naim2",
+      "latinPron": "sòmvásnàim",
+      "weqo": "so2M vaS nE2M",
+      "num": "-"
+    },
+    {
+      "word": "昴衆",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "三人組。トリオ。三人衆。",
+              "tag": [],
+              "meaning": "三人からなるグループや集団。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/som˨˦.mail˨/",
+      "pron": "som2 mail2",
+      "latinPron": "sòmmàil",
+      "weqo": "so2M mE2L",
+      "num": "-"
+    },
+    {
+      "word": "昴談",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "鼎談。三者面談。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/som˨˦.ʃi˨/",
+      "pron": "som2 xi2",
+      "latinPron": "sòmxì",
+      "weqo": "so2M xi2",
+      "num": "-"
+    },
+    {
+      "word": "昴粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "クォーク。クオーク。層子。",
+              "tag": [],
+              "meaning": "物質を構成する素粒子の分類の一つであり、強い相互作用がはたらくもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/som˨˦.dɯol˨/",
+      "pron": "som2 duol2",
+      "latinPron": "sòmdùol",
+      "weqo": "so2M dU2L",
+      "num": "-"
+    },
+    {
+      "word": "弱粒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "レプトン。軽子。",
+              "tag": [],
+              "meaning": "物質を構成する素粒子の分類の一つであり、強い相互作用がはたらかないもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯl˨˦.dɯol˨/",
+      "pron": "sul2 duol2",
+      "latinPron": "sùldùol",
+      "weqo": "su2L dU2L",
       "num": "-"
     }
   ]
