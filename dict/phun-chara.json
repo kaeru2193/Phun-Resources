@@ -66,7 +66,7 @@
         ]
       },
       "mpn": {
-        "pron": "nek"
+        "pron": "neH"
       },
       "tp": {
         "pron": "wawa",
@@ -1108,7 +1108,7 @@
     "langs": {
       "pn": {
         "pron": "fes2",
-        "mean": "〈副詞〉～した。過去を表す。\n〈形容詞〉直近の。前の。すぐ前の。◆時間的な過去を指す。",
+        "mean": "〈副詞〉～した。過去を表す。\n〈形容詞〉直近の。前の。すぐ前の。◆時間的な過去を指す。\n〈名詞〉～前。～くらい前。◆具体的な時間を指す表現とともに用いて、過去の特定の時点を指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -1952,7 +1952,7 @@
     "langs": {
       "pn": {
         "pron": "dua1",
-        "mean": "〈及動詞〉広める。共有する。知らしめる。\n〈形容詞〉広い。広大な。◆[大]は主に三次元的な大きさ、[広]は二次元的な大きさを指す。",
+        "mean": "〈及動詞〉広める。共有する。知らしめる。\n〈形容詞〉 ㊀広い。広大な。◆[大]は主に三次元的な大きさ、[広]は二次元的な大きさを指す。 ㊁（幅が）広い。太い。◆道や隙間などの幅が大きい様子。",
         "links": [
           {
             "name": "雰和辞典",
@@ -2109,7 +2109,7 @@
     "langs": {
       "pn": {
         "pron": "yaom1",
-        "mean": "〈及動詞〉（場所へ）行く。\n〈前置詞〉～に向かって。～に。to。",
+        "mean": "〈及動詞〉（場所へ）行く。向かう。足を運ぶ。\n〈前置詞〉～に向かって。～に。～へ。\n〈名詞〉進路。流れ。工程。フロー。◆一方向へと向かう時間や物の流れを漠然と指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -2169,7 +2169,7 @@
         ]
       },
       "mpn": {
-        "pron": "kek"
+        "pron": "ke"
       },
       "tp": {
         "pron": "lukin",
@@ -2602,7 +2602,7 @@
     "langs": {
       "pn": {
         "pron": "tua2",
-        "mean": "〈名詞〉 ㊀時間。時。とき。頃。 ㊁（時間単位）～時。",
+        "mean": "〈名詞〉時間。時。とき。頃。タイム。",
         "links": [
           {
             "name": "雰和辞典",
@@ -3361,7 +3361,7 @@
         ]
       },
       "mpn": {
-        "pron": "bek"
+        "pron": "be"
       },
       "tp": {
         "pron": "tomo",
@@ -4615,7 +4615,7 @@
     "langs": {
       "pn": {
         "pron": "qua3",
-        "mean": "〈名詞〉管理され整えられている野外施設。公園や運動場など。",
+        "mean": "〈名詞〉庭。庭園。公園。運動場。◆管理され整えられている一定の区画。",
         "links": [
           {
             "name": "雰和辞典",
@@ -4991,7 +4991,7 @@
     "langs": {
       "pn": {
         "pron": "peng1",
-        "mean": "〈副詞〉～しなければならない。～した方が良い。～する必要がある。◆主に話し手の意思に基づいた義務や忠告を表す。規則や道理に従った義務は[縦]で表される。",
+        "mean": "〈副詞〉～しなければならない。～した方が良い。～する必要がある。～するのがよい。◆主に話し手の意思に基づいた義務や忠告を表す。規則や道理に従った義務は[縦]で表される。",
         "links": [
           {
             "name": "雰和辞典",
@@ -5000,7 +5000,7 @@
         ]
       },
       "mpn": {
-        "pron": "penk"
+        "pron": "pen"
       }
     },
     "structure": {
@@ -5941,7 +5941,7 @@
         ]
       },
       "mpn": {
-        "pron": "tshuk"
+        "pron": "tshuH"
       },
       "tp": {
         "pron": "pipi",
@@ -6391,7 +6391,7 @@
     "langs": {
       "pn": {
         "pron": "xo3",
-        "mean": "〈前置詞〉 ㊀～から。◆時間や場所などの始まりを指す前置詞。 ㊁～を使って。～から。～製の。◆物の材料や原料を指す前置詞。\n〈助詞〉～引く...。～マイナス...。減算の名詞句を作る。",
+        "mean": "〈形容詞〉元の。前の。始まりの。最初の。\n〈前置詞〉 ㊀～から。◆時間や場所などの始点を指す。但し、下から上に進む移動や体系だった物事の始点など、ニュアンス上「根本」が重要である場合は[基]を用いる。 ㊁～を使って。～から。～製の。◆物の材料や原料を指す前置詞。\n〈助詞〉～引く...。～マイナス...。減算の名詞句を作る。",
         "links": [
           {
             "name": "雰和辞典",
@@ -7514,7 +7514,7 @@
     "langs": {
       "pn": {
         "pron": "len1",
-        "mean": "〈名詞〉もと。一番下の部分。根底。\n〈形容詞〉もともとの。元の。元々の。",
+        "mean": "〈名詞〉もと。一番下の部分。根底。◆[基]は積み上がった建物や構造の土台、[元]は空間や時間の始まり、[幹]は広がってゆくものの起源、という意味でおおよそ使い分けられる。但し厳密な区分ではなく話者の癖などにも左右されるため、基本はどれを使っても良い。\n〈形容詞〉もともとの。元の。元々の。\n〈前置詞〉～から。～を元に。～から始めて。◆下から上に進んで行く植物や建物の始点、また物事の基礎などを指す際に用いられる。それ以外で始点を指す際には普通[元]が使われる。",
         "links": [
           {
             "name": "雰和辞典",
@@ -7679,7 +7679,7 @@
         ]
       },
       "mpn": {
-        "pron": "nuk"
+        "pron": "nuH"
       }
     },
     "structure": {
@@ -7874,7 +7874,7 @@
     "langs": {
       "pn": {
         "pron": "yem2",
-        "mean": "〈不及動詞〉 ㊀走る。駆ける。速く移動する。◆動作を早く終わらせようと尽力すること。 ㊁急ぐ。慌てる。\n〈副詞〉急いで。迅速に。至急。慌てて。速く。早急に。◆[敏]は単純に動作が速い様子を指すのに対し、[走]は意志を持って物事を出来るだけ早く行おうと尽力する様子を指す。",
+        "mean": "〈不及動詞〉 ㊀走る。駆ける。速く移動する。 ㊁急ぐ。慌てる。◆動作を早く終わらせようと尽力すること。\n〈副詞〉急いで。迅速に。至急。慌てて。速く。早急に。◆[敏]は単純に動作が速い様子を指すのに対し、[走]は意志を持って物事を出来るだけ早く行おうと尽力する様子を指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -8030,7 +8030,7 @@
     "langs": {
       "pn": {
         "pron": "qang3",
-        "mean": "〈不及動詞〉 ㊀乗る。乗っかる。跨る。 ㊁踏む。踏みつける。踏んづける。",
+        "mean": "〈不及動詞〉 ㊀乗る。乗っかる。跨る。 ㊁踏む。踏みつける。踏んづける。\n〈及動詞〉（装身具を）身につける。付ける。被る。身に纏う。◆ネックレスや指輪、髪飾り、帽子、仮面などの装身具を身につける動作。",
         "links": [
           {
             "name": "雰和辞典",
@@ -8683,7 +8683,7 @@
         ]
       },
       "mpn": {
-        "pron": "ʻyek"
+        "pron": "ʻye"
       },
       "tp": {
         "pron": "len",
@@ -9911,7 +9911,7 @@
     "langs": {
       "pn": {
         "pron": "ao1",
-        "mean": "〈数詞〉10000(12)。1万。20736(10)。\n〈形容詞〉全ての。全部の。全体の。",
+        "mean": "〈数詞〉10000(12)。1万。20736(10)。\n〈形容詞〉全ての。全部の。全体の。\n〈名詞〉（否定文で）何も。誰も。一つも。",
         "links": [
           {
             "name": "雰和辞典",
@@ -10688,7 +10688,7 @@
     "langs": {
       "pn": {
         "pron": "jai1",
-        "mean": "〈形容詞〉清潔な。綺麗な。きれいな。清い。衛生的な。◆病気などを引き起こす原因にならない状態を指す。",
+        "mean": "〈形容詞〉清潔な。綺麗な。きれいな。清い。衛生的な。清らかな。◆病気などを引き起こす原因にならない状態を指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -11240,8 +11240,6 @@
       }
     ],
     "support": [
-      "pwrite",
-      "psans",
       "pdot"
     ]
   },
@@ -11636,7 +11634,7 @@
     "langs": {
       "pn": {
         "pron": "buos1",
-        "mean": "〈及動詞〉包む。蓋をする。密閉する。◆3次元的に隙間なく閉じることを指す。",
+        "mean": "〈及動詞〉包む。蓋をする。密閉する。覆う。塞ぐ。◆3次元的に隙間なく閉じることを指す。",
         "links": [
           {
             "name": "雰和辞典",
@@ -13102,7 +13100,7 @@
     "langs": {
       "pn": {
         "pron": "las3",
-        "mean": "〈名詞〉机。デスク。テーブル。カウンター。◆上半身の高さで使う様々な用途の台を指す。高さと直接的には関係ないため、座った状態で使う低い机もこれに該当する。",
+        "mean": "〈名詞〉机。デスク。テーブル。カウンター。◆上半身の高さで使う様々な用途の台を指す。高さと直接的には関係ないため、ちゃぶ台など、座った状態で使う低い机もこれに該当する。",
         "links": [
           {
             "name": "雰和辞典",
@@ -13164,7 +13162,7 @@
     "langs": {
       "pn": {
         "pron": "luo3",
-        "mean": "〈名詞〉座席。椅子。台。踏み台。◆下半身を乗せるための台を包括的に指す。椅子や座布団、ベッドなどが含まれる。",
+        "mean": "〈名詞〉座席。椅子。◆腰掛けて座るための台や家具。背もたれや肘掛けがあるかどうかは含意しない。\n〈造語成分〉席。椅子。台。踏み台。◆下半身を乗せるための台や家具を包括的に指す。椅子や座布団、ベッドなどが含まれる。",
         "links": [
           {
             "name": "雰和辞典",
@@ -13515,7 +13513,7 @@
         ]
       },
       "mpn": {
-        "pron": "tsyok"
+        "pron": "tsyo"
       },
       "tp": {
         "pron": "palisa",
@@ -14950,7 +14948,7 @@
         ]
       },
       "mpn": {
-        "pron": "phonk"
+        "pron": "phonH"
       }
     },
     "structure": {
@@ -16146,7 +16144,7 @@
         ]
       },
       "mpn": {
-        "pron": "mek"
+        "pron": "meH"
       }
     },
     "structure": {
@@ -17717,7 +17715,7 @@
     "langs": {
       "pn": {
         "pron": "cao3",
-        "mean": "〈名詞〉背中。背。胴体の後面。◆空間的な後方。話者の歩く方向の反対。\n〈形容詞〉後ろ。後方。背後。",
+        "mean": "〈名詞〉背中。背。胴体の後面。\n〈形容詞〉後ろ。後方。背後。◆空間的な後方。話者の歩く方向の反対。",
         "links": [
           {
             "name": "雰和辞典",
@@ -18290,7 +18288,7 @@
     "langs": {
       "pn": {
         "pron": "mua3",
-        "mean": "〈名詞〉つまさき。爪先。足の指がある前部。",
+        "mean": "〈名詞〉つまさき。爪先。足の指。◆足の指がある前部。また、足の指。",
         "links": [
           {
             "name": "雰和辞典",
@@ -20349,7 +20347,7 @@
         ]
       },
       "mpn": {
-        "pron": "ʻsok"
+        "pron": "ʻso"
       }
     },
     "structure": {
@@ -20736,7 +20734,7 @@
     "langs": {
       "pn": {
         "pron": "nu3",
-        "mean": "〈形容詞〉めでたい。うれしい。喜ばしい。\n〈情詞〉うれしい、喜ばしいことを表現する情詞。",
+        "mean": "〈形容詞〉めでたい。うれしい。嬉しい。喜ばしい。\n〈情詞〉うれしい、喜ばしいことを表現する情詞。",
         "links": [
           {
             "name": "雰和辞典",
@@ -20745,7 +20743,7 @@
         ]
       },
       "mpn": {
-        "pron": "ʻnup"
+        "pron": "ʻnut"
       }
     },
     "structure": {
@@ -22058,7 +22056,7 @@
     "langs": {
       "pn": {
         "pron": "gan2",
-        "mean": "〈不及動詞〉連なる。並ぶ。たくさんのものが繋がって並ぶ。",
+        "mean": "〈名詞〉列。行列。並び。\n〈不及動詞〉連なる。並ぶ。◆たくさんのものが繋がって並ぶこと。",
         "links": [
           {
             "name": "雰和辞典",
@@ -22753,7 +22751,7 @@
         ]
       },
       "mpn": {
-        "pron": "zok"
+        "pron": "zoH"
       }
     },
     "structure": {
@@ -25623,7 +25621,7 @@
     "langs": {
       "pn": {
         "pron": "dim3",
-        "mean": "〈及動詞〉くるむ。巻く。包む。挟む。丸める。◆布や紙などの柔らかい素材で物体を覆うことを指す。",
+        "mean": "〈及動詞〉くるむ。巻く。包む。挟む。丸める。◆布や紙などの柔らかい素材で物体を覆うことを指す。\n〈不及動詞〉[S が 以 を] 着る。着用する。着衣する。◆衣服や靴を身につけること。基本的に常に着るような衣類は[纏]、それ以外の装身具やアクセサリーを身につける動作は[乗]として使い分けられる。",
         "links": [
           {
             "name": "雰和辞典",
@@ -25841,7 +25839,7 @@
     "langs": {
       "pn": {
         "pron": "zaos2",
-        "mean": "〈名詞〉穴。あな。◆物の表面に存在するくぼみ。",
+        "mean": "〈名詞〉穴。あな。◆物の表面に存在する深いくぼみ。また、物体を貫通しているような穴。",
         "links": [
           {
             "name": "雰和辞典",
@@ -26160,7 +26158,7 @@
         ]
       },
       "mpn": {
-        "pron": "tsyhak"
+        "pron": "tsyhaH"
       }
     },
     "structure": {
@@ -26531,7 +26529,7 @@
         ]
       },
       "mpn": {
-        "pron": "dzelk"
+        "pron": "dzel"
       }
     },
     "structure": {
@@ -26994,6 +26992,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=尋"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻfuH"
       }
     },
     "structure": {
@@ -27042,6 +27043,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=未"
           }
         ]
+      },
+      "mpn": {
+        "pron": "tump"
       }
     },
     "structure": {
@@ -27074,13 +27078,16 @@
     "langs": {
       "pn": {
         "pron": "wim1",
-        "mean": "〈及動詞〉 ㊀解く。ほどく。開ける。開く。解き放つ。放つ。離す。◆何かを閉じ込めている道具や概念を取り払い、自由に動けるようにすることを指す。 ㊁解く。答える。解決する。解明する。◆ある問題や疑問の答えを見つけることを指す。",
+        "mean": "〈及動詞〉 ㊀解く。ほどく。開ける。開く。解き放つ。放つ。離す。解放する。◆何かを閉じ込めている道具や概念を取り払い、自由に動けるようにすることを指す。 ㊁解く。答える。解決する。解明する。◆ある問題や疑問の答えを見つけることを指す。",
         "links": [
           {
             "name": "雰和辞典",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=解"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻngim"
       }
     },
     "structure": {
@@ -27131,6 +27138,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=北"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ponH"
       }
     },
     "structure": {
@@ -27179,6 +27189,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=巨"
           }
         ]
+      },
+      "mpn": {
+        "pron": "nalH"
       }
     },
     "structure": {
@@ -27243,6 +27256,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=哉"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻyeH"
       }
     },
     "structure": {
@@ -27291,6 +27307,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=尾"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻmol"
       }
     },
     "structure": {
@@ -27339,6 +27358,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=端"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dzeŋ"
       }
     },
     "structure": {
@@ -27375,6 +27397,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=刺"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dinH"
       }
     },
     "structure": {
@@ -27423,6 +27448,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=糊"
           }
         ]
+      },
+      "mpn": {
+        "pron": "om"
       }
     },
     "structure": {
@@ -27471,6 +27499,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=蜘"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻngosp"
       }
     },
     "structure": {
@@ -27519,6 +27550,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=霞"
           }
         ]
+      },
+      "mpn": {
+        "pron": "pes"
       }
     },
     "structure": {
@@ -27567,6 +27601,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=煙"
           }
         ]
+      },
+      "mpn": {
+        "pron": "welH"
       }
     },
     "structure": {
@@ -27617,6 +27654,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=太"
           }
         ]
+      },
+      "mpn": {
+        "pron": "teH"
       }
     },
     "structure": {
@@ -27665,6 +27705,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=蔔"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻnomH"
       }
     },
     "structure": {
@@ -27713,6 +27756,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=燦"
           }
         ]
+      },
+      "mpn": {
+        "pron": "calt"
       }
     },
     "structure": {
@@ -27754,13 +27800,16 @@
     "langs": {
       "pn": {
         "pron": "sam2",
-        "mean": "〈形容詞〉 ㊀細い。直径が小さい。周長が短い。 ㊁痩せた。痩せこけた。◆生物の体重が標準より小さい様子。 ㊂（音が）高い。高音の。周波数が高い。",
+        "mean": "〈形容詞〉 ㊀細い。直径が小さい。周長が短い。 ㊁痩せた。痩せこけた。◆生物の体重が標準より小さい様子。 ㊂（音が）高い。高音の。周波数が高い。 ㊃（幅が）狭い。細い。◆道や隙間などの幅が小さい様子。対義語が[広]であることに注意。",
         "links": [
           {
             "name": "雰和辞典",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=細"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻsamH"
       }
     },
     "structure": {
@@ -27809,6 +27858,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=閉"
           }
         ]
+      },
+      "mpn": {
+        "pron": "gonk"
       }
     },
     "structure": {
@@ -27859,6 +27911,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=阻"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dzem"
       }
     },
     "structure": {
@@ -27907,6 +27962,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=影"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻhiH"
       }
     },
     "structure": {
@@ -27955,6 +28013,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=廻"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻfaŋ"
       }
     },
     "structure": {
@@ -28003,6 +28064,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=談"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻxiH"
       }
     },
     "structure": {
@@ -28051,6 +28115,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=雑"
           }
         ]
+      },
+      "mpn": {
+        "pron": "qunH"
       }
     },
     "structure": {
@@ -28099,6 +28166,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=浮"
           }
         ]
+      },
+      "mpn": {
+        "pron": "muŋH"
       }
     },
     "structure": {
@@ -28147,6 +28217,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=島"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻxok"
       }
     },
     "structure": {
@@ -28195,6 +28268,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=兎"
           }
         ]
+      },
+      "mpn": {
+        "pron": "xut"
       }
     },
     "structure": {
@@ -28243,6 +28319,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=歪"
           }
         ]
+      },
+      "mpn": {
+        "pron": "kasH"
       }
     },
     "structure": {
@@ -28280,6 +28359,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=奇"
           }
         ]
+      },
+      "mpn": {
+        "pron": "us"
       }
     },
     "structure": {
@@ -28328,6 +28410,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=牛"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻmak"
       }
     },
     "structure": {
@@ -28366,6 +28451,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=緩"
           }
         ]
+      },
+      "mpn": {
+        "pron": "yat"
       }
     },
     "structure": {
@@ -28414,6 +28502,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=囊"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻnilH"
       }
     },
     "structure": {
@@ -28462,6 +28553,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=原"
           }
         ]
+      },
+      "mpn": {
+        "pron": "djent"
       }
     },
     "structure": {
@@ -28510,6 +28604,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=筒"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻxum"
       }
     },
     "structure": {
@@ -28557,6 +28654,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=路"
           }
         ]
+      },
+      "mpn": {
+        "pron": "khu"
       }
     },
     "structure": {
@@ -28597,13 +28697,16 @@
     "langs": {
       "pn": {
         "pron": "von2",
-        "mean": "〈名詞〉 ㊀根本。基礎。主流。源。起源。 ㊁幹。茎。\n〈形容詞〉本来の。大本の。源の。\n〈前置詞〉～に基づいて。～を基に。～に則って。～に従って。",
+        "mean": "〈名詞〉 ㊀根本。基礎。主流。源。起源。 ㊁幹。茎。\n〈形容詞〉本来の。大本の。源の。◆日用語として[幹開]も多く使われる。\n〈前置詞〉～に基づいて。～を基に。～に則って。～に従って。",
         "links": [
           {
             "name": "雰和辞典",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=幹"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻwonH"
       }
     },
     "structure": {
@@ -28651,6 +28754,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=律"
           }
         ]
+      },
+      "mpn": {
+        "pron": "gis"
       }
     },
     "structure": {
@@ -28698,6 +28804,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=泰"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻloH"
       }
     },
     "structure": {
@@ -28745,6 +28854,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=具"
           }
         ]
+      },
+      "mpn": {
+        "pron": "fet"
       }
     },
     "structure": {
@@ -28792,6 +28904,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=溢"
           }
         ]
+      },
+      "mpn": {
+        "pron": "alH"
       }
     },
     "structure": {
@@ -28839,6 +28954,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=且"
           }
         ]
+      },
+      "mpn": {
+        "pron": "demH"
       }
     },
     "structure": {
@@ -28888,6 +29006,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=飾"
           }
         ]
+      },
+      "mpn": {
+        "pron": "pom"
       }
     },
     "structure": {
@@ -28935,6 +29056,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=投"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻxilt"
       }
     },
     "structure": {
@@ -28984,6 +29108,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=習"
           }
         ]
+      },
+      "mpn": {
+        "pron": "fas"
       }
     },
     "structure": {
@@ -29031,6 +29158,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=散"
           }
         ]
+      },
+      "mpn": {
+        "pron": "cump"
       }
     },
     "structure": {
@@ -29078,6 +29208,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=燧"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻfilH"
       }
     },
     "structure": {
@@ -29127,6 +29260,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=墨"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻhos"
       }
     },
     "structure": {
@@ -29174,6 +29310,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=互"
           }
         ]
+      },
+      "mpn": {
+        "pron": "balp"
       }
     },
     "structure": {
@@ -29213,6 +29352,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=衝"
           }
         ]
+      },
+      "mpn": {
+        "pron": "sent"
       }
     },
     "structure": {
@@ -29260,6 +29402,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=撃"
           }
         ]
+      },
+      "mpn": {
+        "pron": "djiH"
       }
     },
     "structure": {
@@ -29309,6 +29454,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=区"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻniŋ"
       }
     },
     "structure": {
@@ -29358,6 +29506,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=方"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dzuŋH"
       }
     },
     "structure": {
@@ -29400,6 +29551,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=踏"
           }
         ]
+      },
+      "mpn": {
+        "pron": "vu"
       }
     },
     "structure": {
@@ -29447,6 +29601,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=凝"
           }
         ]
+      },
+      "mpn": {
+        "pron": "qhot"
       }
     },
     "structure": {
@@ -29496,6 +29653,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=柱"
           }
         ]
+      },
+      "mpn": {
+        "pron": "phomH"
       }
     },
     "structure": {
@@ -29543,6 +29703,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=枯"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻson"
       }
     },
     "structure": {
@@ -29590,6 +29753,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=羊"
           }
         ]
+      },
+      "mpn": {
+        "pron": "cam"
       }
     },
     "structure": {
@@ -29632,6 +29798,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=馬"
           }
         ]
+      },
+      "mpn": {
+        "pron": "tit"
       }
     },
     "structure": {
@@ -29673,6 +29842,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=茸"
           }
         ]
+      },
+      "mpn": {
+        "pron": "juH"
       }
     },
     "structure": {
@@ -29720,6 +29892,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=垂"
           }
         ]
+      },
+      "mpn": {
+        "pron": "hunH"
       }
     },
     "structure": {
@@ -29766,6 +29941,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=釣"
           }
         ]
+      },
+      "mpn": {
+        "pron": "xaŋH"
       }
     },
     "structure": {
@@ -29813,6 +29991,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=灯"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻfenk"
       }
     },
     "structure": {
@@ -29862,6 +30043,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=苗"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻngeŋH"
       }
     },
     "structure": {
@@ -29899,6 +30083,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=曙"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dzasp"
       }
     },
     "structure": {
@@ -29946,6 +30133,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=常"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻxut"
       }
     },
     "structure": {
@@ -29993,6 +30183,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=輪"
           }
         ]
+      },
+      "mpn": {
+        "pron": "khosH"
       }
     },
     "structure": {
@@ -30040,6 +30233,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=累"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻngil"
       }
     },
     "structure": {
@@ -30087,6 +30283,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=磁"
           }
         ]
+      },
+      "mpn": {
+        "pron": "wulH"
       }
     },
     "structure": {
@@ -30127,13 +30326,16 @@
     "langs": {
       "pn": {
         "pron": "te3",
-        "mean": "〈及動詞〉引っ張る。引く。引き寄せる。近づける。牽引する。",
+        "mean": "〈及動詞〉引っ張る。引く。引き寄せる。近づける。牽引する。\n〈名詞〉一引。引。テー。",
         "links": [
           {
             "name": "雰和辞典",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=引"
           }
         ]
+      },
+      "mpn": {
+        "pron": "tep"
       }
     },
     "structure": {
@@ -30181,6 +30383,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=釘"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻhoŋH"
       }
     },
     "structure": {
@@ -30228,6 +30433,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=沙"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻfum"
       }
     },
     "structure": {
@@ -30275,6 +30483,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=様"
           }
         ]
+      },
+      "mpn": {
+        "pron": "djomp"
       }
     },
     "structure": {
@@ -30322,6 +30533,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=士"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻlaH"
       }
     },
     "structure": {
@@ -30369,6 +30583,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=唔"
           }
         ]
+      },
+      "mpn": {
+        "pron": "umH"
       }
     },
     "structure": {
@@ -30416,6 +30633,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=標"
           }
         ]
+      },
+      "mpn": {
+        "pron": "xon"
       }
     },
     "structure": {
@@ -30463,6 +30683,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=斉"
           }
         ]
+      },
+      "mpn": {
+        "pron": "waŋ"
       }
     },
     "structure": {
@@ -30510,6 +30733,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=薄"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ghelt"
       }
     },
     "structure": {
@@ -30557,6 +30783,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=勺"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻsaH"
       }
     },
     "structure": {
@@ -30591,6 +30820,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=匙"
           }
         ]
+      },
+      "mpn": {
+        "pron": "cemH"
       }
     },
     "structure": {
@@ -30638,6 +30870,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=許"
           }
         ]
+      },
+      "mpn": {
+        "pron": "mut"
       }
     },
     "structure": {
@@ -30685,6 +30920,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=選"
           }
         ]
+      },
+      "mpn": {
+        "pron": "gu"
       }
     },
     "structure": {
@@ -30734,6 +30972,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=跡"
           }
         ]
+      },
+      "mpn": {
+        "pron": "khat"
       }
     },
     "structure": {
@@ -30781,6 +31022,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=酔"
           }
         ]
+      },
+      "mpn": {
+        "pron": "val"
       }
     },
     "structure": {
@@ -30828,6 +31072,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=城"
           }
         ]
+      },
+      "mpn": {
+        "pron": "asH"
       }
     },
     "structure": {
@@ -30877,6 +31124,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=勇"
           }
         ]
+      },
+      "mpn": {
+        "pron": "tha"
       }
     },
     "structure": {
@@ -30924,6 +31174,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=折"
           }
         ]
+      },
+      "mpn": {
+        "pron": "wuŋH"
       }
     },
     "structure": {
@@ -30971,6 +31224,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=位"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dunH"
       }
     },
     "structure": {
@@ -31018,6 +31274,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=塵"
           }
         ]
+      },
+      "mpn": {
+        "pron": "senH"
       }
     },
     "structure": {
@@ -31065,6 +31324,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=畳"
           }
         ]
+      },
+      "mpn": {
+        "pron": "zot"
       }
     },
     "structure": {
@@ -31112,6 +31374,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=葱"
           }
         ]
+      },
+      "mpn": {
+        "pron": "yoŋ"
       }
     },
     "structure": {
@@ -31159,6 +31424,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=哀"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻwiH"
       }
     },
     "structure": {
@@ -31206,6 +31474,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=客"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ram"
       }
     },
     "structure": {
@@ -31253,6 +31524,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=伏"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻse"
       }
     },
     "structure": {
@@ -31292,6 +31566,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=夢"
           }
         ]
+      },
+      "mpn": {
+        "pron": "yaH"
       }
     },
     "structure": {
@@ -31339,6 +31616,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=錯"
           }
         ]
+      },
+      "mpn": {
+        "pron": "cas"
       }
     },
     "structure": {
@@ -31386,6 +31666,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=埋"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻlo"
       }
     },
     "structure": {
@@ -31433,6 +31716,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=浸"
           }
         ]
+      },
+      "mpn": {
+        "pron": "bolH"
       }
     },
     "structure": {
@@ -31480,6 +31766,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=愛"
           }
         ]
+      },
+      "mpn": {
+        "pron": "maH"
       }
     },
     "structure": {
@@ -31529,6 +31818,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=覚"
           }
         ]
+      },
+      "mpn": {
+        "pron": "kheH"
       }
     },
     "structure": {
@@ -31576,6 +31868,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=癒"
           }
         ]
+      },
+      "mpn": {
+        "pron": "hamH"
       }
     },
     "structure": {
@@ -31623,6 +31918,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=易"
           }
         ]
+      },
+      "mpn": {
+        "pron": "chas"
       }
     },
     "structure": {
@@ -31670,6 +31968,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=奨"
           }
         ]
+      },
+      "mpn": {
+        "pron": "lu"
       }
     },
     "structure": {
@@ -31719,6 +32020,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=育"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻyun"
       }
     },
     "structure": {
@@ -31766,6 +32070,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=唱"
           }
         ]
+      },
+      "mpn": {
+        "pron": "khut"
       }
     },
     "structure": {
@@ -31813,6 +32120,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=檻"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻngoH"
       }
     },
     "structure": {
@@ -31853,13 +32163,16 @@
     "langs": {
       "pn": {
         "pron": "nong1",
-        "mean": "〈不及動詞〉 ㊀膨らむ。大きくなる。広がる。膨れる。◆物体の体積や面積などが大きくなること。 ㊁増える。増す。増加する。加わる。◆物体の数量が増すこと。単に数字が増えることは[行上]で表され区別される。 ㊂腫れる。腫れ上がる。",
+        "mean": "〈不及動詞〉 ㊀膨らむ。大きくなる。広がる。膨れる。◆物体の体積や面積などが大きくなること。 ㊁増える。増す。増加する。加わる。◆物体の数量が増すこと。単に数字が増えることは[行上]で表され区別される。[膨和]もよく使われる。 ㊂腫れる。腫れ上がる。",
         "links": [
           {
             "name": "雰和辞典",
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=膨"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻnoŋ"
       }
     },
     "structure": {
@@ -31888,7 +32201,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "肺",
@@ -31905,6 +32220,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=肺"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻseH"
       }
     },
     "structure": {
@@ -31933,7 +32251,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "撮",
@@ -31950,6 +32270,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=撮"
           }
         ]
+      },
+      "mpn": {
+        "pron": "cho"
       }
     },
     "structure": {
@@ -31980,7 +32303,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "霊",
@@ -31997,6 +32322,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=霊"
           }
         ]
+      },
+      "mpn": {
+        "pron": "rumH"
       }
     },
     "structure": {
@@ -32025,7 +32353,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "臣",
@@ -32042,6 +32372,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=臣"
           }
         ]
+      },
+      "mpn": {
+        "pron": "dzeH"
       }
     },
     "structure": {
@@ -32070,7 +32403,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "昴",
@@ -32087,6 +32422,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=昴"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻsomH"
       }
     },
     "structure": {
@@ -32115,7 +32453,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "己",
@@ -32132,6 +32472,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=己"
           }
         ]
+      },
+      "mpn": {
+        "pron": "raH"
       }
     },
     "structure": {
@@ -32150,7 +32493,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "融",
@@ -32167,6 +32512,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=融"
           }
         ]
+      },
+      "mpn": {
+        "pron": "lusH"
       }
     },
     "structure": {
@@ -32195,7 +32543,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "焦",
@@ -32212,6 +32562,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=焦"
           }
         ]
+      },
+      "mpn": {
+        "pron": "e"
       }
     },
     "structure": {
@@ -32242,7 +32595,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "敏",
@@ -32259,6 +32614,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=敏"
           }
         ]
+      },
+      "mpn": {
+        "pron": "fenH"
       }
     },
     "structure": {
@@ -32287,7 +32645,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "麦",
@@ -32304,6 +32664,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=麦"
           }
         ]
+      },
+      "mpn": {
+        "pron": "quk"
       }
     },
     "structure": {
@@ -32324,7 +32687,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "角",
@@ -32341,6 +32706,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=角"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻhan"
       }
     },
     "structure": {
@@ -32360,7 +32728,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "暇",
@@ -32377,6 +32747,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=暇"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻnep"
       }
     },
     "structure": {
@@ -32405,7 +32778,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "混",
@@ -32422,6 +32797,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=混"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻfet"
       }
     },
     "structure": {
@@ -32452,7 +32830,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "沸",
@@ -32469,6 +32849,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=沸"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻxil"
       }
     },
     "structure": {
@@ -32497,7 +32880,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "栽",
@@ -32514,6 +32899,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=栽"
           }
         ]
+      },
+      "mpn": {
+        "pron": "djoH"
       }
     },
     "structure": {
@@ -32542,7 +32930,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "羽",
@@ -32559,6 +32949,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=羽"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻleŋH"
       }
     },
     "structure": {
@@ -32579,7 +32972,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "尖",
@@ -32596,6 +32991,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=尖"
           }
         ]
+      },
+      "mpn": {
+        "pron": "qhuH"
       }
     },
     "structure": {
@@ -32624,7 +33022,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "紐",
@@ -32641,6 +33041,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=紐"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻwol"
       }
     },
     "structure": {
@@ -32671,7 +33074,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "単",
@@ -32688,6 +33093,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=単"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ce"
       }
     },
     "structure": {
@@ -32716,7 +33124,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "軟",
@@ -32733,6 +33143,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=軟"
           }
         ]
+      },
+      "mpn": {
+        "pron": "kult"
       }
     },
     "structure": {
@@ -32761,7 +33174,9 @@
         "isNode": true
       }
     ],
-    "support": []
+    "support": [
+      "pdot"
+    ]
   },
   {
     "chara": "浪",
@@ -32778,6 +33193,9 @@
             "url": "https://dict.kaeru2193.net/?rule=perfect&text=浪"
           }
         ]
+      },
+      "mpn": {
+        "pron": "ʻhust"
       }
     },
     "structure": {
@@ -32803,6 +33221,433 @@
       },
       {
         "char": "水",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "摩",
+    "id": "639",
+    "strokes": 12,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "faol1",
+        "mean": "〈不及動詞〉擦れる。こすれる。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=摩"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "石",
+          "isNode": true
+        },
+        "second": {
+          "char": "爪",
+          "isNode": true
+        },
+        "type": "s",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "石",
+        "isNode": true
+      },
+      {
+        "char": "爪",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "澄",
+    "id": "640",
+    "strokes": 13,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "nuang1",
+        "mean": "〈形容詞〉透明な。澄んだ。透き通った。クリアな。◆光をよく透過させるような性質。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=澄"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "氷",
+          "isNode": true,
+          "modify": "L"
+        },
+        "second": {
+          "char": "清",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "氷",
+        "isNode": true,
+        "modify": "L"
+      },
+      {
+        "char": "清",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "短",
+    "id": "641",
+    "strokes": 9,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "waong1",
+        "mean": "〈形容詞〉短い。小さい。少ない。少しの。◆空間的、また時間的に短い様子。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=短"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "糸",
+          "isNode": true,
+          "modify": "L"
+        },
+        "second": {
+          "char": "雑",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "糸",
+        "isNode": true,
+        "modify": "L"
+      },
+      {
+        "char": "雑",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "泊",
+    "id": "642",
+    "strokes": 13,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "jung2",
+        "mean": "〈名詞〉港。港湾。船着き場。波止場。埠頭。◆船が泊まることの出来る施設。\n〈造語成分〉泊まる場所。休憩所。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=泊"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "家",
+          "isNode": true,
+          "special": true
+        },
+        "second": {
+          "char": "座",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "家",
+        "isNode": true,
+        "special": true
+      },
+      {
+        "char": "座",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "令",
+    "id": "643",
+    "strokes": 11,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "puan3",
+        "mean": "〈及動詞〉[S が O するよう 於 に] 命令する。指示する。指令する。命じる。言いつける。◆立場が上の者が、下の者に対して物事を行うように指令することを指す。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=令"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "口",
+          "isNode": true
+        },
+        "second": {
+          "char": "成",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "口",
+        "isNode": true
+      },
+      {
+        "char": "成",
+        "isNode": true
+      }
+    ],
+    "support": [
+      "pdot"
+    ]
+  },
+  {
+    "chara": "覆",
+    "id": "644",
+    "strokes": 16,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "fuo2",
+        "mean": "〈及動詞〉覆う。包む。纏わす。被さる。◆あるものが他のものの上に被さり、下にあるものが隠れること。また、汚れや人目から守るために布などを被せて外界から切り離すこと。密閉されているかどうかは含意しない。\n〈名詞〉蓋。キャップ。覆い。◆容器の開口部を覆って閉じるもの。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=覆"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "巾",
+          "isNode": true
+        },
+        "second": {
+          "char": "籠",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "巾",
+        "isNode": true
+      },
+      {
+        "char": "籠",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "床",
+    "id": "645",
+    "strokes": 9,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "ming1",
+        "mean": "〈名詞〉 ㊀床。地面。フロア。◆建物の室内で、足を置いて歩く水平な面。 ㊁底。底辺。どん底。◆物事の一番低いところ。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=床"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "家",
+          "isNode": true,
+          "special": true
+        },
+        "second": {
+          "char": "伏",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "家",
+        "isNode": true,
+        "special": true
+      },
+      {
+        "char": "伏",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "秀",
+    "id": "646",
+    "strokes": 8,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "le2",
+        "mean": "〈形容詞〉[S が 拠 より 向 のことで] 優れている。秀でている。勝っている。より良い。適している。◆ある視点で、特定の物が他の物よりも優れている様子。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=秀"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "手",
+          "isNode": true,
+          "modify": "S"
+        },
+        "second": {
+          "char": "花",
+          "isNode": true
+        },
+        "type": "v",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "手",
+        "isNode": true,
+        "modify": "S"
+      },
+      {
+        "char": "花",
+        "isNode": true
+      }
+    ],
+    "support": []
+  },
+  {
+    "chara": "殻",
+    "id": "647",
+    "strokes": 10,
+    "radical": "-",
+    "langs": {
+      "pn": {
+        "pron": "du2",
+        "mean": "〈名詞〉 ㊀殻。覆い。甲羅。外皮。シェル。◆植物や動物などが、内部を守るために作る硬い覆い。また、一般に物体の表面を覆う硬い外皮や殻を指す。 ㊁鎧。防具。兜。甲冑。アーマー。プロテクター。◆戦闘や危険な作業による負傷から身を守るために装着する防具。日用語としては[覆殻]も多く用いられる。",
+        "links": [
+          {
+            "name": "雰和辞典",
+            "url": "https://dict.kaeru2193.net/?rule=perfect&text=殻"
+          }
+        ]
+      }
+    },
+    "structure": {
+      "tree": {
+        "first": {
+          "char": "木",
+          "isNode": true
+        },
+        "second": {
+          "char": "未",
+          "isNode": true
+        },
+        "type": "h",
+        "isNode": false
+      },
+      "offset": 0,
+      "type": "compound"
+    },
+    "parts": [
+      {
+        "char": "木",
+        "isNode": true
+      },
+      {
+        "char": "未",
         "isNode": true
       }
     ],
