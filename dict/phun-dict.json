@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2025-12-06T08:11:27.250Z",
+  "date": "2025-12-21T13:11:41.480Z",
   "data": [
     {
       "word": "人",
@@ -243,7 +243,7 @@
               "tag": []
             },
             {
-              "translate": "陽教の五元素の一つ。",
+              "translate": "木教の五元素の一つ。",
               "tag": []
             }
           ]
@@ -288,7 +288,7 @@
               "tag": []
             },
             {
-              "translate": "陽教の五元素の一つ。",
+              "translate": "木教の五元素の一つ。",
               "tag": []
             },
             {
@@ -306,7 +306,7 @@
       "num": "6"
     },
     {
-      "word": "落水",
+      "word": "滴水",
       "mean": [
         {
           "type": "不及動詞",
@@ -320,14 +320,14 @@
         }
       ],
       "append": [],
-      "ipa": "/d͡ʒɯa˥˧.so˥˧/",
-      "pron": "jua3 so3",
-      "latinPron": "jûa'sô",
-      "weqo": "jA3 so3",
+      "ipa": "/tai˨.so˥˧/",
+      "pron": "tai2 so3",
+      "latinPron": "tài'sô",
+      "weqo": "tE2 so3",
       "num": "-"
     },
     {
-      "word": "落水盤",
+      "word": "滴水盤",
       "mean": [
         {
           "type": "名詞",
@@ -341,10 +341,10 @@
         }
       ],
       "append": [],
-      "ipa": "/d͡ʒɯa˥˧.so˥˧.ʃɯ˥/",
-      "pron": "jua3 so3 xu1",
-      "latinPron": "jûa'sôxú",
-      "weqo": "jA3 so3 xu",
+      "ipa": "/tai˨.so˥˧.ʃɯ˥/",
+      "pron": "tai2 so3 xu1",
+      "latinPron": "tài'sôxú",
+      "weqo": "tE2 so3 xu",
       "num": "-"
     },
     {
@@ -673,7 +673,7 @@
               "tag": []
             },
             {
-              "translate": "陽教の五元素の一つ。",
+              "translate": "木教の五元素の一つ。",
               "tag": []
             }
           ]
@@ -697,7 +697,7 @@
               "tag": []
             },
             {
-              "translate": "陽教の五元素の一つ。",
+              "translate": "木教の五元素の一つ。",
               "tag": []
             },
             {
@@ -882,7 +882,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "天空。陽教において神が住まうとされる場所。",
+              "translate": "天空。木教において神が住まうとされる場所。",
               "tag": []
             },
             {
@@ -1351,7 +1351,7 @@
             {
               "translate": "宇宙。ユニバース。森羅万象。万物。",
               "tag": [],
-              "meaning": "本来は陽教用語であり、永球を含めた雰宇宙の全てを指す。"
+              "meaning": "本来は木教用語であり、永球を含めた雰宇宙の全てを指す。"
             }
           ]
         }
@@ -1772,9 +1772,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "五材。陽教五元素。",
+              "translate": "五材。木教五元素。",
               "tag": [],
-              "meaning": "雰国で主に信仰される陽教における五元素。[気]、[火]、[土]、[水]、[木]からなる。"
+              "meaning": "雰国で主に信仰される[木宗]（木教）における五元素。[気]、[火]、[土]、[水]、[木]からなる。"
             }
           ]
         }
@@ -3453,8 +3453,9 @@
           "type": "助詞",
           "explanation": [
             {
-              "translate": "～の。所有を表す。",
-              "tag": []
+              "translate": "～の。～の持つ。～の所有する。～に属する。",
+              "tag": [],
+              "meaning": "所有している物品、またはある集合に所属している要素を表す助詞。単純な修飾語としては用いられないことに注意。"
             }
           ]
         }
@@ -3486,6 +3487,35 @@
       "latinPron": "gàing",
       "weqo": "gE2G",
       "num": "51"
+    },
+    {
+      "word": "今敏",
+      "mean": [
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "即座に。直ちに。今すぐ。即時。迅速に。すかさず。",
+              "tag": [],
+              "meaning": "遅れることなく、その場ですぐに行われる様子。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gaiŋ˨˦.ɸain˨/",
+      "pron": "gaing2 fain2",
+      "latinPron": "gàingfàin",
+      "weqo": "gE2G fE2N",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "虚時"
+          ]
+        }
+      ]
     },
     {
       "word": "時",
@@ -3707,6 +3737,26 @@
       "num": "-"
     },
     {
+      "word": "夜先鏡",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "夜景。夜の景色。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lai˥.taol˥˧.ɸɯn˥˧/",
+      "pron": "lai1 taol3 fun3",
+      "latinPron": "láitâolfûn",
+      "weqo": "lE tO3L fu3N",
+      "num": "-"
+    },
+    {
       "word": "行先",
       "mean": [
         {
@@ -3734,7 +3784,7 @@
           "type": "不及動詞",
           "explanation": [
             {
-              "translate": "後退する。下がる。後ずさりする。",
+              "translate": "後退する。下がる。後ずさりする。退く。",
               "tag": [],
               "meaning": "[行元]が来た方向へ引き返すことを指すのに対し、[行背]は体を正面に向けたまま後方へ下がる動作を指す。"
             }
@@ -3813,8 +3863,15 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "風。",
+              "translate": "風。気流。ウィンド。",
               "tag": []
+            },
+            {
+              "translate": "旗。幟。",
+              "tag": [
+                "文"
+              ],
+              "meaning": "目印を書いた布を棒の先に取り付けたもの。現代では普通[標風]と呼ばれる。"
             }
           ]
         },
@@ -3966,6 +4023,66 @@
       "latinPron": "yái",
       "weqo": "yE",
       "num": "58"
+    },
+    {
+      "word": "之処",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "ここ。こちら。こっち。この場所。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯa˥.jai˥/",
+      "pron": "kua1 yai1",
+      "latinPron": "kúayái",
+      "weqo": "kA yE",
+      "num": "-"
+    },
+    {
+      "word": "其処",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "そこ。そちら。そっち。その場所。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sɛn˥.jai˥/",
+      "pron": "cen1 yai1",
+      "latinPron": "cényái",
+      "weqo": "ceN yE",
+      "num": "-"
+    },
+    {
+      "word": "彼処",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "あそこ。あちら。あっち。あの場所。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɛŋ˥˧.jai˥/",
+      "pron": "heng3 yai1",
+      "latinPron": "hêngyái",
+      "weqo": "he3G yE",
+      "num": "-"
     },
     {
       "word": "処虚",
@@ -4332,13 +4449,13 @@
       "num": "-"
     },
     {
-      "word": "衆談",
+      "word": "集談",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "議論。会議。カンファレンス。",
+              "translate": "議論。会議。討論。カンファレンス。",
               "tag": []
             }
           ]
@@ -4354,10 +4471,10 @@
         }
       ],
       "append": [],
-      "ipa": "/mail˨˦.ʃi˨/",
-      "pron": "mail2 xi2",
-      "latinPron": "màilxì",
-      "weqo": "mE2L xi2",
+      "ipa": "/naim˨˦.ʃi˨/",
+      "pron": "naim2 xi2",
+      "latinPron": "nàimxì",
+      "weqo": "nE2M xi2",
       "num": "-"
     },
     {
@@ -5147,7 +5264,7 @@
               "meaning": "目に見えない、空間を満たしている気体。「大気」という意味では[気風]も多く用いられる。"
             },
             {
-              "translate": "陽教の五元素の一つ。",
+              "translate": "木教の五元素の一つ。",
               "tag": []
             },
             {
@@ -7664,7 +7781,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "コンピュータ。電子計算機。",
+              "translate": "コンピューター。電子計算機。電脳。",
               "tag": []
             }
           ]
@@ -7675,7 +7792,15 @@
       "pron": "main2 ha3",
       "latinPron": "màinhâ",
       "weqo": "mE2N ha3",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "*脳機"
+          ]
+        }
+      ]
     },
     {
       "word": "雷画",
@@ -7704,8 +7829,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "PC。パソコン。",
-              "tag": []
+              "translate": "パソコン。コンピューター。PC。",
+              "tag": [],
+              "meaning": "[雷脳]とほぼ同義だが、[脳機]はより具体的で身近な家庭用コンピューターなどを指す傾向にあり、広い意味で電子計算機全体を指す[雷脳]とは多少異なる。"
             }
           ]
         }
@@ -10907,6 +11033,48 @@
       ]
     },
     {
+      "word": "水死",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "溺れ死ぬ。溺死する。水死する。",
+              "tag": [],
+              "meaning": "水を吸い込んだことによる窒息死。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/so˥˧.sil˥˧/",
+      "pron": "so3 sil3",
+      "latinPron": "sô'sîl",
+      "weqo": "so3 si3L",
+      "num": "-"
+    },
+    {
+      "word": "喉閉",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "窒息する。喉に詰まる。息が詰まる。",
+              "tag": [],
+              "meaning": "異物などによって気道が塞がり、呼吸ができなくなること。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sas˨.goŋ˥˧/",
+      "pron": "sas2 gong3",
+      "latinPron": "sàsgông",
+      "weqo": "sa2S go3G",
+      "num": "-"
+    },
+    {
       "word": "筋",
       "mean": [
         {
@@ -12506,9 +12674,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "皿。",
+              "translate": "皿。器。食器。椀。プレート。",
               "tag": [],
-              "meaning": "料理を盛る平たい食器。"
+              "meaning": "主に料理を盛る用途の食器で、[杯]ほど深くないもの。"
             }
           ]
         }
@@ -15294,24 +15462,45 @@
       ]
     },
     {
-      "word": "暁宗",
+      "word": "木宗",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "陽教。",
+              "translate": "木教。ルン教。",
               "tag": [],
-              "meaning": "雰国で主に信仰されている宗教。"
+              "meaning": "雰国の国民の七割ほどが信仰している多神教で、世界樹（[宇木]）が信仰の中心に据えられる。雰地域の神話を含む民間信仰に起源を持ち、時代が下るにつれて暦や占いなど、様々な要素と結びつけられて現代に至る。伝統的なシンボルの一つである[五天紋]は雰国の国旗にも配置されており、歴史的にも雰文化と密接な関係にある。"
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/mi˥.mai˥/",
-      "pron": "mi1 mai1",
-      "latinPron": "mí'mái",
-      "weqo": "mi mE",
+      "ipa": "/lɯŋ˨.mai˥/",
+      "pron": "lung2 mai1",
+      "latinPron": "lùngmái",
+      "weqo": "lu2G mE",
+      "num": "-"
+    },
+    {
+      "word": "宇木",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "宇木。世界樹。",
+              "tag": [],
+              "meaning": "[木教]で主な信仰の対象とされる、世界の中心に生えていると信じられている巨木。その幹は天界へ、根は水獄（地下に存在する巨大な海）へ通じており、その葉の隙間から漏れてくる光が空の天体であるとされる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɯo˥.lɯŋ˨/",
+      "pron": "duo1 lung2",
+      "latinPron": "dúo'lùng",
+      "weqo": "dU lu2G",
       "num": "-"
     },
     {
@@ -16043,7 +16232,16 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "固い。強度が高い。",
+              "translate": "固い。硬い。強度が高い。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "固まる。硬化する。固くなる。",
               "tag": []
             }
           ]
@@ -16055,6 +16253,27 @@
       "latinPron": "nàil",
       "weqo": "nE2L",
       "num": "218"
+    },
+    {
+      "word": "固跡",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "化石。",
+              "tag": [],
+              "meaning": "生物の古い死骸が、長い期間を掛けて硬化し地層中に残ったもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nail˨.kɯa˥˧/",
+      "pron": "nail2 kua3",
+      "latinPron": "nàilkûa",
+      "weqo": "nE2L kA3",
+      "num": "-"
     },
     {
       "word": "固心",
@@ -18143,8 +18362,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "ボトル。瓶。蓋ができる液体などを入れる容器。",
-              "tag": []
+              "translate": "ボトル。瓶。缶。水瓶。甕。",
+              "tag": [],
+              "meaning": "液体などを入れられる容器で、硬い素材で作られており蓋で密封することが出来るもの。"
             }
           ]
         }
@@ -18155,6 +18375,27 @@
       "latinPron": "zùa",
       "weqo": "zA2",
       "num": "248"
+    },
+    {
+      "word": "垂瓶",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "水筒。ボトル。水瓶。",
+              "tag": [],
+              "meaning": "[瓶]のうち、特に出かける際などに水分を携行するための容器。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯon˨˦.zɯa˨/",
+      "pron": "huon2 zua2",
+      "latinPron": "hùonzùa",
+      "weqo": "hU2N zA2",
+      "num": "-"
     },
     {
       "word": "鉄瓶",
@@ -18748,9 +18989,8 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "電話する。通話する。",
-              "tag": [],
-              "meaning": "目的語には通話の相手を取る。"
+              "translate": "[S が O と] 電話する。通話する。",
+              "tag": []
             }
           ]
         }
@@ -18829,7 +19069,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "机。デスク。テーブル。カウンター。",
+              "translate": "机。デスク。テーブル。カウンター。台。",
               "tag": [],
               "meaning": "上半身の高さで使う様々な用途の台を指す。高さと直接的には関係ないため、ちゃぶ台など、座った状態で使う低い机もこれに該当する。"
             }
@@ -18847,6 +19087,35 @@
           "type": "関連語",
           "explanation": [
             "椅"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "机楽",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "賭け事。ギャンブル。賭博。博打。",
+              "tag": [],
+              "meaning": "金銭を賭けて争う遊びの総称。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/las˥˧.jao˨/",
+      "pron": "las3 yao2",
+      "latinPron": "lâsyào",
+      "weqo": "la3S yO2",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "据"
           ]
         }
       ]
@@ -18918,9 +19187,14 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "足場。高台。台。舞台。土塁。",
+              "translate": "足場。高台。台。",
               "tag": [],
-              "meaning": "建設現場などで高所作業を補助するために設けられる構造物。また、舞台のステージのような、周囲より高く平らになっているような構造物。より小さなものは[立椅]と呼ばれる。"
+              "meaning": "建設現場などで高所作業を補助するために設けられる構造物。より小さなものは[立椅]と呼ばれる。"
+            },
+            {
+              "translate": "舞台。ステージ。土塁。",
+              "tag": [],
+              "meaning": "劇場などで演劇や舞踊を見せたり、軍事施設などで周辺への見張りを行う目的で、周囲より高く平らに作られた構造物。"
             },
             {
               "translate": "プラットフォーム。ホーム。",
@@ -19237,8 +19511,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "コップ。飲み物などを入れる高さのある食器。グラス。",
-              "tag": []
+              "translate": "コップ。盃。グラス。カップ。湯呑み。",
+              "tag": [],
+              "meaning": "飲み物などの液体を入れる用途の食器で、[皿]のように平たくなく、また[瓶]とは違って蓋ができないものを指す。"
             }
           ]
         },
@@ -20749,7 +21024,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "貯める。溜める。貯蔵する。",
+              "translate": "[S が O を 於 に] 貯める。溜める。貯蔵する。",
               "tag": []
             }
           ]
@@ -22728,6 +23003,10 @@
             {
               "translate": "[S が O を 元 から] 引く。減算する。",
               "tag": []
+            },
+            {
+              "translate": "（金銭やエネルギー、時間などを）使う。消費する。費やす。使用する。消耗する。",
+              "tag": []
             }
           ]
         }
@@ -23670,7 +23949,15 @@
       "pron": "ka1",
       "latinPron": "ká",
       "weqo": "ka",
-      "num": "312"
+      "num": "312",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "背"
+          ]
+        }
+      ]
     },
     {
       "word": "外顔",
@@ -24826,7 +25113,8 @@
         {
           "type": "対義語",
           "explanation": [
-            "先*"
+            "先*",
+            "顔"
           ]
         }
       ]
@@ -26455,7 +26743,7 @@
           "type": "不及動詞",
           "explanation": [
             {
-              "translate": "吸う。息を吸う。",
+              "translate": "吸う。吸い込む。息を吸う。",
               "tag": []
             }
           ]
@@ -26476,6 +26764,27 @@
       "latinPron": "ô",
       "weqo": "o3",
       "num": "361"
+    },
+    {
+      "word": "吸引",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "吸い込む。呑み込む。飲み込む。吸い取る。",
+              "tag": [],
+              "meaning": "主に激しい水流や気流が、物体を元々あった位置から連れ去ることを指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/o˥˧.tɛ˥˧/",
+      "pron": "o3 te3",
+      "latinPron": "ôtê",
+      "weqo": "o3 te3",
+      "num": "-"
     },
     {
       "word": "絞",
@@ -28362,12 +28671,12 @@
           "explanation": [
             {
               "translate": "（幾何学での）面。平面。",
-              "tag": [],
-              "meaning": "印刷物やWebページを構成するそれぞれの面。助数詞[葉]とともに用いられることが多い。"
+              "tag": []
             },
             {
               "translate": "ページ。頁。紙面。",
-              "tag": []
+              "tag": [],
+              "meaning": "印刷物を構成するそれぞれの面。助数詞[葉]とともに用いられることが多い。日用語としては[紙平]も良く使われる。"
             }
           ]
         },
@@ -28388,6 +28697,27 @@
       "latinPron": "xém",
       "weqo": "xeM",
       "num": "384"
+    },
+    {
+      "word": "紙平",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "ページ。頁。紙面。紙葉。面。",
+              "tag": [],
+              "meaning": "本を始めとする印刷物を構成する、それぞれの紙面。[平]とほぼ同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɛ˨.ʃɛm˥/",
+      "pron": "ye2 xem1",
+      "latinPron": "yèxém",
+      "weqo": "ye2 xeM",
+      "num": "-"
     },
     {
       "word": "平六",
@@ -28950,6 +29280,16 @@
             {
               "translate": "掴む。握る。しっかり持つ。",
               "tag": []
+            }
+          ]
+        },
+        {
+          "type": "数詞",
+          "explanation": [
+            {
+              "translate": "10。十。A(10)。",
+              "tag": [],
+              "meaning": "指の本数を元にした、10進法における10を指す単位。通常は前に数詞を付けて単位として扱われ、「[一][握]」は[甲]と同義である。"
             }
           ]
         }
@@ -30477,8 +30817,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "葉。植物に備わる光合成をするための器官。",
-              "tag": []
+              "translate": "葉。葉っぱ。木の葉。",
+              "tag": [],
+              "meaning": "植物に備わる光合成をするための器官。"
             },
             {
               "translate": "ある物事や構造の末端。",
@@ -31310,8 +31651,13 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "置く。設置する。配置する。位置を定めて置く。",
+              "translate": "[S が O を 在 に] 置く。設置する。配置する。位置を定めて置く。",
               "tag": []
+            },
+            {
+              "translate": "[S が O （金銭や言葉）を 向 に対して] 賭ける。賭する。",
+              "tag": [],
+              "meaning": "金銭などを担保にして勝負事で争うこと。"
             }
           ]
         }
@@ -31321,7 +31667,15 @@
       "pron": "mo1",
       "latinPron": "mó",
       "weqo": "mo",
-      "num": "415"
+      "num": "415",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "机楽"
+          ]
+        }
+      ]
     },
     {
       "word": "与据",
@@ -32164,8 +32518,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "天井。部屋の上面。",
-              "tag": []
+              "translate": "天井。",
+              "tag": [],
+              "meaning": "室内から見て上面に張られ、屋根裏と室内とを隔てる構造物。"
             }
           ]
         }
@@ -32175,7 +32530,44 @@
       "pron": "duo1 ho3",
       "latinPron": "dúohô",
       "weqo": "dU ho3",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "家覆"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "家覆",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "屋根。甍。屋上。",
+              "tag": [],
+              "meaning": "建物の上部を覆い、雨や日差しを遮る構造物。また、その上の空間で、人が利用できるように平らにされた屋上。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bɛ˥.ɸɯo˨/",
+      "pron": "be1 fuo2",
+      "latinPron": "béfùo",
+      "weqo": "be fU2",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "宇地"
+          ]
+        }
+      ]
     },
     {
       "word": "返",
@@ -32186,7 +32578,7 @@
             {
               "translate": "裏返す。捲る。めくる。裏側が見えるようにする。",
               "tag": [],
-              "meaning": "カードをめくるなどの動作を指す。"
+              "meaning": "本のページやカードをめくるなどの動作を指す。"
             }
           ]
         }
@@ -34368,6 +34760,27 @@
       "num": "455"
     },
     {
+      "word": "而魂",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "～ように見える。～ように聞こえる。～ように思う。",
+              "tag": [],
+              "meaning": "「[目]A[而魂]B」（AはBのように見える）、「[耳]A[而魂]B」（AはBのように聞こえる）といった形でのみ現れる。直接的に知っている事柄ではなく、印象や経験から推測した事柄であることを表す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɛ˥˧.nɯm˨/",
+      "pron": "le3 num2",
+      "latinPron": "lê'nùm",
+      "weqo": "le3 nu2M",
+      "num": "-"
+    },
+    {
       "word": "心浪",
       "mean": [
         {
@@ -34724,7 +35137,7 @@
             {
               "translate": "人道。道徳。人倫。道義。",
               "tag": [],
-              "meaning": "人として従うべき道。本来は陽教用語だが、近代以降に語義が拡張された。"
+              "meaning": "人として従うべき道。本来は木教用語だが、近代以降に語義が拡張された。"
             }
           ]
         }
@@ -34881,7 +35294,7 @@
             {
               "translate": "五天紋。",
               "tag": [],
-              "meaning": "雰天国の国旗の中心に描かれる、陽教の五元素を象徴した五角形のシンボル。"
+              "meaning": "雰天国の国旗の中心に描かれる、木教の五元素を象徴した五角形のシンボル。木教の伝統的な象徴の一つであるとともに、雰国では公的な場面で用いられることが多いため事実上の国章としても扱われる。"
             }
           ]
         }
@@ -34891,6 +35304,35 @@
       "pron": "luong1 vas1 fu3",
       "latinPron": "lúongvásfû",
       "weqo": "lUG vaS fu3",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "五天風"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "五天風",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "五天旗。五材旗。",
+              "tag": [],
+              "meaning": "[宇緑]（五元素の[木]を象徴する深い青緑色）を下地に、白色の[五天紋]が中心に配置された雰天国の国旗。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lɯoŋ˥.βas˥.tɛm˥˧/",
+      "pron": "luong1 vas1 tem3",
+      "latinPron": "lúongvástêm",
+      "weqo": "lUG vaS te3M",
       "num": "-"
     },
     {
@@ -37674,7 +38116,7 @@
       ]
     },
     {
-      "word": "建石",
+      "word": "瓦方",
       "mean": [
         {
           "type": "名詞",
@@ -37688,10 +38130,10 @@
         }
       ],
       "append": [],
-      "ipa": "/ʃɛs˥.hais˥˧/",
-      "pron": "xes1 hais3",
-      "latinPron": "xéshâis",
-      "weqo": "xeS hE3S",
+      "ipa": "/βɛŋ˥˧.zɯŋ˨/",
+      "pron": "veng3 zung2",
+      "latinPron": "vêngzùng",
+      "weqo": "ve3G zu2G",
       "num": "-"
     },
     {
@@ -37922,6 +38364,48 @@
       "latinPron": "zúo",
       "weqo": "zU",
       "num": "496"
+    },
+    {
+      "word": "神祈",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "祈り。祈祷文。呪文。お経。マントラ。真言。祝詞。まじない。詠唱。",
+              "tag": [],
+              "meaning": "神などの超自然的存在に祈るため、またはそれによって呪術的な効果を得るために使われる、儀式的な文句。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃo˨.zɯo˥/",
+      "pron": "xo2 zuo1",
+      "latinPron": "xòzúo",
+      "weqo": "xo2 zU",
+      "num": "-"
+    },
+    {
+      "word": "蟾神祈",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "カエルの祈り。ちんぷんかんぷん。珍紛漢紛。頓珍漢。さっぱり理解できない。",
+              "tag": [],
+              "meaning": "内容が専門的だったり、また単に支離滅裂であったりするために理解できないような話題や言葉。「[耳]～[而魂][蟾神祈]」（～はカエルの祈りのように聞こえる）という形で良く用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zɯa˥.ʃo˨.zɯo˥/",
+      "pron": "zua1 xo2 zuo1",
+      "latinPron": "zúaxòzúo",
+      "weqo": "zA xo2 zU",
+      "num": "-"
     },
     {
       "word": "赦",
@@ -40094,7 +40578,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "刺す。突き刺す。突く。",
+              "translate": "刺す。突き刺す。突く。刺さる。",
               "tag": [],
               "meaning": "[針]は細長いもので穴を開けることを指すのに対し、[刺]は主に尖った武器などで攻撃することを指す。"
             },
@@ -41165,6 +41649,54 @@
       ]
     },
     {
+      "word": "越廻",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "短絡する。ショートする。漏電する。",
+              "tag": [],
+              "meaning": "絶縁の不足などで電気回路の想定されていない2点間が接続され、抵抗がほとんど無い状態で大電流が流れる現象。"
+            },
+            {
+              "translate": "思考停止する。頭が真っ白になる。パニックになる。テンパる。",
+              "tag": [
+                "俗"
+              ]
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯa˥.ɸaŋ˥/",
+      "pron": "vua1 fang1",
+      "latinPron": "vúafáng",
+      "weqo": "vA faG",
+      "num": "-"
+    },
+    {
+      "word": "溢熱",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "過熱する。オーバーヒートする。",
+              "tag": [],
+              "meaning": "機械の内部などで温度が異常に上昇し、動作不良をきたすような状態。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯal˨.sɯo˥˧/",
+      "pron": "ual2 suo3",
+      "latinPron": "ùalsûo",
+      "weqo": "A2L sU3",
+      "num": "-"
+    },
+    {
       "word": "廻深",
       "mean": [
         {
@@ -41259,7 +41791,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "会話する。話す。",
+              "translate": "[S が O と 向 について] 会話する。話す。",
               "tag": [],
               "meaning": "複数人が言葉を交わして思考を伝え合う行為。"
             }
@@ -42018,6 +42550,86 @@
       "num": "542"
     },
     {
+      "word": "成緩",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "遅刻する。遅れる。遅延する。",
+              "tag": [],
+              "meaning": "本来決まった時間から遅れること。[緩]の項も参照。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ba˨.jɯa˥˧/",
+      "pron": "ba2 yua3",
+      "latinPron": "bàyûa",
+      "weqo": "ba2 yA3",
+      "num": "-"
+    },
+    {
+      "word": "虚時",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "瞬間的な。一瞬の。即席の。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "一瞬で。瞬く間に。すぐに。あっという間に。",
+              "tag": [],
+              "meaning": "動作などが非常に短い時間で完了する様子。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯa˥˧.tɯa˨/",
+      "pron": "ua3 tua2",
+      "latinPron": "ûatùa",
+      "weqo": "A3 tA2",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "今敏"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "虚時巡行",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "瞬間移動。テレポート。",
+              "tag": [],
+              "meaning": "瞬間的に離れた場所を移動する、空想上の技術。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɯa˥˧.tɯa˨˦.kaol˨.jaom˥/",
+      "pron": "ua3 tua2 kaol2 yaom1",
+      "latinPron": "ûatùakàolyáom",
+      "weqo": "A3 tA2 kO2L yOM",
+      "num": "-"
+    },
+    {
       "word": "緩眠",
       "mean": [
         {
@@ -42036,6 +42648,27 @@
       "pron": "yua3 lo3",
       "latinPron": "yûa'lô",
       "weqo": "yA3 lo3",
+      "num": "-"
+    },
+    {
+      "word": "成緩眠",
+      "mean": [
+        {
+          "type": "成句",
+          "explanation": [
+            {
+              "translate": "寝坊する。寝過ごす。遅起きする。",
+              "tag": [],
+              "meaning": "本来の起床時刻より遅い時間に起きること。[緩眠]の項も参照。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ba˨.jɯa˥˧.lo˥˧/",
+      "pron": "ba2 yua3 lo3",
+      "latinPron": "bàyûa'lô",
+      "weqo": "ba2 yA3 lo3",
       "num": "-"
     },
     {
@@ -46498,6 +47131,27 @@
       "num": "586"
     },
     {
+      "word": "標風",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "旗。幟。のぼり。フラグ。旗印。",
+              "tag": [],
+              "meaning": "団体のシンボルや何かしらの合図、目印などを書いた布を棒の先に固定し、掲げて広く見えるようにする道具。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃaon˥.tɛm˥˧/",
+      "pron": "xaon1 tem3",
+      "latinPron": "xáontêm",
+      "weqo": "xON te3M",
+      "num": "-"
+    },
+    {
       "word": "標石",
       "mean": [
         {
@@ -47289,6 +47943,64 @@
       "num": "598"
     },
     {
+      "word": "上位",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "高度な。高等な。高尚な。ハイレベルな。卓越した。高品質の。高級な。上等な。",
+              "tag": [],
+              "meaning": "物事の程度や品質が容易に到達できないほど高い様子。専門的な学問や気品があって洗練されている様子を形容する。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/liŋ˥˧.dɯn˨/",
+      "pron": "ling3 dun2",
+      "latinPron": "lîngdùn",
+      "weqo": "li3G du2N",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "下位"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "下位",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "低級な。下等の。低レベルな。低品質な。低俗な。下品な。初歩的な。",
+              "tag": [],
+              "meaning": "物事の程度や品質が低い様子。序列の下の方に位置しているものや下品な様子、粗悪な製品などを形容する。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ja˥˧.dɯn˨/",
+      "pron": "ya3 dun2",
+      "latinPron": "yâdùn",
+      "weqo": "ya3 du2N",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "上位"
+          ]
+        }
+      ]
+    },
+    {
       "word": "位処",
       "mean": [
         {
@@ -47613,6 +48325,15 @@
               "meaning": "主に建物の階層を数える。順序を含意して特定の階を指す場合は「～[序][畳]」とする。"
             }
           ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "層。レイヤー。階層。",
+              "tag": []
+            }
+          ]
         }
       ],
       "append": [],
@@ -47630,6 +48351,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "土畳",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "地層。",
+              "tag": [],
+              "meaning": "土壌中に見られる、土砂や岩石などが堆積してできた層状の構造。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ao˥˧.zao˥˧/",
+      "pron": "ao3 zao3",
+      "latinPron": "âozâo",
+      "weqo": "O3 zO3",
+      "num": "-"
     },
     {
       "word": "畳音",
@@ -50672,6 +51414,11 @@
             {
               "translate": "トゲ。棘。",
               "tag": []
+            },
+            {
+              "translate": "（動植物の）針。毒針。",
+              "tag": [],
+              "meaning": "生物が自衛のために持つ針状の器官。種によっては毒を持つものもある。"
             }
           ]
         }
@@ -51669,6 +52416,27 @@
       "num": "649"
     },
     {
+      "word": "緻走",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "忙しい。多忙な。慌ただしい。繁忙。せわしない。てんてこ舞いの。",
+              "tag": [],
+              "meaning": "仕事や課題などのするべき事が多く、暇な時間を設けることが難しい状態。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸa˥˧.jɛm˨/",
+      "pron": "fa3 yem2",
+      "latinPron": "fâyèm",
+      "weqo": "fa3 ye2M",
+      "num": "-"
+    },
+    {
       "word": "緻録",
       "mean": [
         {
@@ -52250,6 +53018,32 @@
       "num": "659"
     },
     {
+      "word": "幕整",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "礼儀正しい。丁寧な。行儀の良い。",
+              "tag": [],
+              "meaning": "[幕]（冠）と[整]（整える）より。社会の規律をわきまえ、敬意を持って他人に接するような気質の形容。"
+            },
+            {
+              "translate": "堅苦しい。格式張った。かしこまった。",
+              "tag": [],
+              "meaning": "前述の語義を悪いニュアンスで捉えたもの。必要以上に厳格で、窮屈に感じるような性質の形容。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/lan˨.lao˥/",
+      "pron": "lan2 lao1",
+      "latinPron": "lànláo",
+      "weqo": "la2N lO",
+      "num": "-"
+    },
+    {
       "word": "幕衣",
       "mean": [
         {
@@ -52358,6 +53152,141 @@
       "latinPron": "tûm",
       "weqo": "tu3M",
       "num": "661"
+    },
+    {
+      "word": "瓦",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "焼き物。陶磁器。瀬戸物。陶器。土器。瓦。",
+              "tag": [],
+              "meaning": "粘土や鉱物を釜で焼いて作られる硬い素材の総称。建材や器などに用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɛŋ˥˧/",
+      "pron": "veng3",
+      "latinPron": "vêng",
+      "weqo": "ve3G",
+      "num": "662"
+    },
+    {
+      "word": "瓦皿",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "瀬戸物。陶製の皿。食器。焼き物。",
+              "tag": [],
+              "meaning": "焼き物の内、食事を盛るために平たい形で作られたもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɛŋ˥˧.pɯaŋ˥/",
+      "pron": "veng3 puang1",
+      "latinPron": "vêngpúang",
+      "weqo": "ve3G pAG",
+      "num": "-"
+    },
+    {
+      "word": "畳瓦",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "瓦。粘土瓦。屋根瓦。甍。レンガ。",
+              "tag": [],
+              "meaning": "粘土を焼いて作った屋根材。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zao˥˧.βɛŋ˥˧/",
+      "pron": "zao3 veng3",
+      "latinPron": "zâovêng",
+      "weqo": "zO3 ve3G",
+      "num": "-"
+    },
+    {
+      "word": "毒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "毒。毒物。毒薬。毒素。",
+              "tag": [],
+              "meaning": "生物に害を与える性質。また、社会的・精神的・政治的に好ましくないとされる性質。"
+            }
+          ]
+        },
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "有害な。有毒な。危険な。害がある。悪影響を及ぼす。不健全な。非常識な。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bis˥/",
+      "pron": "bis1",
+      "latinPron": "bís",
+      "weqo": "biS",
+      "num": "663"
+    },
+    {
+      "word": "毒算序",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "マルウェア。コンピューターウイルス。コンピュータウイルス。",
+              "tag": [],
+              "meaning": "標的となるコンピューターに侵入し、データを盗み出したり破壊したりするなどの攻撃を行うプログラムの総称。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bis˥.bɯo˨.bi˥/",
+      "pron": "bis1 buo2 bi1",
+      "latinPron": "bísbùobí",
+      "weqo": "biS bU2 bi",
+      "num": "-"
+    },
+    {
+      "word": "悪毒",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "毒物。毒薬。毒素。",
+              "tag": [],
+              "meaning": "[毒]とほぼ同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡ʃon˥.bis˥/",
+      "pron": "qon1 bis1",
+      "latinPron": "qónbís",
+      "weqo": "qoN biS",
+      "num": "-"
     }
   ]
 }
