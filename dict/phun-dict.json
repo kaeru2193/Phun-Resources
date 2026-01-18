@@ -1,6 +1,6 @@
 {
   "author": "kaeru2193",
-  "date": "2025-12-21T13:11:41.480Z",
+  "date": "2026-01-18T11:42:14.995Z",
   "data": [
     {
       "word": "人",
@@ -455,11 +455,7 @@
             {
               "translate": "熟れた果実。熟した果実。フルーツ。",
               "tag": [],
-              "meaning": "食べ頃の果実全般を指すが、特にりんごを指す場合も多い。"
-            },
-            {
-              "translate": "りんご。",
-              "tag": []
+              "meaning": "食べ頃の果実全般を指す。"
             }
           ]
         }
@@ -469,6 +465,27 @@
       "pron": "vuos1 baon2",
       "latinPron": "vúosbàon",
       "weqo": "vUS bO2N",
+      "num": "-"
+    },
+    {
+      "word": "白柿",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "りんご。林檎。リンゴ。アップル。",
+              "tag": [],
+              "meaning": "現界のリンゴに似た果実。またはその実を付ける樹木。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kaiŋ˨˦.d͡ʒɛ˨/",
+      "pron": "kaing2 je2",
+      "latinPron": "kàingjè",
+      "weqo": "kE2G je2",
       "num": "-"
     },
     {
@@ -826,9 +843,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "灼陽。おひさま。永球太陽。",
+              "translate": "灼陽。おひさま。",
               "tag": [],
-              "meaning": "永球（[大丸]）の主星である恒星。"
+              "meaning": "永球の主星である恒星。日用語としては[日天]も多く用いられる。"
             },
             {
               "translate": "日。一日。灼陽日。",
@@ -838,22 +855,20 @@
           ]
         }
       ],
-      "append": [
-        {
-          "type": "世界観",
-          "explanation": [
-            {
-              "translate": "灼陽は、太陽の1.15倍の質量を持つ主系列星である。スペクトル型はF8V、表面温度は約6200Kであり、ハビタブルゾーンは太陽のそれより遠方に位置する。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/kɯaŋ˥/",
       "pron": "kuang1",
       "latinPron": "kúang",
       "weqo": "kAG",
-      "num": "19"
+      "num": "19",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "日天*"
+          ]
+        }
+      ]
     },
     {
       "word": "日暁",
@@ -963,13 +978,23 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "灼陽。",
+              "translate": "灼陽。おひさま。永球太陽。",
               "tag": []
             }
           ]
         }
       ],
-      "append": [],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "永球（[大丸]）の主星である恒星であり、地球の太陽と比較して1.15倍の質量を持つ主系列星である。スペクトル型はF8V、表面温度は約6200Kであり、ハビタブルゾーンは地球太陽のそれより遠方に位置する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
       "ipa": "/kɯaŋ˥.βas˥/",
       "pron": "kuang1 vas1",
       "latinPron": "kúangvás",
@@ -983,17 +1008,69 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "淑月。永球月。",
+              "translate": "淑月。おつきさま。永球月。",
               "tag": []
             }
           ]
         }
       ],
-      "append": [],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "永球（[大丸]）が持つ天然で安定的に存在する唯一の衛星である。直径は永球の26%ほどで、公転周期は約30.53永球日。また永球からは32.36日の周期で淑月が満ち欠けする様子が見られ、ここから[二十八顔]などの暦が成立した。",
+              "tag": []
+            }
+          ]
+        }
+      ],
       "ipa": "/βo˨.βas˥/",
       "pron": "vo2 vas1",
       "latinPron": "vòvás",
       "weqo": "vo2 vaS",
+      "num": "-"
+    },
+    {
+      "word": "二十八顔",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "淑月齢。淑月三十二齢。",
+              "tag": [],
+              "meaning": "淑月（[月天]）がおよそ32日周期で満ち欠けを繰り返すことから、それぞれの月相が見られる32日に対して順に名前を付けたもの。後には方位や年を表す用途、占いなどにも転用された他、現界の東洋における十干十二支のように、単に物事の順序などを表す符号としても多く用いられるようになった。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/bɯan˥˧.tail˥.lɯ˥˧.ka˥/",
+      "pron": "buan3 tail1 lu3 ka1",
+      "latinPron": "bûantáillûká",
+      "weqo": "bA3N tEL lu3 ka",
+      "num": "-"
+    },
+    {
+      "word": "月顔",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "月相。月齢。",
+              "tag": [],
+              "meaning": "永球から見られる、淑月の明るく輝いて見える部分の様相。約32.36日の周期で満ち欠けを繰り返す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βo˨.ka˥/",
+      "pron": "vo2 ka1",
+      "latinPron": "vòká",
+      "weqo": "vo2 ka",
       "num": "-"
     },
     {
@@ -1064,6 +1141,75 @@
       "pron": "qim3 luong3",
       "latinPron": "qîmlûong",
       "weqo": "qi3M lU3G",
+      "num": "-"
+    },
+    {
+      "word": "地丸",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "地球。アース。",
+              "tag": [
+                "現"
+              ],
+              "meaning": "現界の地球。漢語「地球」の翻訳借用から。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.lɯoŋ˥˧/",
+      "pron": "ho3 luong3",
+      "latinPron": "hô'lûong",
+      "weqo": "ho3 lU3G",
+      "num": "-"
+    },
+    {
+      "word": "地丸日",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "地球太陽。太陽。サン。",
+              "tag": [
+                "現"
+              ],
+              "meaning": "現界の太陽。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.lɯoŋ˥˧.kɯaŋ˥/",
+      "pron": "ho3 luong3 kuang1",
+      "latinPron": "hô'lûongkúang",
+      "weqo": "ho3 lU3G kAG",
+      "num": "-"
+    },
+    {
+      "word": "地丸月",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "地球月。月。太陰。ムーン。",
+              "tag": [
+                "現"
+              ],
+              "meaning": "現界の月。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ho˥˧.lɯoŋ˥˧.βo˨/",
+      "pron": "ho3 luong3 vo2",
+      "latinPron": "hô'lûongvò",
+      "weqo": "ho3 lU3G vo2",
       "num": "-"
     },
     {
@@ -1349,7 +1495,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "宇宙。ユニバース。森羅万象。万物。",
+              "translate": "宇宙。ユニバース。森羅万象。万物。自然界。",
               "tag": [],
               "meaning": "本来は木教用語であり、永球を含めた雰宇宙の全てを指す。"
             }
@@ -1602,8 +1748,9 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "確認する。チェックする。認証する。",
-              "tag": []
+              "translate": "確認する。チェックする。確かめる。",
+              "tag": [],
+              "meaning": "物事の状況やその正確性などを、自ら見て確かめる行為。"
             }
           ]
         }
@@ -1652,8 +1799,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "永球月。おつきさま。",
-              "tag": []
+              "translate": "淑月。おつきさま。",
+              "tag": [],
+              "meaning": "永球の持つ唯一の天然の衛星。日用語としては[月天]も多く用いられる。"
             }
           ]
         }
@@ -1663,7 +1811,15 @@
       "pron": "vo2",
       "latinPron": "vò",
       "weqo": "vo2",
-      "num": "25"
+      "num": "25",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "月天*"
+          ]
+        }
+      ]
     },
     {
       "word": "一",
@@ -3844,7 +4000,8 @@
           "explanation": [
             {
               "translate": "雨が降る。",
-              "tag": []
+              "tag": [],
+              "meaning": "主語として[天]を取る。"
             }
           ]
         }
@@ -3871,7 +4028,7 @@
               "tag": [
                 "文"
               ],
-              "meaning": "目印を書いた布を棒の先に取り付けたもの。現代では普通[標風]と呼ばれる。"
+              "meaning": "目印や図案を書いた布を棒の先に取り付けたもの。現代では普通[標風]と呼ばれ、単体では造語成分としてのみ使われる。"
             }
           ]
         },
@@ -3927,8 +4084,9 @@
           "type": "不及動詞",
           "explanation": [
             {
-              "translate": "飛ぶ。",
+              "translate": "飛ぶ。飛行する。飛翔する。",
               "tag": [],
+              "hidden": "飛ばす。",
               "meaning": "陸上において、地面から離れた状態で移動することを指す。"
             }
           ]
@@ -4007,7 +4165,7 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "場所。",
+              "translate": "場所。地点。所。",
               "tag": []
             },
             {
@@ -4022,7 +4180,15 @@
       "pron": "yai1",
       "latinPron": "yái",
       "weqo": "yE",
-      "num": "58"
+      "num": "58",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "領"
+          ]
+        }
+      ]
     },
     {
       "word": "之処",
@@ -5598,7 +5764,16 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "書く。記す。",
+              "translate": "書く。記す。記述する。記録する。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "造語成分",
+          "explanation": [
+            {
+              "translate": "書かれたもの。書かれた文章。",
               "tag": []
             }
           ]
@@ -5686,8 +5861,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "文章。言語で記述されたもの。",
-              "tag": []
+              "translate": "文章。文。記述。テキスト。記事。",
+              "tag": [],
+              "meaning": "文字を使って記録された言語。"
             }
           ]
         },
@@ -5696,7 +5872,8 @@
           "explanation": [
             {
               "translate": "読む。読解する。",
-              "tag": []
+              "tag": [],
+              "meaning": "書かれた文章に目を通し、それを読解する行為。声に出して読み上げる動作は[唱]と表される。"
             }
           ]
         }
@@ -5706,27 +5883,95 @@
       "pron": "cuang2",
       "latinPron": "cùang",
       "weqo": "cA2G",
-      "num": "77"
+      "num": "77",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "羅記",
+            "書",
+            "唱"
+          ]
+        }
+      ]
     },
     {
-      "word": "記片",
+      "word": "単記",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "（文の）章。セクション。段落。",
+              "translate": "文。一文。センテンス。一条。",
               "tag": [],
-              "meaning": "文章の中で、内容のまとまりがある一部分。"
+              "meaning": "単独で発話した時に内容を持つ、最小の完結した言語表現。主語、述語、目的語などをその内部に含んでいることが多い。句点やそれに類する記号が末尾に置かれることが多いが、雰語においては文末の句読点は必ずしも必要ではない。"
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/t͡sɯaŋ˨.pi˥/",
-      "pron": "cuang2 pi1",
-      "latinPron": "cùangpí",
-      "weqo": "cA2G pi",
+      "ipa": "/t͡sɛ˥.t͡sɯaŋ˨/",
+      "pron": "ce1 cuang2",
+      "latinPron": "cécùang",
+      "weqo": "ce cA2G",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "羅記"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "羅記",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "文章。連続した文。テキスト。段落。",
+              "tag": [],
+              "meaning": "二つ以上の文が並ぶことで構成される文章。但し実際には単独の文を指しても使われることがあり、あらゆる文章を指す[記]の類語的な側面が大きい。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/gan˨˦.t͡sɯaŋ˨/",
+      "pron": "gan2 cuang2",
+      "latinPron": "gàncùang",
+      "weqo": "ga2N cA2G",
+      "num": "-",
+      "link": [
+        {
+          "type": "対義語",
+          "explanation": [
+            "単記"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "区書",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "章。セクション。段落。パラグラフ。節。",
+              "tag": [],
+              "meaning": "長い文章を、一定のまとまりで区切ったもの。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/niŋ˥.sɯa˥˧/",
+      "pron": "ning1 sua3",
+      "latinPron": "níngsûa",
+      "weqo": "niG sA3",
       "num": "-"
     },
     {
@@ -6523,23 +6768,24 @@
       "num": "90"
     },
     {
-      "word": "遊園",
+      "word": "都園",
       "mean": [
         {
           "type": "名詞",
           "explanation": [
             {
-              "translate": "公園。",
-              "tag": []
+              "translate": "公園。パーク。運動場。",
+              "tag": [],
+              "meaning": "住民が憩いの場や運動場として利用することを目的として作られた、公共の区域。樹木やその他の植物が植えられていることが多い。"
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/dao˥.t͡ʃɯa˥˧/",
-      "pron": "dao1 qua3",
-      "latinPron": "dáoqûa",
-      "weqo": "dO qA3",
+      "ipa": "/t͡sɛl˨.t͡ʃɯa˥˧/",
+      "pron": "cel2 qua3",
+      "latinPron": "cèlqûa",
+      "weqo": "ce2L qA3",
       "num": "-"
     },
     {
@@ -7273,7 +7519,7 @@
           "type": "副詞",
           "explanation": [
             {
-              "translate": "～したい。",
+              "translate": "～したい。～を欲する。～するつもりだ。",
               "tag": []
             }
           ]
@@ -7289,7 +7535,9 @@
         {
           "type": "類語",
           "explanation": [
-            "伴*"
+            "伴*",
+            "求",
+            "希*"
           ]
         }
       ]
@@ -7324,23 +7572,24 @@
       ]
     },
     {
-      "word": "做要",
+      "word": "做求",
       "mean": [
         {
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "～を必要とする。～を要する。",
-              "tag": []
+              "translate": "[S は O を] 必要とする。要する。不可欠である。（時間や金銭が）掛かる。",
+              "tag": [],
+              "meaning": "ある物事を行うのに、その要素が欠けてはならないということ。"
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/hil˥˧.pɛŋ˥/",
-      "pron": "hil3 peng1",
-      "latinPron": "hîlpéng",
-      "weqo": "hi3L peG",
+      "ipa": "/hil˥˧.βao˥/",
+      "pron": "hil3 vao1",
+      "latinPron": "hîlváo",
+      "weqo": "hi3L vO",
       "num": "-"
     },
     {
@@ -8178,6 +8427,27 @@
       ]
     },
     {
+      "word": "生日",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "誕生日。バースデイ。",
+              "tag": [],
+              "meaning": "年の中で、ある人が生まれたのと同じ日。すなわち、その人の年齢が加算される日。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/zai˥˧.kɯaŋ˥/",
+      "pron": "zai3 kuang1",
+      "latinPron": "zâikúang",
+      "weqo": "zE3 kAG",
+      "num": "-"
+    },
+    {
       "word": "生様",
       "mean": [
         {
@@ -8445,8 +8715,19 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "雲。空に浮かぶ白いもくもく。",
-              "tag": []
+              "translate": "雲。クラウド。",
+              "tag": [],
+              "meaning": "空に浮かぶ白いもくもく。"
+            }
+          ]
+        },
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "曇る。曇りになる。曇天になる。",
+              "tag": [],
+              "meaning": "主語として[天]を取る。また、天候としての「曇り」は[高雲]と表現することに留意。"
             }
           ]
         }
@@ -8457,6 +8738,35 @@
       "latinPron": "pù",
       "weqo": "pu2",
       "num": "105"
+    },
+    {
+      "word": "高雲",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "曇り。曇天。",
+              "tag": [],
+              "meaning": "空が雲に覆われており、地面に日光が差し込まないような天気。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/wiŋ˥˧.pɯ˨/",
+      "pron": "wing3 pu2",
+      "latinPron": "wîngpù",
+      "weqo": "wi3G pu2",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "雲"
+          ]
+        }
+      ]
     },
     {
       "word": "雲雲",
@@ -8734,7 +9044,7 @@
             {
               "translate": "場所。土地。地。敷地。ところ。",
               "tag": [],
-              "meaning": "漠然とした「場所」を表すために使われる、意味範囲の広い単語。"
+              "meaning": "漠然とした「場所」を指す、意味範囲の広い単語。但し、[処]と比べると幅を持った敷地や領地を指すニュアンスが若干強い。"
             }
           ]
         },
@@ -8759,7 +9069,8 @@
         {
           "type": "類語",
           "explanation": [
-            "政"
+            "政",
+            "処"
           ]
         }
       ]
@@ -12122,7 +12433,16 @@
       "pron": "nuo2",
       "latinPron": "nùo",
       "weqo": "nU2",
-      "num": "148"
+      "num": "148",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "欲",
+            "希*"
+          ]
+        }
+      ]
     },
     {
       "word": "遊",
@@ -15260,7 +15580,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "何。事物の疑問詞。",
+              "translate": "何。何が。",
               "tag": []
             }
           ]
@@ -15280,7 +15600,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "どこ。場所の疑問詞。",
+              "translate": "どこ。いずこ。どの辺り。",
               "tag": []
             }
           ]
@@ -15300,7 +15620,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "いつ。時間の疑問詞。",
+              "translate": "いつ。何時。",
               "tag": []
             }
           ]
@@ -15320,7 +15640,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "誰。人物の疑問詞。",
+              "translate": "誰。どなた。どちら。",
               "tag": []
             }
           ]
@@ -15340,7 +15660,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "なぜ。理由の疑問詞。",
+              "translate": "なぜ。どうして。なんで。",
               "tag": []
             }
           ]
@@ -15360,7 +15680,7 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "どうやって。方法の疑問詞。",
+              "translate": "どうやって。どのように。",
               "tag": []
             }
           ]
@@ -15380,7 +15700,16 @@
           "type": "代名詞",
           "explanation": [
             {
-              "translate": "どんな。どのような。様子の疑問詞。",
+              "translate": "どんな。どのような。どういった。どれくらい。",
+              "tag": []
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "どれほど。どんなに。どこまで。どれだけ。",
               "tag": []
             }
           ]
@@ -15394,6 +15723,180 @@
       "num": "-"
     },
     {
+      "word": "之昆",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "こんな。このような。こういった。これくらい。",
+              "tag": [],
+              "meaning": "様子と程度の近称代名詞。指しているそのものではなく、対象の持つ性質や程度などに言及する。"
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "これほど。こんなに。ここまで。これだけ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯa˥.t͡ʃi˥/",
+      "pron": "kua1 qi1",
+      "latinPron": "kúaqí",
+      "weqo": "kA qi",
+      "num": "-"
+    },
+    {
+      "word": "其昆",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "そんな。そのような。そういった。それくらい。",
+              "tag": [],
+              "meaning": "様子と程度の文脈参照代名詞。"
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "それほど。そんなに。そこまで。それだけ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sɛn˥.t͡ʃi˥/",
+      "pron": "cen1 qi1",
+      "latinPron": "cénqí",
+      "weqo": "ceN qi",
+      "num": "-"
+    },
+    {
+      "word": "彼昆",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "あんな。あのような。ああいった。あれくらい。",
+              "tag": [],
+              "meaning": "様子と程度の遠称代名詞。"
+            }
+          ]
+        },
+        {
+          "type": "副詞",
+          "explanation": [
+            {
+              "translate": "あれほど。あんなに。あそこまで。あれだけ。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɛŋ˥˧.t͡ʃi˥/",
+      "pron": "heng3 qi1",
+      "latinPron": "hêngqí",
+      "weqo": "he3G qi",
+      "num": "-"
+    },
+    {
+      "word": "手何",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "どれ。どっち。どちら。",
+              "tag": [],
+              "meaning": "選択の疑問詞。少数の選択肢から選ぶ際に用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/taos˥˧.naol˥˧/",
+      "pron": "taos3 naol3",
+      "latinPron": "tâosnâol",
+      "weqo": "tO3S nO3L",
+      "num": "-"
+    },
+    {
+      "word": "之手",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "こっち。これ。こちら。",
+              "tag": [],
+              "meaning": "選択の近称代名詞。少数の選択肢から選ぶ際に用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯa˥.taos˥˧/",
+      "pron": "kua1 taos3",
+      "latinPron": "kúatâos",
+      "weqo": "kA tO3S",
+      "num": "-"
+    },
+    {
+      "word": "其手",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "そっち。それ。そちら。",
+              "tag": [],
+              "meaning": "選択の文脈参照代名詞。少数の選択肢から選ぶ際に用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sɛn˥.taos˥˧/",
+      "pron": "cen1 taos3",
+      "latinPron": "céntâos",
+      "weqo": "ceN tO3S",
+      "num": "-"
+    },
+    {
+      "word": "彼手",
+      "mean": [
+        {
+          "type": "代名詞",
+          "explanation": [
+            {
+              "translate": "あっち。あれ。あちら。",
+              "tag": [],
+              "meaning": "選択の遠称代名詞。少数の選択肢から選ぶ際に用いる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɛŋ˥˧.taos˥˧/",
+      "pron": "heng3 taos3",
+      "latinPron": "hêngtâos",
+      "weqo": "he3G tO3S",
+      "num": "-"
+    },
+    {
       "word": "如",
       "mean": [
         {
@@ -15401,22 +15904,13 @@
           "explanation": [
             {
               "translate": "～か。～ですか。",
-              "tag": []
+              "tag": [],
+              "meaning": "是非疑問詞。肯定文の末尾に置き、肯定か否定の返答が返ってくることを期待して質問する。"
             }
           ]
         }
       ],
-      "append": [
-        {
-          "type": "文法",
-          "explanation": [
-            {
-              "translate": "是非疑問詞。肯定文の末尾に置きYes/Noの二択で質問する。",
-              "tag": []
-            }
-          ]
-        }
-      ],
+      "append": [],
       "ipa": "/lol˥/",
       "pron": "lol1",
       "latinPron": "lól",
@@ -16481,7 +16975,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "包む。蓋をする。密閉する。覆う。塞ぐ。",
+              "translate": "閉じ込める。蓋をする。密閉する。覆う。包む。塞ぐ。",
               "tag": [],
               "meaning": "3次元的に隙間なく閉じることを指す。"
             }
@@ -19258,8 +19752,9 @@
           "type": "副詞",
           "explanation": [
             {
-              "translate": "～してください。要請。",
-              "tag": []
+              "translate": "～してください。～をお願いします。",
+              "tag": [],
+              "meaning": "相手に対する要請や願望の表現。"
             }
           ]
         },
@@ -19267,7 +19762,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "～を欲しがる。～を求める。",
+              "translate": "[S が O を] 欲しがる。求める。乞う。請う。請求する。",
               "tag": []
             }
           ]
@@ -19278,7 +19773,17 @@
       "pron": "vao1",
       "latinPron": "váo",
       "weqo": "vO",
-      "num": "255"
+      "num": "255",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "祈",
+            "欲",
+            "希*"
+          ]
+        }
+      ]
     },
     {
       "word": "帳",
@@ -19502,6 +20007,69 @@
       "pron": "yao2 fai3",
       "latinPron": "yàofâi",
       "weqo": "yO2 fE3",
+      "num": "-"
+    },
+    {
+      "word": "楽戦",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "スポーツ。競技。競争。武芸。",
+              "tag": [],
+              "meaning": "主に身体機能を使って行う遊びのうち、他人との競争の要素があるもの。例えばクライミングは日本語では「スポーツ」に含まれることが多いが、競争要素は少ないため雰語ではより意味範囲の広い[体労]などに含めるのが普通である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jao˨˦.bas˨/",
+      "pron": "yao2 bas2",
+      "latinPron": "yàobàs",
+      "weqo": "yO2 ba2S",
+      "num": "-"
+    },
+    {
+      "word": "飛楽戦",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "球技。ボールスポーツ。",
+              "tag": [],
+              "meaning": "直訳で「飛ばすスポーツ」。概ね日本語の「球技」と同様の範囲を指す。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dail˨˦.jao˨˦.bas˨/",
+      "pron": "dail2 yao2 bas2",
+      "latinPron": "dàilyàobàs",
+      "weqo": "dE2L yO2 ba2S",
+      "num": "-"
+    },
+    {
+      "word": "体労",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "運動。体操。エクササイズ。活動。",
+              "tag": [],
+              "meaning": "仕事のため、また楽しみや健康増進などを目的として行う、肉体を使った活動の全般。楽しみのための活動以外をも含むという点で、日本語の「運動」よりも意味範囲が多少広いことに注意。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βao˥˧.po˨/",
+      "pron": "vao3 po2",
+      "latinPron": "vâopò",
+      "weqo": "vO3 po2",
       "num": "-"
     },
     {
@@ -23300,7 +23868,7 @@
           "type": "形容詞",
           "explanation": [
             {
-              "translate": "不幸な。恵まれない。惨めな。残念な。",
+              "translate": "不幸な。恵まれない。惨めな。残念な。辛い。",
               "tag": []
             }
           ]
@@ -23309,7 +23877,7 @@
           "type": "不及動詞",
           "explanation": [
             {
-              "translate": "落ちこぼれる。",
+              "translate": "落ちこぼれる。落ちぶれる。零落する。",
               "tag": []
             }
           ]
@@ -24350,8 +24918,9 @@
           "type": "名詞",
           "explanation": [
             {
-              "translate": "耳。頭にある音を聞くための器官。",
-              "tag": []
+              "translate": "耳。耳介。イヤー。",
+              "tag": [],
+              "meaning": "頭の両脇にある、音を聞くための器官。"
             }
           ]
         },
@@ -24379,6 +24948,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "撮耳",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "面白い。興味深い。耳寄りの。",
+              "tag": [],
+              "meaning": "人の興味をそそるような、魅力的な物事。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sao˥.mɛ˨/",
+      "pron": "cao1 me2",
+      "latinPron": "cáo'mè",
+      "weqo": "cO me2",
+      "num": "-"
     },
     {
       "word": "耳話",
@@ -30146,8 +30736,9 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "（インターネットで）検索する。ググる。",
-              "tag": []
+              "translate": "検索する。調べる。ググる。",
+              "tag": [],
+              "meaning": "[雷蔓]で、検索エンジンなどを用いて情報を検索する行為。"
             }
           ]
         }
@@ -31012,6 +31603,27 @@
       "num": "410"
     },
     {
+      "word": "名令",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "[S が 於 を 在 に] 呼びつける。呼び出す。呼び寄せる。召喚する。召す。",
+              "tag": [],
+              "meaning": "人や動物などを遠くから自分の方に来させる行為。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯal˥.pɯan˥˧/",
+      "pron": "jual1 puan3",
+      "latinPron": "júalpûan",
+      "weqo": "jAL pA3N",
+      "num": "-"
+    },
+    {
       "word": "名記",
       "mean": [
         {
@@ -31678,6 +32290,27 @@
       ]
     },
     {
+      "word": "据物",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "賞金。賞品。配当。払い戻し。見返り。懸賞金。利益。",
+              "tag": [],
+              "meaning": "賭けなどの争い事、大会、懸賞などで褒美として与えられる金銭や物品。転じて、ある行動や決断をすることで得られると予想される利益。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/mo˥.kao˥/",
+      "pron": "mo1 kao1",
+      "latinPron": "mókáo",
+      "weqo": "mo kO",
+      "num": "-"
+    },
+    {
       "word": "与据",
       "mean": [
         {
@@ -32095,7 +32728,8 @@
           "explanation": [
             {
               "translate": "ありがとうございます。ありがとう。感謝を伝える挨拶。",
-              "tag": []
+              "tag": [],
+              "meaning": "概ね相手との関係性に関わらず使える挨拶。特定の事柄に関して感謝を伝える際は「～[而][賜善]」と表現する。"
             }
           ]
         }
@@ -33350,7 +33984,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "証明する。裏付ける。論証する。認証する。",
+              "translate": "証明する。裏付ける。論証する。明らかにする。",
               "tag": []
             },
             {
@@ -36298,7 +36932,7 @@
             {
               "translate": "恐らく。おそらく。多分。きっと。～だろう。～であろう。",
               "tag": [],
-              "meaning": "可能性が半分より高い状態を表す。時間軸には関係なく、過去や未来の出来事に対しても使う。"
+              "meaning": "言い切ることはできないものの可能性が高く、おおよそ半分以上の可能性で物事が起こると思われる状態。時間軸には関係なく、過去や未来の出来事に対しても使う。"
             }
           ]
         }
@@ -36317,6 +36951,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "概位",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "確率。可能性。蓋然性。公算。見込み。",
+              "tag": [],
+              "meaning": "物事が起こることの確からしさ。特に数学の文脈では、試行を繰り返した時に、物事が起こる頻度を0から1の実数値で表したものとして定義される。但し、そこから離れて具体的な数値を伴わずに言及される場面も多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tam˥.dɯn˨/",
+      "pron": "tam1 dun2",
+      "latinPron": "támdùn",
+      "weqo": "taM du2N",
+      "num": "-"
     },
     {
       "word": "従",
@@ -36377,6 +37032,29 @@
       "pron": "cai3 vas1",
       "latinPron": "câivás",
       "weqo": "cE3 vaS",
+      "num": "-"
+    },
+    {
+      "word": "従揺",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "[S が 於 と] 共鳴する。共振する。シンクロする。",
+              "tag": [
+                "物"
+              ],
+              "meaning": "固有振動数に等しい周期の振動を受けることで、自らの振幅が増大する現象。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/t͡sai˥˧.kɯan˥˧/",
+      "pron": "cai3 kuan3",
+      "latinPron": "câikûan",
+      "weqo": "cE3 kA3N",
       "num": "-"
     },
     {
@@ -36662,7 +37340,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "準備する。備える。こしらえる。用意する。",
+              "translate": "[S が O （すること）を] 準備する。備える。こしらえる。用意する。",
               "tag": [],
               "meaning": "その後に必要になるものを前もって手に入れておくことを指す。"
             }
@@ -37152,73 +37830,6 @@
       "num": "-"
     },
     {
-      "word": "之昆",
-      "mean": [
-        {
-          "type": "代名詞",
-          "explanation": [
-            {
-              "translate": "こんな。このような。こういった。",
-              "tag": [],
-              "meaning": "指しているそのものではなく、対象の持つ性質や程度などに言及する。"
-            }
-          ]
-        },
-        {
-          "type": "副詞",
-          "explanation": [
-            {
-              "translate": "これほど。こんなに。ここまで。これだけ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
-      "append": [],
-      "ipa": "/kɯa˥.t͡ʃi˥/",
-      "pron": "kua1 qi1",
-      "latinPron": "kúaqí",
-      "weqo": "kA qi",
-      "num": "-"
-    },
-    {
-      "word": "其昆",
-      "mean": [
-        {
-          "type": "代名詞",
-          "explanation": [
-            {
-              "translate": "そんな。そのような。そういった。",
-              "tag": []
-            }
-          ]
-        },
-        {
-          "type": "副詞",
-          "explanation": [
-            {
-              "translate": "それほど。そんなに。そこまで。それだけ。",
-              "tag": []
-            }
-          ]
-        }
-      ],
-      "append": [],
-      "ipa": "/t͡sɛn˥.t͡ʃi˥/",
-      "pron": "cen1 qi1",
-      "latinPron": "cénqí",
-      "weqo": "ceN qi",
-      "num": "-",
-      "link": [
-        {
-          "type": "類語",
-          "explanation": [
-            "之昆*"
-          ]
-        }
-      ]
-    },
-    {
       "word": "庵昆",
       "mean": [
         {
@@ -37656,6 +38267,27 @@
           ]
         }
       ]
+    },
+    {
+      "word": "纏物",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "贈り物。お土産。ギフト。",
+              "tag": [],
+              "meaning": "礼や挨拶の意味で他人に渡す品物。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dim˥˧.kao˥/",
+      "pron": "dim3 kao1",
+      "latinPron": "dîmkáo",
+      "weqo": "di3M kO",
+      "num": "-"
     },
     {
       "word": "不纏",
@@ -38363,7 +38995,16 @@
       "pron": "zuo1",
       "latinPron": "zúo",
       "weqo": "zU",
-      "num": "496"
+      "num": "496",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "希*",
+            "求"
+          ]
+        }
+      ]
     },
     {
       "word": "神祈",
@@ -39799,16 +40440,13 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "質問する。聞く。尋ねる。問う。",
+              "translate": "[S が O を 於 に] 質問する。聞く。尋ねる。問う。",
               "tag": []
             },
             {
-              "translate": "辞書を引く。辞典で調べる。",
-              "tag": []
-            },
-            {
-              "translate": "（インターネットを）検索する。ググる。",
-              "tag": []
+              "translate": "辞書を引く。辞典で調べる。インターネットで検索する。",
+              "tag": [],
+              "meaning": "[尋選]、[尋蔓]などを短縮した形として用いられる。これらの項も参照。"
             }
           ]
         },
@@ -39829,6 +40467,27 @@
       "latinPron": "fù",
       "weqo": "fu2",
       "num": "513"
+    },
+    {
+      "word": "尋選",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "検索する。調べる。照合する。照会する。フィルターを掛ける。",
+              "tag": [],
+              "meaning": "情報を集めたデータベースやリストなどから、必要な情報だけを選び出す行為。インターネット（雷蔓）での検索は特に[尋蔓]とも言う。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɯ˨.gɯ˥/",
+      "pron": "fu2 gu1",
+      "latinPron": "fùgú",
+      "weqo": "fu2 gu",
+      "num": "-"
     },
     {
       "word": "尋楽",
@@ -40803,6 +41462,48 @@
       "pron": "tel1 vas1 jua3 ho3",
       "latinPron": "télvásjûahô",
       "weqo": "teL vaS jA3 ho3",
+      "num": "-"
+    },
+    {
+      "word": "到天",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "成功する。達成する。成就する。果たされる。",
+              "tag": [],
+              "meaning": "成句「[到天落地]」由来の表現。自分の目指していた目標が達成されること。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/tɛl˥.βas˥/",
+      "pron": "tel1 vas1",
+      "latinPron": "télvás",
+      "weqo": "teL vaS",
+      "num": "-"
+    },
+    {
+      "word": "落地",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "失敗する。しくじる。ミスする。頓挫する。やり損なう。",
+              "tag": [],
+              "meaning": "成句「[到天落地]」由来の表現。方法や状況が悪かったために目標が達成されず、悪い結果がもたらされること。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯa˥˧.ho˥˧/",
+      "pron": "jua3 ho3",
+      "latinPron": "jûahô",
+      "weqo": "jA3 ho3",
       "num": "-"
     },
     {
@@ -44515,7 +45216,8 @@
           "explanation": [
             {
               "translate": "大学。大学校。カレッジ。ユニバーシティ。",
-              "tag": []
+              "tag": [],
+              "meaning": "専門的な学芸を教授・研究するための機関。"
             }
           ]
         }
@@ -46246,6 +46948,27 @@
       "num": "577"
     },
     {
+      "word": "輪巻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "タイヤ。車輪。",
+              "tag": [],
+              "meaning": "車輪の外周に取り付けられ、衝撃の吸収や滑りの防止などの役割を担う部品。現代ではゴム製であることが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kaos˨˦.so˨/",
+      "pron": "kaos2 so2",
+      "latinPron": "kàossò",
+      "weqo": "kO2S so2",
+      "num": "-"
+    },
+    {
       "word": "流輪",
       "mean": [
         {
@@ -47139,7 +47862,7 @@
             {
               "translate": "旗。幟。のぼり。フラグ。旗印。",
               "tag": [],
-              "meaning": "団体のシンボルや何かしらの合図、目印などを書いた布を棒の先に固定し、掲げて広く見えるようにする道具。"
+              "meaning": "団体のシンボルや何かしらの図案、目印などを書いた布を棒の先に固定し、掲げて広く見えるようにする道具。"
             }
           ]
         }
@@ -47419,7 +48142,7 @@
             {
               "translate": "[S が O することを 向 に対して] 許可する。認める。許す。承認する。承諾する。",
               "tag": [],
-              "meaning": "目上の者や機関がある行為を許すこと。"
+              "meaning": "目上の者や特定の組織がある行為を許すこと。"
             }
           ]
         },
@@ -47477,7 +48200,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "許す。認める。通す。許可する。審査に通す。",
+              "translate": "許す。認める。通す。許可する。承認する。認証する。審査に通す。",
               "tag": [],
               "meaning": "[許]のうち、特に行政を始めとする公的な機関が行うものを指す。"
             }
@@ -47489,7 +48212,7 @@
             {
               "translate": "免許。許可。資格。ライセンス。証明書。",
               "tag": [],
-              "meaning": "公的な機関が、普通は禁止されている行為に対して許しを与えること。またそれを示す書類。"
+              "meaning": "公的な機関が、普通は禁止されている行為に対して許しを与えたことを示す書類。"
             }
           ]
         }
@@ -47499,7 +48222,50 @@
       "pron": "muo3 faong3",
       "latinPron": "mûofâong",
       "weqo": "mU3 fO3G",
-      "num": "-"
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "求許"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "求許",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "[S が O を 向 に] 申し込む。申請する。認証される。許可をもらう。",
+              "tag": [],
+              "meaning": "認証を受ける側の者が、目上の者や組織に対して認証を求める行為。"
+            },
+            {
+              "translate": "[S が 向 に] ログインする。サインインする。認証する。",
+              "tag": [],
+              "meaning": "コンピュータやWebサービスを使う際に、本人確認をすることでアクセス許可を得る操作。アカウントを登録する操作は[入和]とすることが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βao˥.mɯo˥˧/",
+      "pron": "vao1 muo3",
+      "latinPron": "váo'mûo",
+      "weqo": "vO mU3",
+      "num": "-",
+      "link": [
+        {
+          "type": "関連語",
+          "explanation": [
+            "許通",
+            "論正"
+          ]
+        }
+      ]
     },
     {
       "word": "許入",
@@ -47529,7 +48295,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "選ぶ。選択する。選定する。選る。篩う。",
+              "translate": "選ぶ。選択する。選定する。選る。篩う。決める。",
               "tag": [],
               "meaning": "多くの物の中から好ましいものを取り出すことを指す。"
             }
@@ -49680,7 +50446,8 @@
             {
               "translate": "腫れる。腫れ上がる。",
               "tag": [],
-              "hidden": "腫らす。"
+              "hidden": "腫らす。",
+              "meaning": "怪我や炎症などで、体の組織の一部が赤く膨らむ現象。"
             }
           ]
         }
@@ -49705,6 +50472,108 @@
           ]
         }
       ]
+    },
+    {
+      "word": "熱赤",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "炎症。腫れ。腫脹。熱。",
+              "tag": [],
+              "meaning": "病原体が侵入したり体が傷ついたりした際に、体の一部が腫れ、熱を持ったり痛みを引き起こしたりする現象。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɯo˥˧.βɯos˥/",
+      "pron": "suo3 vuos1",
+      "latinPron": "sûovúos",
+      "weqo": "sU3 vUS",
+      "num": "-"
+    },
+    {
+      "word": "肺熱",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "肺炎。肺の炎症。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/sɛ˨.sɯo˥˧/",
+      "pron": "se2 suo3",
+      "latinPron": "sè'sûo",
+      "weqo": "se2 sU3",
+      "num": "-"
+    },
+    {
+      "word": "脳熱",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "脳炎。脳の炎症。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ha˥˧.sɯo˥˧/",
+      "pron": "ha3 suo3",
+      "latinPron": "hâ'sûo",
+      "weqo": "ha3 sU3",
+      "num": "-"
+    },
+    {
+      "word": "肌熱",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "皮膚炎。皮膚の炎症。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɯa˨.sɯo˥˧/",
+      "pron": "fua2 suo3",
+      "latinPron": "fùa'sûo",
+      "weqo": "fA2 sU3",
+      "num": "-"
+    },
+    {
+      "word": "目熱",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "眼炎。目の炎症。充血。",
+              "tag": [],
+              "meaning": "異物の侵入による目の充血などを含む概念である。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɛ˥.sɯo˥˧/",
+      "pron": "ke1 suo3",
+      "latinPron": "ké'sûo",
+      "weqo": "ke sU3",
+      "num": "-"
     },
     {
       "word": "和膨",
@@ -49979,7 +50848,7 @@
           "type": "及動詞",
           "explanation": [
             {
-              "translate": "摘みとる。ちぎる。もぐ。もぎ取る。採る。採取する。取り外す。",
+              "translate": "摘みとる。ちぎる。もぐ。もぎ取る。摘む。採る。採取する。取り外す。",
               "tag": [],
               "meaning": "物体をつまんで引っ張り、無理やり取り外す行為を指す。部分ごとに独立している物、例えば「果物をもぐ」という表現には[撮取]を使うのに対し、元が一体であるもの、例えば「紙をちぎる」という表現では[取片]を用いる。"
             }
@@ -50938,6 +51807,48 @@
           ]
         }
       ]
+    },
+    {
+      "word": "暇楽",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "娯楽。遊び。気晴らし。息抜き。余興。アミューズメント。",
+              "tag": [],
+              "meaning": "仕事や学業から離れて、余暇に行う楽しい物事。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nɛ˥˧.jao˨/",
+      "pron": "ne3 yao2",
+      "latinPron": "nêyào",
+      "weqo": "ne3 yO2",
+      "num": "-"
+    },
+    {
+      "word": "暇楽領",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "遊園地。アミューズメントパーク。レジャー施設。テーマパーク。",
+              "tag": [],
+              "meaning": "主に屋外で、遊ぶための乗り物や商業施設などを備えた複合施設。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/nɛ˥˧.jao˨.ba˥/",
+      "pron": "ne3 yao2 ba1",
+      "latinPron": "nêyàobá",
+      "weqo": "ne3 yO2 ba",
+      "num": "-"
     },
     {
       "word": "混",
@@ -52416,6 +53327,27 @@
       "num": "649"
     },
     {
+      "word": "車緻",
+      "mean": [
+        {
+          "type": "形容詞",
+          "explanation": [
+            {
+              "translate": "渋滞した。混雑した。詰まった。",
+              "tag": [],
+              "meaning": "道路の輸送能力を超えた数の車が走行しようとしたことで、進みが遅くなった状態。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɛ˥˧.ɸa˥˧/",
+      "pron": "ye3 fa3",
+      "latinPron": "yêfâ",
+      "weqo": "ye3 fa3",
+      "num": "-"
+    },
+    {
       "word": "緻走",
       "mean": [
         {
@@ -53287,6 +54219,520 @@
       "latinPron": "qónbís",
       "weqo": "qoN biS",
       "num": "-"
+    },
+    {
+      "word": "柿",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "柿。パーシモン。",
+              "tag": [],
+              "meaning": "現界の東洋でとれる柿によく似た、赤色の実。またはその実を付ける樹木。日用語としては[柿果]もよく用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɛ˨/",
+      "pron": "je2",
+      "latinPron": "jè",
+      "weqo": "je2",
+      "num": "664"
+    },
+    {
+      "word": "柿果",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "柿。パーシモン。",
+              "tag": [],
+              "meaning": "[柿]と同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɛ˨˦.baon˨/",
+      "pron": "je2 baon2",
+      "latinPron": "jèbàon",
+      "weqo": "je2 bO2N",
+      "num": "-"
+    },
+    {
+      "word": "乾柿",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "干し柿。",
+              "tag": [],
+              "meaning": "柿の実を干した食べ物。"
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "感想",
+          "explanation": [
+            {
+              "translate": "とてもおいしい。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "ipa": "/so˥.d͡ʒɛ˨/",
+      "pron": "so1 je2",
+      "latinPron": "sójè",
+      "weqo": "so je2",
+      "num": "-"
+    },
+    {
+      "word": "乾果",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "ドライフルーツ。乾果。",
+              "tag": [],
+              "meaning": "果実を自然乾燥させた食べ物を全般的に指す名称。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/so˥.baon˨/",
+      "pron": "so1 baon2",
+      "latinPron": "sóbàon",
+      "weqo": "so bO2N",
+      "num": "-"
+    },
+    {
+      "word": "希",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "[S が O ということを] 望む。願う。請う。求める。希望する。志す。",
+              "tag": [],
+              "meaning": "自分の願いや要望を、それが実現するかは別として心の内で思い続けたり、他人に訴えかけたりする行為。特に神などに祈る行為には[祈]、他人に求める行為には[求]、文中で願いを表す際は助動詞[伴]なども用いられる。"
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "願望。夢。志。希望。志望。",
+              "tag": [
+                "文"
+              ],
+              "meaning": "自分がいつか実現させたいと思っている物事。日用語としては[希道]が多く用いられる。"
+            },
+            {
+              "translate": "希の月。月齢十三。",
+              "tag": [],
+              "meaning": "淑月齢（[二十八顔]）の十三番目で、方角では南西に相当する。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɯal˥˧/",
+      "pron": "yual3",
+      "latinPron": "yûal",
+      "weqo": "yA3L",
+      "num": "665"
+    },
+    {
+      "word": "希道",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "願望。夢。志。希望。志望。",
+              "tag": [],
+              "meaning": "自分がいつか実現させたいと心に思っている物事。より短期的で具体的な意志や要望には[求定]を使うことが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/jɯal˥˧.gim˥/",
+      "pron": "yual3 gim1",
+      "latinPron": "yûalgím",
+      "weqo": "yA3L giM",
+      "num": "-"
+    },
+    {
+      "word": "求定",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "[S が O を] 要望する。希望する。指定する。注文する。要求する。",
+              "tag": [],
+              "meaning": "いくつかの選択肢や範囲の中から、特定の物を指し定める行為。「座席を指定する」や「食事を注文する」などの行為がこれに相当する。"
+            }
+          ]
+        },
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "要望。希望。指定。注文。",
+              "tag": []
+            },
+            {
+              "translate": "条件。要件。前提。必要事項。必須条件。",
+              "tag": [],
+              "meaning": "ある物事が成立するために必要な事項。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βao˥.lɯa˥˧/",
+      "pron": "vao1 lua3",
+      "latinPron": "váo'lûa",
+      "weqo": "vO lA3",
+      "num": "-"
+    },
+    {
+      "word": "嵌",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "[S が O に] 嵌まる。はまり込む。差し込まれる。合う。フィットする。収まる。",
+              "tag": [],
+              "hidden": "嵌める。はめる。差し込む。挿入する。差す。"
+            },
+            {
+              "translate": "[S が O に] 適している。ふさわしい。適切である。当てはまる。適合する。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/βɯn˨/",
+      "pron": "vun2",
+      "latinPron": "vùn",
+      "weqo": "vu2N",
+      "num": "666"
+    },
+    {
+      "word": "入嵌",
+      "mean": [
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "[S が O を 行 に] 差し込む。挿入する。入れる。差す。はめる。",
+              "tag": [],
+              "meaning": "[嵌]とほぼ同義だが、項と前置詞の取り方は[入]と同じで、[嵌]のそれとは全く異なることに注意。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒɯom˥.βɯn˨/",
+      "pron": "juom1 vun2",
+      "latinPron": "júomvùn",
+      "weqo": "jUM vu2N",
+      "num": "-"
+    },
+    {
+      "word": "鰻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "鰻。ウナギ。アナゴ。ハモ。ウツボ。",
+              "tag": [],
+              "meaning": "現界のウナギに類似した、細長い体を持ち食用となるある種の魚類と、それに見た目が似ている幾つかの種。この字単体で用いられた時には、特に前者を指すことが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/dɯaŋ˨/",
+      "pron": "duang2",
+      "latinPron": "dùang",
+      "weqo": "dA2G",
+      "num": "667"
+    },
+    {
+      "word": "川鰻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "鰻。ウナギ。",
+              "tag": [],
+              "meaning": "現界のウナギに似た細長い淡水魚で、食用になる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/hɯo˨˦.dɯaŋ˨/",
+      "pron": "huo2 duang2",
+      "latinPron": "hùodùang",
+      "weqo": "hU2 dA2G",
+      "num": "-"
+    },
+    {
+      "word": "沙鰻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "アナゴ。穴子。鰻。ハモ。ウツボ。",
+              "tag": [],
+              "meaning": "現界の穴子や鱧に似た海水魚で、海底近くやその砂の下に生息する。食用になる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ɸɯm˥.dɯaŋ˨/",
+      "pron": "fum1 duang2",
+      "latinPron": "fúmdùang",
+      "weqo": "fuM dA2G",
+      "num": "-"
+    },
+    {
+      "word": "彩鰻",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "オーロラ。極光。赤気。",
+              "tag": [
+                "文"
+              ],
+              "meaning": "オーロラ（[北曙]）の古名。現代でも文章表現として時折用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "語源に関しては様々な説があり、北方の神話由来であるとする説や、音写による借用語であるとする説などがあるが、結局のところ語源は未詳である。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "ipa": "/gɯo˥˧.dɯaŋ˨/",
+      "pron": "guo3 duang2",
+      "latinPron": "gûodùang",
+      "weqo": "gU3 dA2G",
+      "num": "-"
+    },
+    {
+      "word": "北曙",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "オーロラ。極光。北極光。赤気。",
+              "tag": [],
+              "meaning": "太陽風（灼陽風）が高層の大気中の分子と衝突することで、大気が赤や緑に発光する現象。特に南極圏で見られるものは[南曙]と呼ばれることもあるが、纏めて[北曙]とされることも多い。他に、古名として[彩鰻]がある。"
+            }
+          ]
+        }
+      ],
+      "append": [
+        {
+          "type": "世界観",
+          "explanation": [
+            {
+              "translate": "雰国内では、主に西北部の高緯度地域でオーロラを綺麗に観察することができる。",
+              "tag": []
+            }
+          ]
+        }
+      ],
+      "ipa": "/pon˨.zas˥˧/",
+      "pron": "pon2 zas3",
+      "latinPron": "pònzâs",
+      "weqo": "po2N za3S",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "南曙",
+            "彩鰻"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "南曙",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "オーロラ。南極光。極光。",
+              "tag": [],
+              "meaning": "オーロラ（[北曙]）のうち南極圏で見られるものが、特にこう呼ばれることがある。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/d͡ʒiŋ˥˧.zas˥˧/",
+      "pron": "jing3 zas3",
+      "latinPron": "jîngzâs",
+      "weqo": "ji3G za3S",
+      "num": "-",
+      "link": [
+        {
+          "type": "類語",
+          "explanation": [
+            "北曙*"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "労",
+      "mean": [
+        {
+          "type": "不及動詞",
+          "explanation": [
+            {
+              "translate": "努力する。尽力する。力を尽くす。苦労する。",
+              "tag": [],
+              "meaning": "身体的・精神的に力を使って努力する行為。望んだ結果が得られるかどうかは含意しない。"
+            }
+          ]
+        },
+        {
+          "type": "及動詞",
+          "explanation": [
+            {
+              "translate": "[S が O （金銭や時間）を] 費やす。かける。投じる。注ぎ込む。消費する。",
+              "tag": [],
+              "meaning": "ある目的のために、貴重な資源を投じる行為。特に持っている全ての資源を使い切ることを指すことが多い。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/po˨/",
+      "pron": "po2",
+      "latinPron": "pò",
+      "weqo": "po2",
+      "num": "668"
+    },
+    {
+      "word": "乾労",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "徒労。無駄。骨折り損。無駄な努力。苦労。",
+              "tag": [],
+              "meaning": "掛けた時間や金銭に対して思うような結果が得られない努力。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/so˥.po˨/",
+      "pron": "so1 po2",
+      "latinPron": "sópò",
+      "weqo": "so po2",
+      "num": "-"
+    },
+    {
+      "word": "蝦",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "エビ。海老。シュリンプ。シャコ。",
+              "tag": [],
+              "meaning": "体を殻に覆われ、長い腹部を持つ水棲の甲殻類。食用になる。日用語としては[蝦魚]が多く用いられる。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯaŋ˥˧/",
+      "pron": "kuang3",
+      "latinPron": "kûang",
+      "weqo": "kA3G",
+      "num": "669"
+    },
+    {
+      "word": "蝦魚",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "エビ。海老。シュリンプ。シャコ。",
+              "tag": [],
+              "meaning": "[蝦]とほぼ同義。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/kɯaŋ˥˧.bi˨/",
+      "pron": "kuang3 bi2",
+      "latinPron": "kûangbì",
+      "weqo": "kA3G bi2",
+      "num": "-"
+    },
+    {
+      "word": "柳",
+      "mean": [
+        {
+          "type": "名詞",
+          "explanation": [
+            {
+              "translate": "柳。ヤナギ。",
+              "tag": [],
+              "meaning": "現界のシダレヤナギに似て、主に水辺で生育し、細長く垂れ下がる葉が特徴的な樹木。"
+            }
+          ]
+        }
+      ],
+      "append": [],
+      "ipa": "/ʃail˥/",
+      "pron": "xail1",
+      "latinPron": "xáil",
+      "weqo": "xEL",
+      "num": "670"
     }
   ]
 }

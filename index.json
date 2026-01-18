@@ -438,7 +438,7 @@
       "vote_approve.png"
     ],
     "title": "投票 (承認)",
-    "desc": "棄権を表す投票用絵文字。"
+    "desc": "承認を表す投票用絵文字。"
   },
   {
     "path": "img/vote_bad.png",
